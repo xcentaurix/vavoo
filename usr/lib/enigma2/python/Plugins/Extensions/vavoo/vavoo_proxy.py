@@ -113,43 +113,318 @@ class ThreadedHTTPServer(ThreadingMixIn, HTTPServer):
 
 # ========== CONFIGURATIONS ==========
 
+
 """
-VAVOO PROXY ENDPOINTS (PROXY_HOST:{PORT})
-1. /status - Proxy status
-   URL: http://127.0.0.1:{PORT}/status
-   Description: Returns the current status of the proxy, including initialization, number of channels, addonSig validity, local IP and port.
+====================================================================
+VAVOO PROXY API HELP
+====================================================================
 
-2. /channels?country=CountryName - Get channels for a country
-   URL: http://127.0.0.1:{PORT}/channels?country=Italy
-   Description: Returns the list of channels for the specified country. Country names must be URL-encoded.
+Proxy Base URL:
+    http://127.0.0.1:4323
 
-3. /vavoo?channel=ChannelID - Resolve a channel by ID
-   URL: http://127.0.0.1:{PORT}/vavoo?channel=abc123
-   Description: Returns a 302 redirect to the stream URL for the given channel ID. This is the primary endpoint for playback.
+All endpoints are accessible locally from:
+    - Enigma2
+    - wget
+    - curl
+    - VLC
+    - ffplay
+    - IPTV players
 
-4. /catalog - Full catalog
-   URL: http://127.0.0.1:{PORT}/catalog
-   Description: Returns the entire channel catalog in JSON format (all channels with proxy URLs).
+====================================================================
+1. /status - Proxy Status
+====================================================================
 
-5. /countries - List all countries
-   URL: http://127.0.0.1:{PORT}/countries
-   Description: Returns a list of all unique countries available in the catalog.
+URL:
+    http://127.0.0.1:4323/status
 
-6. /refresh_token - Refresh addonSig token
-   URL: http://127.0.0.1:{PORT}/refresh_token
-   Description: Forces a refresh of the authentication token (addonSig).
+Description:
+    Returns current proxy runtime status.
 
-7. /health - Monitors proxy
-   URL: http://127.0.0.1:{PORT}/health
-   Description: Monitors proxy health and restarts it if necessary.
+Includes:
+    - proxy initialization state
+    - loaded channels count
+    - addonSig validity
+    - addonSig age
+    - local IP address
+    - listening port
 
-8. /shutdown - Shutdown proxy
-   URL: http://127.0.0.1:{PORT}/shutdown
-   Description: Gracefully shuts down the proxy server.
+Example:
+    wget -qO- http://127.0.0.1:4323/status
 
-9. /epg/<country>.xml - Get EPG for a specific country
-    URL: http://127.0.0.1:{PORT}/epg/it.xml
-    Description: Returns the EPG data in XMLTV format for the specified country (e.g., it, fr, de). The request is redirected to the corresponding file on GitHub.
+Example Response:
+{
+    "initialized": true,
+    "channels_count": 1250,
+    "addon_sig_valid": true,
+    "addon_sig_age": 42,
+    "local_ip": "192.168.1.10",
+    "port": 4323
+}
+
+
+====================================================================
+2. /health - Health Check
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/health
+
+Description:
+    Returns detailed health and monitoring information.
+
+Includes:
+    - overall health status
+    - token validity
+    - token TTL
+    - uptime
+    - heartbeat age
+    - local IP
+    - listening port
+
+Important:
+    This endpoint is READ-ONLY.
+    It does NOT restart or refresh the proxy.
+
+Example:
+    wget -qO- http://127.0.0.1:4323/health
+
+
+====================================================================
+3. /countries - Available Countries
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/countries
+
+Description:
+    Returns all unique countries available in the catalog.
+
+Excluded:
+    - empty country names
+    - "default"
+
+Example:
+    wget -qO- http://127.0.0.1:4323/countries
+
+Example Response:
+[
+    "France",
+    "Germany",
+    "Italy",
+    "Spain"
+]
+
+
+====================================================================
+4. /channels?country=CountryName - Channels By Country
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/channels?country=Italy
+
+Description:
+    Returns all channels matching the specified country.
+
+Each channel contains:
+    - id
+    - name
+    - logo
+    - country
+    - local playback URL
+
+Notes:
+    - country matching is case-insensitive
+    - country names should be URL encoded
+
+Example:
+    wget -qO- "http://127.0.0.1:4323/channels?country=Italy"
+
+Example Response:
+[
+    {
+        "id": "abc123",
+        "name": "RAI 1",
+        "url": "http://192.168.1.10:4323/vavoo?channel=abc123",
+        "logo": "https://logo.png",
+        "country": "Italy"
+    }
+]
+
+
+====================================================================
+5. /catalog - Full Catalog
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/catalog
+
+Description:
+    Returns the complete filtered catalog currently loaded
+    in memory.
+
+Contains:
+    - all channels
+    - metadata
+    - original stream information
+
+Example:
+    wget -qO- http://127.0.0.1:4323/catalog
+
+
+====================================================================
+6. /vavoo?channel=ChannelID - Stream Redirect
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/vavoo?channel=abc123
+
+Description:
+    Resolves the upstream stream URL and immediately returns
+    a HTTP 302 redirect.
+
+Optimized for:
+    - Enigma2 IPTV bouquets
+    - VLC
+    - ffplay
+    - gstplayer
+    - exteplayer3
+    - serviceapp
+
+Behavior:
+    Client receives direct upstream stream URL.
+
+Example:
+    wget -S -O /dev/null "http://127.0.0.1:4323/vavoo?channel=abc123"
+
+Expected Response:
+    HTTP/1.1 302 Found
+
+
+====================================================================
+7. /stream?ref=ServiceReference - Direct Stream Proxy
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/stream?ref=1%3A0%3A1%3A...
+
+Description:
+    Streams MPEG-TS content directly through the proxy
+    instead of redirecting the client.
+
+Features:
+    - upstream buffering
+    - keep-alive
+    - timeout monitoring
+    - chunked streaming
+    - disabled caching
+
+Workflow:
+    1. Decode service reference
+    2. Map reference to channel ID
+    3. Resolve upstream stream
+    4. Proxy TS stream to client
+
+Recommended for:
+    - Enigma2 service references
+    - local TS proxying
+    - IPTV middleware
+    - transcoding pipelines
+
+Example:
+    ffplay "http://127.0.0.1:4323/stream?ref=1%3A0%3A1%3A..."
+
+
+====================================================================
+8. /refresh_token - Refresh addonSig
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/refresh_token
+
+Description:
+    Forces addonSig token refresh.
+
+Returns:
+    - success
+    - error
+
+Example:
+    wget -qO- http://127.0.0.1:4323/refresh_token
+
+Example Response:
+{
+    "status": "success",
+    "message": "Token refreshed"
+}
+
+
+====================================================================
+9. /epg/<country>.xml - EPG Redirect
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/epg/it.xml
+
+Description:
+    Redirects to XMLTV EPG file hosted on GitHub.
+
+Examples:
+    /epg/it.xml
+    /epg/fr.xml
+    /epg/de.xml
+
+Response:
+    HTTP 302 Redirect
+
+Example:
+    wget -O epg.xml "http://127.0.0.1:4323/epg/it.xml"
+
+
+====================================================================
+10. /shutdown - Graceful Shutdown
+====================================================================
+
+URL:
+    http://127.0.0.1:4323/shutdown
+
+Description:
+    Gracefully shuts down the proxy server.
+
+Behavior:
+    - stops HTTP server
+    - closes sockets
+    - stops proxy threads
+    - sets global stop event
+
+Example:
+    wget -qO- http://127.0.0.1:4323/shutdown
+
+
+====================================================================
+USEFUL ENIGMA2 TEST COMMANDS
+====================================================================
+
+Check proxy status:
+    wget -qO- http://127.0.0.1:4323/status
+
+Check health:
+    wget -qO- http://127.0.0.1:4323/health
+
+List countries:
+    wget -qO- http://127.0.0.1:4323/countries
+
+Get Italy channels:
+    wget -qO- "http://127.0.0.1:4323/channels?country=Italy"
+
+Check redirect:
+    wget -S -O /dev/null "http://127.0.0.1:4323/vavoo?channel=abc123"
+
+Check listening port:
+    netstat -lntp | grep 4323
+
+or:
+    ss -lntp | grep 4323
+====================================================================
 """
 
 # API Endpoints
@@ -1535,18 +1810,18 @@ def is_proxy_port_listening():
     return result == 0
 
 
-def run_proxy_in_background():
+def run_proxy_in_background(startup_timeout=30):
+
     global _starting
 
-    # Wait up to 15 seconds if another proxy is still booting
     if is_proxy_booting():
-        print("[Proxy] Another proxy is booting, waiting up to 15 seconds...")
-        for xs in range(30):  # 30 * 0.5 = 15 seconds
+        print("[Proxy] Another proxy is booting, waiting up to {} seconds...".format(startup_timeout))
+        max_attempts = startup_timeout * 2
+        for attempt in range(max_attempts):
             if not is_proxy_booting() and is_proxy_port_listening():
                 print("[Proxy] Proxy boot completed, instance is running")
                 return True
             select.select([], [], [], 0.5)
-        print("[Proxy] Boot file still present after timeout, will attempt to start")
 
     # Final check: if already active and listening, exit
     if is_proxy_running() and is_proxy_port_listening():

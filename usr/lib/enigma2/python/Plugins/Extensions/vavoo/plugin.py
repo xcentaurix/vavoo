@@ -472,6 +472,7 @@ cfg.list_position = ConfigSelection(
     choices=[("bottom", _("Bottom")), ("top", _("Top"))]
 )
 cfg.search_text = ConfigSearchText(default="")
+cfg.proxy_startup_timeout = ConfigSelectionNumber(default=30, min=15, max=120, stepwidth=5)
 
 
 def normalize_language_code(language):
@@ -683,7 +684,8 @@ def keep_proxy_alive():
                     print(
                         "[Proxy Monitor] Proxy not running, attempting to restart...")
 
-                    run_proxy_in_background()
+                    timeout = cfg.proxy_startup_timeout.value
+                    run_proxy_in_background(startup_timeout=timeout)
                 elif not is_proxy_ready():
                     print("[Proxy Monitor] Proxy running but not ready")
                 # else: proxy is running and ready
@@ -768,7 +770,10 @@ class vavoo_config(Screen, ConfigListScreen):
                 _("Enable or disable proxy.")
             )
         )
-
+        self.list.append(getConfigListEntry(
+            _("Proxy startup timeout (seconds)"),
+            cfg.proxy_startup_timeout,
+            _("Increase if proxy takes long due to VPN or slow connection.")))
         self.list.append(
             getConfigListEntry(
                 _("Default View"),
@@ -1379,9 +1384,10 @@ class vavoo_config(Screen, ConfigListScreen):
             for x in self["config"].list:
                 x[1].save()
 
+            timeout = cfg.proxy_startup_timeout.value
             if self.old_proxy_enabled != cfg.proxy_enabled.value:
                 if cfg.proxy_enabled.value:
-                    run_proxy_in_background()
+                    run_proxy_in_background(startup_timeout=timeout)
                     # Schedule a non‑blocking status check after 1 second
                     reactor.callLater(1, self._check_proxy_started)
                 else:
@@ -1390,7 +1396,7 @@ class vavoo_config(Screen, ConfigListScreen):
 
             # Manage EPG source
             if cfg.epg_enabled.value and not is_proxy_running():
-                run_proxy_in_background()
+                run_proxy_in_background(startup_timeout=timeout)
                 # No sleep here – the proxy will become ready asynchronously
 
             # If auto‑update is enabled, schedule the EPG update
@@ -1855,7 +1861,8 @@ class MainVavoo(Screen):
                 self['proxy_status'].setText(_(" Restarting..."))
 
                 # Try restart
-                success = run_proxy_in_background()
+                timeout = cfg.proxy_startup_timeout.value
+                success = run_proxy_in_background(startup_timeout=timeout)
 
                 if success:
                     print("[Watchdog] Proxy restarted successfully")
@@ -1995,15 +2002,17 @@ class MainVavoo(Screen):
             return True
 
         print("[MainVavoo] Starting proxy...")
-        success = run_proxy_in_background()
+        timeout = cfg.proxy_startup_timeout.value
+        success = run_proxy_in_background(startup_timeout=timeout)
         if success:
             self._wait_for_proxy()
         return success
 
     def _wait_for_proxy(self, attempts=0):
-        """Wait non-blockingly until the proxy is ready"""
-        if attempts > 30:  # 30 * 0.5 = 15 seconds
-            print("[MainVavoo] Proxy not ready after timeout")
+        timeout_secs = cfg.proxy_startup_timeout.value
+        max_attempts = timeout_secs * 2   # ogni 0.5 sec
+        if attempts > max_attempts:
+            print("[MainVavoo] Proxy not ready after {} seconds".format(timeout_secs))
             return
         if is_proxy_ready(timeout=0.5):
             print("[MainVavoo] Proxy ready")
@@ -2059,7 +2068,8 @@ class MainVavoo(Screen):
 
     def _do_restart_proxy(self):
         """Actually start the proxy after the delay."""
-        run_proxy_in_background()
+        timeout = cfg.proxy_startup_timeout.value
+        run_proxy_in_background(startup_timeout=timeout)
 
     def cat(self):
         if not cfg.proxy_enabled.value:
@@ -3095,7 +3105,8 @@ class vavoo(Screen):
         return False
 
     def _restart_proxy_and_reload(self):
-        run_proxy_in_background()
+        timeout = cfg.proxy_startup_timeout.value
+        run_proxy_in_background(startup_timeout=timeout)
         # Reload channel list after 3 seconds (enough for proxy to start)
         reactor.callLater(3, self.cat)
 
@@ -3118,8 +3129,8 @@ class vavoo(Screen):
         """Callback for proxy restart"""
         if result:
             print("[vavoo] User requested proxy restart")
-            run_proxy_in_background()
-
+            timeout = cfg.proxy_startup_timeout.value
+            run_proxy_in_background(startup_timeout=timeout)
             # Wait and retry
             self.session.open(
                 MessageBox,
@@ -3143,7 +3154,8 @@ class vavoo(Screen):
             return True
 
         print("[MainVavoo] Starting proxy...")
-        success = run_proxy_in_background()
+        timeout = cfg.proxy_startup_timeout.value
+        success = run_proxy_in_background(startup_timeout=timeout)
         if success:
             for i in range(10):
                 if is_proxy_ready(timeout=1):
@@ -4803,7 +4815,8 @@ def delayed_boot_tasks():
                 return
             if not is_proxy_running():
                 print("[Vavoo] Starting proxy at boot...")
-                run_proxy_in_background()
+                timeout = cfg.proxy_startup_timeout.value
+                run_proxy_in_background(startup_timeout=timeout)
             else:
                 print("[Vavoo] Proxy already running at boot")
 

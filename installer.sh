@@ -1,7 +1,8 @@
 #!/bin/bash
 
-version='1.70'
+version='1.71'
 changelog="
+- add in config timeout proxy
 - fix loop proxy start
 - code lint
 - epg fixed : utc time
