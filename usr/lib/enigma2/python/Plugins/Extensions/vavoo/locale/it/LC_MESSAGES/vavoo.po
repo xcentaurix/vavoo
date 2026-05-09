@@ -81,7 +81,7 @@ msgid "- Streams from public sources"
 msgstr "-- Flussi da fonti pubbliche"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Formati TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr "- Supporto tecnico: Qu4k3, @KiddaC, @giorbak"
@@ -327,7 +327,7 @@ msgid "Important Notes:"
 msgstr "Note importanti:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Aumentare se il proxy impiega molto tempo a causa della VPN o della connessione lenta."
 
 msgid "Keyboard"
 msgstr "Tastiera"
@@ -435,7 +435,7 @@ msgid "Proxy restarting... Please wait"
 msgstr "Riavvio del proxy... Attendi"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Timeout di avvio proxy (secondi)"
 
 msgid "Proxy token refreshed successfully"
 msgstr "Token proxy aggiornato correttamente"
