@@ -13,7 +13,6 @@ from os.path import exists as file_exists, isfile, join, basename
 from re import compile, search
 from enigma import eTimer
 from Components.config import config
-from Tools.Directories import SCOPE_PLUGINS, resolveFilename
 
 from .vUtils import (
     decodeHtml,
