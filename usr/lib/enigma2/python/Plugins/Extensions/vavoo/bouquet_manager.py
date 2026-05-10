@@ -35,10 +35,6 @@ from .vUtils import (
 )
 from .vavoo_proxy import run_proxy_in_background
 from . import (
-    # CACHE_FILE,
-    # UNMATCHED_FILE,
-    # SREF_MAP_FILE,
-    # export_lock,
     PY3,
     PORT,
     PLUGIN_ROOT,
@@ -54,7 +50,7 @@ from . import (
 #  Created by Lululla (https://github.com/Belfagor2005) #
 #  License: CC BY-NC-SA 4.0                             #
 #  https://creativecommons.org/licenses/by-nc-sa/4.0    #
-#  Last Modified: 20260315                              #
+#  Last Modified: 20260501                              #
 #                                                       #
 #  Credits:                                             #
 #  - Original concept by Lululla                        #
@@ -77,24 +73,23 @@ except ImportError:
     from urllib import unquote, quote
 
 
-# Constants
-PLUGIN_PATH = PLUGIN_ROOT
-PLUGIN_PATH = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('vavoo'))
-
 # Disable SSL warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def get_local_ip():
-    """Get the local IP address"""
+    """Get the local IP address (2s timeout to avoid blocking on restricted networks)."""
     try:
         import socket
         s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        s.connect(("8.8.8.8", 80))
-        ip = s.getsockname()[0]
-        s.close()
+        s.settimeout(2)
+        try:
+            s.connect(("8.8.8.8", 80))
+            ip = s.getsockname()[0]
+        finally:
+            s.close()
         return ip
-    except BaseException:
+    except Exception:
         return PROXY_HOST
 
 
@@ -1537,7 +1532,7 @@ def _create_category_bouquet(
 def _update_favorite_file(name, url, export_type):
     """Update Favorite.txt - URL is always empty (proxy only)"""
 
-    favorite_path = join(PLUGIN_PATH, 'Favorite.txt')
+    favorite_path = join(PLUGIN_ROOT, 'Favorite.txt')
     print("[Bouquet] Updating Favorite.txt: " +
           name + " (type: " + export_type + ")")
 

@@ -12,6 +12,7 @@ import select
 import urllib3
 import atexit
 import os
+from collections import OrderedDict
 from json import loads, load, dumps
 
 from . import (
@@ -28,6 +29,7 @@ from . import (
 from .vUtils import (
     _starting_lock,
     is_proxy_running,
+    log_exception,
     make_print,
     trace_error,
     RequestAgent
@@ -61,7 +63,7 @@ except NameError:  # Python 2
 
 # Global stop flag used for clean shutdown (prevents restart loop)
 STOP_EVENT = threading.Event()
-socket.setdefaulttimeout(30)
+# socket.setdefaulttimeout(30)
 
 try:
     from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
@@ -442,7 +444,7 @@ HEADERS = {
     "accept": "*/*",
     "user-agent": RequestAgent(),
     "Accept-Encoding": "gzip, deflate",
-    "Connection": "close",
+    # "Connection": "close",
 }
 
 
@@ -462,10 +464,20 @@ def remove_booting_file():
 
 
 def decode_response(resp):
-    """Decode gzip response if needed"""
+    """Decode gzip response if needed (Py2/3 compatible)."""
     if resp.content[:2] == b'\x1f\x8b':
-        return loads(gzip.decompress(resp.content))
-    return resp.json()
+        # gzip.decompress is Py3.2+ only; use GzipFile for Py2 compat
+        try:
+            raw = gzip.decompress(resp.content)
+        except AttributeError:
+            import io as _io
+            with gzip.GzipFile(fileobj=_io.BytesIO(resp.content)) as gz:
+                raw = gz.read()
+        return loads(raw.decode('utf-8', 'ignore'))
+    try:
+        return resp.json()
+    except ValueError:
+        return loads(resp.content.decode('utf-8', 'ignore'))
 
 
 def is_proxy_already_running():
@@ -476,9 +488,11 @@ def is_proxy_already_running():
             # Check if process exists
             os.kill(pid, 0)
             return True
-    except (IOError, OSError, ProcessLookupError, ValueError):
+    except (IOError, OSError, ValueError):
         return False
-    return False
+    except Exception:
+        log_exception("is_proxy_already_running error", area="PROXY")
+        return False
 
 
 def write_pid_file():
@@ -536,9 +550,14 @@ class ProxyHealthMonitor:
             try:
                 self._check_proxy_health()
                 self.stop_event.wait(60)
-            except Exception as e:
-                print("[Health Monitor] Error: " + str(e))
-                # time.sleep(30)
+            except Exception:
+                log_exception(
+                    "[Health Monitor] Unexpected error",
+                    area="PROXY")
+            except Exception:
+                log_exception(
+                    "[Health Monitor] Unexpected error",
+                    area="PROXY")
 
     def _check_proxy_health(self):
         """Check proxy health status"""
@@ -554,7 +573,7 @@ class ProxyHealthMonitor:
                 token_age = data.get("token", {}).get("age", 0)
                 # needs_refresh = data.get("needs_refresh", False)
 
-                if token_age > 550:  # > 9 minutes (almost expired)
+                if token_age > TOKEN_REFRESH_AGE:  # aligned with token_monitor_loop threshold
                     print(
                         "[Health Monitor] Old token (" +
                         str(token_age) +
@@ -668,8 +687,9 @@ class VavooProxy:
         self.last_heartbeat = time.time()
         self.local_ip = None
         self.refresh_timer = None
+        self.resolve_cache = OrderedDict()
         self.resolve_cache = {}
-        self.resolve_cache_ttl = 30
+        self.resolve_cache_ttl = 300
         self.server = None
         self.start_time = time.time()
 
@@ -687,17 +707,17 @@ class VavooProxy:
         print(" Initialized at " + time.ctime())
 
     def stream_started(self):
-        self.active_streams += 1
-        print(
-            "[Proxy] Stream started. Active streams: {}".format(
-                self.active_streams))
+        with self._stream_lock:
+            self.active_streams += 1
+            count = self.active_streams
+        print("[Proxy] Stream started. Active streams: {}".format(count))
 
     def stream_ended(self):
-        if self.active_streams > 0:
-            self.active_streams -= 1
-        print(
-            "[Proxy] Stream ended. Active streams: {}".format(
-                self.active_streams))
+        with self._stream_lock:
+            if self.active_streams > 0:
+                self.active_streams -= 1
+            count = self.active_streams
+        print("[Proxy] Stream ended. Active streams: {}".format(count))
 
     def _update_endpoints(self):
         """Update API endpoints from the current base site."""
@@ -768,8 +788,8 @@ class VavooProxy:
                     select.select([], [], [], 60)
                 try:
                     now = time.time()
-                    token_age = now - \
-                        self.addon_sig_data["ts"] if self.addon_sig_data["sig"] else 0
+                    token_age = (now - self.addon_sig_data["ts"]
+                                 if self.addon_sig_data["sig"] else 0)
                     if self.addon_sig_data["sig"] and token_age > TOKEN_REFRESH_AGE:
                         print(
                             "[Token Monitor] Token old ({}s), refreshing...".format(
@@ -778,6 +798,16 @@ class VavooProxy:
                     self.last_heartbeat = now
                 except Exception as e:
                     print("[Token Monitor] Error: " + str(e))
+
+                # Sleep interval:
+                #  - Streaming active → check every 30s (token must not expire mid-stream)
+                #  - Idle            → check every 60s
+                with self._stream_lock:
+                    streaming = self.active_streams > 0
+                if streaming:
+                    self._stop_event.wait(30)
+                else:
+                    self._stop_event.wait(60)
 
         self._token_monitor_thread = threading.Thread(
             target=token_monitor_loop)
@@ -947,7 +977,7 @@ class VavooProxy:
                 "accept": "*/*",
                 "Accept-Language": self.current_language,
                 "Accept-Encoding": "gzip, deflate",
-                "Connection": "close",
+                # "Connection": "close",
             }
 
             all_channels = []
