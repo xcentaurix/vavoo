@@ -1,39 +1,24 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import os
-import re
-import subprocess
-from xml.etree import ElementTree as ET
 """
 ###########################################################
-Plugin for Enigma2
+vavoo for Enigma2
 Created by: Lululla
 ###########################################################
-Last Updated: 2026-04-19
+Last Updated: 2025-12-26
 Credits: Lululla (modifications)
 Homepage: www.corvoboys.org
           www.linuxsat-support.com
 ###########################################################
 """
+import os
+import re
+import subprocess
+from xml.etree import ElementTree as ET
 
+PLUGIN_NAME = "vavoo"
 PLUGIN_DIR = os.path.dirname(os.path.abspath(__file__))
-PLUGIN_NAME = os.path.basename(PLUGIN_DIR)
-LOCALE_DIR = os.path.join(PLUGIN_DIR, "res", "locale")
-
-
-def get_locale_dir(plugin_dir):
-    candidates = [
-        os.path.join(plugin_dir, "locale"),         # es. /plugin/locale
-        os.path.join(plugin_dir, "res", "locale")   # es. /plugin/res/locale
-    ]
-    for candidate in candidates:
-        if os.path.exists(candidate):
-            return candidate
-    # default: verrà creata successivamente
-    return os.path.join(plugin_dir, "locale")
-
-
-LOCALE_DIR = get_locale_dir(PLUGIN_DIR)
+LOCALE_DIR = os.path.join(PLUGIN_DIR, "locale")
 POT_FILE = os.path.join(LOCALE_DIR, "{}.pot".format(PLUGIN_NAME))
 
 
@@ -374,8 +359,8 @@ def update_pot_file(xml_strings, py_strings):
 
             # Write all strings
             for msgid in all_strings:
-                # f.write('\n')
-                f.write('\nmsgid "{}"\n'.format(msgid))  # Fix empty line
+                f.write('\n')
+                f.write('msgid "{}"\n'.format(msgid))
                 f.write(
                     'msgstr "{}"\n'.format(
                         existing_translations.get(

@@ -35,8 +35,13 @@ from .vUtils import (
 )
 from .vavoo_proxy import run_proxy_in_background
 from . import (
+    # CACHE_FILE,
+    # UNMATCHED_FILE,
+    # SREF_MAP_FILE,
+    # export_lock,
     PY3,
     PORT,
+    PLUGIN_ROOT,
     PROXY_HOST,
     ENIGMA_PATH,
     country_codes
@@ -49,7 +54,7 @@ from . import (
 #  Created by Lululla (https://github.com/Belfagor2005) #
 #  License: CC BY-NC-SA 4.0                             #
 #  https://creativecommons.org/licenses/by-nc-sa/4.0    #
-#  Last Modified: 20260501                              #
+#  Last Modified: 20260315                              #
 #                                                       #
 #  Credits:                                             #
 #  - Original concept by Lululla                        #
@@ -73,6 +78,7 @@ except ImportError:
 
 
 # Constants
+PLUGIN_PATH = PLUGIN_ROOT
 PLUGIN_PATH = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('vavoo'))
 
 # Disable SSL warnings
@@ -80,18 +86,15 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def get_local_ip():
-    """Get the local IP address (2s timeout to avoid blocking on restricted networks)."""
+    """Get the local IP address"""
     try:
         import socket
         s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        s.settimeout(2)
-        try:
-            s.connect(("8.8.8.8", 80))
-            ip = s.getsockname()[0]
-        finally:
-            s.close()
+        s.connect(("8.8.8.8", 80))
+        ip = s.getsockname()[0]
+        s.close()
         return ip
-    except Exception:
+    except BaseException:
         return PROXY_HOST
 
 
