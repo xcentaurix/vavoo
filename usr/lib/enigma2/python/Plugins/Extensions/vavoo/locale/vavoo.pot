@@ -42,6 +42,9 @@
 
 
 
+
+
+
 msgid "! Proxy Expiring"
 msgstr ""
 
@@ -354,9 +357,6 @@ msgstr ""
 msgid "Important Notes:"
 msgstr ""
 
-msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
-
 msgid "Keyboard"
 msgstr ""
 
@@ -370,6 +370,9 @@ msgid "License: CC BY-NC-SA 4.0"
 msgstr ""
 
 msgid "Link in Main Menu"
+msgstr ""
+
+msgid "Loading..."
 msgstr ""
 
 msgid "Lower = less interruption but more refreshes"
@@ -460,9 +463,6 @@ msgid "Proxy not responding after"
 msgstr ""
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
-
-msgid "Proxy startup timeout (seconds)"
 msgstr ""
 
 msgid "Proxy token refreshed successfully"
@@ -643,9 +643,6 @@ msgid "✓ Proxy OK"
 msgstr ""
 
 msgid "✓ Restarted"
-msgstr ""
-
-msgid "✗ Error"
 msgstr ""
 
 msgid "✗ Proxy Error"
