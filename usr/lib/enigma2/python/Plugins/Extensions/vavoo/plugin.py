@@ -50,6 +50,7 @@ from Components.Label import Label
 from Components.MenuList import MenuList
 from Components.MultiContent import MultiContentEntryPixmapAlphaTest, MultiContentEntryText
 from Components.Pixmap import Pixmap
+from Components.ProgressBar import ProgressBar
 from Components.ServiceEventTracker import ServiceEventTracker, InfoBarBase
 from Components.config import (
     ConfigSelection,
@@ -771,15 +772,18 @@ class vavoo_config(Screen, ConfigListScreen):
                 _("Enable or disable proxy.")
             )
         )
-        self.list.append(getConfigListEntry(
-            _("Proxy startup timeout (seconds)"),
-            cfg.proxy_startup_timeout,
-            _("Increase if proxy takes long due to VPN or slow connection.")))
+
         self.list.append(
             getConfigListEntry(
                 _("Default View"),
                 cfg.default_view,
                 _("Default view when opening the plugin")))
+
+        self.list.append(getConfigListEntry(
+            _("Proxy startup timeout (seconds)"),
+            cfg.proxy_startup_timeout,
+            _("Increase if proxy takes long due to VPN or slow connection.")))
+
         help_text = _("Server for player.") + "\n" + \
             _("Now %s") % cfg.server.value
 
@@ -1385,10 +1389,9 @@ class vavoo_config(Screen, ConfigListScreen):
             for x in self["config"].list:
                 x[1].save()
 
-            timeout = cfg.proxy_startup_timeout.value
             if self.old_proxy_enabled != cfg.proxy_enabled.value:
                 if cfg.proxy_enabled.value:
-                    run_proxy_in_background(startup_timeout=timeout)
+                    run_proxy_in_background(startup_timeout=cfg.proxy_startup_timeout.value)
                     # Schedule a non‑blocking status check after 1 second
                     reactor.callLater(1, self._check_proxy_started)
                 else:
@@ -1397,7 +1400,7 @@ class vavoo_config(Screen, ConfigListScreen):
 
             # Manage EPG source
             if cfg.epg_enabled.value and not is_proxy_running():
-                run_proxy_in_background(startup_timeout=timeout)
+                run_proxy_in_background(startup_timeout=cfg.proxy_startup_timeout.value)
                 # No sleep here – the proxy will become ready asynchronously
 
             # If auto‑update is enabled, schedule the EPG update
@@ -1463,61 +1466,152 @@ class vavoo_config(Screen, ConfigListScreen):
 
 
 class startVavoo(Screen):
+    # ── animated splash configuration ────────────────────────────────────────
+    STATUS_STEPS = [
+        (0,   "Connecting to 127.0.0.1:4323 ..."),
+        (18,  "Loading channel catalog ..."),
+        (42,  "Authenticating Vavoo servers ..."),
+        (68,  "Renewing stream tokens ..."),
+        (86,  "EPG sync ready ..."),
+        (100, "Proxy online  \u2713"),
+    ]
+    TOTAL_MS = 2400   # total animation duration in ms
+    TICK_MS = 30     # timer interval in ms
+    HOLD_MS = 700    # pause at 100 % before closing
+
     def __init__(self, session):
-        self.session = session
+
         global _session, first
+        self.session = session
         _session = session
         first = True
         Screen.__init__(self, session)
         skin = join(skin_path, 'Plgnstrt.xml')
         with codecs.open(skin, "r", encoding="utf-8") as f:
             self.skin = f.read()
+
+        # existing widgets (kept for skin compatibility)
         self["poster"] = Pixmap()
         self["version"] = Label()
+
+        # new animated-splash widgets
+        self["title"] = Label("VAVOO STREAM LIVE")
+        self["subtitle"] = Label("ENIGMA2 PLUGIN")
+        self["progress_label"] = Label("INITIALIZING PROXY")
+        self["progress_pct"] = Label("0 %")
+        self["progress"] = ProgressBar()
+        self["status"] = Label(self.STATUS_STEPS[0][1])
+        self["author"] = Label("by Lululla")
+        self["skip_hint"] = Label("Press OK or EXIT to skip")
+
         self['actions'] = ActionMap(
             ['OkCancelActions'], {
                 'ok': self.clsgo, 'cancel': self.clsgo}, -1)
+
+        # animation state
+        self._pct = 0
+        self._msg_idx = 0
+        self._steps = max(1, int(self.TOTAL_MS / self.TICK_MS))
+        self._tick_no = 0
+
         self.onLayoutFinish.append(self.loadDefaultImage)
 
+    # ── image decode (DreamOS-compatible, unchanged logic) ────────────────────
     def decodeImage(self):
-        pixmapx = self.fldpng
-        if isfile(pixmapx):
-            size = self['poster'].instance.size()
-            self.picload = ePicLoad()
-            self.scale = AVSwitch().getFramebufferScale()
-            self.picload.setPara(
-                [size.width(), size.height(), self.scale[0], self.scale[1], 0, 1, '#00000000'])
+        try:
+            pixmapx = self.fldpng
+            if isfile(pixmapx):
+                size = self['poster'].instance.size()
+                self.picload = ePicLoad()
+                self.scale = AVSwitch().getFramebufferScale()
+                self.picload.setPara(
+                    [size.width(), size.height(),
+                     self.scale[0], self.scale[1], 0, 1, '#00000000'])
+                if isfile("/var/lib/dpkg/status"):
+                    self.picload.startDecode(pixmapx, False)
+                else:
+                    self.picload.startDecode(pixmapx, 0, 0, False)
+                ptr = self.picload.getData()
+                if ptr is not None:
+                    self['poster'].instance.setPixmap(ptr)
+                    self['poster'].show()
+        except Exception as e:
+            print("[startVavoo] decodeImage error: " + str(e))
+        try:
+            self["version"].setText(to_string("V." + __version__))
+        except Exception:
+            pass
 
-            if isfile("/var/lib/dpkg/status"):
-                self.picload.startDecode(pixmapx, False)
+    # ── smoothstep progress tick ──────────────────────────────────────────────
+    def _tick(self):
+        self._tick_no += 1
+        t = min(1.0, self._tick_no / float(self._steps))
+        smooth = t * t * (3.0 - 2.0 * t)          # ease-in-out curve
+        self._pct = int(round(smooth * 100))
+
+        try:
+            self["progress"].instance.setValue(self._pct)
+        except Exception:
+            pass
+        self["progress_pct"].setText("%d %%" % self._pct)
+
+        # advance status messages
+        while self._msg_idx < len(self.STATUS_STEPS):
+            threshold, msg = self.STATUS_STEPS[self._msg_idx]
+            if self._pct >= threshold:
+                self["status"].setText(msg)
+                self._msg_idx += 1
             else:
-                self.picload.startDecode(pixmapx, 0, 0, False)
-            ptr = self.picload.getData()
-            if ptr is not None:
-                self['poster'].instance.setPixmap(ptr)
-                self['poster'].show()
-                # self['version'].setText('V.' + __version__)
-        self["version"].setText(to_string("V." + __version__))
+                break
 
+        if self._pct >= 100:
+            self._anim_timer.stop()
+            self._hold_timer.start(self.HOLD_MS, True)   # single-shot hold
+
+    # ── timer setup (called once layout is ready) ─────────────────────────────
     def loadDefaultImage(self):
         self.fldpng = resolveFilename(
             SCOPE_PLUGINS,
             "Extensions/{}/skin/pics/presplash.png".format('vavoo'))
+
+        # image-decode timer (unchanged, fires once at 500 ms)
         self.timer = eTimer()
         if isfile('/var/lib/dpkg/status'):
             self.timer.timeout.connect(self.decodeImage)
         else:
             self.timer.callback.append(self.decodeImage)
         self.timer.start(500, True)
-        self.timerx = eTimer()
+
+        # animation tick timer (repeating, 30 ms interval)
+        try:
+            self["progress"].instance.setValue(0)
+        except Exception:
+            pass
+        self._anim_timer = eTimer()
         if isfile('/var/lib/dpkg/status'):
-            self.timerx.timeout.connect(self.clsgo)
+            self._anim_timer.timeout.connect(self._tick)
         else:
-            self.timerx.callback.append(self.clsgo)
-        self.timerx.start(2000, True)
+            self._anim_timer.callback.append(self._tick)
+        self._anim_timer.start(self.TICK_MS, False)
+
+        # hold timer – single-shot, started by _tick when progress hits 100 %
+        self._hold_timer = eTimer()
+        if isfile('/var/lib/dpkg/status'):
+            self._hold_timer.timeout.connect(self.clsgo)
+        else:
+            self._hold_timer.callback.append(self.clsgo)
 
     def clsgo(self):
         global first
+        # stop any running timers safely
+        try:
+            self._anim_timer.stop()
+        except Exception:
+            pass
+        try:
+            self._hold_timer.stop()
+        except Exception:
+            pass
         if first is True:
             first = False
             self.session.open(MainVavoo)
@@ -3423,7 +3517,10 @@ class vavoo(Screen):
             self.timer.stop()
             try:
                 if hasattr(self.timer, 'callback'):
-                    self.timer.callback.remove(self.cat)
+                    try:
+                        self.timer.callback.remove(self.cat)
+                    except ValueError:
+                        pass  # already removed or method identity changed
             except AttributeError:
                 pass
             try:
@@ -3816,7 +3913,7 @@ class TvInfoBarShowHide():
             self.hideTimer.timeout.connect(self.doTimerHide)
         except BaseException:
             self.hideTimer.callback.append(self.doTimerHide)
-        # self.hideTimer.start(30000, True)
+        # self.hideTimer.start(50000, True)
 
         self.onShow.append(self.__onShow)
         self.onHide.append(self.__onHide)
@@ -4086,9 +4183,9 @@ class Playstream2(
 
     def showIMDB(self):
         try:
-            epg_text = self.get_current_epg()
+            epg_text = self.get_current_epg() if cfg.epg_enabled.value else ""
             if epg_text and epg_text not in [
-                    "EPG not available", "No programme found"]:
+                    "EPG not available", "No programme found", ""]:
                 if " - " in epg_text:
                     title = epg_text.split(" - ")[0].strip()
                     if " " in title and title[2] == ":":
@@ -4434,14 +4531,6 @@ class Playstream2(
                 else:
                     result = "No programme found"
 
-                # # Cache the result
-                # self._epg_cache[cache_key] = (time.time(), result)
-
-                # # Log total time
-                # elapsed = time.time() - start_time
-                # if elapsed > 0.2:
-                    # print("[EPG] Total time for {}: {:.3f}s".format(clean_name, elapsed))
-
                 # Cache the result
                 self._epg_cache[cache_key] = (time.time(), result)
                 return result
@@ -4590,7 +4679,7 @@ class Playstream2(
         try:
             for screen in self.session.dialog_stack:
                 if hasattr(screen[0], 'proxy_monitor_timer'):
-                    screen[0].proxy_monitor_timer.start(10000)
+                    screen[0].proxy_monitor_timer.start(30000)
                     print("[Playstream2] Restarted proxy monitor timer")
                 if hasattr(screen[0], 'proxy_watchdog_timer'):
                     screen[0].proxy_watchdog_timer.start(60000)
@@ -4744,11 +4833,11 @@ class AutoStartTimer:
             # 2. Ensure proxy is running
             if not is_proxy_running():
                 print("[AutoStartTimer] Starting proxy...")
-                if not run_proxy_in_background():
+                if not run_proxy_in_background(startup_timeout=cfg.proxy_startup_timeout.value):
                     print("[AutoStartTimer] Failed to start proxy")
                     return
 
-            # 3. Wait for proxy to be ready
+            # 3. Wait for proxy to be ready (max 10s total; non-blocking via select)
             for i in range(10):
                 if is_proxy_ready(timeout=3):
                     break
@@ -4810,15 +4899,13 @@ def delayed_boot_tasks():
     global auto_start_timer
     try:
         if cfg.proxy_enabled.value:
-            # If the plugin has already been opened, do not start the proxy
-            # here
+            # If the plugin has already been opened, do not start the proxy here
             if _session is not None:
                 print("[Vavoo] Plugin already opened, boot tasks skipped")
                 return
             if not is_proxy_running():
                 print("[Vavoo] Starting proxy at boot...")
-                timeout = cfg.proxy_startup_timeout.value
-                run_proxy_in_background(startup_timeout=timeout)
+                run_proxy_in_background(startup_timeout=cfg.proxy_startup_timeout.value)
             else:
                 print("[Vavoo] Proxy already running at boot")
 

@@ -64,7 +64,8 @@ except NameError:  # Python 2
 
 # Global stop flag used for clean shutdown (prevents restart loop)
 STOP_EVENT = threading.Event()
-# socket.setdefaulttimeout(30)
+# NOTE: do NOT call socket.setdefaulttimeout() globally – it poisons
+# streaming sockets and all other network ops in the same process.
 
 try:
     from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
@@ -445,7 +446,8 @@ HEADERS = {
     "accept": "*/*",
     "user-agent": RequestAgent(),
     "Accept-Encoding": "gzip, deflate",
-    # "Connection": "close",
+    # NOTE: do NOT set "Connection": "close" here – it disables keep-alive
+    # for the entire session including streaming upstream connections.
 }
 
 
@@ -491,7 +493,8 @@ def is_proxy_already_running():
             return True
     except (IOError, OSError, ValueError):
         return False
-    except Exception:
+    except Exception as e:
+        print(str(e))
         log_exception("is_proxy_already_running error", area="PROXY")
         return False
 
@@ -551,11 +554,8 @@ class ProxyHealthMonitor:
             try:
                 self._check_proxy_health()
                 self.stop_event.wait(60)
-            except Exception:
-                log_exception(
-                    "[Health Monitor] Unexpected error",
-                    area="PROXY")
-            except Exception:
+            except Exception as e:
+                print(str(e))
                 log_exception(
                     "[Health Monitor] Unexpected error",
                     area="PROXY")
@@ -610,6 +610,7 @@ class ProxyHealthMonitor:
 
     def _restart_proxy(self):
         try:
+            global proxy, _starting
             # 1. Try to shut down the current proxy
             try:
                 requests.get(PROXY_SHUTDOWN_URL, timeout=2)
@@ -620,22 +621,23 @@ class ProxyHealthMonitor:
             # Remove the old PID file
             remove_pid_file()
 
-            # 2. Kill proxy python processes
-            import subprocess
-            with open('/dev/null', 'w') as devnull:
-                subprocess.call(
-                    ["pkill", "-f", "python.*vavoo_proxy"],
-                    stdout=devnull,
-                    stderr=devnull
-                )
-            select.select([], [], [], 3)
+            # 2. Kill any zombie processes still holding the port ───────────────
+            try:
+                import subprocess
+                with open('/dev/null', 'w') as devnull:
+                    subprocess.call(
+                        ["pkill", "-f", "python.*vavoo_proxy"],
+                        stdout=devnull,
+                        stderr=devnull
+                    )
+            except Exception as kill_err:
+                print("[Health Monitor] pkill: " + str(kill_err))
+            select.select([], [], [], 2)
 
             # Reset the global flag
-            global _starting
             _starting = False
 
             # 3. Restart the proxy
-            global proxy
             proxy = VavooProxy()
 
             if proxy.initialize_proxy():
@@ -645,7 +647,7 @@ class ProxyHealthMonitor:
                 server_thread = threading.Thread(target=server.serve_forever)
                 server_thread.setDaemon(True)
                 server_thread.start()
-                write_pid_file()  # Write the new PID
+                write_pid_file()
                 print("[Health Monitor] Proxy restarted successfully")
                 return True
 
@@ -676,6 +678,7 @@ class VavooProxy:
         self.session.request = self._robust_request
 
         self.active_streams = 0
+        self._stream_lock = threading.Lock()  # guards active_streams counter
         self.addon_sig_data = {"sig": None, "ts": 0}
         self.addon_sig_lock = threading.Lock()
         self.all_filtered_items = []
@@ -688,9 +691,8 @@ class VavooProxy:
         self.last_heartbeat = time.time()
         self.local_ip = None
         self.refresh_timer = None
-        self.resolve_cache = OrderedDict()
-        # self.resolve_cache = {}
-        self.resolve_cache_ttl = 300
+        self.resolve_cache = OrderedDict()  # ordered for deterministic LRU eviction (Py2+3)
+        self.resolve_cache_ttl = 300  # stream URLs valid for ~5min; was 30s (too aggressive)
         self.server = None
         self.start_time = time.time()
 
@@ -746,6 +748,7 @@ class VavooProxy:
 
         try:
             # SINGLE REQUEST, no infinite retries
+            # Call the real Session.request, bypassing our override to avoid recursion
             response = requests.Session.request(
                 self.session, method, url, **kwargs)
             return response
@@ -759,30 +762,11 @@ class VavooProxy:
             print(" Error on " + str(url) + ": " + str(e))
             raise
 
-    def token_monitor_loop(self):
-        while not self._stop_event.is_set():
-            if hasattr(self, 'active_streams') and self.active_streams > 0:
-                select.select([], [], [], 30)
-                continue
-
-            try:
-                now = time.time()
-                token_age = now - \
-                    self.addon_sig_data["ts"] if self.addon_sig_data["sig"] else 0
-                if self.addon_sig_data["sig"] and token_age > TOKEN_REFRESH_AGE:
-                    print(
-                        "[Token Monitor] Token old ({}s), refreshing...".format(
-                            int(token_age)))
-                    self.refresh_addon_sig_if_needed(force=True)
-            except Exception as e:
-                print("[Token Monitor] Error: " + str(e))
-
-            select.select([], [], [], 60)
-
     def start_token_monitor(self):
         """Monitor token age with minimal background traffic"""
         def token_monitor_loop():
             while not self._stop_event.is_set():
+                # Check FIRST, then sleep (first check is immediate at startup)
                 if hasattr(self, 'active_streams') and self.active_streams:
                     select.select([], [], [], 120)
                 else:
@@ -978,7 +962,7 @@ class VavooProxy:
                 "accept": "*/*",
                 "Accept-Language": self.current_language,
                 "Accept-Encoding": "gzip, deflate",
-                # "Connection": "close",
+                # Connection: close is intentional for short-lived catalog requests
             }
 
             all_channels = []
@@ -1023,13 +1007,17 @@ class VavooProxy:
                             self._switch_to_next_base("(HTTP 451 on catalog)")
                             if attempt < max_retries - 1:
                                 continue
-
-                            r_catalog = self.session.post(
-                                self.catalog_url,
-                                json=catalog_payload,
-                                headers=catalog_headers,
-                                timeout=90
-                            )
+                            # Last attempt on new mirror
+                            try:
+                                r_catalog = self.session.post(
+                                    self.catalog_url,
+                                    json=catalog_payload,
+                                    headers=catalog_headers,
+                                    timeout=30
+                                )
+                            except Exception as e:
+                                print("Mirror fallback also failed: " + str(e))
+                                break
 
                         if r_catalog.status_code == 502:
                             print(
@@ -1231,6 +1219,7 @@ class VavooProxy:
                 if stream_url:
                     self.resolve_cache[channel_url] = {
                         "url": stream_url, "ts": time.time()}
+                    # Evict oldest 500 entries (OrderedDict preserves insertion order in Py2+3)
                     if len(self.resolve_cache) > 1000:
                         keys = list(self.resolve_cache.keys())[:-500]
                         for key in keys:
@@ -1415,19 +1404,23 @@ class VavooHTTPHandler(BaseHTTPRequestHandler):
                                 self.wfile.flush()
                                 last_data_time = time.time()
                             else:
-                                if time.time() - last_data_time > 15:  # increased from 10 to 15s
+                                if time.time() - last_data_time > 15:
                                     print(
-                                        "[Proxy Stream] Upstream timeout for channel: " + channel_id)
+                                        "[Proxy Stream] Upstream stalled for: " + channel_id)
                                     break
                                 select.select([], [], [], 0.1)
                     except (socket.timeout, ConnectionError, BrokenPipeError) as e:
-                        print("[Proxy Stream] Downstream error: " + str(e))
+                        print("[Proxy Stream] Network error: " + str(e))
+                    except Exception as e:
+                        print("[Proxy Stream] Unexpected error: " + str(e))
                     finally:
-                        upstream.close()
+                        try:
+                            upstream.close()
+                        except Exception:
+                            pass
                         print(
                             "[Proxy Stream] Finished for channel: " +
                             channel_id)
-
                 except Exception as e:
                     print("[Proxy Stream] Error: " + str(e))
                     self.send_error(500, "Streaming error")
@@ -1682,12 +1675,17 @@ proxy = VavooProxy()
 
 
 def shutdown_proxy():
-    """Shutdown the proxy server if running."""
+    """Shutdown the proxy server if running.
+    Sets STOP_EVENT first so background threads stop even if HTTP call fails.
+    """
+    # Signal all proxy threads to exit regardless of HTTP outcome
+    STOP_EVENT.set()
     try:
         response = requests.get(
             PROXY_SHUTDOWN_URL, timeout=2)
         if response.status_code == 200:
             print(" Shutdown request sent successfully")
+            STOP_EVENT.clear()  # reset for next start
             return True
     except Exception as e:
         print(" Shutdown via HTTP failed: {}".format(e))
@@ -1697,6 +1695,7 @@ def shutdown_proxy():
         import subprocess
         subprocess.call(["pkill", "-f", "python.*vavoo_proxy"])
         print(" Killed by pkill")
+        STOP_EVENT.clear()
         return True
     except Exception as e:
         print(" Failed to kill process: {}".format(e))
@@ -1845,6 +1844,7 @@ def run_proxy_in_background(startup_timeout=30):
 
     global _starting
 
+    # Wait for another booting instance up to startup_timeout seconds
     if is_proxy_booting():
         print("[Proxy] Another proxy is booting, waiting up to {} seconds...".format(
             startup_timeout))
@@ -1854,6 +1854,7 @@ def run_proxy_in_background(startup_timeout=30):
                 print("[Proxy] Proxy boot completed, instance is running")
                 return True
             select.select([], [], [], 0.5)
+        print("[Proxy] Boot still present after timeout, attempting start anyway")
 
     # Final check: if already active and listening, exit
     if is_proxy_running() and is_proxy_port_listening():

@@ -4,611 +4,599 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: tr_TR\n"
+"Last-Translator: ))^^(( <>\n"
+"Language-Team: *\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.9\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
-"X-Poedit-SearchPath-1: bouquet_manager.py\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Proxy süresi doluyor"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kanal)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s dosya silindi)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Tüm girişlere eksik alanları ekle"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Her 9 dakikada bir otomatik token yenileme"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Servis Referansı ile otomatik EPG oluşturma"
 
-#, fuzzy
 msgid "- Automatic bouquet generation"
-msgstr "Aktif Otomatik Buket Güncelleme"
+msgstr "- Otomatik buket oluşturma"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Kategori buketleri"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Önbellek dosyasını temizle"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Ticari kullanım kesinlikle yasaktır"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Topluluk: Linuxsat-support.com, Corvoboys.org Forum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Konteyner buketleri"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Ülke buketleri"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Sadece ücretsiz içerik"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafikler: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP Canlı Yayın"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Entegre proxy sistemi"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Doğrudan sunucu barındırma yok"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Yeniden dağıtımda atıf korunmalıdır"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Yinelenen girişleri kaldır"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Servis referansları: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Kamu kaynaklarından yayınlar"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 formatları"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Teknik destek: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} yinelenen giriş kaldırıldı"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} giriş güncellendi"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Proxy Durumu"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Proxy Bilinmiyor"
 
 msgid "Active Automatic Bouquet Update"
 msgstr "Aktif Otomatik Buket Güncelleme"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Tüm ülkeler (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Başka bir ülke için dışa aktarma zaten devam ediyor. Lütfen bekleyin."
 
-#, fuzzy
 msgid "At an interval hours or fixed time"
-msgstr "Saatler aralığında veya sabit bir zamanda"
+msgstr "Saat aralığı veya sabit zamanda"
 
 msgid "Author:"
-msgstr ""
+msgstr "Yazar:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "EPG'yi otomatik güncelle"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Kaynak oluşturulduktan sonra EPG güncellemesini otomatik tetikle"
 
 msgid "Back"
 msgstr "Geri"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Silme tuşu"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Alt"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Listede Buket Konumu"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Buket oluşturma hatası: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Buket {} kanalla hazır"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Buketlerin yeniden yüklenmesi planlandı."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Buketler başarıyla yeniden düzenlendi!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Değiştir | OK=Aç/Kapat | INFO=IMDb | STOP=Çıkış"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Önbellek formatı düzeltmesi tamamlandı:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Önbellek zaten doğru formatta. Değişiklik gerekmiyor."
 
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Çalıştırma iptal edilsin mi?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Durum: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanallar"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanallar: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Proxy kontrol ediliyor..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Tümünü Temizle"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Yapılandırma başarıyla kaydedildi!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Ana Arkaplan Resmini Yapılandır."
 
 msgid "Configure at a fixed time"
-msgstr "Sabit bir zamanda yapılandırın"
+msgstr "Sabit bir zamanda yapılandır"
 
-#, fuzzy
 msgid "Configure interval minutes from now"
-msgstr "Şu andan itibaren her dakika aralığını yapılandırın"
+msgstr "Şu andan itibaren dakika aralığını yapılandır"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr "Hizmeti yapılandırma Referansı Iptv-Gstreamer-Exteplayer3"
+msgstr "Servis Referansı Iptv-Gstreamer-Exteplayer3'ü yapılandır"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 msgid "Countries"
-msgstr ""
+msgstr "Ülkeler"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Ülkeler: %(generated)d/%(total)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Ülke: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Vavoo program verileriyle EPGImport için EPG kaynağı oluştur"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Katkıda bulunanlar:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Varsayılan Görünüm"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Eklenti açıldığında varsayılan görünüm"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Bu buketi dışa aktarmak istiyor musunuz?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Önbellek formatını düzeltmek istiyor musunuz?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG Benzerlik Eşiği (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG devre dışı. Lütfen önce Vavoo ayarlarından etkinleştirin."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG işleme tamamlandı (eşleşme yok)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "{} kanal için EPG işleme tamamlandı"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG güncellemesi tamamlandı"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG güncellemesi başarısız"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG güncellemesi başarıyla başladı"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Vavoo EPG'yi etkinleştir"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Proxy'yi etkinleştir veya devre dışı bırak."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Aranacak metni girin..."
 
 msgid "Error"
-msgstr ""
+msgstr "Hata"
 
-#, fuzzy
 msgid "Error fixing cache: {}"
-msgstr "Güncellemeye başlama zamanı:"
+msgstr "Önbellek düzeltme hatası: {}"
 
-#, fuzzy
 msgid "Error parsing data"
-msgstr "Güncellemeye başlama zamanı:"
+msgstr "Veri ayrıştırma hatası"
 
-#, fuzzy
 msgid "Error starting EPG update: {}"
-msgstr "Güncellemeye başlama zamanı:"
+msgstr "EPG güncellemesi başlatma hatası: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Kanal başlatma hatası"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Hata: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Hata: {}"
 
 msgid "Exit"
 msgstr "Çıkış"
 
 msgid "Export"
-msgstr "Çıkart"
+msgstr "Dışa Aktar"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Dışa aktarma başarısız: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Dışa aktarma başladı. Buket kısa sürede hazır olacak."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Proxy token yenilenemedi"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Proxy yenilenemedi:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Başarısız: %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Önbelleği Düzelt"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Önbellek formatı düzeltiliyor..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Proxy yenileme zorlansın mı?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Bulunan: {} kanal"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr ".m3u dosyası oluştur:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr ".m3u dosyaları oluştur (Çalıştırmak için Tamam)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr ".m3u dosyaları oluştur ve %s cihazına kaydet."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr ".m3u dosyaları oluşturulup %s cihazına kaydedilsin mi?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "TÜM %d ülke için .m3u dosyaları oluşturulsun mu?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Gizle/Göster"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "EPG'nin ne sıklıkla otomatik güncelleneceği (EPGImport zamanlayıcısı gerekir)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Önemli Notlar:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "VPN veya yavaş bağlantı nedeniyle proxy uzun sürüyorsa artırın."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Klavye"
 
 msgid "Last channel update: %s"
 msgstr "Son kanal güncellemesi: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Lisans:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Lisans: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr "Ana Menüdeki Bağlantı"
+msgstr "Ana Menüde Bağlantı"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Düşük = daha az kesinti ama daha fazla yenileme"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U dosyası başarıyla oluşturuldu!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U oluşturma tamamlandı!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U oluşturma hatası: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Eşleşen kanallar için minimum benzerlik (yüksek = daha katı)."
 
 msgid "Movie Services Reference"
-msgstr "Film Hizmetleri Referansı"
+msgstr "Film Servis Referansı"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB eklentisi bulunamadı"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "İnternet bağlantısı algılanamadı. Lütfen ağınızı kontrol edin."
 
-#, fuzzy
 msgid "No channels found"
-msgstr "Aramada kanal bulunamadı!!!"
+msgstr "Kanal bulunamadı"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "%s için kanal bulunamadı"
 
 msgid "No channels found in search!!!"
 msgstr "Aramada kanal bulunamadı!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Öğe mevcut değil"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Program bilgisi mevcut değil"
 
 msgid "No selection"
-msgstr ""
+msgstr "Seçim yok"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "%s için geçerli kanal yok"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Şimdi %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Yalnızca belirli bir ülke"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Lütfen başka bir kanal deneyin."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Ana listede Vavoo buketlerinin konumu"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Yazmak için TEXT tuşuna, silmek için BACKSPACE tuşuna basın"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proxy Devre Dışı"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proxy Etkin"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Proxy Hatası:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Proxy devre dışı"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Proxy devre dışı. Lütfen önce Proxy'yi Açın. -- Menü Yapılandırma --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Proxy devre dışı. Lütfen yapılandırmadan etkinleştirin."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proxy çalışmıyor. Lütfen önce proxy'yi başlatın."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Proxy aktif değil. M3U dosyası oluşturulamıyor."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Proxy yanıt vermiyor (süre)"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proxy yeniden başlatılıyor... Lütfen bekleyin"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Proxy başlangıç zaman aşımı (saniye)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Proxy token başarıyla yenilendi"
 
 msgid "Ready"
-msgstr ""
+msgstr "Hazır"
 
 msgid "Really close without saving settings?"
 msgstr "Ayarları kaydetmeden gerçekten kapatılsın mı?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Önerilen: 5-8 dakika"
 
-#, fuzzy
 msgid "Refresh stream (minutes):"
-msgstr "Güncelleme aralığı (dakika):"
+msgstr "Akışı yenile (dakika):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Akışı her X dakikada bir yenile (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Buketi Yeniden Yükle"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Buketler ve servis listesi yeniden yüklensin mi?"
 
 msgid "Remove"
 msgstr "Kaldır"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "TÜM Vavoo buketleri kaldırılsın mı?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Yeniden Başlat"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Yeniden başlatılıyor..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr "SEÇİMİNİZ"
+msgstr "SEÇİMİNİZİ YAPIN"
 
 msgid "Save"
 msgstr "Kaydet"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Kaydedildi: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Kaydedildi: %s"
 
 msgid "Schedule type:"
 msgstr "Zamanlama türü:"
 
-#, fuzzy
 msgid "Scheduled List:"
-msgstr "Zamanlama türü:"
+msgstr "Zamanlanmış Liste:"
 
 msgid "Search"
-msgstr "Arama"
+msgstr "Ara"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Kanalları Ara:"
 
-#, fuzzy
 msgid "Search..."
-msgstr "Arama"
+msgstr "Ara..."
 
-#, fuzzy
 msgid "Search:"
-msgstr "Arama"
+msgstr "Arama:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Arkaplan Seç"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "M3U dışa aktarma modunu seçin:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "M3U dışa aktarılacak ülkeyi seçin:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Kullanılan Oynatıcı Sunucusu"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Oynatıcı için sunucu."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Tüm kanallar gösteriliyor: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Boşluk"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "EPG güncellemesi şimdi başlatılsın mı?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Yayın sonlandı. Çok fazla bağlantı sorunu."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Teknik Özellikler:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Bu, kimlik doğrulama tokenini yenileyecektir."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Bu şunları kaldıracak:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Bu şunları yapacak:"
 
 msgid "Time to start update:"
-msgstr "Güncellemeye başlama zamanı:"
+msgstr "Güncelleme başlangıç zamanı:"
 
 msgid "Top"
-msgstr ""
+msgstr "Üst"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Toplam kanal: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "BÜYÜK HARF"
 
-#, fuzzy
 msgid "Update interval (hours)"
-msgstr "Güncelleme aralığı (dakika):"
+msgstr "Güncelleme aralığı (saat)"
 
 msgid "Update interval (minutes):"
 msgstr "Güncelleme aralığı (dakika):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG güncelleniyor..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG kaynağı EPGImport'ta etkin değil. Lütfen EPGImport ayarlarından etkinleştirin."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG kaynağı bulunamadı. Lütfen önce en az bir buket dışa aktarın."
 
 msgid "Vavoo Stream Live"
-msgstr "Vavoo Stream Live"
+msgstr "Vavoo Canlı Yayın"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Canlı Yayın - Bilgi"
 
-#, fuzzy
 msgid "Vavoo Stream Live Plugin"
-msgstr "Vavoo Stream Live"
+msgstr "Vavoo Canlı Yayın Eklentisi"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo buketleri başarıyla kaldırıldı!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo zaten çalışıyor."
 
 msgid "Version:"
-msgstr ""
+msgstr "Sürüm:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Proxy bekleniyor..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "EPG destekli Vavoo Proxy'ye hoş geldiniz"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Menüden veya TEXT tuşuna basarak başlatabilirsiniz."
 
 msgid "fixed time"
 msgstr "sabit zaman"
@@ -617,57 +605,31 @@ msgid "interval"
 msgstr "aralık"
 
 msgid "lowercase"
-msgstr ""
+msgstr "küçük harf"
 
 msgid "seconds"
-msgstr ""
+msgstr "saniye"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Proxy ({0}s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Proxy OK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Yeniden başlatıldı"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Hata"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Proxy Hatası"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Proxy süresi doldu"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proxy çevrimdışı"
 
 msgid "✗ Restart Failed"
-msgstr ""
-
-#, fuzzy
-#~ msgid "At an interval of hours or at a fixed time"
-#~ msgstr "Saatler aralığında veya sabit bir zamanda"
-
-#, fuzzy
-#~ msgid "Auto-refresh stream (minutes):"
-#~ msgstr "Güncelleme aralığı (dakika):"
-
-#, fuzzy
-#~ msgid "Configure Dns Server for Box."
-#~ msgstr "Şu andan itibaren her dakika aralığını yapılandırın"
-
-#, fuzzy
-#~ msgid "Configure every interval of minutes from now"
-#~ msgstr "Şu andan itibaren her dakika aralığını yapılandırın"
-
-#, fuzzy
-#~ msgid "Scheduled List Update:"
-#~ msgstr "Zamanlama türü:"
-
-#~ msgid "Select Fonts"
-#~ msgstr "Yazı Tiplerini Seçin"
-
-#~ msgid "Update Me"
-#~ msgstr "Beni Güncelle"
+msgstr "✗ Yeniden başlatma başarısız"

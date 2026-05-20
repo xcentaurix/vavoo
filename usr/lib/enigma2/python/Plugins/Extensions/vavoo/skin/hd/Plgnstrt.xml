@@ -1,4 +1,99 @@
-<screen name="Plgnstrt" position="0,0" size="1280,720" backgroundColor="#ff000000" flags="wfNoBorder">
-	<widget name="poster" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/vavoo/skin/pics/presplash.png" position="469,274" size="340,170" alphatest="off" scale="1" zPosition="4" />	
-	<widget name="version" position="725,415" size="80,26" backgroundColor="#181b2e" foregroundColor="#ffffff" font="cvfont; 21" halign="center" transparent="1"  zPosition="8" />
+<screen name="Plgnstrt" position="0,0" size="1280,720" backgroundColor="#ff0a0510" flags="wfNoBorder">
+
+	<!-- ── full-screen dark background ── -->
+	<eLabel position="0,0" size="1280,720" backgroundColor="#0a0510" zPosition="-10"/>
+
+	<!-- ── card background (900×520 centred) ── -->
+	<eLabel position="190,100" size="900,520" backgroundColor="#0e0518" zPosition="1"/>
+
+	<!-- ── outer border glow ── -->
+	<eLabel position="190,100" size="900,1"  backgroundColor="#bf5fff" zPosition="2"/>
+	<eLabel position="190,619" size="900,1"  backgroundColor="#bf5fff" zPosition="2"/>
+	<eLabel position="190,100" size="1,520"  backgroundColor="#bf5fff" zPosition="2"/>
+	<eLabel position="1089,100" size="1,520" backgroundColor="#bf5fff" zPosition="2"/>
+
+	<!-- ── corner L-brackets – top-left ── -->
+	<eLabel position="191,101" size="26,3" backgroundColor="#8b2fc9" zPosition="3"/>
+	<eLabel position="191,101" size="3,26" backgroundColor="#8b2fc9" zPosition="3"/>
+	<!-- top-right -->
+	<eLabel position="1063,101" size="26,3" backgroundColor="#8b2fc9" zPosition="3"/>
+	<eLabel position="1086,101" size="3,26" backgroundColor="#8b2fc9" zPosition="3"/>
+	<!-- bottom-left -->
+	<eLabel position="191,617" size="26,3"  backgroundColor="#8b2fc9" zPosition="3"/>
+	<eLabel position="191,593" size="3,26"  backgroundColor="#8b2fc9" zPosition="3"/>
+	<!-- bottom-right -->
+	<eLabel position="1063,617" size="26,3" backgroundColor="#8b2fc9" zPosition="3"/>
+	<eLabel position="1086,593" size="3,26" backgroundColor="#8b2fc9" zPosition="3"/>
+
+	<!-- ── inner frame ── -->
+	<eLabel position="198,108" size="884,1"  backgroundColor="#2a0a3a" zPosition="2"/>
+	<eLabel position="198,611" size="884,1"  backgroundColor="#2a0a3a" zPosition="2"/>
+	<eLabel position="198,108" size="1,504"  backgroundColor="#2a0a3a" zPosition="2"/>
+	<eLabel position="1081,108" size="1,504" backgroundColor="#2a0a3a" zPosition="2"/>
+
+	<!-- ── logo ── -->
+	<widget name="poster" position="390,108" size="500,250"
+		alphatest="on" scale="1" zPosition="5"/>
+
+	<!-- ── title ── -->
+	<widget name="title" position="240,370" size="800,36"
+		font="Regular;28" halign="center" valign="center"
+		foregroundColor="#f0e0ff" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- ── subtitle ── -->
+	<widget name="subtitle" position="240,412" size="800,26"
+		font="Regular;17" halign="center" valign="center"
+		foregroundColor="#9970bb" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- ── divider ── -->
+	<eLabel position="240,446" size="800,1" backgroundColor="#3a1a5a" zPosition="4"/>
+
+	<!-- ── progress label ── -->
+	<widget name="progress_label" position="240,455" size="580,22"
+		font="Regular;16" halign="left" valign="center"
+		foregroundColor="#9970bb" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- ── percentage ── -->
+	<widget name="progress_pct" position="900,455" size="140,22"
+		font="Regular;16" halign="right" valign="center"
+		foregroundColor="#bf5fff" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- ── progress bar track ── -->
+	<eLabel position="240,483" size="800,8" backgroundColor="#2a0a3a" zPosition="4"/>
+
+	<!-- ── progress bar fill ── -->
+	<widget name="progress" position="240,483" size="800,8"
+		backgroundColor="#2a0a3a" foregroundColor="#bf5fff" zPosition="5"/>
+
+	<!-- ── status message ── -->
+	<widget name="status" position="240,497" size="800,26"
+		font="Regular;16" halign="center" valign="center"
+		foregroundColor="#9970bb" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- ── footer separator ── -->
+	<eLabel position="240,478" size="800,1" backgroundColor="#2a0a3a" zPosition="4"/>
+
+	<!-- ── author ── -->
+	<widget name="author" position="240,536" size="380,28"
+		font="Regular;18" halign="left" valign="center"
+		foregroundColor="#5c3a7a" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- ── version ── -->
+	<widget name="version" position="660,536" size="380,28"
+		font="Regular;18" halign="right" valign="center"
+		foregroundColor="#5c3a7a" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- ── skip hint ── -->
+	<widget name="skip_hint" position="240,536" size="800,28"
+		font="Regular;13" halign="center" valign="center"
+		foregroundColor="#3a2050" backgroundColor="#0e0518"
+		transparent="1" zPosition="6"/>
+
 </screen>

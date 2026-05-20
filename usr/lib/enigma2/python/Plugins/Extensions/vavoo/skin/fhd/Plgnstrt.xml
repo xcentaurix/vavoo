@@ -1,4 +1,98 @@
-<screen name="Plgnstrt" position="0,0" size="1920,1080" backgroundColor="#ff000000" flags="wfNoBorder">
-	<widget name="poster" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/vavoo/skin/pics/presplash.png" position="704,412" size="512,256" alphatest="off" scale="stretch" zPosition="4" />	
-	<widget name="version" position="1088,623" size="120,40" backgroundColor="#181b2e" foregroundColor="#ffff00" font="cvfont; 32" halign="center" transparent="1"  zPosition="8" />
+<screen name="Plgnstrt" position="0,0" size="1920,1080" backgroundColor="#ff0a0510" flags="wfNoBorder">
+
+	<eLabel position="0,0" size="1920,1080" backgroundColor="#0a0510" zPosition="-10"/>
+
+	<!-- card 1340×820 centred -->
+	<eLabel position="290,130" size="1340,820" backgroundColor="#0e0518" zPosition="1"/>
+
+	<!-- outer glow border -->
+	<eLabel position="290,130"  size="1340,1" backgroundColor="#bf5fff" zPosition="2"/>
+	<eLabel position="290,949"  size="1340,1" backgroundColor="#bf5fff" zPosition="2"/>
+	<eLabel position="290,130"  size="1,820"  backgroundColor="#bf5fff" zPosition="2"/>
+	<eLabel position="1629,130" size="1,820"  backgroundColor="#bf5fff" zPosition="2"/>
+
+	<!-- corner brackets top-left -->
+	<eLabel position="291,131" size="38,4" backgroundColor="#8b2fc9" zPosition="3"/>
+	<eLabel position="291,131" size="4,38" backgroundColor="#8b2fc9" zPosition="3"/>
+	<!-- top-right -->
+	<eLabel position="1591,131" size="38,4" backgroundColor="#8b2fc9" zPosition="3"/>
+	<eLabel position="1625,131" size="4,38" backgroundColor="#8b2fc9" zPosition="3"/>
+	<!-- bottom-left -->
+	<eLabel position="291,945"  size="38,4" backgroundColor="#8b2fc9" zPosition="3"/>
+	<eLabel position="291,907"  size="4,38" backgroundColor="#8b2fc9" zPosition="3"/>
+	<!-- bottom-right -->
+	<eLabel position="1591,945" size="38,4" backgroundColor="#8b2fc9" zPosition="3"/>
+	<eLabel position="1625,907" size="4,38" backgroundColor="#8b2fc9" zPosition="3"/>
+
+	<!-- inner frame -->
+	<eLabel position="300,140"  size="1320,1" backgroundColor="#2a0a3a" zPosition="2"/>
+	<eLabel position="300,939"  size="1320,1" backgroundColor="#2a0a3a" zPosition="2"/>
+	<eLabel position="300,140"  size="1,800"  backgroundColor="#2a0a3a" zPosition="2"/>
+	<eLabel position="1619,140" size="1,800"  backgroundColor="#2a0a3a" zPosition="2"/>
+
+	<!-- logo – 750×375 centred in 1340px card (x = 290+295 = 585) -->
+	<widget name="poster" position="585,145" size="750,375"
+		alphatest="on" scale="1" zPosition="5"/>
+
+	<!-- title -->
+	<widget name="title" position="365,538" size="1190,50"
+		font="Regular;38" halign="center" valign="center"
+		foregroundColor="#f0e0ff" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- subtitle -->
+	<widget name="subtitle" position="365,594" size="1190,34"
+		font="Regular;22" halign="center" valign="center"
+		foregroundColor="#9970bb" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- divider -->
+	<eLabel position="365,636" size="1190,2" backgroundColor="#3a1a5a" zPosition="4"/>
+
+	<!-- progress label -->
+	<widget name="progress_label" position="365,646" size="860,30"
+		font="Regular;21" halign="left" valign="center"
+		foregroundColor="#9970bb" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- percentage -->
+	<widget name="progress_pct" position="1365,646" size="190,30"
+		font="Regular;21" halign="right" valign="center"
+		foregroundColor="#bf5fff" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- progress bar track -->
+	<eLabel position="365,682" size="1190,10" backgroundColor="#2a0a3a" zPosition="4"/>
+
+	<!-- progress bar fill -->
+	<widget name="progress" position="365,682" size="1190,10"
+		backgroundColor="#2a0a3a" foregroundColor="#bf5fff" zPosition="5"/>
+
+	<!-- status -->
+	<widget name="status" position="365,698" size="1190,40"
+		font="Regular;21" halign="center" valign="center"
+		foregroundColor="#9970bb" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- footer separator -->
+	<eLabel position="365,766" size="1190,1" backgroundColor="#2a0a3a" zPosition="4"/>
+
+	<!-- author -->
+	<widget name="author" position="365,772" size="555,38"
+		font="Regular;26" halign="left" valign="center"
+		foregroundColor="#5c3a7a" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- version -->
+	<widget name="version" position="1000,772" size="555,38"
+		font="Regular;26" halign="right" valign="center"
+		foregroundColor="#5c3a7a" backgroundColor="#0e0518"
+		transparent="1" zPosition="5"/>
+
+	<!-- skip hint -->
+	<widget name="skip_hint" position="365,772" size="1190,38"
+		font="Regular;18" halign="center" valign="center"
+		foregroundColor="#3a2050" backgroundColor="#0e0518"
+		transparent="1" zPosition="6"/>
+
 </screen>
