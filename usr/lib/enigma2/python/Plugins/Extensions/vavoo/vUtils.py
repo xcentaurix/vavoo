@@ -11,7 +11,6 @@ import select
 import threading
 import types
 import urllib3
-import os as _os
 from datetime import datetime as _datetime
 from collections import OrderedDict
 from difflib import SequenceMatcher
@@ -154,7 +153,6 @@ def _append_to_log(line):
 
 
 def log(msg, level="INFO", area="VUTILS"):
-    from datetime import datetime
     try:
         msg = ensure_str(msg, errors='ignore')
     except Exception:
@@ -163,7 +161,7 @@ def log(msg, level="INFO", area="VUTILS"):
         except Exception:
             msg = '<unprintable message>'
     line = "[{0}] [{1}] [{2}] {3}".format(
-        datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        _datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         level,
         area,
         msg
