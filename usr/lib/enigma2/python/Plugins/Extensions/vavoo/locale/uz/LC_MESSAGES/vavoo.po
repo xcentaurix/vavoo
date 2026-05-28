@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Proksi muddati tugayapti"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d ta kanal)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s fayl oʻchirildi)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Barcha yozuvlarga etishmayotgan maydonlarni qo'shing"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Avtomatik token har 9 daqiqada yangilanadi"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Xizmat ma'lumotnomasi bilan avtomatik Epg yaratish"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Avtomatik guldasta yaratish"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Turkum guldastalari"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Kesh faylini tozalang"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Tijoriy maqsadlarda foydalanish qat'iyan man etiladi"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Hamjamiyat: Linuxsat-support.com, Corvoboys.org forumi"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- konteyner guldastalari"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Qishloq guldastalari"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Faqat bepul kontent"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafika: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP jonli oqim"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Integratsiyalashgan proksi tizimi"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- To'g'ridan-to'g'ri server hosting yo'q"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Qayta taqsimlash atributni saqlab turishi kerak"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Ikki nusxadagi yozuvlarni olib tashlang"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Xizmat ma'lumotnomalari: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Ommaviy manbalardan olingan oqimlar"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 formatlari"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Texnik yordam: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} takroriy yozuvlar olib tashlandi"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} ta yozuv yangilandi"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Proksi holati"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Proksi noma'lum"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Faol avtomatik guldasta yangilanishi"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Barcha mamlakatlar (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Boshqa davlatga eksport qilinmoqda. Iltimos kuting."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Vaqt oralig'ida soat yoki belgilangan vaqtda"
 
 msgid "Author:"
-msgstr ""
+msgstr "Muallif:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "EPGni avtomatik yangilash"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Manba yaratilgandan keyin avtomatik ravishda EPG yangilanishini ishga tushiring"
 
 msgid "Back"
-msgstr ""
+msgstr "Orqaga"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Pastki"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Roʻyxatdagi guldasta oʻrni"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Guldasta yaratish xatosi: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "{} kanalli guldasta tayyor"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Guldastalarni qayta yuklash rejalashtirilgan."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Guldastalar muvaffaqiyatli qayta tashkil etildi!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Oʻzgartirish | OK=Oʻchirish | INFO=IMDb | STOP=Chiqish"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Kesh formatini tuzatish tugallandi:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Kesh allaqachon to'g'ri formatda. Hech qanday o'zgartirish kerak emas."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Bekor qilish"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Bajarish bekor qilinsinmi?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Hodisa: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanallar"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanallar: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Proksi tekshirilmoqda..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Hammasini tozalash"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Konfiguratsiya muvaffaqiyatli saqlandi!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Asosiy fon rasmini sozlash."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Belgilangan vaqtda sozlang"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Intervalli daqiqalarni hozirdan sozlang"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Iptv-Gstreamer-Exteplayer3 ma'lumotnoma xizmatini sozlang"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 msgid "Countries"
-msgstr ""
+msgstr "Mamlakatlar"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Mamlakatlar: %(hosil qilingan)d/%(jami)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Mamlakat: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Vavoo dasturi ma'lumotlari bilan EPGImport uchun EPG manbasini yarating"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Kreditlar:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Standart ko‘rinish"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Plaginni ochishda standart ko'rinish"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Ushbu guldastani eksport qilmoqchimisiz?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Kesh formatini tuzatmoqchimisiz?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG o'xshashlik chegarasi (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG o'chirilgan. Iltimos, avval uni Vavoo sozlamalarida yoqing."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG ishlovi tugallandi (mos kelmaydi)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "{} ta kanal uchun EPG ishlovi tugallandi"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG yangilanishi tugallandi"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG yangilanmadi"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG yangilanishi muvaffaqiyatli boshlandi"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Vavoo EPG-ni yoqing"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Proksi-serverni yoqish yoki o'chirish."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Qidirish uchun matnni kiriting..."
 
 msgid "Error"
-msgstr ""
+msgstr "Xato"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Keshni tuzatishda xatolik: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Maʼlumotlarni tahlil qilishda xatolik yuz berdi"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "EPG yangilanishini boshlashda xatolik yuz berdi: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Kanalni boshlashda xatolik yuz berdi"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Xato: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Xato: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Chiqish"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksport"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Eksport qilinmadi: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Eksport boshlandi. Buket tez orada taqdim etiladi."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Proksi tokenni yangilab bo‘lmadi"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Proksi-serverni yangilab bo‘lmadi:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Muvaffaqiyatsiz: %(muvaffaqiyatsiz)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Keshni tuzatish"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Kesh formati tuzatilmoqda..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Proksi-serverni yangilash majburiymi?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Topildi: {} ta kanal"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr ".m3u faylini yarating:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr ".m3u fayllarini yaratish (Exec uchun OK)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr ".m3u fayllarini yarating va %s qurilmasiga saqlang."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr ".m3u fayllarini yaratib, %s qurilmasiga saqlansinmi?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "HAMMA %d ta mamlakat uchun .m3u fayllar yaratilsinmi?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Yashirish/Ko‘rsatish"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "EPGni qanchalik tez-tez avtomatik yangilash kerak (EPGImport rejalashtiruvchisi kerak)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Muhim eslatmalar:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "VPN yoki sekin ulanish tufayli proksi-server uzoq davom etsa, oshiring."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Klaviatura"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Kanalning oxirgi yangilanishi: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Litsenziya:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Litsenziya: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Asosiy menyuda havola"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Pastroq = kamroq uzilish, lekin ko'proq yangilanish"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U fayli muvaffaqiyatli yaratildi!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U avlodi tugallandi!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U yaratish xatosi: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Mos keladigan kanallar uchun minimal o'xshashlik (yuqori = qattiqroq)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Kino xizmatlari uchun ma'lumotnoma"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB plaginlari topilmadi"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Internet aloqasi aniqlanmadi. Tarmoqingizni tekshiring."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Hech qanday kanal topilmadi"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "%s uchun hech qanday kanal topilmadi"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Qidiruvda hech qanday kanal topilmadi!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Hech narsa mavjud emas"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Dastur haqida ma'lumot mavjud emas"
 
 msgid "No selection"
-msgstr ""
+msgstr "Tanlov yoʻq"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "%s uchun yaroqli kanallar mavjud emas"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Endi %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Faqat bitta aniq mamlakat"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Boshqa kanalni sinab ko'ring."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Vavoo guldastalarining asosiy ro'yxatdagi o'rni"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Yozish uchun TEXT tugmasini, oʻchirish uchun esa BACKSPACE tugmasini bosing"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proksi o'chirilgan"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proksi yoqilgan"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Proksi xatosi:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Proksi o'chirilgan"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Proksi o'chirilgan. Iltimos, avval proksi-serverni yoqing. -- Menyu konfiguratsiyasi --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Proksi o'chirilgan. Iltimos, uni konfiguratsiyada yoqing."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proksi ishlamayapti. Iltimos, avval proksi-serverni ishga tushiring."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Proksi faol emas. M3U faylini yaratib bo'lmadi."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Proksi keyin javob bermayapti"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proksi qayta ishga tushmoqda... Iltimos, kuting"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Proksi-serverni ishga tushirish vaqti tugashi (sekundlar)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Proksi tokeni muvaffaqiyatli yangilandi"
 
 msgid "Ready"
-msgstr ""
+msgstr "Tayyor"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Haqiqatan ham sozlamalar saqlanmasdan yopilsinmi?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Tavsiya etiladi: 5-8 daqiqa"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Oqimni yangilash (daqiqa):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Oqimni har X daqiqada yangilang (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Buketni qayta yuklash"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Guldasta va xizmat roʻyxatini qayta yuklaysizmi?"
 
 msgid "Remove"
-msgstr ""
+msgstr "O'chirish"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "BARCHA Vavoo guldastalari olib tashlansinmi?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Qayta ishga tushirish"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Qayta ishga tushirilmoqda..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "TANLOVINGIZNI TANlang"
 
 msgid "Save"
-msgstr ""
+msgstr "Saqlash"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Saqlangan: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Saqlangan: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Jadval turi:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Rejalashtirilgan roʻyxat:"
 
 msgid "Search"
-msgstr ""
+msgstr "Qidiruv"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Kanallarni qidirish:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Qidiruv..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Qidiruv:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Orqa fonni tanlang"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "M3U eksport rejimini tanlang:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "M3U eksport qilinadigan mamlakatni tanlang:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Ishlatilgan o'yinchi uchun server"
 
 msgid "Server for player."
-msgstr ""
+msgstr "O'yinchi uchun server."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Barcha kanallar koʻrsatilmoqda: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Kosmos"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "EPG yangilanishi hozir boshlansinmi?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Translatsiya tugadi. Juda koʻp ulanish muammolari."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Texnik xususiyatlari:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Bu autentifikatsiya tokenini yangilaydi."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Bu olib tashlaydi:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Bu:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Yangilashni boshlash vaqti:"
 
 msgid "Top"
-msgstr ""
+msgstr "Yuqori"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Jami kanallar: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "YTH"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Yangilanish oralig'i (soat)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Yangilash oralig'i (daqiqa):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG yangilanmoqda..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "EPGImportda Vavoo EPG manbasi yoqilmagan. Iltimos, uni EPGImport sozlamalarida yoqing."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG manbasi topilmadi. Iltimos, avval kamida bitta guldastani eksport qiling."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Ma'lumot"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Vavoo Stream jonli plagin"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo guldastalari muvaffaqiyatli olib tashlandi!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo allaqachon ishlamoqda."
 
 msgid "Version:"
-msgstr ""
+msgstr "Versiya:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Proksi-server kutilmoqda..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "EPG yordami bilan Vavoo Proksi-ga xush kelibsiz"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Siz uni menyudan yoki TEXT tugmasini bosish orqali boshlashingiz mumkin."
 
 msgid "fixed time"
-msgstr ""
+msgstr "belgilangan vaqt"
 
 msgid "interval"
 msgstr ""
 
 msgid "lowercase"
-msgstr ""
+msgstr "kichik harf"
 
 msgid "seconds"
-msgstr ""
+msgstr "soniya"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Proksi-server ({0}s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Proksi OK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Qayta ishga tushirildi"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Xato"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Proksi-server xatosi"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Proksi muddati tugagan"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proksi oflayn"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Qayta ishga tushirilmadi"

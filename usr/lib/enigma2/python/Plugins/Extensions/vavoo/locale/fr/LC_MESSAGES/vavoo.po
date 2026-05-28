@@ -20,7 +20,7 @@ msgstr ""
 "X-Poedit-SearchPath-5: vUtils.py\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Expiration du mandataire"
 
 msgid "(%d channels)?"
 msgstr "(%d chaînes) ?"
@@ -29,7 +29,7 @@ msgid "(%s files deleted)"
 msgstr "(%s fichiers supprimés)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Ajouter les champs manquants à toutes les entrées"
 
 msgid "- Auto token refresh every 9 minutes"
 msgstr "- Actualisation automatique du jeton toutes les 9 minutes"
@@ -44,7 +44,7 @@ msgid "- Category bouquets"
 msgstr "- Bouquets par catégorie"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Nettoyer le fichier cache"
 
 msgid "- Commercial use is strictly prohibited"
 msgstr "- Utilisation commerciale strictement interdite"
@@ -77,7 +77,7 @@ msgid "- Redistribution must maintain attribution"
 msgstr "- La redistribution doit maintenir l'attribution"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Supprimer les entrées en double"
 
 msgid "- Service references: 4097, 5001, 5002"
 msgstr "- Références de service : 4097, 5001, 5002"
@@ -92,16 +92,16 @@ msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr "- Support technique : Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} entrées en double supprimées"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} entrées mises à jour"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Statut du proxy"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Proxy inconnu"
 
 #, fuzzy
 msgid "Active Automatic Bouquet Update"
@@ -154,13 +154,13 @@ msgid "Bouquets reorganized successfully!"
 msgstr "Bouquets réorganisés avec succès !"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Changement | OK=Basculer | INFO=IMDb | STOP=Quitter"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Correction du format de cache terminée :"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Le cache est déjà au format correct. Aucun changement nécessaire."
 
 msgid "Cancel"
 msgstr "Annuler"
@@ -191,13 +191,13 @@ msgid "Configure Main Background Image."
 msgstr "Configurer l'image de fond principale."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Configurer à heure fixe"
 
 msgid "Configure interval minutes from now"
 msgstr "Configurer l'intervalle en minutes à partir de maintenant"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Configurer le service Référence Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
 msgstr "Console"
@@ -231,7 +231,7 @@ msgid "Do you want to fix the cache format?"
 msgstr "Voulez-vous exporter ce bouquet ?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Seuil de similarité EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
 msgstr "L'EPG est désactivé. Veuillez d'abord l'activer dans les paramètres Vavoo."
@@ -287,7 +287,7 @@ msgid "Error: {}"
 msgstr "Erreur : {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortie"
 
 msgid "Export"
 msgstr "Exporter"
@@ -309,10 +309,10 @@ msgid "Failed: %(failed)d"
 msgstr "Échec : %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Réparer le cache"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Correction du format du cache..."
 
 msgid "Force proxy refresh?"
 msgstr "Forcer l'actualisation du proxy ?"
@@ -345,7 +345,7 @@ msgid "Important Notes:"
 msgstr "Notes importantes :"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Augmentez si le proxy prend du temps en raison d'un VPN ou d'une connexion lente."
 
 msgid "Keyboard"
 msgstr "Clavier"
@@ -376,13 +376,13 @@ msgid "M3U generation error: %s"
 msgstr "Erreur de génération M3U : %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Similitude minimale pour les canaux correspondants (plus élevée = plus stricte)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Référence des services cinématographiques"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Aucun plug-in IMDb/TMDB trouvé"
 
 msgid "No Internet connection detected. Please check your network."
 msgstr "Aucune connexion Internet détectée. Veuillez vérifier votre réseau."
@@ -398,13 +398,13 @@ msgid "No channels found in search!!!"
 msgstr "Aucune chaîne trouvée pour : %s"
 
 msgid "No items available"
-msgstr ""
+msgstr "Aucun article disponible"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Aucune information sur le programme disponible"
 
 msgid "No selection"
-msgstr ""
+msgstr "Aucune sélection"
 
 msgid "No valid channels for: %s"
 msgstr "Aucune chaîne valide pour : %s"
@@ -431,7 +431,7 @@ msgid "Proxy Enabled"
 msgstr "Proxy activé"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Erreur de proxy :"
 
 msgid "Proxy disabled"
 msgstr "Proxy désactivé"
@@ -455,7 +455,7 @@ msgid "Proxy restarting... Please wait"
 msgstr "Redémarrage du proxy... Veuillez patienter"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Délai d'expiration du démarrage du proxy (secondes)"
 
 msgid "Proxy token refreshed successfully"
 msgstr "Jeton du proxy actualisé avec succès"
@@ -464,7 +464,7 @@ msgid "Ready"
 msgstr "Prêt"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Vraiment fermer sans enregistrer les paramètres ?"
 
 msgid "Recommended: 5-8 minutes"
 msgstr "Recommandé : 5-8 minutes"
@@ -479,10 +479,10 @@ msgid "Reload Bouqet"
 msgstr "Recharger le bouquet"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Recharger les bouquets et la liste de services ?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Retirer"
 
 msgid "Remove ALL Vavoo bouquets?"
 msgstr "Supprimer TOUS les bouquets Vavoo ?"
@@ -495,10 +495,10 @@ msgid "Restarting..."
 msgstr "Redémarrer"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "SÉLECTIONNEZ VOTRE CHOIX"
 
 msgid "Save"
-msgstr ""
+msgstr "Sauvegarder"
 
 msgid "Saved in: %(path)s"
 msgstr "Enregistré dans : %(path)s"
@@ -618,16 +618,16 @@ msgid "Waiting for proxy..."
 msgstr "Attente du proxy..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Bienvenue sur Vavoo Proxy avec support EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
 msgstr "Vous pouvez le démarrer depuis le menu ou en appuyant sur le bouton TEXT."
 
 msgid "fixed time"
-msgstr ""
+msgstr "heure fixe"
 
 msgid "interval"
-msgstr ""
+msgstr "intervalle"
 
 msgid "lowercase"
 msgstr "minuscules"
@@ -646,20 +646,20 @@ msgid "✓ Restarted"
 msgstr "Redémarrer"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Erreur"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Erreur de proxy"
 
 #, fuzzy
 msgid "✗ Proxy Expired"
 msgstr "Proxy activé"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proxy hors ligne"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Échec du redémarrage"
 
 #~ msgid "Active or Disactive Ipv6."
 #~ msgstr "Activer ou désactiver IPv6."

@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Dirprwy yn dod i ben"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d sianel)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s ffeil wedi'u dileu)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Ychwanegu meysydd coll i bob cofnod"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Adnewyddu tocyn awtomatig bob 9 munud"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Cynhyrchu Epg Awtomatig gyda Chyfeirnod Gwasanaeth"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Cynhyrchu tusw awtomatig"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Categori tuswau"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Glanhewch y ffeil storfa"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Gwaherddir defnydd masnachol yn llym"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Cymuned: Linuxsat-support.com, Fforwm Corvoboys.org"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Tuswau cynhwysydd"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Tuswau gwlad"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Cynnwys am ddim yn unig"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Graffeg: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- Ffrydio Byw HTTP"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- System ddirprwy integredig"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Dim hosting gweinydd uniongyrchol"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Rhaid i ailddosbarthu gynnal priodoliad"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Dileu cofnodion dyblyg"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Cyfeirnodau gwasanaeth: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Ffrydiau o ffynonellau cyhoeddus"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Fformatau TS / M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Cefnogaeth dechnegol: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} cofnod dyblyg wedi'u tynnu"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} cofnod wedi'u diweddaru"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Statws Dirprwy"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Dirprwy Anhysbys"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Diweddariad Bouquet Awtomatig Actif"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Pob gwlad (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Mae allforio ar gyfer gwlad arall eisoes ar y gweill. Arhoswch os gwelwch yn dda."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Ar adegau egwyl neu amser penodol"
 
 msgid "Author:"
-msgstr ""
+msgstr "Awdur:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Diweddaru EPG yn awtomatig"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Sbardun diweddariad EPG yn awtomatig ar ôl creu ffynhonnell"
 
 msgid "Back"
-msgstr ""
+msgstr "Yn ol"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Gofod cefn"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Gwaelod"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Safle Bouquet yn y Rhestr"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Gwall creu tusw: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Tusw yn barod gyda {} sianeli"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Ail-lwytho tuswau wedi'i drefnu."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Tuswau wedi'u had-drefnu'n llwyddiannus!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Newid | Iawn=Toglo | INFO=IMDb | STOP=Gadael"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Cwblhawyd atgyweiriad fformat cache:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Mae'r storfa eisoes yn y fformat cywir. Dim angen newidiadau."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Canslo"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Canslo gweithrediad?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Achos: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Sianeli"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Sianeli: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Wrthi'n gwirio dirprwy..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Clirio Pawb"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Cadwyd y ffurfwedd yn llwyddiannus!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Ffurfweddu Prif Ddelwedd Gefndir."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Ffurfweddu ar amser penodol"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Ffurfweddu munudau egwyl o nawr"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Ffurfweddu gwasanaeth Cyfeirnod Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Consol"
 
 msgid "Countries"
-msgstr ""
+msgstr "Gwledydd"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Gwledydd: %(cynhyrchwyd)d/%(total)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Gwlad: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Creu ffynhonnell EPG ar gyfer EPGImport gyda data rhaglen Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Credydau:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Golwg ddiofyn"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Gwedd ddiofyn wrth agor yr ategyn"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Ydych chi am allforio'r tusw hwn?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Ydych chi am drwsio fformat y storfa?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Trothwy Tebygrwydd EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "Mae EPG wedi'i analluogi. Galluogwch ef mewn gosodiadau Vavoo yn gyntaf."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Prosesu EPG wedi'i chwblhau (dim cyfatebiaeth)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Cwblhawyd prosesu EPG ar gyfer {} sianel"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Diweddariad EPG wedi'i gwblhau"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Methodd diweddariad EPG"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "Dechreuodd diweddariad EPG yn llwyddiannus"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Galluogi Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Galluogi neu analluogi dirprwy."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Rhowch destun i chwilio..."
 
 msgid "Error"
-msgstr ""
+msgstr "Gwall"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Gwall wrth drwsio'r storfa: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Gwall wrth ddosrannu data"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Gwall wrth gychwyn diweddariad EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Gwall wrth gychwyn y sianel"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Gwall: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Gwall: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ymadael"
 
 msgid "Export"
-msgstr ""
+msgstr "Allforio"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Methodd yr allforio: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Dechreuwyd allforio. Bydd tusw ar gael yn fuan."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Wedi methu ag adnewyddu tocyn dirprwy"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Wedi methu ag adnewyddu dirprwy:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Wedi methu: %(methed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Atgyweiria Cache"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Wrthi'n trwsio fformat y storfa..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Gorfodi adnewyddu dirprwy?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Wedi dod o hyd: {} sianeli"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Cynhyrchu ffeil .m3u ar gyfer:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Cynhyrchu ffeiliau .m3u (Ok for Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Cynhyrchu ffeiliau .m3u a chadw i ddyfais %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Cynhyrchu ffeiliau .m3u a chadw i ddyfais %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Cynhyrchu ffeiliau .m3u ar gyfer POB gwlad %d?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Cuddio/Dangos"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Pa mor aml i ddiweddaru'r EPG yn awtomatig (angen amserlennydd EPGImport)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Nodiadau Pwysig:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Cynyddwch os yw dirprwy yn cymryd llawer o amser oherwydd VPN neu gysylltiad araf."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Bysellfwrdd"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Diweddariad sianel diwethaf: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Trwydded:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Trwydded: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Dolen yn y Brif Ddewislen"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Is = llai o ymyrraeth ond mwy o adnewyddu"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Ffeil M3U wedi'i chynhyrchu'n llwyddiannus!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Cenhedlaeth M3U wedi'i chwblhau!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Gwall cenhedlaeth M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Tebygrwydd lleiaf ar gyfer sianeli cyfatebol (uwch = llymach)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Cyfeirnod Gwasanaethau Ffilm"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Ni chanfuwyd ategyn IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Dim cysylltiad Rhyngrwyd wedi'i ganfod. Gwiriwch eich rhwydwaith."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Heb ganfod sianeli"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Heb ganfod sianeli ar gyfer: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Dim sianeli wedi'u canfod wrth chwilio !!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Dim eitemau ar gael"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Dim gwybodaeth rhaglen ar gael"
 
 msgid "No selection"
-msgstr ""
+msgstr "Dim dewis"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Dim sianeli dilys ar gyfer: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Nawr %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Dim ond un wlad benodol"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Rhowch gynnig ar sianel arall."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Safle tuswau Vavoo yn y brif restr"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Pwyswch y botwm TESTUN i deipio, BACKSPACE i ddileu"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Dirprwy Anabl"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Wedi Galluogi drwy Ddirprwy"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Gwall dirprwy:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Analluogwyd dirprwy"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Mae dirprwy wedi'i analluogi. Os gwelwch yn dda Gosod Dirprwy ymlaen yn gyntaf. -- Ffurfwedd Dewislen --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Mae dirprwy wedi'i analluogi. Galluogwch ef yn y ffurfweddiad."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Nid yw dirprwy yn rhedeg. Dechreuwch y dirprwy yn gyntaf."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Dirprwy ddim yn weithredol. Methu cynhyrchu ffeil M3U."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Dirprwy ddim yn ymateb ar ôl"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Dirprwy yn ailgychwyn... Arhoswch"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Goramser cychwyn dirprwy (eiliadau)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Tocyn dirprwy wedi'i adnewyddu'n llwyddiannus"
 
 msgid "Ready"
-msgstr ""
+msgstr "Yn barod"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Cau iawn heb gadw gosodiadau?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Argymhellir: 5-8 munud"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Ffrwd adnewyddu (munudau):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Adnewyddu'r ffrwd bob X munud (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Ail-lwytho Bouqet"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Ail-lwytho tuswau a rhestr gwasanaeth?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Dileu"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Tynnu POB tusw Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Ailgychwyn"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Wrthi'n ailgychwyn..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "DEWISWCH EICH DEWIS"
 
 msgid "Save"
-msgstr ""
+msgstr "Arbed"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Cadwyd yn: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Cadwyd yn: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Math o amserlen:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Rhestr wedi'i Amserlennu:"
 
 msgid "Search"
-msgstr ""
+msgstr "Chwiliwch"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Sianeli Chwilio:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Chwilio..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Chwilio:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Dewiswch Cefndir"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Dewiswch fodd allforio M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Dewiswch wlad i allforio M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Gweinydd ar gyfer Chwaraewr a Ddefnyddir"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Gweinydd ar gyfer chwaraewr."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Yn dangos pob sianel: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Gofod"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Dechrau diweddariad EPG nawr?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Daeth y ffrwd i ben. Gormod o faterion cysylltiad."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Nodweddion Technegol:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Bydd hyn yn adnewyddu'r tocyn dilysu."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Bydd hyn yn dileu:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Bydd hyn yn:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Amser i ddechrau diweddaru:"
 
 msgid "Top"
-msgstr ""
+msgstr "Brig"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Cyfanswm sianeli: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "UCHAF"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Ysbaid diweddaru (oriau)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Cyfnod diweddaru (munudau):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Wrthi'n diweddaru EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Nid yw ffynhonnell EPG Vavoo wedi'i galluogi yn EPGImport. Galluogwch ef mewn gosodiadau EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Ni chanfuwyd ffynhonnell EPG Vavoo. Allforiwch o leiaf un tusw yn gyntaf."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Gwybodaeth"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Ategyn Vavoo Live Stream"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Tynnu tuswau Vavoo yn llwyddiannus!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Mae Vavoo eisoes yn rhedeg."
 
 msgid "Version:"
-msgstr ""
+msgstr "Fersiwn:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Aros am ddirprwy..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Croeso i Vavoo Proxy gyda chefnogaeth EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Gallwch chi ei gychwyn o'r ddewislen neu drwy wasgu'r botwm TESTUN."
 
 msgid "fixed time"
-msgstr ""
+msgstr "amser sefydlog"
 
 msgid "interval"
-msgstr ""
+msgstr "cyfwng"
 
 msgid "lowercase"
-msgstr ""
+msgstr "llythrennau bach"
 
 msgid "seconds"
-msgstr ""
+msgstr "eiliadau"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Dirprwy ({0}au)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Dirprwy yn iawn"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Wedi ailddechrau"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Gwall"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Gwall dirprwy"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Dirprwy wedi dod i ben"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Dirprwy All-lein"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Methwyd ailgychwyn"

@@ -12,70 +12,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Мӯҳлати прокси ба охир мерасад"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d канал)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s файл нест карда шуд)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Ба ҳама сабтҳо майдонҳои гумшударо илова кунед"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Навсозии автоматии аломати ҳар 9 дақиқа"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Насли худкори Epg бо истинод ба хидмат"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Насли гулдастаи худкор"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Гулдастаҳои категория"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Файли кэшро тоза кунед"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Истифодаи тиҷоратӣ қатъиян манъ аст"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Ҷомеа: Linuxsat-support.com, Форуми Corvoboys.org"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Гулдастаҳои контейнерӣ"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Гулдастаҳои кишвар"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Танҳо мундариҷаи ройгон"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Графика: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- Ҷараёни мустақими HTTP"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Системаи ҳамгирошудаи прокси"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Хостинги мустақими сервер нест"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Азнавтақсимкунӣ бояд аттрибутсияро нигоҳ дорад"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Сабтҳои такрориро нест кунед"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Маълумотномаҳои хидматӣ: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Ҷараёнҳо аз манбаъҳои ҷамъиятӣ"
 
 msgid "- TS/M3U8 formats"
 msgstr ""
@@ -84,547 +84,547 @@ msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr ""
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} сабтҳои такрорӣ хориҷ карда шуданд"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} сабтҳо нав карда шуданд"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Ҳолати прокси"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Прокси номаълум"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Навсозии худкори гулдастаи фаъол"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Ҳама кишварҳо (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Содирот ба кишвари дигар аллакай идома дорад. Илтимос истед."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Дар фосилаи соат ё вақти муайян"
 
 msgid "Author:"
-msgstr ""
+msgstr "Муаллиф:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Навсозии худкори EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Пас аз эҷоди манбаъ ба таври худкор навсозии EPG-ро оғоз кунед"
 
 msgid "Back"
-msgstr ""
+msgstr "Бозгашт"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Поён"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Мавқеи гулдастаҳо дар рӯйхат"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Хатогии эҷоди гулдастаҳо: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Гулдастаи омода бо {} канал"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Навсозии гулдастаҳо ба нақша гирифта шудааст."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Гулдастаҳо бомуваффақият аз нав ташкил карда шуданд!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Тағйир | Хуб = Гузариш | INFO=IMDb | STOP=Баромад"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Ислоҳи формати кэш анҷом ёфт:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Кэш аллакай дар формати дуруст аст. Тағйирот лозим нест."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Бекор кардан"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Иҷроро бекор кунед?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Ҳодиса: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Каналҳо"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Каналҳо: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Санҷиши прокси..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Ҳамаро тоза кунед"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Конфигуратсия бомуваффақият захира карда шуд!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Тасвири пасзаминаи асосиро танзим кунед."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Дар вақти муқарраршуда танзим кунед"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Аз ҳоло дақиқаҳои фосиларо танзим кунед"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Танзими хидмати Reference Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Консол"
 
 msgid "Countries"
-msgstr ""
+msgstr "Кишварҳо"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Кишварҳо: %(тавлидшуда)d/%(ҳамагӣ)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Кишвар: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Бо маълумоти барномаи Vavoo барои EPGImport манбаи EPG эҷод кунед"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Қарзҳо:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Намоиши пешфарз"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Намоиши пешфарз ҳангоми кушодани плагин"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Оё шумо мехоҳед ин гулдастаро содир кунед?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Оё шумо мехоҳед формати кэшро ислоҳ кунед?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Ҳадди шабоҳати EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG ғайрифаъол аст. Лутфан онро аввал дар танзимоти Vavoo фаъол созед."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Коркарди EPG анҷом ёфт (нест мувофиқат)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Коркарди EPG барои {} канал анҷом ёфт"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Навсозии EPG анҷом ёфт"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Навсозии EPG ноком шуд"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "Навсозии EPG бомуваффақият оғоз шуд"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Vavoo EPG-ро фаъол созед"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Проксиро фаъол ё ғайрифаъол кунед."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Матн барои ҷустуҷӯ ворид кунед..."
 
 msgid "Error"
-msgstr ""
+msgstr "Хатогӣ"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Хатогӣ дар ислоҳи кэш: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Хатогии таҳлили маълумот"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Хатогӣ дар оғози навсозии EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Хатогӣ дар оғози канал"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Хатогӣ: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Хатогӣ: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Баромадгоҳ"
 
 msgid "Export"
-msgstr ""
+msgstr "Содирот"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Содирот ноком шуд: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Содирот оғоз шуд. Букет ба наздикӣ дастрас хоҳад шуд."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Навсозии аломати прокси ноком шуд"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Проксиро навсозӣ карда натавонист:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Муваффақ нашуд: %(ноком)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Ислоҳи кэш"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Ислоҳи формати кэш..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Навсозии проксиро маҷбур кунед?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Дарёфт: {} канал"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Эҷоди файли .m3u барои:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Файлҳои .m3u эҷод кунед (Хуб барои Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Файлҳои .m3u эҷод кунед ва дар дастгоҳи %s захира кунед."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Файлҳои .m3u тавлид кунед ва дар дастгоҳи %s захира кунед?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Барои ҲАМАИ %d кишвар файлҳои .m3u тавлид кунед?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Пинҳон / Намоиш"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Чӣ қадар вақт ба таври худкор навсозии EPG (нақшаи EPGImport лозим аст)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Эзоҳҳои муҳим:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Зиёд кунед, агар прокси бо сабаби VPN ё пайвасти суст тӯл кашад."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавиатура"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Навсозии охирини канал: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Иҷозатнома:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Иҷозатнома: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Истинод дар Менюи асосӣ"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Поён = камтар халалдор, вале бозсозӣ бештар"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Файли M3U бомуваффақият тавлид шуд!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Насли M3U анҷом ёфт!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Хатогии тавлиди M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Монандии ҳадди аққал барои каналҳои мувофиқ (баландтар = сахттар)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Маълумотнома дар бораи хидматҳои филм"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Ягон плагини IMDb/TMDB ёфт нашуд"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Пайвасти интернет ошкор нашудааст. Лутфан шабакаи худро санҷед."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Ягон канал ёфт нашуд"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Барои %s ягон канал ёфт нашуд"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Дар ҷустуҷӯ ягон канал ёфт нашуд!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Ягон ашё дастрас нест"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Маълумоти барнома дастрас нест"
 
 msgid "No selection"
-msgstr ""
+msgstr "Интихоб нест"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Барои %s каналҳои дуруст надоранд"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Ҳоло %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Танҳо як кишвари мушаххас"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Лутфан канали дигарро санҷед."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Мавқеи гулдастаҳои Vavoo дар рӯйхати асосӣ"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Барои навиштан тугмаи TEXT-ро, барои нест кардани BACKSPACE -ро пахш кунед"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Прокси ғайрифаъол"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Прокси фаъол аст"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Хатогии прокси:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Прокси ғайрифаъол"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Прокси ғайрифаъол аст. Лутфан, аввал проксиро фаъол созед. -- Танзимоти меню --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Прокси ғайрифаъол аст. Лутфан онро дар конфигуратсия фаъол созед."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Прокси кор намекунад. Лутфан, аввал проксиро оғоз кунед."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Прокси фаъол нест. Файли M3U тавлид карда намешавад."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Прокси пас аз он ҷавоб намедиҳад"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Прокси бозоғоз карда мешавад... Лутфан интизор шавед"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Вақтхушии оғози прокси (сонияҳо)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Аломати прокси бомуваффақият нав карда шуд"
 
 msgid "Ready"
-msgstr ""
+msgstr "Тайёр"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Дар ҳақиқат бе нигоҳ доштани танзимот пӯшида мешавад?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Тавсия дода мешавад: 5-8 дақиқа"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Навсозии ҷараён (дақиқа):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Ҷараёнро ҳар X дақиқа навсозӣ кунед (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Букетро аз нав бор кунед"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Гулдастаҳо ва рӯйхати хидматҳоро аз нав бор кунед?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Хориҷ кунед"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "ҲАМАИ гулдастаҳои Vavoo хориҷ карда шавад?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Оғози дубора"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Бозоғозӣ..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ИНТИХОБИ ХУДРО ИНТИХОБ КУНЕД"
 
 msgid "Save"
-msgstr ""
+msgstr "Захира кунед"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Дар: %(path)s захира шудааст"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Дар: %s захира шудааст"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Навъи ҷадвал:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Рӯйхати нақшавӣ:"
 
 msgid "Search"
-msgstr ""
+msgstr "Ҷустуҷӯ"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Ҷустуҷӯи каналҳо:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Ҷустуҷӯ..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Ҷустуҷӯ:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Замина интихоб кунед"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Ҳолати содироти M3U-ро интихоб кунед:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Кишвареро барои содироти M3U интихоб кунед:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Сервер барои плеери истифодашуда"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Сервер барои бозигар."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Намоиши ҳама каналҳо: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Фазо"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Навсозии EPG-ро ҳозир оғоз кунед?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Ҷараён ба охир расид. Мушкилоти аз ҳад зиёди пайвастшавӣ."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Хусусиятҳои техникӣ:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Ин аломати аутентификатсияро нав мекунад."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Ин хориҷ мекунад:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Ин хоҳад кард:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Вақти оғози навсозӣ:"
 
 msgid "Top"
-msgstr ""
+msgstr "боло"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Ҳама каналҳо: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "ХАРФИ КАЛОН"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Фосилаи навсозӣ (соат)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Фосилаи навсозӣ (дақиқа):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Навсозии EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Манбаи Vavoo EPG дар EPGImport фаъол нест. Лутфан онро дар танзимоти EPGImport фаъол созед."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Манбаи Vavoo EPG ёфт нашуд. Лутфан аввал ақаллан як гулдастаро содир кунед."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Маълумот"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Vavoo Stream Васлкунаки Зиндагӣ"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Гулдастаҳои Vavoo бомуваффақият хориҷ карда шуданд!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo аллакай кор мекунад."
 
 msgid "Version:"
-msgstr ""
+msgstr "Версия:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Интизори прокси..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Хуш омадед ба Vavoo Proxy бо дастгирии EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Шумо метавонед онро аз меню ё пахш кардани тугмаи TEXT оғоз кунед."
 
 msgid "fixed time"
-msgstr ""
+msgstr "вақти муайян"
 
 msgid "interval"
-msgstr ""
+msgstr "фосила"
 
 msgid "lowercase"
-msgstr ""
+msgstr "ҳарфи хурд"
 
 msgid "seconds"
-msgstr ""
+msgstr "сония"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Прокси ({0}с)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Прокси Хуб"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Аз нав оғоз шуд"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Хато"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Хатои прокси"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Мӯҳлати прокси гузаштааст"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Прокси офлайн"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Бозоғозӣ ноком шуд"

@@ -13,619 +13,619 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! תוקף פרוקסי יפוג"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d ערוצים)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s קבצים נמחקו)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- הוסף שדות חסרים לכל הערכים"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- רענון אוטומטי של אסימון כל 9 דקות"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- יצירת EPG אוטומטית עם הפניית שירות"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- ייצור זרים אוטומטי"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- זרי פרחים בקטגוריה"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- נקה את קובץ המטמון"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- שימוש מסחרי אסור בהחלט"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- קהילה: Linuxsat-support.com, פורום Corvoboys.org"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- זרי מיכל"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- זרי פרחים כפריים"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- תוכן חינם בלבד"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- גרפיקה: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- הזרמת HTTP בשידור חי"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- מערכת פרוקסי משולבת"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- אין אירוח שרת ישיר"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- חלוקה מחדש חייבת לשמור על ייחוס"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- הסר ערכים כפולים"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- אסמכתאות שירות: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- זרמים ממקורות ציבוריים"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- פורמטים TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- תמיכה טכנית: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} ערכים כפולים הוסרו"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} ערכים עודכנו"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? סטטוס פרוקסי"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? פרוקסי לא ידוע"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "עדכון זר אוטומטי אקטיבי"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "כל המדינות (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "ייצוא למדינה אחרת כבר מתבצע. אנא המתן."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "במרווח שעות או זמן קבוע"
 
 msgid "Author:"
-msgstr ""
+msgstr "מְחַבֵּר:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "עדכון אוטומטי של EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "הפעל אוטומטית עדכון EPG לאחר יצירת המקור"
 
 msgid "Back"
-msgstr ""
+msgstr "בְּחֲזָרָה"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "תַחתִית"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "מיקום זר ברשימה"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "שגיאה ביצירת זר: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "זר מוכן עם {} ערוצים"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "טעינת זרי פרחים מתוזמנת."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "זרי פרחים אורגנו מחדש בהצלחה!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=שינוי | OK=החלף | INFO=IMDb | STOP=יציאה"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "תיקון פורמט המטמון הושלם:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "המטמון כבר בפורמט הנכון. אין צורך בשינויים."
 
 msgid "Cancel"
-msgstr ""
+msgstr "לְבַטֵל"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "לבטל את הביצוע?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "מקרה: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "ערוצים"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "ערוצים: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "בודק פרוקסי..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "נקה הכל"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "התצורה נשמרה בהצלחה!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "הגדר תמונת רקע ראשית."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "הגדר בזמן קבוע"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "הגדר מעכשיו מרווח דקות"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "הגדר את שירות הפניה Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "לְנַחֵם"
 
 msgid "Countries"
-msgstr ""
+msgstr "מדינות"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "מדינות: %(generated)d/%(total)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "מדינה: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "צור מקור EPG עבור EPGImport עם נתוני תוכנית Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "קרדיטים:"
 
 msgid "Default View"
-msgstr ""
+msgstr "תצוגת ברירת מחדל"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "תצוגת ברירת מחדל בעת פתיחת הפלאגין"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "האם אתה רוצה לייצא את הזר הזה?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "האם אתה רוצה לתקן את פורמט המטמון?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "סף דמיון EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG מושבת. אנא הפעל אותו בהגדרות Vavoo תחילה."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "עיבוד EPG הושלם (ללא התאמות)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "עיבוד EPG הושלם עבור {} ערוצים"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "עדכון ה-EPG הושלם"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "עדכון ה-EPG נכשל"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "עדכון ה-EPG התחיל בהצלחה"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "הפעל את Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "הפעל או השבת פרוקסי."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "הזן טקסט לחיפוש..."
 
 msgid "Error"
-msgstr ""
+msgstr "שְׁגִיאָה"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "שגיאה בתיקון מטמון: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "שגיאה בניתוח נתונים"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "שגיאה בהפעלת עדכון EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "שגיאה בהפעלת הערוץ"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "שגיאה: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "שגיאה: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "יְצִיאָה"
 
 msgid "Export"
-msgstr ""
+msgstr "יְצוּא"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "הייצוא נכשל: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "הייצוא התחיל. זר יהיה זמין בקרוב."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "רענון אסימון ה-proxy נכשל"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "רענון ה-proxy נכשל:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "נכשל: %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "תקן את המטמון"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "מתקן את פורמט המטמון..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "לאלץ רענון פרוקסי?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "נמצאו: {} ערוצים"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "צור קובץ ‎.m3u עבור:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "צור קבצי ‎.m3u (Ok for Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "צור קבצי .m3u ושמור במכשיר %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "האם ליצור קבצי ‎.m3u ולשמור במכשיר %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "ליצור קבצי .m3u עבור כל %d המדינות?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "הסתר/הצג"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "באיזו תדירות לעדכן אוטומטית את ה-EPG (דורש מתזמן EPGImport)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "הערות חשובות:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "הגדל אם ה-proxy נמשך זמן רב עקב VPN או חיבור איטי."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "מִקלֶדֶת"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "עדכון ערוץ אחרון: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "רִשָׁיוֹן:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "רישיון: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "קישור בתפריט הראשי"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "נמוך יותר = פחות הפרעה אבל יותר מרענן"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "קובץ M3U נוצר בהצלחה!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "הושלם דור M3U!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "שגיאת יצירת M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "דמיון מינימלי לערוצים תואמים (גבוה יותר = קפדני יותר)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "הפניה לשירותי סרטים"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "לא נמצא תוסף IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "לא זוהה חיבור לאינטרנט. אנא בדוק את הרשת שלך."
 
 msgid "No channels found"
-msgstr ""
+msgstr "לא נמצאו ערוצים"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "לא נמצאו ערוצים עבור: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "לא נמצאו ערוצים בחיפוש!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "אין פריטים זמינים"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "אין מידע זמין על התוכנית"
 
 msgid "No selection"
-msgstr ""
+msgstr "אין בחירה"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "אין ערוצים חוקיים עבור: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "עכשיו %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "רק מדינה אחת ספציפית"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "אנא נסה ערוץ אחר."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "מיקום זרי Vavoo ברשימה הראשית"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
 msgstr ""
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "פרוקסי מושבת"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "פרוקסי מופעל"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "שגיאת פרוקסי:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "פרוקסי מושבת"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "פרוקסי מושבת. אנא הגדר תחילה פרוקסי. -- תצורת תפריט --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "פרוקסי מושבת. אנא הפעל אותו בתצורה."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "פרוקסי לא פועל. אנא הפעל תחילה את ה-proxy."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "פרוקסי לא פעיל. לא ניתן ליצור קובץ M3U."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "פרוקסי לא מגיב לאחר מכן"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "פרוקסי מופעל מחדש... אנא המתן"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "פסק זמן להפעלה של שרת proxy (שניות)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "אסימון ה-proxy רענן בהצלחה"
 
 msgid "Ready"
-msgstr ""
+msgstr "מוּכָן"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "באמת לסגור בלי לשמור הגדרות?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "מומלץ: 5-8 דקות"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "רענון זרם (דקות):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "רענן את השידור כל X דקות (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "טען מחדש זר"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "לטעון מחדש זרי פרחים ורשימת שירותים?"
 
 msgid "Remove"
-msgstr ""
+msgstr "לְהַסִיר"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "להסיר את כל זרי Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "הפעל מחדש"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "מופעל מחדש..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "בחר את הבחירה שלך"
 
 msgid "Save"
-msgstr ""
+msgstr "לְהַצִיל"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "נשמר ב: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "נשמר ב: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "סוג לוח זמנים:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "רשימה מתוזמנת:"
 
 msgid "Search"
-msgstr ""
+msgstr "לְחַפֵּשׂ"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "חיפוש ערוצים:"
 
 msgid "Search..."
-msgstr ""
+msgstr "לְחַפֵּשׂ..."
 
 msgid "Search:"
-msgstr ""
+msgstr "לְחַפֵּשׂ:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "בחר רקע"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "בחר מצב ייצוא M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "בחר מדינה לייצא M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "שרת עבור שחקן בשימוש"
 
 msgid "Server for player."
-msgstr ""
+msgstr "שרת לשחקן."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "מציג את כל הערוצים: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "מֶרחָב"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "להתחיל את עדכון ה-EPG עכשיו?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "השידור הסתיים. יותר מדי בעיות חיבור."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "מאפיינים טכניים:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "פעולה זו תרענן את אסימון האימות."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "פעולה זו תסיר:"
 
 msgid "This will:"
-msgstr ""
+msgstr "זה יהיה:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "זמן להתחיל לעדכן:"
 
 msgid "Top"
-msgstr ""
+msgstr "רֹאשׁ"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "סך הערוצים: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "אותיות רישיות"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "מרווח עדכון (שעות)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "מרווח עדכון (דקות):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "מעדכן את ה-EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "מקור EPG של Vavoo אינו מופעל ב-EPGImport. אנא הפעל אותו בהגדרות EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "מקור EPG של Vavoo לא נמצא. אנא ייצא תחילה לפחות זר אחד."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "זרם Vavoo בשידור חי"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - מידע"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "תוסף Vavoo Stream Live"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "זרי Vavoo הוסרו בהצלחה!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo כבר פועל."
 
 msgid "Version:"
-msgstr ""
+msgstr "גִרְסָה:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "ממתין ל-proxy..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "ברוכים הבאים ל-Vavoo Proxy עם תמיכה ב-EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "אתה יכול להפעיל אותו מהתפריט או על ידי לחיצה על כפתור הטקסט."
 
 msgid "fixed time"
-msgstr ""
+msgstr "זמן קבוע"
 
 msgid "interval"
-msgstr ""
+msgstr "הַפסָקָה"
 
 msgid "lowercase"
-msgstr ""
+msgstr "אותיות קטנות"
 
 msgid "seconds"
-msgstr ""
+msgstr "שניות"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ פרוקסי ({0}ים)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ פרוקסי בסדר"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ הופעל מחדש"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ שגיאה"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ שגיאת פרוקסי"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ פג תוקף פרוקסי"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ פרוקסי לא מקוון"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ הפעלה מחדש נכשלה"

@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Прокси вакыты"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(% d каналлары)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(% s файллары бетерелде)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Барлык язмаларга югалган кырларны өстәгез"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Авто токен 9 минут саен яңартыла"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Сервис сылтамасы белән автоматик Epg буын"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Автомат букет ясау"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Төркем чәчәкләре"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Кэш файлын чистартыгыз"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Коммерция куллану катгый тыелган"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Communityәмгыять: Linuxsat-support.com, Corvoboys.org форумы"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Контейнер чәчәкләре"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Ил чәчәкләре"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Бушлай эчтәлек"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Графика: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP туры эфир"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Интеграль прокси системасы"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Туры сервер хостингы юк"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Бүлешү атрибутиканы сакларга тиеш"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Дубликат язмаларны бетерегез"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Хезмәт күрсәтү өчен сылтамалар: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- publicәмәгать чыганакларыннан агымнар"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS / M3U8 форматлары"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Техник ярдәм: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} кабатланган язмалар алынды"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} язмалар яңартылды"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Прокси статусы"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Прокси билгесез"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Актив автомат букет яңартуы"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Барлык илләр (% d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Башка ил өчен экспорт дәвам итә. Зинһар, көтегез."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Интервал сәгатьләрдә яки билгеләнгән вакытта"
 
 msgid "Author:"
-msgstr ""
+msgstr "Автор:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "EPG-ны автоматик яңарту"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Чыганактан соң EPG яңартуны автоматик рәвештә эшләтеп җибәрү"
 
 msgid "Back"
-msgstr ""
+msgstr "Кире"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Арткы урын"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Түбәндә"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Букет исемлеге"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Букет ясау хата: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Букет {} каналлары белән әзер"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Букетлар яңадан планлаштырылган."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Букетлар уңышлы үзгәртелде!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH ± = үзгәртү | Ярар = Күчерегез | INFO = IMDb | STOP = чыгу"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Кэш форматын төзәтү тәмамланды:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Кэш дөрес форматта. Changesзгәрешләр кирәк түгел."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Баш тарту"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Башкаруны кире кагарга?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Эш: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Каналлар"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Каналлар:% d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Прокси тикшерү ..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Барысын да чистарт"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Конфигурация уңышлы сакланды!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Төп фон рәсемен конфигурацияләгез."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Билгеләнгән вакытта конфигурацияләгез"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Моннан интервал минутларын конфигурацияләгез"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Хезмәтне конфигурацияләү Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Консоль"
 
 msgid "Countries"
-msgstr ""
+msgstr "Илләр"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Илләр:% (ясалган) d /% (гомуми) d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Ил:% s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Vavoo программа мәгълүматлары белән EPGImport өчен EPG чыганагын булдырыгыз"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Кредитлар:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Килешү күренеше"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Плагинны ачканда килешү күренеше"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Бу букетны экспортларга телисезме?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Кэш форматын төзәтергә телисезме?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG охшашлык бусагасы (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG инвалид. Зинһар, аны башта Vavoo көйләүләрендә эшләгез."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG эшкәртү тәмамланды (матчлар юк)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "EPG эшкәртү {} каналлары өчен тәмамланды"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG яңарту тәмамланды"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG яңарту уңышсыз"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG яңарту уңышлы башланды"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Vavoo EPG кушу"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Прокси кушу яки сүндерү."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Эзләү өчен текст кертегез ..."
 
 msgid "Error"
-msgstr ""
+msgstr "Хата"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Кэшны төзәтүдә хата: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Мәгълүматны анализлауда хата"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "EPG яңартуны башлап җибәрүдә хата: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Каналны башлауда хата"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Хата:% s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Хата: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Чык"
 
 msgid "Export"
-msgstr ""
+msgstr "Экспорт"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Экспорт уңышсыз: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Экспорт башланды. Букет тиздән булачак."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Прокси токенын яңарта алмады"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Прокси яңартылмады:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Уңышсыз:% (уңышсыз) d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Кэшны төзәтегез"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Кэш форматын төзәтү ..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Прокси яңарту?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Табылды: {} каналлар"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Өчен .m3u файл ясагыз:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr ".M3u файлларын ясагыз (Exec өчен Ok)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr ".M3u файлларын ясагыз һәм% s җайланмасына саклагыз."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr ".M3u файлларын ясагыз һәм% s җайланмасына саклагыз?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "БАРЫ% d илләр өчен .m3u файллары ясагыз?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Яшерү / күрсәтү"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "EPG-ны ничә тапкыр яңартырга (EPGImport расписаниесе кирәк)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Мөһим искәрмәләр:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "VPN яки әкрен тоташу аркасында прокси озакка сузылса, арттырыгыз."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавиатура"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Соңгы каналны яңарту:% s"
 
 msgid "License:"
-msgstr ""
+msgstr "Лицензия:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Лицензия: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Төп менюда сылтама"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Түбән = азрак өзелү, ләкин күбрәк яңарту"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U файл уңышлы ясалды!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U буыны тәмамланды!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U буын хата:% s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Каналларга туры килү өчен минималь охшашлык (югарырак = катырак)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Кино хезмәтләренә сылтама"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb / TMDB плагины табылмады"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Интернетка тоташу табылмады. Зинһар, челтәрегезне тикшерегез."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Канал табылмады"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Каналлар табылмады:% s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Эзләүдә каналлар табылмады !!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Беркем дә юк"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Программа турында мәгълүмат юк"
 
 msgid "No selection"
-msgstr ""
+msgstr "Сайлау юк"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "% S өчен дөрес каналлар юк"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Хәзер% s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Бер генә ил"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Зинһар, бүтән каналны карагыз."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Төп исемлектә Vavoo букетларының позициясе"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Язу өчен TEXT төймәсенә басыгыз, бетерү өчен КЕРЕК"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Прокси инвалид"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Прокси кушылган"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Прокси хата:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Прокси инвалид"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Прокси инвалид. Зинһар, башта прокси куегыз. - Меню Конфиг -"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Прокси инвалид. Зинһар, аны конфигурациядә эшләгез."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Прокси эшләми. Зинһар, башта прокси башлый."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Прокси актив түгел. M3U файл ясап булмый."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Прокси соңыннан җавап бирми"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Прокси яңадан башлау ... Зинһар, көтегез"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Прокси старт вакыты (секундлар)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Прокси билгесе уңышлы яңартылды"
 
 msgid "Ready"
-msgstr ""
+msgstr "Әзер"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Чыннан да көйләүләрне сакламыйча ябыкмы?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Тәкъдим ителә: 5-8 минут"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Агымны яңарту (минутлар):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Xәр минутта агымны яңартыгыз (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Букетны яңадан йөкләү"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Букетларны һәм хезмәт исемлеген яңадан йөкләгез?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Чыгар"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "БАРЫ Vavoo букетларын бетерегез?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Яңарту"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Яңарту ..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "Сайлавыгызны сайлагыз"
 
 msgid "Save"
-msgstr ""
+msgstr "Саклагыз"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Сакланган:% (юл) лар"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Сакланган:% s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Расписание төре:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Планлаштырылган исемлек:"
 
 msgid "Search"
-msgstr ""
+msgstr "Эзләү"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Эзләү каналлары:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Эзләү ..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Эзләү:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Фонны сайлагыз"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "M3U экспорт режимын сайлагыз:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "M3U экспортлау өчен илне сайлагыз:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Плеер өчен сервер"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Плеер өчен сервер."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Барлык каналларны күрсәтү: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Космос"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "EPG яңартуны хәзер башлыйсызмы?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Агым бетте. Бик күп тоташу проблемалары."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Техник үзенчәлекләр:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Бу аутентификация токенын яңартачак."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Бу бетерәчәк:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Бу:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Яңартуны башларга вакыт:"
 
 msgid "Top"
-msgstr ""
+msgstr ".Гары"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Гомуми каналлар:% (гомуми_ каналлар) d"
 
 msgid "UPPERCASE"
 msgstr ""
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Интервалны яңарту (сәгатьләр)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Яңарту интервалы (минутлар):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG яңарту ..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG чыганагы EPGImport'та кушылмый. Зинһар, аны EPGImport көйләүләрендә эшләгез."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG чыганагы табылмады. Зинһар, башта ким дигәндә бер букет экспортлагыз."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Мәгълүмат"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Vavoo Stream Live Плагин"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo букетлары уңышлы бетерелде!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo эшли."
 
 msgid "Version:"
-msgstr ""
+msgstr "Вариант:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Прокси көтү ..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "EPG ярдәме белән Vavoo Proxy'ка рәхим итегез"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Сез аны менюдан яки TEXT төймәсенә басып башлый аласыз."
 
 msgid "fixed time"
-msgstr ""
+msgstr "билгеләнгән вакыт"
 
 msgid "interval"
-msgstr ""
+msgstr "интервал"
 
 msgid "lowercase"
-msgstr ""
+msgstr "кечкенә хәреф"
 
 msgid "seconds"
-msgstr ""
+msgstr "секунд"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "Xy Прокси ({0} s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "Xy Прокси ярый"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ яңадан башланды"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "Ror Хата"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Прокси хата"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Прокси вакыты"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "Off Оффлайн прокси"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Яңарту уңышсыз"

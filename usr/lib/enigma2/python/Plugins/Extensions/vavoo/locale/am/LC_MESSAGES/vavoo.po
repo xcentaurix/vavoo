@@ -15,616 +15,616 @@ msgid "! Proxy Expiring"
 msgstr ""
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d ሰርጦች)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s ፋይሎች ተሰርዘዋል)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- የጎደሉ መስኮችን ወደ ሁሉም ግቤቶች ያክሉ"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- በየ9 ደቂቃው ራስ-ሰር ማስመሰያ ያድሳል"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- ራስ-ሰር Epg ትውልድ ከአገልግሎት ማጣቀሻ ጋር"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- ራስ-ሰር እቅፍ ማመንጨት"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- የምድብ እቅፍ አበባዎች"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- የመሸጎጫ ፋይሉን ያጽዱ"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- የንግድ አጠቃቀም በጥብቅ የተከለከለ ነው።"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- ማህበረሰብ: Linuxsat-support.com, Corvoboys.org መድረክ"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- የመያዣ እቅፍ አበባዎች"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- የአገር እቅፍ አበባዎች"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- ነፃ ይዘት ብቻ"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- ግራፊክስ: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP የቀጥታ ዥረት"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- የተዋሃደ የተኪ ስርዓት"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- ምንም ቀጥተኛ አገልጋይ ማስተናገጃ የለም"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- እንደገና ማሰራጨት ባህሪን መጠበቅ አለበት።"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- የተባዙ ግቤቶችን ያስወግዱ"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- የአገልግሎት ማጣቀሻዎች: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- ከህዝብ ምንጮች ጅረቶች"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 ቅርጸቶች"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- የቴክኒክ ድጋፍ: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} የተባዙ ግቤቶች ተወግደዋል"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} ግቤቶች ተዘምነዋል"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? የተኪ ሁኔታ"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? ፕሮክሲ ያልታወቀ"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "ንቁ አውቶማቲክ ቡኬት ዝማኔ"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "ሁሉም አገሮች (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "ወደ ሌላ ሀገር መላክ አስቀድሞ በሂደት ላይ ነው። እባክህ ጠብቅ።"
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "በየተወሰነ ሰዓት ወይም የተወሰነ ጊዜ"
 
 msgid "Author:"
-msgstr ""
+msgstr "ደራሲ፡"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "ራስ-አዘምን EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "ከምንጩ ፈጠራ በኋላ የ EPG ዝመናን በራስ-ሰር ያስጀምሩ"
 
 msgid "Back"
-msgstr ""
+msgstr "ተመለስ"
 
 msgid "Backspace"
-msgstr ""
+msgstr "የኋላ ቦታ"
 
 msgid "Bottom"
-msgstr ""
+msgstr "ከታች"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "በዝርዝሩ ውስጥ የአበባ ማስቀመጫ አቀማመጥ"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "እቅፍ መፍጠር ስህተት፡ {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "ቡኬት ከ{} ቻናሎች ጋር ተዘጋጅቷል።"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "እቅፍ ድጋሚ መጫን መርሐግብር ተይዞለታል።"
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "እቅፍ አበባዎች በተሳካ ሁኔታ እንደገና ተደራጅተዋል!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=ለውጥ | እሺ=ቀያይር | INFO=IMDb | STOP=ውጣ"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "የመሸጎጫ ቅርጸት መጠገን ተጠናቅቋል፡"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "መሸጎጫ አስቀድሞ በትክክለኛው ቅርጸት ነው። ምንም ለውጦች አያስፈልጉም።"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ሰርዝ"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "ማስፈጸም ይቅር?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "ጉዳይ፡ {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "ቻናሎች"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "ቻናሎች፡ %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "ተኪን በመፈተሽ ላይ..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "ሁሉንም አጽዳ"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "ውቅር በተሳካ ሁኔታ ተቀምጧል!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "ዋናውን ዳራ ምስል ያዋቅሩ።"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "በተወሰነ ጊዜ አዋቅር"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "ከአሁን በኋላ ክፍተቶችን ያዋቅሩ"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "የአገልግሎት ማጣቀሻ Iptv-Gstreamer-Exteplayer3 አዋቅር"
 
 msgid "Console"
-msgstr ""
+msgstr "ኮንሶል"
 
 msgid "Countries"
-msgstr ""
+msgstr "አገሮች"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "አገሮች፡ %(የተፈጠሩ) d/%(ጠቅላላ)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "ሀገር፡ %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "ለEPGImport በVavoo ፕሮግራም ውሂብ የ EPG ምንጭ ይፍጠሩ"
 
 msgid "Credits:"
-msgstr ""
+msgstr "ምስጋናዎች"
 
 msgid "Default View"
-msgstr ""
+msgstr "ነባሪ እይታ"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "ተሰኪውን ሲከፍት ነባሪ እይታ"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "ይህን እቅፍ አበባ ወደ ውጭ መላክ ትፈልጋለህ?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "የመሸጎጫ ቅርጸቱን ማስተካከል ይፈልጋሉ?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "የ EPG ተመሳሳይነት ገደብ (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG ተሰናክሏል። እባኮትን መጀመሪያ በቫቮኦ ቅንጅቶች ውስጥ አንቃው።"
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "የ EPG ሂደት ተጠናቅቋል (ምንም ተዛማጅ የለም)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "ለ{} ቻናሎች የEPG ሂደት ተጠናቅቋል"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG ዝማኔ ተጠናቅቋል"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG ማዘመን አልተሳካም።"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "የ EPG ዝማኔ በተሳካ ሁኔታ ተጀምሯል።"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Vavoo EPGን አንቃ"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "ተኪን አንቃ ወይም አሰናክል።"
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "ለመፈለግ ጽሑፍ አስገባ..."
 
 msgid "Error"
-msgstr ""
+msgstr "ስህተት"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "መሸጎጫ ማስተካከል ላይ ስህተት፡ {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "ውሂብን በመተንተን ላይ ስህተት"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "የ EPG ዝማኔን መጀመር ላይ ስህተት፡ {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "ቻናል መጀመር ላይ ስህተት"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "ስህተት፡ %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "ስህተት፡ {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "ውጣ"
 
 msgid "Export"
-msgstr ""
+msgstr "ወደ ውጪ ላክ"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "ወደ ውጭ መላክ አልተሳካም፦ {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "መላክ ተጀመረ። ቡኬት በቅርቡ ይገኛል።"
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "የተኪ ማስመሰያ ማደስ አልተሳካም።"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "ተኪን ማደስ አልተሳካም፦"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "አልተሳካም፡ %(አልተሳካም)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "መሸጎጫ አስተካክል።"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "የመሸጎጫ ቅርጸትን በማስተካከል ላይ..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "የተኪ ማደስ ያስገድድ?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "ተገኝቷል፡ {} ቻናሎች"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr ".m3u ፋይል ፍጠር ለ፡"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr ".m3u ፋይሎችን ይፍጠሩ (እሺ ለ Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr ".m3u ፋይሎችን ይፍጠሩ እና ወደ መሣሪያ %s ያስቀምጡ።"
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr ".m3u ፋይሎችን ያመንጩ እና ወደ መሣሪያ %s ይቀመጡ?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "ለሁሉም %d አገሮች .m3u ፋይሎች ይፈጠሩ?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "ደብቅ/ አሳይ"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "ምን ያህል ጊዜ EPGን በራስ-ማዘመን (EPGImport መርሐግብር ያስፈልገዋል)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "ጠቃሚ ማስታወሻዎች፡-"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "በVPN ወይም በዝግተኛ ግንኙነት ምክንያት ተኪ ረጅም ጊዜ የሚወስድ ከሆነ ይጨምሩ።"
 
 msgid "Keyboard"
-msgstr ""
+msgstr "የቁልፍ ሰሌዳ"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "የመጨረሻው የሰርጥ ዝመና፡ %s"
 
 msgid "License:"
-msgstr ""
+msgstr "ፍቃድ፡"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "ፍቃድ፡ CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "በዋናው ምናሌ ውስጥ አገናኝ"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "ዝቅተኛ = ያነሰ መቆራረጥ ግን ብዙ እድሳት"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U ፋይል በተሳካ ሁኔታ ተፈጥሯል!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U ትውልድ ተጠናቅቋል!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "የM3U ትውልድ ስህተት፡ %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "ለተዛማጅ ቻናሎች ዝቅተኛው ተመሳሳይነት (ከፍ ያለ = ጥብቅ)።"
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "የፊልም አገልግሎቶች ማጣቀሻ"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "ምንም IMDb/TMDB ተሰኪ አልተገኘም።"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "ምንም የበይነመረብ ግንኙነት አልተገኘም። እባክህ አውታረ መረብህን አረጋግጥ።"
 
 msgid "No channels found"
-msgstr ""
+msgstr "ምንም ሰርጦች አልተገኙም።"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "ለ %s ምንም ሰርጦች አልተገኙም።"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "በፍለጋ ውስጥ ምንም ቻናል አልተገኙም !!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "ምንም እቃዎች አይገኙም።"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "ምንም የፕሮግራም መረጃ አይገኝም"
 
 msgid "No selection"
-msgstr ""
+msgstr "ምርጫ የለም።"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "ምንም የሚሰራ ሰርጦች የሉም ለ:%s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "አሁን %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "አንድ የተወሰነ ሀገር ብቻ"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "እባክህ ሌላ ቻናል ሞክር።"
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "በዋናው ዝርዝር ውስጥ የቫቮ እቅፍ አበባዎች አቀማመጥ"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "ለመተየብ የTEXT ቁልፍን ተጫን፣ ለመሰረዝ BACKSPACE"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "ተኪ ተሰናክሏል።"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "ተኪ ነቅቷል።"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "የተኪ ስህተት፡-"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "ተኪ ተሰናክሏል።"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "ተኪ ተሰናክሏል። እባክዎ መጀመሪያ ተኪ ያቀናብሩ። -- የምናሌ ማዋቀር --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "ተኪ ተሰናክሏል። እባክዎን በማዋቀሩ ውስጥ ያንቁት።"
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "ተኪ እየሰራ አይደለም። እባክዎ መጀመሪያ ተኪውን ይጀምሩ።"
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "ተኪ ገቢር አይደለም። M3U ፋይል መፍጠር አልተቻለም።"
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "ተኪ በኋላ ምላሽ አይሰጥም"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "ተኪ እንደገና በመጀመር ላይ... እባክዎ ይጠብቁ"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "የተኪ ጅምር ጊዜ አለቀ (ሰከንዶች)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "የተኪ ቶከን በተሳካ ሁኔታ ታድሷል"
 
 msgid "Ready"
-msgstr ""
+msgstr "ዝግጁ"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "ቅንብሮችን ሳታስቀምጥ በእርግጥ ይዘጋል?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "የሚመከር: 5-8 ደቂቃዎች"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "ዥረት አድስ (ደቂቃዎች)፦"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "ዥረቱን በየ X ደቂቃ ያድሱ (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "ቡኬትን እንደገና ጫን"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "እቅፍ አበባዎችን እና የአገልግሎት ዝርዝርን እንደገና ይጫኑ?"
 
 msgid "Remove"
-msgstr ""
+msgstr "አስወግድ"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "ሁሉም Vavoo እቅፍ አበባዎች ይወገዱ?"
 
 msgid "Restart"
-msgstr ""
+msgstr "እንደገና ጀምር"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "እንደገና በመጀመር ላይ..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ምርጫዎን ይምረጡ"
 
 msgid "Save"
-msgstr ""
+msgstr "አስቀምጥ"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "ተቀምጧል፡ %(መንገድ)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "ተቀምጧል፡ %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "የመርሃግብር አይነት፡"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "የታቀደ ዝርዝር፡-"
 
 msgid "Search"
-msgstr ""
+msgstr "ፈልግ"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "ቻናሎችን ፈልግ፡"
 
 msgid "Search..."
-msgstr ""
+msgstr "ፈልግ..."
 
 msgid "Search:"
-msgstr ""
+msgstr "ፈልግ፡"
 
 msgid "Select Background"
-msgstr ""
+msgstr "ዳራ ይምረጡ"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "የM3U ወደ ውጭ መላኪያ ሁነታን ይምረጡ፡-"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "M3U ወደ ውጭ የሚላኩበትን አገር ይምረጡ፡-"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "ያገለገለ የተጫዋች አገልጋይ"
 
 msgid "Server for player."
-msgstr ""
+msgstr "ለተጫዋች አገልጋይ."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "ሁሉንም ቻናሎች በማሳየት ላይ፡ {}"
 
 msgid "Space"
-msgstr ""
+msgstr "ክፍተት"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "የ EPG ዝማኔ አሁን ይጀምር?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "ዥረቱ አልቋል። በጣም ብዙ የግንኙነት ችግሮች።"
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "ቴክኒካዊ ባህሪዎች"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "ይህ የማረጋገጫ ማስመሰያውን ያድሳል።"
 
 msgid "This will remove:"
-msgstr ""
+msgstr "ይህ ያስወግዳል፡-"
 
 msgid "This will:"
-msgstr ""
+msgstr "ይህ ይሆናል፡-"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "ማዘመን ለመጀመር ጊዜ:"
 
 msgid "Top"
-msgstr ""
+msgstr "ከፍተኛ"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "ጠቅላላ ቻናሎች፡ %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "ከፍተኛ"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "የዝማኔ ክፍተት (ሰዓታት)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "የዝማኔ ክፍተት (ደቂቃዎች)"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG በማዘመን ላይ..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG ምንጭ በEPGImport ውስጥ አልነቃም። እባክዎ በEPGImport ቅንብሮች ውስጥ ያንቁት።"
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG ምንጭ አልተገኘም። እባክዎ መጀመሪያ ቢያንስ አንድ እቅፍ ወደ ውጭ ይላኩ።"
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "የቫቮ ዥረት ቀጥታ ስርጭት"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "የቫቮ ዥረት ቀጥታ ስርጭት - መረጃ"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "የቫቮ ዥረት ቀጥታ ተሰኪ"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "የቫቮ እቅፍ አበባዎች በተሳካ ሁኔታ ተወግደዋል!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "ቫቮ አስቀድሞ እየሰራ ነው።"
 
 msgid "Version:"
-msgstr ""
+msgstr "ስሪት፡"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "ተኪ በመጠበቅ ላይ..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "ከ EPG ድጋፍ ጋር ወደ Vavoo Proxy እንኳን በደህና መጡ"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "ከምናሌው ወይም የTEXT ቁልፍን በመጫን መጀመር ይችላሉ።"
 
 msgid "fixed time"
-msgstr ""
+msgstr "የተወሰነ ጊዜ"
 
 msgid "interval"
-msgstr ""
+msgstr "ክፍተት"
 
 msgid "lowercase"
-msgstr ""
+msgstr "ንዑስ ሆሄያት"
 
 msgid "seconds"
-msgstr ""
+msgstr "ሰከንዶች"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ ተኪ ({0}ዎች)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ ተኪ እሺ"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ እንደገና ተጀምሯል።"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ ስህተት"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ የተኪ ስህተት"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ ፕሮክሲ ጊዜው አልፎበታል።"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ ተኪ ከመስመር ውጭ"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ ዳግም ማስጀመር አልተሳካም።"

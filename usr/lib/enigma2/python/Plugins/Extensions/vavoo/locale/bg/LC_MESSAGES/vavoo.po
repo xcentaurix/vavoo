@@ -13,619 +13,619 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Проксито изтича"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d канала)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s файла изтрити)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Добавяне на липсващи полета към всички записи"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Автоматично опресняване на токена на всеки 9 минути"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Автоматично генериране на EPG с справка за услугата"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Автоматично генериране на букети"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Категория букети"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Почистете кеша файла"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Търговската употреба е строго забранена"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Общност: Linuxsat-support.com, форум Corvoboys.org"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Контейнерни букети"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Селски букети"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Само безплатно съдържание"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Графика: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP поточно предаване на живо"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Интегрирана прокси система"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Няма директен сървърен хостинг"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Преразпределението трябва да поддържа приписването"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Премахване на дублиращи се записи"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Сервизни справки: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Потоци от публични източници"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 формати"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Техническа поддръжка: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- Премахнати са {} дублиращи се записи"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} записа са актуализирани"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Състояние на прокси"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Неизвестен прокси"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Активна автоматична актуализация на букета"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Всички държави (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Вече се извършва експорт за друга държава. моля изчакайте"
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "На интервал от часове или фиксирано време"
 
 msgid "Author:"
-msgstr ""
+msgstr "Автор:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Автоматично актуализиране на EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Автоматично задейства актуализация на EPG след създаване на източник"
 
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Отдолу"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Позиция на букета в списъка"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Грешка при създаването на букет: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Букетът е готов с {} канала"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Презареждането на букетите е планирано."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Букети реорганизирани успешно!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Промяна | OK=Превключване | ИНФО=IMDb | СТОП=Изход"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Корекцията на формата на кеша е завършена:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Кешът вече е в правилен формат. Не са необходими промени."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отказ"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Анулиране на изпълнението?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Регистър: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Канали"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Канали: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Проксито се проверява..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Изчистване на всички"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Конфигурацията е запазена успешно!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Конфигурирайте основното фоново изображение."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Конфигурирайте в определено време"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Конфигуриране на интервал минути от сега"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Справка за конфигуриране на услугата Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Конзола"
 
 msgid "Countries"
-msgstr ""
+msgstr "Държави"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Държави: %(генерирани)d/%(общо)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Държава: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Създайте източник на EPG за EPGImport с програмни данни на Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Кредити:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Изглед по подразбиране"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Изглед по подразбиране при отваряне на приставката"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Искате ли да експортирате този букет?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Искате ли да коригирате формата на кеша?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG Праг на сходство (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG е деактивиран. Моля, първо го активирайте в настройките на Vavoo."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Обработката на EPG завърши (няма съвпадения)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Обработката на EPG завърши за {} канала"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Актуализацията на EPG е завършена"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Неуспешна актуализация на EPG"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "Актуализацията на EPG стартира успешно"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Активирайте Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Активиране или деактивиране на прокси."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Въведете текст за търсене..."
 
 msgid "Error"
-msgstr ""
+msgstr "Грешка"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Грешка при коригиране на кеша: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Грешка при анализа на данните"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Грешка при стартиране на актуализация на EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Грешка при стартиране на канал"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Грешка: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Грешка: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Изход"
 
 msgid "Export"
-msgstr ""
+msgstr "Експортиране"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Неуспешно експортиране: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Експортът започна. Букетът ще бъде наличен скоро."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Неуспешно опресняване на прокси токена"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Неуспешно опресняване на проксито:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Неуспешно: %(неуспешно)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Поправете кеша"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Коригиране на формата на кеша..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Принудително опресняване на прокси?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Намерени: {} канала"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Генериране на .m3u файл за:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Генериране на .m3u файлове (Добре за Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Генерирайте .m3u файлове и ги запазете на устройство %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Да се ​​генерират .m3u файлове и да се запазят на устройство %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Да се ​​генерират .m3u файлове за ВСИЧКИ %d държави?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Скриване/Показване"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Колко често да се актуализира автоматично EPG (изисква EPGImport Scheduler)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Важни бележки:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Увеличете, ако проксито отнема много време поради VPN или бавна връзка."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавиатура"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Последна актуализация на канала: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Лиценз:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Лиценз: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Връзка в главното меню"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "По-ниско = по-малко прекъсване, но повече опреснявания"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U файлът е генериран успешно!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U поколението е завършено!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Грешка при генериране на M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Минимално сходство за съвпадащи канали (по-високо = по-строго)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Справочник за филмови услуги"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Не е намерен плъгин за IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Не е открита интернет връзка. Моля, проверете вашата мрежа."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Няма намерени канали"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Няма намерени канали за: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Няма намерени канали при търсене!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Няма налични артикули"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Няма налична информация за програмата"
 
 msgid "No selection"
-msgstr ""
+msgstr "Без избор"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Няма валидни канали за: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Сега %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Само една конкретна държава"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Моля, опитайте с друг канал."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Позиция на букетите Vavoo в основния списък"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Натиснете бутона TEXT, за да въведете, BACKSPACE, за да изтриете"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Проксито е деактивирано"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Проксито е активирано"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Грешка в проксито:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Проксито е деактивирано"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Проксито е деактивирано. Моля, първо задайте прокси. -- Конфигурация на меню --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Проксито е деактивирано. Моля, активирайте го в конфигурацията."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Проксито не работи. Моля, първо стартирайте проксито."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Проксито не е активно. Не може да се генерира M3U файл."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Проксито не отговаря след"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Проксито се рестартира... Моля, изчакайте"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Време за изчакване при стартиране на прокси (секунди)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Прокси токенът е обновен успешно"
 
 msgid "Ready"
-msgstr ""
+msgstr "Готови"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Наистина ли затваряте без запазване на настройките?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Препоръчително: 5-8 минути"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Опресняване на потока (минути):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Опресняване на потока на всеки X минути (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Презареди букет"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Презареждане на букети и списък с услуги?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Премахнете"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Премахване на ВСИЧКИ букети Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Рестартирайте"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Рестартира се..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ИЗБЕРЕТЕ ВАШИЯ ИЗБОР"
 
 msgid "Save"
-msgstr ""
+msgstr "Запазване"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Запазено в: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Запазено в: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Тип график:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Планиран списък:"
 
 msgid "Search"
-msgstr ""
+msgstr "Търсене"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Търсене на канали:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Търсене..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Търсене:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Изберете Фон"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Изберете режим на експортиране на M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Изберете държава за експортиране на M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Използван сървър за играч"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Сървър за играч."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Показани са всички канали: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "пространство"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Стартиране на актуализация на EPG сега?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Потокът приключи. Твърде много проблеми с връзката."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Технически характеристики:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Това ще опресни токена за удостоверяване."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Това ще премахне:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Това ще:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Време за стартиране на актуализацията:"
 
 msgid "Top"
-msgstr ""
+msgstr "Топ"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Общо канали: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "ГЛАВНИ БУКВИ"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Интервал на актуализиране (часове)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Интервал на актуализиране (минути):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG се актуализира..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Източникът на Vavoo EPG не е активиран в EPGImport. Моля, активирайте го в настройките на EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Източникът на Vavoo EPG не е намерен. Моля, първо експортирайте поне един букет."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Информация"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo букетите са премахнати успешно!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo вече работи."
 
 msgid "Version:"
-msgstr ""
+msgstr "Версия:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Изчаква се прокси..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Добре дошли във Vavoo Proxy с EPG поддръжка"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Можете да го стартирате от менюто или чрез натискане на бутона TEXT."
 
 msgid "fixed time"
-msgstr ""
+msgstr "фиксирано време"
 
 msgid "interval"
-msgstr ""
+msgstr "интервал"
 
 msgid "lowercase"
-msgstr ""
+msgstr "малка буква"
 
 msgid "seconds"
-msgstr ""
+msgstr "секунди"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Прокси ({0}s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Прокси ОК"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Рестартиран"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Грешка"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Прокси грешка"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Проксито е изтекло"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Прокси офлайн"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Неуспешно рестартиране"

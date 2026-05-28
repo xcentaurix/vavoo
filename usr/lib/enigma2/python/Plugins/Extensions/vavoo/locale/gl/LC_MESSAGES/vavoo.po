@@ -12,598 +12,598 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Proxy caducando"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d canles)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s ficheiros eliminados)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Engade os campos que faltan a todas as entradas"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Actualización automática do token cada 9 minutos"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Xeración automática de EPG con referencia de servizo"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Xeración automática de ramos"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Categoría ramos"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Limpar o ficheiro da caché"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Queda terminantemente prohibido o uso comercial"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Comunidade: Linuxsat-support.com, Corvoboys.org Forum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Ramos de envases"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Ramos de campo"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Só contido gratuíto"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Gráficos: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- Transmisión en directo HTTP"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Sistema proxy integrado"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Sen hospedaxe directa do servidor"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- A redistribución debe manter a atribución"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Eliminar entradas duplicadas"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Referencias do servizo: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Fluxos de fontes públicas"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Formatos TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Soporte técnico: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- Elimináronse {} entradas duplicadas"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} entradas actualizadas"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Estado do proxy"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Proxy descoñecido"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Actualización automática activa do ramo"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Todos os países (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Xa está en marcha unha exportación a outro país. Por favor, agarde."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "A intervalo horas ou tempo fixo"
 
 msgid "Author:"
-msgstr ""
+msgstr "Autor:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Actualización automática de EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Activar automaticamente a actualización de EPG despois da creación da fonte"
 
 msgid "Back"
-msgstr ""
+msgstr "De volta"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Retroceso"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Abaixo"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Posición do ramo na lista"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Erro na creación do ramo: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Bouquet listo con {} canles"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Recarga de ramos programada."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Os ramos reorganizados correctamente!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Cambiar | Aceptar=Cambiar | INFO=IMDb | STOP=Saír"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Completouse a corrección do formato da caché:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "A caché xa está no formato correcto. Non se necesitan cambios."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Cancelar a execución?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Caso: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Canles"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Canles: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Comprobando proxy..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Borrar todo"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "A configuración gardouse correctamente!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Configurar a imaxe de fondo principal."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Configurar nunha hora fixa"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Configure os minutos de intervalo a partir de agora"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Configurar o servizo Referencia Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Consola"
 
 msgid "Countries"
-msgstr ""
+msgstr "Países"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Países: %(xerado)d/%(total)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "País: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Crea unha fonte EPG para EPGImport cos datos do programa Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Créditos:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Vista predeterminada"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Vista predeterminada ao abrir o complemento"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Queres exportar este ramo?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Queres corrixir o formato da caché?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Limiar de semellanza EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "O EPG está desactivado. Active primeiro na configuración de Vavoo."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Procesamento EPG completo (sen coincidencias)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Procesamento EPG completado para {} canles"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Actualización de EPG completada"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Produciuse un erro na actualización do EPG"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "A actualización de EPG comezou correctamente"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Activa o EPG de Vavoo"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Activa ou desactiva o proxy."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Introduce texto para buscar..."
 
 msgid "Error"
-msgstr ""
+msgstr "Erro"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Erro ao arranxar a caché: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Produciuse un erro ao analizar os datos"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Erro ao iniciar a actualización de EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Erro ao iniciar a canle"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Erro: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Erro: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Saír"
 
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Produciuse un erro na exportación: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Comezou a exportación. Bouquet estará dispoñible en breve."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Produciuse un erro ao actualizar o token de proxy"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Produciuse un erro ao actualizar o proxy:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Fallou: %(fallou)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Corrixir caché"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Corrixindo o formato da caché..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Forzar a actualización do proxy?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Atopáronse: {} canles"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Xerar ficheiro .m3u para:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Xerar ficheiros .m3u (Ok para Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Xera ficheiros .m3u e gárdaos no dispositivo %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Queres xerar ficheiros .m3u e gardalos no dispositivo %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Queres xerar ficheiros .m3u para TODOS os %d países?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Ocultar/Mostrar"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Con que frecuencia se actualiza automaticamente o EPG (require o programador EPGImport)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Notas importantes:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Aumenta se o proxy leva moito tempo debido á VPN ou á conexión lenta."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Teclado"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Última actualización da canle: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Licenza:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Licenza: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Ligazón no menú principal"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Menor = menos interrupcións pero máis actualizacións"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Ficheiro M3U xerado correctamente!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Xeración M3U completada!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Erro de xeración M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Semellanza mínima para as canles coincidentes (maior = máis estrito)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Referencia de servizos de películas"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Non se atopou ningún complemento IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Non se detectou ningunha conexión a Internet. Comproba a túa rede."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Non se atoparon canles"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Non se atoparon canles para: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Non se atoparon canles na busca!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Non hai elementos dispoñibles"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Non hai información do programa dispoñible"
 
 msgid "No selection"
-msgstr ""
+msgstr "Sen selección"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Non hai canles válidas para: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Agora %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Só un país específico"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Proba con outra canle."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Posición dos ramos Vavoo na lista principal"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Preme o botón TEXT para escribir, RETROCESO para eliminar"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proxy desactivado"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proxy activado"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Erro de proxy:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Proxy desactivado"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "O proxy está desactivado. Active o proxy primeiro. -- Configuración do menú --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "O proxy está desactivado. Activalo na configuración."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "O proxy non se está a executar. Inicie primeiro o proxy."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Proxy non activo. Non se puido xerar o ficheiro M3U."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "O proxy non responde despois"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Reiniciando o proxy... Agarde"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Tempo de espera de inicio do proxy (segundos)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "O token de proxy actualizouse correctamente"
 
 msgid "Ready"
-msgstr ""
+msgstr "Listo"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Pechar de verdade sen gardar a configuración?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Recomendado: 5-8 minutos"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Actualizar emisión (minutos):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Actualiza a emisión cada X minutos (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Recarga Bouqet"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Volver cargar ramos e lista de servizos?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Eliminar TODOS os ramos de Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Reiniciar"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Reiniciando..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "SELECCIONA A SÚA ELECCIÓN"
 
 msgid "Save"
-msgstr ""
+msgstr "Gardar"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Gardado en: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Gardado en: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Tipo de horario:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Lista programada:"
 
 msgid "Search"
-msgstr ""
+msgstr "Busca"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Canles de busca:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Busca..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Busca:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Seleccione Fondo"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Seleccione o modo de exportación M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Seleccione o país para exportar M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Servidor para o reprodutor usado"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Servidor para xogador."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Mostrando todas as canles: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Espazo"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Iniciar a actualización de EPG agora?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Rematou a emisión. Demasiados problemas de conexión."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Características técnicas:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Isto actualizará o token de autenticación."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Isto eliminará:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Isto fará:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Hora de comezar a actualización:"
 
 msgid "Top"
-msgstr ""
+msgstr "Arriba"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Canles totais: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "MAIÚSCULAS"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Intervalo de actualización (horas)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Intervalo de actualización (minutos):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Actualizando EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "A fonte EPG de Vavoo non está activada en EPGImport. Activalo na configuración de EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Non se atopou a fonte EPG de Vavoo. Exporta primeiro polo menos un ramo."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Información"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Plugin de transmisión en directo de Vavoo"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Os ramos de Vavoo elimináronse correctamente!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo xa está funcionando."
 
 msgid "Version:"
-msgstr ""
+msgstr "Versión:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Agardando polo proxy..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Benvido a Vavoo Proxy con soporte EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Podes inicialo desde o menú ou premendo o botón TEXTO."
 
 msgid "fixed time"
-msgstr ""
+msgstr "tempo fixo"
 
 msgid "interval"
-msgstr ""
+msgstr "intervalo"
 
 msgid "lowercase"
-msgstr ""
+msgstr "minúscula"
 
 msgid "seconds"
-msgstr ""
+msgstr "segundos"
 
 msgid "✓ Proxy ({0}s)"
 msgstr ""
@@ -612,19 +612,19 @@ msgid "✓ Proxy OK"
 msgstr ""
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Reiniciado"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Erro"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Erro de proxy"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Proxy caducado"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proxy fóra de liña"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Fallou o reinicio"

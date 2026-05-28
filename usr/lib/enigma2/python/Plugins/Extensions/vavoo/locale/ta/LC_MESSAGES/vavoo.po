@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! ப்ராக்ஸி காலாவதியாகிறது"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d சேனல்கள்)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s கோப்புகள் நீக்கப்பட்டன)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- அனைத்து உள்ளீடுகளிலும் விடுபட்ட புலங்களைச் சேர்க்கவும்"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- ஒவ்வொரு 9 நிமிடங்களுக்கும் ஆட்டோ டோக்கன் புதுப்பிக்கப்படும்"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- சேவை குறிப்புடன் தானாக Epg உருவாக்கம்"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- தானியங்கி பூச்செண்டு உருவாக்கம்"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- வகை பூங்கொத்துகள்"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- கேச் கோப்பை சுத்தம் செய்யவும்"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- வணிக பயன்பாடு கண்டிப்பாக தடைசெய்யப்பட்டுள்ளது"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- சமூகம்: Linuxsat-support.com, Corvoboys.org மன்றம்"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- கொள்கலன் பூங்கொத்துகள்"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- நாட்டின் பூங்கொத்துகள்"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- இலவச உள்ளடக்கம் மட்டுமே"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- கிராபிக்ஸ்: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP லைவ் ஸ்ட்ரீமிங்"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- ஒருங்கிணைந்த ப்ராக்ஸி அமைப்பு"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- நேரடி சர்வர் ஹோஸ்டிங் இல்லை"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- மறுபகிர்வு பண்புக்கூறை பராமரிக்க வேண்டும்"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- நகல் உள்ளீடுகளை அகற்று"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- சேவை குறிப்புகள்: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- பொது ஆதாரங்களில் இருந்து ஸ்ட்ரீம்கள்"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 வடிவங்கள்"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- தொழில்நுட்ப ஆதரவு: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} நகல் உள்ளீடுகள் அகற்றப்பட்டன"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} உள்ளீடுகள் புதுப்பிக்கப்பட்டன"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? ப்ராக்ஸி நிலை"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? ப்ராக்ஸி தெரியவில்லை"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "செயலில் தானியங்கி பூச்செண்டு புதுப்பிப்பு"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "அனைத்து நாடுகளும் (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "மற்றொரு நாட்டிற்கான ஏற்றுமதி ஏற்கனவே நடந்து கொண்டிருக்கிறது. தயவுசெய்து காத்திருக்கவும்."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "ஒரு இடைவெளி மணிநேரம் அல்லது நிலையான நேரத்தில்"
 
 msgid "Author:"
-msgstr ""
+msgstr "ஆசிரியர்:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "EPG ஐ தானாக புதுப்பிக்கவும்"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "மூல உருவாக்கத்திற்குப் பிறகு தானாகவே EPG புதுப்பிப்பைத் தூண்டும்"
 
 msgid "Back"
-msgstr ""
+msgstr "மீண்டும்"
 
 msgid "Backspace"
-msgstr ""
+msgstr "பேக்ஸ்பேஸ்"
 
 msgid "Bottom"
-msgstr ""
+msgstr "கீழே"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "பட்டியலில் பூங்கொத்து நிலை"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "பூங்கொத்து உருவாக்குவதில் பிழை: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "{} சேனல்களுடன் பூங்கொத்து தயார்"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "பூங்கொத்துகள் மீண்டும் ஏற்ற திட்டமிடப்பட்டது."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "பூங்கொத்துகள் வெற்றிகரமாக மறுசீரமைக்கப்பட்டன!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=மாற்றம் | சரி=மாற்று | INFO=IMDb | STOP=வெளியேறு"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "கேச் வடிவமைப்பு திருத்தம் முடிந்தது:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "தற்காலிக சேமிப்பு ஏற்கனவே சரியான வடிவத்தில் உள்ளது. மாற்றங்கள் தேவையில்லை."
 
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்து செய்"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "செயல்படுத்துவதை ரத்து செய்யவா?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "வழக்கு: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "சேனல்கள்"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "சேனல்கள்: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "ப்ராக்ஸியைச் சரிபார்க்கிறது..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "அனைத்தையும் அழி"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "உள்ளமைவு வெற்றிகரமாக சேமிக்கப்பட்டது!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "பிரதான பின்னணி படத்தை உள்ளமைக்கவும்."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "ஒரு குறிப்பிட்ட நேரத்தில் கட்டமைக்கவும்"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "இப்போதிலிருந்து இடைவெளி நிமிடங்களை உள்ளமைக்கவும்"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "சேவை குறிப்பு Iptv-Gstreamer-Exteplayer3 ஐ உள்ளமைக்கவும்"
 
 msgid "Console"
-msgstr ""
+msgstr "பணியகம்"
 
 msgid "Countries"
-msgstr ""
+msgstr "நாடுகள்"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "நாடுகள்: %(உருவாக்கப்பட்டது)d/%(மொத்தம்)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "நாடு: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Vavoo நிரல் தரவுகளுடன் EPGImport க்கான EPG மூலத்தை உருவாக்கவும்"
 
 msgid "Credits:"
-msgstr ""
+msgstr "கடன்:"
 
 msgid "Default View"
-msgstr ""
+msgstr "இயல்புநிலை பார்வை"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "செருகுநிரலைத் திறக்கும்போது இயல்புநிலைக் காட்சி"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "இந்தப் பூச்செண்டை ஏற்றுமதி செய்ய விரும்புகிறீர்களா?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "கேச் வடிவமைப்பை சரிசெய்ய வேண்டுமா?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG ஒற்றுமை வரம்பு (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG முடக்கப்பட்டுள்ளது. முதலில் Vavoo அமைப்புகளில் அதை இயக்கவும்."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG செயலாக்கம் முடிந்தது (பொருந்தவில்லை)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "{} சேனல்களுக்கான EPG செயலாக்கம் முடிந்தது"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG புதுப்பிப்பு முடிந்தது"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG புதுப்பிப்பு தோல்வியடைந்தது"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG புதுப்பிப்பு வெற்றிகரமாக தொடங்கியது"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Vavoo EPG ஐ இயக்கவும்"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "ப்ராக்ஸியை இயக்கவும் அல்லது முடக்கவும்."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "தேட உரையை உள்ளிடவும்..."
 
 msgid "Error"
-msgstr ""
+msgstr "பிழை"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "தற்காலிக சேமிப்பை சரிசெய்வதில் பிழை: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "தரவைப் பாகுபடுத்துவதில் பிழை"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "EPG புதுப்பிப்பைத் தொடங்குவதில் பிழை: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "சேனலைத் தொடங்குவதில் பிழை"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "பிழை: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "பிழை: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "Export"
-msgstr ""
+msgstr "ஏற்றுமதி"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "ஏற்றுமதி தோல்வி: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "ஏற்றுமதி தொடங்கியது. பூங்கொத்து விரைவில் கிடைக்கும்."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "ப்ராக்ஸி டோக்கனைப் புதுப்பிக்க முடியவில்லை"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "ப்ராக்ஸியைப் புதுப்பிக்க முடியவில்லை:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "தோல்வி: %(தோல்வி)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "தற்காலிக சேமிப்பை சரிசெய்யவும்"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "கேச் வடிவமைப்பை சரிசெய்கிறது..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "ப்ராக்ஸி புதுப்பிப்பை கட்டாயப்படுத்தவா?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "கண்டறியப்பட்டது: {} சேனல்கள்"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "இதற்காக .m3u கோப்பை உருவாக்கவும்:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr ".m3u கோப்புகளை உருவாக்கு (Exec க்கு சரி)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr ".m3u கோப்புகளை உருவாக்கி %s சாதனத்தில் சேமிக்கவும்."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr ".m3u கோப்புகளை உருவாக்கி %s சாதனத்தில் சேமிக்கவா?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "அனைத்து %d நாடுகளுக்கும் .m3u கோப்புகளை உருவாக்கவா?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "மறை/காட்டு"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "EPGஐ எவ்வளவு அடிக்கடி தானாகப் புதுப்பிக்க வேண்டும் (EPGImport திட்டமிடுபவர் தேவை)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "முக்கிய குறிப்புகள்:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "VPN அல்லது மெதுவான இணைப்பு காரணமாக ப்ராக்ஸி அதிக நேரம் எடுத்தால் அதிகரிக்கவும்."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "விசைப்பலகை"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "கடைசி சேனல் புதுப்பிப்பு: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "உரிமம்:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "உரிமம்: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "முதன்மை மெனுவில் இணைப்பு"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "குறைந்த = குறைவான குறுக்கீடு ஆனால் அதிக புத்துணர்ச்சி"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U கோப்பு வெற்றிகரமாக உருவாக்கப்பட்டது!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U உருவாக்கம் முடிந்தது!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U உருவாக்கப் பிழை: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "பொருந்தும் சேனல்களுக்கான குறைந்தபட்ச ஒற்றுமை (அதிகமானது = கண்டிப்பானது)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "திரைப்பட சேவைகள் குறிப்பு"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB செருகுநிரல் எதுவும் இல்லை"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "இணைய இணைப்பு எதுவும் கண்டறியப்படவில்லை. உங்கள் நெட்வொர்க்கைச் சரிபார்க்கவும்."
 
 msgid "No channels found"
-msgstr ""
+msgstr "சேனல்கள் எதுவும் இல்லை"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "இதற்கான சேனல்கள் எதுவும் இல்லை: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "தேடலில் சேனல்கள் இல்லை!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "பொருட்கள் எதுவும் கிடைக்கவில்லை"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "நிரல் தகவல் இல்லை"
 
 msgid "No selection"
-msgstr ""
+msgstr "தேர்வு இல்லை"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "இதற்கு சரியான சேனல்கள் இல்லை: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "இப்போது %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "ஒரே ஒரு குறிப்பிட்ட நாடு"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "வேறொரு சேனலை முயற்சிக்கவும்."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "முக்கிய பட்டியலில் Vavoo பூங்கொத்துகளின் நிலை"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "தட்டச்சு செய்ய TEXT பட்டனையும், நீக்க BACKSPACEஐயும் அழுத்தவும்"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "ப்ராக்ஸி முடக்கப்பட்டது"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "ப்ராக்ஸி இயக்கப்பட்டது"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "ப்ராக்ஸி பிழை:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "ப்ராக்ஸி முடக்கப்பட்டது"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "ப்ராக்ஸி முடக்கப்பட்டுள்ளது. முதலில் ப்ராக்ஸியை அமைக்கவும். -- மெனு கட்டமைப்பு --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "ப்ராக்ஸி முடக்கப்பட்டுள்ளது. அதை உள்ளமைவில் இயக்கவும்."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "ப்ராக்ஸி இயங்கவில்லை. முதலில் ப்ராக்ஸியைத் தொடங்கவும்."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "ப்ராக்ஸி செயலில் இல்லை. M3U கோப்பை உருவாக்க முடியவில்லை."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "பதிலாள் பிறகு பதிலளிக்கவில்லை"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "ப்ராக்ஸி மறுதொடக்கம் செய்கிறது... தயவுசெய்து காத்திருக்கவும்"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "ப்ராக்ஸி தொடக்க நேரம் முடிந்தது (வினாடிகள்)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "ப்ராக்ஸி டோக்கன் வெற்றிகரமாக புதுப்பிக்கப்பட்டது"
 
 msgid "Ready"
-msgstr ""
+msgstr "தயார்"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "அமைப்புகளைச் சேமிக்காமல் உண்மையில் மூடவா?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "பரிந்துரைக்கப்படுகிறது: 5-8 நிமிடங்கள்"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "புதுப்பிப்பு ஸ்ட்ரீம் (நிமிடங்கள்):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "ஒவ்வொரு X நிமிடங்களுக்கும் ஸ்ட்ரீமைப் புதுப்பிக்கவும் (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "பூச்செட்டை மீண்டும் ஏற்றவும்"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "பூங்கொத்துகள் மற்றும் சேவை பட்டியலை மீண்டும் ஏற்றவா?"
 
 msgid "Remove"
-msgstr ""
+msgstr "அகற்று"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "அனைத்து Vavoo பூங்கொத்துகளையும் அகற்றவா?"
 
 msgid "Restart"
-msgstr ""
+msgstr "மறுதொடக்கம்"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "மீண்டும் தொடங்குகிறது..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "உங்கள் விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Save"
-msgstr ""
+msgstr "சேமிக்கவும்"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "இதில் சேமிக்கப்பட்டது: %(பாதை)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "இதில் சேமிக்கப்பட்டது: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "அட்டவணை வகை:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "திட்டமிடப்பட்ட பட்டியல்:"
 
 msgid "Search"
-msgstr ""
+msgstr "தேடு"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "தேடல் சேனல்கள்:"
 
 msgid "Search..."
-msgstr ""
+msgstr "தேடு..."
 
 msgid "Search:"
-msgstr ""
+msgstr "தேடல்:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "பின்னணியைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "M3U ஏற்றுமதி பயன்முறையைத் தேர்ந்தெடுக்கவும்:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "M3U ஏற்றுமதி செய்ய நாட்டைத் தேர்ந்தெடுக்கவும்:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "பயன்படுத்திய வீரர்களுக்கான சேவையகம்"
 
 msgid "Server for player."
-msgstr ""
+msgstr "வீரர்களுக்கான சேவையகம்."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "எல்லா சேனல்களையும் காட்டுகிறது: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "விண்வெளி"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "EPG புதுப்பிப்பை இப்போதே தொடங்கவா?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "ஸ்ட்ரீம் முடிந்தது. இணைப்புச் சிக்கல்கள் அதிகம்."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "தொழில்நுட்ப அம்சங்கள்:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "இது அங்கீகார டோக்கனைப் புதுப்பிக்கும்."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "இது அகற்றும்:"
 
 msgid "This will:"
-msgstr ""
+msgstr "இது:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "புதுப்பிப்பைத் தொடங்குவதற்கான நேரம்:"
 
 msgid "Top"
-msgstr ""
+msgstr "மேல்"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "மொத்த சேனல்கள்: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "பெரிய எழுத்து"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "புதுப்பிப்பு இடைவெளி (மணிநேரம்)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "புதுப்பிப்பு இடைவெளி (நிமிடங்கள்):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPGஐப் புதுப்பிக்கிறது..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "EPGImport இல் Vavoo EPG ஆதாரம் இயக்கப்படவில்லை. EPGImport அமைப்புகளில் அதை இயக்கவும்."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG ஆதாரம் கிடைக்கவில்லை. முதலில் ஒரு பூச்செண்டையாவது ஏற்றுமதி செய்யவும்."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo ஸ்ட்ரீம் நேரலை"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo ஸ்ட்ரீம் நேரலை - தகவல்"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Vavoo ஸ்ட்ரீம் நேரடி செருகுநிரல்"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo பூங்கொத்துகள் வெற்றிகரமாக அகற்றப்பட்டன!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo ஏற்கனவே இயங்குகிறது."
 
 msgid "Version:"
-msgstr ""
+msgstr "பதிப்பு:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "ப்ராக்ஸிக்காக காத்திருக்கிறது..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "EPG ஆதரவுடன் Vavoo Proxyக்கு வரவேற்கிறோம்"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "மெனுவிலிருந்து அல்லது TEXT பொத்தானை அழுத்துவதன் மூலம் அதைத் தொடங்கலாம்."
 
 msgid "fixed time"
-msgstr ""
+msgstr "நிலையான நேரம்"
 
 msgid "interval"
-msgstr ""
+msgstr "இடைவெளி"
 
 msgid "lowercase"
-msgstr ""
+msgstr "சிறிய எழுத்து"
 
 msgid "seconds"
-msgstr ""
+msgstr "வினாடிகள்"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ ப்ராக்ஸி ({0}கள்)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ ப்ராக்ஸி சரி"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ மீண்டும் தொடங்கப்பட்டது"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ பிழை"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ ப்ராக்ஸி பிழை"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ ப்ராக்ஸி காலாவதியானது"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ ப்ராக்ஸி ஆஃப்லைன்"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ மறுதொடக்கம் தோல்வியடைந்தது"

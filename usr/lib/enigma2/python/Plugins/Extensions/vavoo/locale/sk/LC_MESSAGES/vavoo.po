@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Poedit 3.8\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Platnosť proxy vyprší"
 
 msgid "(%d channels)?"
 msgstr "(%d kanálov)?"
@@ -22,13 +22,13 @@ msgid "(%s files deleted)"
 msgstr "(Odstránených súborov: %s)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Pridajte chýbajúce polia do všetkých záznamov"
 
 msgid "- Auto token refresh every 9 minutes"
 msgstr "- Automatická obnova tokenu každých 9 minút"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Automatické generovanie epg so servisnou referenciou"
 
 msgid "- Automatic bouquet generation"
 msgstr "- Automatické generovanie kytíc"
@@ -37,7 +37,7 @@ msgid "- Category bouquets"
 msgstr "- Kategória kytíc"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Vyčistite súbor vyrovnávacej pamäte"
 
 msgid "- Commercial use is strictly prohibited"
 msgstr "- Komerčné použitie je prísne zakázané"
@@ -71,7 +71,7 @@ msgid "- Redistribution must maintain attribution"
 msgstr "- Redistribúcia musí zachovať uvedenie zdroja"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Odstráňte duplicitné položky"
 
 msgid "- Service references: 4097, 5001, 5002"
 msgstr "- Servisné referencie: 4097, 5001, 5002"
@@ -86,16 +86,16 @@ msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr "- Technická podpora: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} odstránených duplicitných záznamov"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- Počet aktualizovaných záznamov: {}"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Stav proxy"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Proxy neznámy"
 
 msgid "Active Automatic Bouquet Update"
 msgstr "Aktívna automatická aktualizácia kytice"
@@ -104,7 +104,7 @@ msgid "All countries (%d)"
 msgstr "Všetky krajiny (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Export do inej krajiny už prebieha. Čakajte prosím."
 
 #, fuzzy
 msgid "At an interval hours or fixed time"
@@ -114,10 +114,10 @@ msgid "Author:"
 msgstr "Autor:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Automatická aktualizácia EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Automaticky spustiť aktualizáciu EPG po vytvorení zdroja"
 
 msgid "Back"
 msgstr "Späť"
@@ -147,13 +147,13 @@ msgid "Bouquets reorganized successfully!"
 msgstr "Kytice boli úspešne reorganizované!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Zmena | OK=Prepnúť | INFO=IMDb | STOP=Ukončiť"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Oprava formátu vyrovnávacej pamäte dokončená:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Cache je už v správnom formáte. Nie sú potrebné žiadne zmeny."
 
 msgid "Cancel"
 msgstr "Zrušiť"
@@ -172,7 +172,7 @@ msgid "Channels: %d"
 msgstr "Kanály: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Kontroluje sa server proxy..."
 
 msgid "Clear All"
 msgstr "Zmazať všetko"
@@ -206,7 +206,7 @@ msgid "Country: %s"
 msgstr "Krajina: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Vytvorte zdroj EPG pre EPGImport s údajmi programu Vavoo"
 
 msgid "Credits:"
 msgstr "Kredity:"
@@ -225,32 +225,32 @@ msgid "Do you want to fix the cache format?"
 msgstr "Chcete túto kyticu exportovať?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Prah podobnosti EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG je vypnuté. Najprv to povoľte v nastaveniach Vavoo."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Spracovanie EPG dokončené (žiadne zhody)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Spracovanie EPG bolo dokončené pre {} kanálov"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Aktualizácia EPG dokončená"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Aktualizácia EPG zlyhala"
 
 #, fuzzy
 msgid "EPG update started successfully"
 msgstr "Konfigurácia bola úspešne uložená!"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Povoliť Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Povoliť alebo zakázať server proxy."
 
 msgid "Enter text to search..."
 msgstr "Zadajte text na vyhľadávanie..."
@@ -288,28 +288,28 @@ msgid "Export"
 msgstr "Exportovať"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Export zlyhal: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Export začal. Kytica bude čoskoro k dispozícii."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Obnovenie tokenu proxy zlyhalo"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Obnovenie servera proxy zlyhalo:"
 
 msgid "Failed: %(failed)d"
 msgstr "Zlyhalo: %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Opraviť vyrovnávaciu pamäť"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Opravuje sa formát vyrovnávacej pamäte..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Vynútiť obnovenie servera proxy?"
 
 msgid "Found: {} channels"
 msgstr "Nájdených kanálov: {}"
@@ -333,13 +333,13 @@ msgid "Hide/Show"
 msgstr "Skryť/zobraziť"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Ako často automaticky aktualizovať EPG (vyžaduje plánovač EPGImport)"
 
 msgid "Important Notes:"
 msgstr "Dôležité poznámky:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Zvýšte, ak proxy trvá dlho kvôli VPN alebo pomalému pripojeniu."
 
 msgid "Keyboard"
 msgstr "Klávesnica"
@@ -369,16 +369,16 @@ msgid "M3U generation error: %s"
 msgstr "Chyba generovania M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Minimálna podobnosť pre zodpovedajúce kanály (vyššia = prísnejšia)."
 
 msgid "Movie Services Reference"
 msgstr "Odkaz na filmové služby"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Nebol nájdený žiadny doplnok IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Nebolo zistené žiadne internetové pripojenie. Skontrolujte svoju sieť."
 
 msgid "No channels found"
 msgstr "Nenašli sa žiadne kanály: {}"
@@ -390,13 +390,13 @@ msgid "No channels found in search!!!"
 msgstr "Vo vyhľadávaní sa nenašli žiadne kanály!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Nie sú k dispozícii žiadne položky"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Nie sú k dispozícii žiadne informácie o programe"
 
 msgid "No selection"
-msgstr ""
+msgstr "Žiadny výber"
 
 msgid "No valid channels for: %s"
 msgstr "Žiadne platné kanály pre: %s"
@@ -417,46 +417,46 @@ msgid "Press TEXT button to type, BACKSPACE to delete"
 msgstr "Stlačte tlačidlo TEXT pre písanie, BACKSPACE pre vymazanie"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Server proxy je vypnutý"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proxy je povolený"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Chyba proxy:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Server proxy je vypnutý"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Proxy je vypnutý. Najprv nastavte proxy server. -- Konfigurácia ponuky --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Proxy je vypnutý. Povoľte to v konfigurácii."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proxy nie je spustený. Najprv spustite proxy."
 
 msgid "Proxy not active. Unable to generate M3U file."
 msgstr "Proxy nie je aktívny. Nepodarilo sa vygenerovať súbor M3U."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Proxy potom neodpovedá"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proxy sa reštartuje... Čakajte prosím"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Časový limit spustenia servera proxy (v sekundách)"
 
 #, fuzzy
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Proxy token bol úspešne obnovený"
 "Kytice Vavoo boli úspešne odstránené!\n"
 "(Odstránených súborov: %s)"
 
 msgid "Ready"
-msgstr ""
+msgstr "Pripravený"
 
 msgid "Really close without saving settings?"
 msgstr "Naozaj zavrieť bez uloženia nastavení?"
@@ -475,7 +475,7 @@ msgid "Reload Bouqet"
 msgstr "Obnoviť kyticu"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Znovu načítať kytice a zoznam služieb?"
 
 msgid "Remove"
 msgstr "Odstrániť"
@@ -543,7 +543,7 @@ msgid "Space"
 msgstr "Medzera"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Spustiť aktualizáciu EPG teraz?"
 
 msgid "Stream ended. Too many connection issues."
 msgstr "Stream sa skončil. Príliš veľa problémov s pripojením."
@@ -552,7 +552,7 @@ msgid "Technical Features:"
 msgstr "Technické vlastnosti:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Tým sa obnoví overovací token."
 
 msgid "This will remove:"
 msgstr "Týmto sa odstráni:"
@@ -581,13 +581,13 @@ msgid "Update interval (minutes):"
 msgstr "Interval aktualizácie (v minútach):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Aktualizácia EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG zdroj nie je povolený v EPGImport. Povoľte ho v nastaveniach EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Zdroj EPG Vavoo sa nenašiel. Najprv exportujte aspoň jednu kyticu."
 
 msgid "Vavoo Stream Live"
 msgstr "Streamujte Vavoo naživo"
@@ -599,24 +599,24 @@ msgid "Vavoo Stream Live Plugin"
 msgstr "Doplnok Vavoo Stream Live"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo kytice boli úspešne odstránené!"
 "Kytice Vavoo boli úspešne odstránené!\n"
 "(Odstránených súborov: %s)"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo už beží."
 
 msgid "Version:"
 msgstr "Verzia:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Čaká sa na proxy..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Vitajte vo Vavoo Proxy s podporou EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Môžete ho spustiť z ponuky alebo stlačením tlačidla TEXT."
 
 msgid "fixed time"
 msgstr "pevný čas"
@@ -628,32 +628,32 @@ msgid "lowercase"
 msgstr "malé písmo"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekúnd"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Proxy ({0})"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Proxy je v poriadku"
 
 #, fuzzy
 msgid "✓ Restarted"
 msgstr "Reštart"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Chyba"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Chyba servera proxy"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Platnosť proxy vypršala"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proxy offline"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Reštart zlyhal"
 
 #, fuzzy
 #~ msgid "Active or Disactive Ipv6."

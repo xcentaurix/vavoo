@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Poedit 3.9\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Срок действия прокси истекает"
 
 msgid "(%d channels)?"
 msgstr "(%d каналов)?"
@@ -22,7 +22,7 @@ msgid "(%s files deleted)"
 msgstr "(%s файлов удалено)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Добавить недостающие поля во все записи"
 
 msgid "- Auto token refresh every 9 minutes"
 msgstr "- Автоматическое обновление токена каждые 9 минут"
@@ -37,7 +37,7 @@ msgid "- Category bouquets"
 msgstr "- Букеты по категориям"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Очистите файл кэша"
 
 msgid "- Commercial use is strictly prohibited"
 msgstr "- Коммерческое использование строго запрещено"
@@ -70,7 +70,7 @@ msgid "- Redistribution must maintain attribution"
 msgstr "- При распространении необходимо сохранять указание авторства"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Удалить повторяющиеся записи"
 
 msgid "- Service references: 4097, 5001, 5002"
 msgstr "- Ссылки на сервисы: 4097, 5001, 5002"
@@ -85,16 +85,16 @@ msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr "- Техническая поддержка: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} удалено повторяющихся записей."
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} записей обновлено"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Статус прокси"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Прокси Неизвестен"
 
 msgid "Active Automatic Bouquet Update"
 msgstr "Активное автоматическое обновление букетов"
@@ -144,13 +144,13 @@ msgid "Bouquets reorganized successfully!"
 msgstr "Букеты успешно реорганизованы!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Изменить | ОК=Переключить | ИНФО = IMDb | СТОП=Выход"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Исправление формата кэша завершено:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Кэш уже в правильном формате. Никаких изменений не требуется."
 
 msgid "Cancel"
 msgstr "Отмена"
@@ -221,7 +221,7 @@ msgid "Do you want to fix the cache format?"
 msgstr "Хотите экспортировать этот букет?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Порог сходства EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
 msgstr "EPG отключен. Пожалуйста, сначала включите его в настройках Vavoo."
@@ -297,10 +297,10 @@ msgid "Failed: %(failed)d"
 msgstr "Не удалось: %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Исправить кеш"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Исправление формата кэша..."
 
 msgid "Force proxy refresh?"
 msgstr "Принудительно обновить прокси?"
@@ -333,7 +333,7 @@ msgid "Important Notes:"
 msgstr "Важные замечания:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Увеличьте, если прокси-сервер занимает много времени из-за VPN или медленного соединения."
 
 msgid "Keyboard"
 msgstr "Клавиатура"
@@ -363,13 +363,13 @@ msgid "M3U generation error: %s"
 msgstr "Ошибка генерации M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Минимальное сходство для сопоставления каналов (выше = строже)."
 
 msgid "Movie Services Reference"
 msgstr "Ссылка на сервисы фильмов"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Плагин IMDb/TMDB не найден."
 
 msgid "No Internet connection detected. Please check your network."
 msgstr "Не обнаружено подключение к Интернету. Пожалуйста, проверьте вашу сеть."
@@ -384,13 +384,13 @@ msgid "No channels found in search!!!"
 msgstr "Каналы не найдены в поиске!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Нет доступных товаров"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Информация о программе отсутствует"
 
 msgid "No selection"
-msgstr ""
+msgstr "Нет выбора"
 
 msgid "No valid channels for: %s"
 msgstr "Нет действительных каналов для: %s"
@@ -417,7 +417,7 @@ msgid "Proxy Enabled"
 msgstr "Прокси включен"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Ошибка прокси:"
 
 msgid "Proxy disabled"
 msgstr "Прокси отключен"
@@ -441,7 +441,7 @@ msgid "Proxy restarting... Please wait"
 msgstr "Перезапуск прокси... Пожалуйста, подождите"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Таймаут запуска прокси (секунды)"
 
 msgid "Proxy token refreshed successfully"
 msgstr "Токен прокси успешно обновлен"
@@ -465,7 +465,7 @@ msgid "Reload Bouqet"
 msgstr "Перезагрузить букет"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Обновить букеты и список услуг?"
 
 msgid "Remove"
 msgstr "Удалить"
@@ -617,30 +617,30 @@ msgid "seconds"
 msgstr "секунд"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Прокси ({0})"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Прокси ОК"
 
 #, fuzzy
 msgid "✓ Restarted"
 msgstr "Перезапуск"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Ошибка"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Ошибка прокси"
 
 #, fuzzy
 msgid "✗ Proxy Expired"
 msgstr "Прокси включен"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Прокси офлайн"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Не удалось перезапустить"
 
 #~ msgid "Active or Disactive Ipv6."
 #~ msgstr "Включить или отключить IPv6."

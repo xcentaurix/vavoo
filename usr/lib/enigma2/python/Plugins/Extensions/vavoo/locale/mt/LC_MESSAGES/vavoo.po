@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Prokura Tiskadi"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kanali)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s fajls imħassra)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Żid oqsma nieqsa mal-entrati kollha"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Aġġornament awtomatiku tat-token kull 9 minuti"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Ġenerazzjoni Epg Awtomatika b'Referenza tas-Servizz"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Ġenerazzjoni awtomatika tal-bukketti"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Bukketti tal-kategorija"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Naddaf il-fajl tal-cache"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- L-użu kummerċjali huwa strettament ipprojbit"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Komunità: Linuxsat-support.com, Corvoboys.org Forum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Bukketti tal-kontenituri"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Bukketti tal-pajjiż"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Kontenut b'xejn biss"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafika: @oktus"
 
 msgid "- HTTP Live Streaming"
 msgstr ""
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Sistema ta' prokura integrata"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Ebda server hosting dirett"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Ir-ridistribuzzjoni trid iżżomm l-attribuzzjoni"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Neħħi l-entrati duplikati"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Referenzi tas-servizz: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Flussi minn sorsi pubbliċi"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Formati TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Appoġġ tekniku: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} daħliet duplikati mneħħija"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} entrati aġġornati"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Status tal-Prokura"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Prokura Mhux Magħruf"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aġġornament Attiv tal-Bukkett Awtomatiku"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Il-pajjiżi kollha (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Diġà għaddejja esportazzjoni għal pajjiż ieħor. Jekk jogħġbok stenna."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "F'intervall sigħat jew ħin fiss"
 
 msgid "Author:"
-msgstr ""
+msgstr "Awtur:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Aġġorna l-EPG awtomatikament"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Ixpruna awtomatikament l-aġġornament tal-EPG wara l-ħolqien tas-sors"
 
 msgid "Back"
-msgstr ""
+msgstr "Lura"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Qiegħ"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Pożizzjoni tal-bukkett fil-Lista"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Żball fil-ħolqien tal-bukkett: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Bukkett lest bi {} kanali"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Bukketti reload skedat."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Bukketti riorganizzati b'suċċess!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Bidla | OK=Aqleb | INFO=IMDb | STOP=Ħruġ"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "It-tiswija tal-format tal-cache tlestiet:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Il-cache diġà jinsab f'format korrett. Ebda tibdil meħtieġ."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ikkanċella"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Ikkanċella l-eżekuzzjoni?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Każ: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanali"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanali: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Qed niċċekkja l-prokura..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Ċara Kollha"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Konfigurazzjoni salvata b'suċċess!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Ikkonfigura l-Immaġni Prinċipali ta' Sfond."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Ikkonfigura f'ħin fiss"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Ikkonfigura minuti intervall minn issa"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Ikkonfigura s-servizz Referenza Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
 msgstr ""
 
 msgid "Countries"
-msgstr ""
+msgstr "Pajjiżi"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Pajjiżi: %(ġenerati)d/%(total)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Pajjiż: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Oħloq sors EPG għal EPGImport bid-dejta tal-programm Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Krediti:"
 
 msgid "Default View"
-msgstr ""
+msgstr "View Default"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Veduta awtomatika meta tiftaħ il-plugin"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Trid tesporta dan il-bukkett?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Trid tiffissa l-format tal-cache?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Limitu ta' Xebh EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG huwa diżattivat. Jekk jogħġbok ippermettiha fl-issettjar ta' Vavoo l-ewwel."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "L-ipproċessar tal-EPG tlesta (l-ebda taqbila)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "L-ipproċessar tal-EPG tlesta għal {} kanali"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Aġġornament EPG lest"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "L-aġġornament tal-EPG falla"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "L-aġġornament tal-EPG beda b'suċċess"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Ippermetti Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Attiva jew tiddiżattiva proxy."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Daħħal it-test biex tfittex..."
 
 msgid "Error"
-msgstr ""
+msgstr "Żball"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Żball fl-iffissar tal-cache: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Żball fl-analiżi tad-dejta"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Żball fil-bidu tal-aġġornament tal-EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Żball fil-bidu tal-kanal"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Żball: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Żball: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ħruġ"
 
 msgid "Export"
-msgstr ""
+msgstr "Esportazzjoni"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "L-esportazzjoni falliet: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "L-esportazzjoni bdiet. Bukkett se jkun disponibbli dalwaqt."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Naqas milli jġedded il-proxy token"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Naqas milli jġedded il-proxy:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Falla: %(falla)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Waħħal il-Cache"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Jissewwi l-format tal-cache..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Forza l-aġġornament tal-prokura?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Misjuba: {} kanali"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Iġġenera fajl .m3u għal:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Iġġenera fajls .m3u (Ok għal Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Iġġenera fajls .m3u u ssejvja fuq it-tagħmir %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Iġġenera fajls .m3u u ssejvja fuq it-tagħmir %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Iġġenera fajls .m3u għal %d pajjiżi KOLLHA?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Aħbi/Uri"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Kemm-il darba taġġorna l-EPG awtomatikament (jeħtieġ EPGImport Scheduler)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Noti Importanti:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Żid jekk il-prokura tieħu fit-tul minħabba VPN jew konnessjoni bil-mod."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Tastiera"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "L-aħħar aġġornament tal-kanal: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Liċenzja:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Liċenzja: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Link fil-Menu Prinċipali"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Lower = inqas interruzzjoni iżda aktar aġġornamenti"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Fajl M3U iġġenerat b'suċċess!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Ġenerazzjoni M3U mitmuma!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Żball tal-ġenerazzjoni M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Xebh minimu għal kanali li jaqblu (ogħla = aktar stretti)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Referenza għas-Servizzi tal-films"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Ma nstab l-ebda plugin IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Ebda konnessjoni tal-Internet misjuba. Jekk jogħġbok iċċekkja n-netwerk tiegħek."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Ma nstab l-ebda kanal"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Ma nstab l-ebda kanal għal: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "L-ebda kanal ma nstab fit-tfittxija!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Ebda oġġetti disponibbli"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Ebda informazzjoni dwar il-programm disponibbli"
 
 msgid "No selection"
-msgstr ""
+msgstr "L-ebda għażla"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Ebda kanali validi għal: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Issa %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Pajjiż speċifiku wieħed biss"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Jekk jogħġbok ipprova kanal ieħor."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Pożizzjoni tal-bukketti Vavoo fil-lista prinċipali"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Agħfas il-buttuna TEXT biex ittajpja, BACKSPACE biex tħassar"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Prokura b'Diżabilità"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proxy Ippermettiet"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Żball tal-Prokura:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Proxy diżattivat"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Il-prokura hija diżattivata. Jekk jogħġbok Issettja Proxy Fuq l-ewwel. -- Konfigurazzjoni tal-Menu --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Il-prokura hija diżattivata. Jekk jogħġbok ppermettiha fil-konfigurazzjoni."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proxy mhux qed jaħdem. Jekk jogħġbok ibda l-prokura l-ewwel."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Prokura mhux attiva. Ma tistax tiġġenera fajl M3U."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Prokura ma tirrispondix wara"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proxy jerġa' jibda... Jekk jogħġbok stenna"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Timeout tal-istartjar tal-prokura (sekondi)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Proxy token aggornat b'suċċess"
 
 msgid "Ready"
-msgstr ""
+msgstr "Lest"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Tassew tagħlaq mingħajr ma tissejvja s-settings?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Rakkomandat: 5-8 minuti"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Aġġorna l-fluss (minuti):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Aġġorna l-fluss kull X minuti (1-15)"
 
 msgid "Reload Bouqet"
 msgstr ""
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Reload bukketti u lista tas-servizz?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Neħħi"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Neħħi l-bukketti KOLLHA Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Ibda mill-ġdid"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Nibda mill-ġdid..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "AGĦŻEL L-GĦAŻLA TIEGĦEK"
 
 msgid "Save"
-msgstr ""
+msgstr "Ħlief"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Issejvjat fi: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Issejvjat fi: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Tip ta' Skeda:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Lista Skedata:"
 
 msgid "Search"
-msgstr ""
+msgstr "Fittex"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Fittex Kanali:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Fittex..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Fittex:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Agħżel Sfond"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Agħżel il-mod ta' esportazzjoni M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Agħżel pajjiż biex tesporta M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Server għall-Plejer Użat"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Server għall-plejer."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Juri l-kanali kollha: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "L-ispazju"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Ibda l-aġġornament tal-EPG issa?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Il-fluss intemm. Wisq kwistjonijiet ta' konnessjoni."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Karatteristiċi Tekniċi:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Dan se jġedded it-token tal-awtentikazzjoni."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Dan se jneħħi:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Dan se:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Ħin biex tibda l-aġġornament:"
 
 msgid "Top"
-msgstr ""
+msgstr "Fuq"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Total tal-kanali: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "MAJUSKU"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Intervall tal-aġġornament (sigħat)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Intervall tal-aġġornament (minuti):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Naġġorna l-EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Is-sors ta' Vavoo EPG mhuwiex attivat f'EPGImport. Jekk jogħġbok ippermettiha fis-settings tal-EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Is-sors ta' Vavoo EPG ma nstabx. Jekk jogħġbok esporta mill-inqas bukkett wieħed l-ewwel."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Informazzjoni"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Il-bukketti Vavoo tneħħew b'suċċess!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo diġà qed jaħdem."
 
 msgid "Version:"
-msgstr ""
+msgstr "Verżjoni:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Stennija għal prokura..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Merħba għal Vavoo Proxy b'appoġġ EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Tista' tibda mill-menu jew billi tagħfas il-buttuna TEXT."
 
 msgid "fixed time"
-msgstr ""
+msgstr "ħin fiss"
 
 msgid "interval"
-msgstr ""
+msgstr "intervall"
 
 msgid "lowercase"
-msgstr ""
+msgstr "minusura"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekondi"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Prokura ({0}s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Prokura OK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Nerġgħu"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Żball"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Żball tal-Prokura"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Prokura Skaduta"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Prokura Offline"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Ristartja Falliet"

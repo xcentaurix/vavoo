@@ -15,592 +15,592 @@ msgid "! Proxy Expiring"
 msgstr ""
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kanal)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s pel hatin jêbirin)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Zeviyên winda li hemî navnîşan zêde bikin"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Her 9 hûrdeman nûvekirina tokena otomatîkî"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Hilberîna Epg-ya Otomatîk bi Referana Karûbarê"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Hilberîna bûkê ya otomatîkî"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Bûkên kategoriyê"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Pelê cache paqij bike"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Bikaranîna bazirganî bi tundî qedexe ye"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Civat: Linuxsat-support.com, Corvoboys.org Forum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Bûkên konteyner"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Bûkên welat"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Tenê naveroka belaş"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafîk: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP Zindî Streaming"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Pergala proxy ya yekbûyî"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- No hosting server rasterast"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Ji nû ve dabeşkirin divê veqetandinê biparêze"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Navnîşanên dubare jêbirin"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Referansên karûbarê: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Streams ji çavkaniyên giştî"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Formatên TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Piştgiriya teknîkî: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} navnîşên dubare hatin rakirin"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} navnîş hatin nûve kirin"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Rewşa Proxy"
 
 msgid "? Proxy Unknown"
 msgstr ""
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Nûvekirina Bûkê Otomatîk a Çalak"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Hemû welat (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Jixwe hinardekirinek ji bo welatek din di pêş de ye. Ji kerema xwe bisekinin."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Di navberek demjimêr an demek diyarkirî de"
 
 msgid "Author:"
-msgstr ""
+msgstr "Nivîskar:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "EPG-ê bixweber nûve bikin"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Piştî afirandina çavkaniyê, nûvekirina EPG-ê bixweber bike"
 
 msgid "Back"
-msgstr ""
+msgstr "Paş"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Erd"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Di Lîsteyê de Positiona Bouquet"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Çewtiya çêkirina bûkê: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Bouquet bi {} kanalan re amade ye"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Bouquets ji nû ve barkirin."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Bouquets bi serkeftî ji nû ve organîze kirin!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Guhertin | OK=Biguherîne | INFO=IMDb | STOP=Derketin"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Rastkirina formata cache qediya:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Cache jixwe di formata rast de ye. Guhertinek hewce nake."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Bişûndekirin"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "îdamê betal bike?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Mesele: {}"
 
 msgid "Channels"
 msgstr ""
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanal: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Proxy kontrol dike..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Hemî Paqij bike"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Veavakirin bi serkeftî xilas bû!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Wêneya Paşerojê ya Sereke saz bike."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Di demek diyarkirî de mîheng bike"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Ji niha ve hûrguliyên navberê mîheng bikin"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Servîsa karûbarê mîheng bikin Çavkanî Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsolê"
 
 msgid "Countries"
-msgstr ""
+msgstr "Welatên"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Welat: %(çêkirî)d/%(giştî)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Welat: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Bi daneyên bernameya Vavoo re çavkaniya EPG-ê ji bo EPGImport biafirînin"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Kredî:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Pêşniyara Bingehîn"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Dema vekirina pêvekê dîtina xwerû"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Ma hûn dixwazin vê bûkê derxînin?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Ma hûn dixwazin formata cache rast bikin?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Tîrêjê Wekheviya EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG neçalak e. Ji kerema xwe pêşî wê di mîhengên Vavoo de çalak bikin."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Pêvajoya EPG qediya (bê maç)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Pêvajoya EPG ji bo {} kanalan qediya"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Nûvekirina EPG qediya"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Nûvekirina EPG têk çû"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "Nûvekirina EPG bi serfirazî dest pê kir"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Vavoo EPG çalak bike"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Proxy çalak bike an neçalak bike."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Ji bo lêgerînê nivîsê binivîse..."
 
 msgid "Error"
-msgstr ""
+msgstr "Şaşî"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Çewtiya rastkirina cache: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Çewtiya parkirina daneyan"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Di destpêkirina nûvekirina EPG de çewtî: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Di destpêka kanalê de çewtî"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Çewtî: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Çewtî: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Derî"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksport"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Hinardekirin têk çû: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Hinardekirin dest pê kir. Bouquet dê di demek nêzîk de peyda bibe."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Nûvekirina tokena proksiyê bi ser neket"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Nûvekirina proxeyê bi ser neket:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Serneket: %(serneket)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Cache rast bikin"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Rastkirina formata cache..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Bi zorê nûvekirina proxy?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Hat dîtin: {} kanal"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Ji bo pelê .m3u çêbikin:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Pelên .m3u çêbikin (Ji bo Exec baş e)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Pelên .m3u çêkin û li cîhaza %s hilînin."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Pelên .m3u biafirînin û li cîhaza %s tomar bikin?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Ji bo HEMÛ %d welatan pelên .m3u biafirînin?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Veşêre / Nîşan bide"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Çi caran meriv EPG-ê bixweber nûve bike (pêdivî ye ku nexşerêya EPGImport)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Têbînîyên Girîng:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Ger proxy ji ber VPN an girêdana hêdî dirêj dirêj bike zêde bikin."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Kilawye"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Nûvekirina kanala dawî: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Îcaze:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Lîsans: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Girêdana di menuya sereke de"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Jêrîn = kêmbûnek lê bêtir nûvekirin"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Pelê M3U bi serfirazî hate çêkirin!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Nifşa M3U qediya!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Çewtiya hilberîna M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Wekheviya hindiktirîn ji bo kanalên lihevhatî (bilind = hişktir)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Çavkanî Xizmetên Movie"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Pêveka IMDb/TMDB nehat dîtin"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Têkiliya Înternetê nehat dîtin. Ji kerema xwe tora xwe kontrol bikin."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Tu kanal nehat dîtin"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Tu kanal nehat dîtin ji bo: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Di lêgerînê de kanal nehatin dîtin!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Tiştek tune"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Agahdariya bernameyê tune"
 
 msgid "No selection"
-msgstr ""
+msgstr "Hilbijartin tune"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Ji bo: %s kanalên derbasdar tune"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Niha %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Tenê welatek taybetî"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Ji kerema xwe kanalek din biceribîne."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Cihê bûkên Vavoo di navnîşa sereke de"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Bişkojka TEXT-ê ji bo nivîsandinê, BACKSPACE ji bo jêbirinê bikirtînin"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proxy Neçalak"
 
 msgid "Proxy Enabled"
 msgstr ""
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Çewtiya Proxy:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Proxy neçalak"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Proxy neçalak e. Ji kerema xwe pêşî Proxy-ê saz bikin. -- Veavakirina menuyê --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Proxy neçalak e. Ji kerema xwe wê di veavakirinê de çalak bike."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proxy nayê xebitandin. Ji kerema xwe pêşî proxy dest pê bikin."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Proxy ne çalak e. Nekarî pelê M3U çêbike."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Proxy piştî bersivê nade"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proxy ji nû ve dest pê dike... Ji kerema xwe li bendê bin"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Dema destpêkirina proxy (çirkeyan)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Tokena proxy bi serfirazî hate nûve kirin"
 
 msgid "Ready"
-msgstr ""
+msgstr "Amade"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Bi rastî bêyî tomarkirina mîhengan bigire?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Pêşniyar kirin: 5-8 deqîqe"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Weşana nûvekirina (deqeyan):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Her X hûrdeman weşana nûve bike (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Bouqet ji nû ve barkirin"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Kulîlk û navnîşa karûbarê ji nû ve barkirin?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Dûrxistin"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "HEMÛ bûkên Vavoo rakin?"
 
 msgid "Restart"
 msgstr ""
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Ji nû ve dest pê dike..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "HILBIJARTINA XWE HILBIJARTIN"
 
 msgid "Save"
-msgstr ""
+msgstr "Rizgarkirin"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Li: %(rêç)s hat tomarkirin"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Li: %s hat tomarkirin"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Cureya bernameyê:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Lîsteya plankirî:"
 
 msgid "Search"
-msgstr ""
+msgstr "Gerr"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Li Kanalan Bigerin:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Gerr..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Gerr:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Paşnavê hilbijêre"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Moda hinartina M3U hilbijêrin:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Ji bo hinardekirina M3U welatek hilbijêrin:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Server ji bo Lîstikvanê Bikaranîn"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Server ji bo lîstikvan."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Hemî kanal nîşan dide: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Dem"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Nûvekirina EPG-ê nuha dest pê bike?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Stream qediya. Pir pirsgirêkên girêdanê."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Taybetmendiyên Teknîkî:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Ev ê tokena erêkirinê nû bike."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Ev ê jê bibe:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Ev dê:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Dema destpêkirina nûvekirinê:"
 
 msgid "Top"
-msgstr ""
+msgstr "Kop"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Tevahiya kanalan: %(total_channels)d"
 
 msgid "UPPERCASE"
 msgstr ""
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Navbera nûvekirinê (saet)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Navbera nûvekirinê (deqe):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG nûvekirin..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Çavkaniya Vavoo EPG di EPGImport de neçalak e. Ji kerema xwe wê di mîhengên EPGImport de çalak bikin."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Çavkaniya Vavoo EPG nayê dîtin. Ji kerema xwe pêşî herî kêm bûkek derxînin."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Agahdarî"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Pêveka Zindî ya Vavoo Stream"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Bûkên Vavoo bi serkeftî hatin rakirin!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo jixwe dimeşe."
 
 msgid "Version:"
-msgstr ""
+msgstr "Awa:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Li benda proxy ..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Bi piştgiriya EPG-ê re bi xêr hatin Vavoo Proxy"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Hûn dikarin wê ji pêşek an bi tikandina bişkoka TEXT dest pê bikin."
 
 msgid "fixed time"
-msgstr ""
+msgstr "dema sabît"
 
 msgid "interval"
-msgstr ""
+msgstr "navber"
 
 msgid "lowercase"
-msgstr ""
+msgstr "tîpên biçûk"
 
 msgid "seconds"
 msgstr ""
@@ -612,13 +612,13 @@ msgid "✓ Proxy OK"
 msgstr ""
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Ji nû ve dest pê kir"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Xeletî"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Çewtiya Proxy"
 
 msgid "✗ Proxy Expired"
 msgstr ""
@@ -627,4 +627,4 @@ msgid "✗ Proxy Offline"
 msgstr ""
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Ji nû ve destpêkirin têk çû"

@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! פּראָקסי עקספּירינג"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(% ד טשאַנאַלז)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s טעקעס אויסגעמעקט)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- לייג פעלנדיק פעלדער צו אַלע איינסן"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- אַוטאָ דערפרישן טאָקען יעדער 9 מינוט"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- אָטאַמאַטיק EPG דור מיט סערוויס רעפערענץ"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- אָטאַמאַטיק בוקיי דור"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- קאַטעגאָריע באָוקייז"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- ריין אַרויף די קאַש טעקע"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- געשעפט נוצן איז שטרענג פּראָוכיבאַטאַד"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- קאַמיוניטי: Linuxsat-support.com, Corvoboys.org פאָרום"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- קאַנטיינער באָוקייז"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- לאַנד באָוקייז"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- בלויז פריי אינהאַלט"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- גראַפיקס: @אָקטוס"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- הטטפּ לייוו סטרימינג"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- ינטעגראַטעד פּראַקסי סיסטעם"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- קיין דירעקט סערווער האָסטינג"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- רידיסטראַביושאַן מוזן טייַנען אַטריביושאַן"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- אַראָפּנעמען דופּליקאַט איינסן"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- סערוויס באַווייַזן: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- סטרימז פון ציבור קוואלן"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 פֿאָרמאַטירונגען"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- טעכניש שטיצן: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} דופּליקאַט איינסן אַוועקגענומען"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} איינסן דערהייַנטיקט"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? פּראָקסי סטאַטוס"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? פּראָקסי אומבאַקאַנט"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "אַקטיוו אָטאַמאַטיק בוקיי דערהייַנטיקן"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "אַלע לענדער (%ד)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "אַן עקספּאָרט פֿאַר אן אנדער לאַנד איז שוין אין פּראָגרעס. ביטע וואַרטן."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "אין אַ ינטערוואַל שעה אָדער פאַרפעסטיקט צייט"
 
 msgid "Author:"
-msgstr ""
+msgstr "מחבר:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "אַוטאָ-דערהייַנטיקן עפּג"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "אויטאָמאַטיש צינגל EPG דערהייַנטיקן נאָך מקור שאַפונג"
 
 msgid "Back"
-msgstr ""
+msgstr "צוריק"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "דנאָ"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "בוקיי שטעלע אין רשימה"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "בוקיי שאַפונג טעות: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "בוקיי גרייט מיט {} טשאַנאַלז"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "באָוקייז רילאָוד סקעדזשולד."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "באָוקייז ריאָרגאַנייזד הצלחה!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=טוישן | OK=טוגלען | INFO=IMDb | STOP=אַרויסגאַנג"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "קאַש פֿאָרמאַט פאַרריכטן געענדיקט:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "קאַש איז שוין אין ריכטיק פֿאָרמאַט. קיין ענדערונגען דארף."
 
 msgid "Cancel"
-msgstr ""
+msgstr "באָטל מאַכן"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "באָטל מאַכן דורכפירונג?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "פאַל: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "טשאַנאַלז"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "טשאַנאַלז: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "טשעקן פראקסי..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "קלאָר אַלע"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "קאָנפיגוראַטיאָן געראטעוועט הצלחה!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "קאַנפיגיער הויפּט הינטערגרונט בילד."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "קאַנפיגיער אין אַ פאַרפעסטיקט צייט"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "קאַנפיגיער ינטערוואַל מינוט פון איצט"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "קאַנפיגיער סערוויס רעפערענץ Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "קאַנסאָול"
 
 msgid "Countries"
-msgstr ""
+msgstr "לענדער"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "לענדער: %(דזשענערייטאַד)ד/%(גאַנץ)ד"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "לאַנד: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "שאַפֿן EPG מקור פֿאַר EPGImport מיט Vavoo פּראָגראַם דאַטן"
 
 msgid "Credits:"
-msgstr ""
+msgstr "קרעדיט:"
 
 msgid "Default View"
-msgstr ""
+msgstr "פעליקייַט View"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "פעליקייַט מיינונג ווען עפן די פּלוגין"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "צי איר ווילן צו אַרויספירן דעם בוקיי?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "צי איר ווילן צו פאַרריכטן די קאַש פֿאָרמאַט?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG ענלעכקייט שוועל (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG איז פאַרקריפּלט. ביטע געבן עס אין Vavoo סעטטינגס ערשטער."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG פּראַסעסינג געענדיקט (קיין שוועבעלעך)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "EPG פּראַסעסינג געענדיקט פֿאַר {} טשאַנאַלז"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG דערהייַנטיקן געענדיקט"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG דערהייַנטיקן ניט אַנדערש"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG דערהייַנטיקן סטאַרטעד הצלחה"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "געבן Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "געבן אָדער דיסייבאַל פּראַקסי."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "אַרייַן טעקסט צו זוכן..."
 
 msgid "Error"
-msgstr ""
+msgstr "טעות"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "טעות פיקסיר קאַש: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "טעות פּאַרסינג דאַטן"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "טעות סטאַרטינג EPG דערהייַנטיקן: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "טעות אָנהייב קאַנאַל"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "טעות: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "טעות: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "אַרויסגאַנג"
 
 msgid "Export"
-msgstr ""
+msgstr "עקספּאָרט"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "עקספּאָרט ניט אַנדערש: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "עקספּאָרט סטאַרטעד. בוקיי וועט זיין בנימצא באַלד."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "ניט געקענט דערפרישן פראקסי סימען"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "ניט געקענט דערפרישן פראקסי:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "ניט אַנדערש: %(ניט אַנדערש) ד"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "פאַרריכטן קאַש"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "פיקסיר קאַש פֿאָרמאַט ..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "צווינגען פראקסי דערפרישן?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "געפונען: {} טשאַנאַלז"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "דזשענערייט .מ3ו טעקע פֿאַר:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "דזשענערייט .m3u טעקעס (אָוקיי פֿאַר עקסעק)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "דזשענערייט .מ3ו טעקעס און שפּאָרן אויף מיטל %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "דזשענערייט .מ3ו טעקעס און ראַטעווען צו מיטל %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "דזשענערייט .מ3ו טעקעס פֿאַר אַלע %d לענדער?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "באַהאַלטן / ווייַזן"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "ווי אָפט צו אויטאָמאַטיש דערהייַנטיקן די EPG (ריקווייערז EPGImport סקעדזשולער)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "וויכטיק הערות:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "פאַרגרעסערן אויב פּראַקסי נעמט לאַנג רעכט צו VPN אָדער פּאַמעלעך קשר."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "קלאַוויאַטור"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "לעצטע קאַנאַל דערהייַנטיקן: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "ליסענסע:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "ליסענסע: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "לינק אין די הויפּט מעניו"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "נידעריקער = ווייניקער יבעררייַס אָבער מער דערפרישן"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "מ3ו טעקע דזשענערייטאַד הצלחה!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U דור געענדיקט!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U דור טעות: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "מינימום ענלעכקייט פֿאַר וואָס ריכטן טשאַנאַלז (העכער = שטרענגער)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "פֿילם באַדינונגס רעפערענץ"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "קיין IMDb / TMDB פּלוגין געפֿונען"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "קיין אינטערנעט פֿאַרבינדונג דיטעקטאַד. ביטע טשעק דיין נעץ."
 
 msgid "No channels found"
-msgstr ""
+msgstr "קיין טשאַנאַלז געפונען"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "קיין טשאַנאַלז געפונען פֿאַר: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "קיין טשאַנאַלז געפֿונען אין זוכן !!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "קיין ייטאַמז בנימצא"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "קיין פּראָגראַם אינפֿאָרמאַציע בנימצא"
 
 msgid "No selection"
-msgstr ""
+msgstr "קיין סעלעקציע"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "קיין גילטיק טשאַנאַלז פֿאַר: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "איצט %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "בלויז איין ספּעציפיש לאַנד"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "ביטע פּרובירן אן אנדער קאַנאַל."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "שטעלע פון ​​וואַוואָ באָוקייז אין די הויפּט רשימה"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "דרוק טעקסט קנעפּל צו דרוקן, BACKSPACE צו ויסמעקן"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "פּראָקסי פאַרקריפּלט"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "פּראָקסי ענאַבלעד"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "פראקסי טעות:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "פּראָקסי פאַרקריפּלט"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "פּראָקסי איז פאַרקריפּלט. ביטע שטעלן פּראָקסי אויף ערשטער. -- Menu Config --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "פּראָקסי איז פאַרקריפּלט. ביטע געבן עס אין די קאַנפיגיעריישאַן."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "פּראָקסי איז נישט פליסנדיק. ביטע אָנהייבן די פּראַקסי ערשטער."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "פּראָקסי איז נישט אַקטיוו. ניט געקענט צו דזשענערייט M3U טעקע."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "פּראָקסי ניט ריספּאַנדינג נאָך"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "פּראָקסי ריסטאַרטינג ... ביטע וואַרטן"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "פּראַקסי סטאַרטאַפּ טיימאַוט (סעקונדן)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "פּראָקסי טאָקען דערקוויקט הצלחה"
 
 msgid "Ready"
-msgstr ""
+msgstr "גרייט"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "טאַקע נאָענט אָן שפּאָרן סעטטינגס?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "רעקאַמענדיד: 5-8 מינוט"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "דערפרישן סטרים (מינוט):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "דערפרישן סטרימינג יעדער X מינוט (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "רילאָוד בוקיי"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "רילאָוד באָוקייז און סערוויס רשימה?"
 
 msgid "Remove"
-msgstr ""
+msgstr "אַראָפּנעמען"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "אַראָפּנעמען אַלע וואַוואָו באָוקייז?"
 
 msgid "Restart"
-msgstr ""
+msgstr "ריסטאַרט"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "ריסטאַרטינג ..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "אויסקלייַבן דיין ברירה"
 
 msgid "Save"
-msgstr ""
+msgstr "היט"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "געראטעוועט אין: %(דרך)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "געראטעוועט אין: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "טיפּ פון פּלאַן:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "סקעדזשולד רשימה:"
 
 msgid "Search"
-msgstr ""
+msgstr "זוכן"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "זוכן טשאַנאַלז:"
 
 msgid "Search..."
-msgstr ""
+msgstr "זוך..."
 
 msgid "Search:"
-msgstr ""
+msgstr "זוכן:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "אויסקלייַבן הינטערגרונט"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "אויסקלייַבן M3U אַרויספירן מאָדע:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "אויסקלייַבן לאַנד צו אַרויספירן M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "סערווירער פֿאַר שפּילער געוויינט"
 
 msgid "Server for player."
-msgstr ""
+msgstr "סערווירער פֿאַר שפּילער."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "ווייַזן אַלע טשאַנאַלז: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "פּלאַץ"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "אָנהייבן EPG דערהייַנטיקן איצט?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "סטרים געענדיקט. צו פילע קשר ישוז."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "טעכניש פֿעיִקייטן:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "דאָס וועט דערפרישן די אָטענטאַקיישאַן טאָקען."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "דאָס וועט אַראָפּנעמען:"
 
 msgid "This will:"
-msgstr ""
+msgstr "דאָס וועט:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "צייט צו אָנהייבן דערהייַנטיקן:"
 
 msgid "Top"
 msgstr ""
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "גאַנץ טשאַנאַלז: %(טאָטאַל_טשאַננעלס)ד"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "קאַפּיטאַל"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "דערהייַנטיקן ינטערוואַל (שעה)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "דערהייַנטיקן מעהאַלעך (מינוט):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "דערהייַנטיקט EPG ..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG מקור איז נישט ענייבאַלד אין EPGImport. ביטע געבן עס אין EPGImport סעטטינגס."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG מקור ניט געפֿונען. ביטע אַרויספירן בייַ מינדסטער איין בוקיי ערשטער."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo סטרים לייוו"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - אינפֿאָרמאַציע"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "וואַוואָ באָוקייז אַוועקגענומען הצלחה!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "וואַוואָ איז שוין פליסנדיק."
 
 msgid "Version:"
-msgstr ""
+msgstr "ווערסיע:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "ווארטן אויף פראקסי..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "ברוכים הבאים צו Vavoo Proxy מיט EPG שטיצן"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "איר קענען אָנהייבן עס פֿון די מעניו אָדער דורך דרינגלעך די טעקסט קנעפּל."
 
 msgid "fixed time"
-msgstr ""
+msgstr "פאַרפעסטיקט צייַט"
 
 msgid "interval"
-msgstr ""
+msgstr "מעהאַלעך"
 
 msgid "lowercase"
-msgstr ""
+msgstr "קליין אותיות"
 
 msgid "seconds"
-msgstr ""
+msgstr "סעקונדעס"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ פּראָקסי ({0} s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ פּראָקסי גוט"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ ריסטאַרטיד"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ טעות"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ פּראָקסי טעות"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ פּראָקסי אויסגעגאנגען"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ פּראָקסי אָפפלינע"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ ריסטאַרט ניט אַנדערש"

@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Poedit 3.8\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Proxy lejár"
 
 msgid "(%d channels)?"
 msgstr "(%d csatorna)?"
@@ -22,13 +22,13 @@ msgid "(%s files deleted)"
 msgstr "(%s fájl törölve)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Adja hozzá a hiányzó mezőket az összes bejegyzéshez"
 
 msgid "- Auto token refresh every 9 minutes"
 msgstr "- Automatikus tokenfrissítés 9 percenként"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Automatikus Epg generálás szolgáltatási referenciával"
 
 msgid "- Automatic bouquet generation"
 msgstr "- Automatikus csokorgenerálás"
@@ -37,7 +37,7 @@ msgid "- Category bouquets"
 msgstr "- Kategória csokrok"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Tisztítsa meg a cache fájlt"
 
 msgid "- Commercial use is strictly prohibited"
 msgstr "- Kereskedelmi célú felhasználás szigorúan tilos"
@@ -71,7 +71,7 @@ msgid "- Redistribution must maintain attribution"
 msgstr "- Az újraelosztásnak fenn kell tartania a forrásmegjelölést"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Távolítsa el az ismétlődő bejegyzéseket"
 
 msgid "- Service references: 4097, 5001, 5002"
 msgstr "- Szolgáltatási hivatkozások: 4097, 5001, 5002"
@@ -86,16 +86,16 @@ msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr "- Technikai támogatás: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} ismétlődő bejegyzés eltávolítva"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} bejegyzés frissítve"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Proxy állapota"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Ismeretlen proxy"
 
 msgid "Active Automatic Bouquet Update"
 msgstr "Aktív automatikus csokorfrissítés"
@@ -104,7 +104,7 @@ msgid "All countries (%d)"
 msgstr "Minden ország (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Egy másik országba irányuló export már folyamatban van. Kérjük, várjon."
 
 #, fuzzy
 msgid "At an interval hours or fixed time"
@@ -114,10 +114,10 @@ msgid "Author:"
 msgstr "Szerző:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Az EPG automatikus frissítése"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "A forrás létrehozása után automatikusan elindítja az EPG frissítést"
 
 msgid "Back"
 msgstr "Vissza"
@@ -147,13 +147,13 @@ msgid "Bouquets reorganized successfully!"
 msgstr "A csokrok átrendezése sikeresen megtörtént!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Változás | OK=Váltás | INFO=IMDb | STOP=Kilépés"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "A gyorsítótár formátumának javítása befejeződött:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "A gyorsítótár már megfelelő formátumban van. Nincs szükség változtatásokra."
 
 msgid "Cancel"
 msgstr "Mégsem"
@@ -172,7 +172,7 @@ msgid "Channels: %d"
 msgstr "Csatornák: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Proxy ellenőrzése..."
 
 msgid "Clear All"
 msgstr "Összes törlése"
@@ -206,7 +206,7 @@ msgid "Country: %s"
 msgstr "Ország: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Hozzon létre EPG-forrást az EPGImporthoz a Vavoo programadatokkal"
 
 msgid "Credits:"
 msgstr "Kreditek:"
@@ -225,32 +225,32 @@ msgid "Do you want to fix the cache format?"
 msgstr "Exportálni szeretné ezt a csokrot?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG hasonlósági küszöb (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "Az EPG le van tiltva. Először engedélyezze a Vavoo beállításaiban."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Az EPG feldolgozása befejeződött (nincs találat)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Az EPG feldolgozás befejeződött {} csatornánál"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Az EPG frissítés befejeződött"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Az EPG frissítése nem sikerült"
 
 #, fuzzy
 msgid "EPG update started successfully"
 msgstr "Konfiguráció sikeresen mentve!"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Engedélyezze a Vavoo EPG-t"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Proxy engedélyezése vagy letiltása."
 
 msgid "Enter text to search..."
 msgstr "Írjon be szöveget a kereséshez..."
@@ -288,28 +288,28 @@ msgid "Export"
 msgstr "Exportálás"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Az exportálás sikertelen: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Az exportálás megkezdődött. A csokor hamarosan elérhető lesz."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Nem sikerült frissíteni a proxy tokent"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Nem sikerült frissíteni a proxyt:"
 
 msgid "Failed: %(failed)d"
 msgstr "Sikertelen: %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Gyorsítótár javítása"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "A gyorsítótár formátumának javítása..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Kényszeríti a proxy frissítését?"
 
 msgid "Found: {} channels"
 msgstr "{} csatorna található"
@@ -333,13 +333,13 @@ msgid "Hide/Show"
 msgstr "Elrejtés/Megjelenítés"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Milyen gyakran kell automatikusan frissíteni az EPG-t (EPGImport ütemező szükséges)"
 
 msgid "Important Notes:"
 msgstr "Fontos megjegyzések:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Növelje, ha a proxy sokáig tart a VPN vagy a lassú kapcsolat miatt."
 
 msgid "Keyboard"
 msgstr "Billentyűzet"
@@ -369,16 +369,16 @@ msgid "M3U generation error: %s"
 msgstr "M3U generálási hiba: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Minimális hasonlóság az egyező csatornákhoz (nagyobb = szigorúbb)."
 
 msgid "Movie Services Reference"
 msgstr "Filmszolgáltatások referencia"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Nem található IMDb/TMDB bővítmény"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Nem észlelhető internetkapcsolat. Kérjük, ellenőrizze a hálózatát."
 
 msgid "No channels found"
 msgstr "Nem található csatorna a következőhöz: {}"
@@ -390,13 +390,13 @@ msgid "No channels found in search!!!"
 msgstr "Nem található csatorna a keresésben!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Nincsenek elérhető tételek"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Nincs elérhető programinformáció"
 
 msgid "No selection"
-msgstr ""
+msgstr "Nincs kiválasztás"
 
 msgid "No valid channels for: %s"
 msgstr "Nincsenek érvényes csatornák ehhez: %s"
@@ -417,47 +417,47 @@ msgid "Press TEXT button to type, BACKSPACE to delete"
 msgstr "Nyomja meg a TEXT gombot a gépeléshez, a BACKSPACE gombot a törléshez"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proxy letiltva"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proxy engedélyezve"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Proxy hiba:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Proxy letiltva"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "A proxy le van tiltva. Kérjük, először állítsa be a proxyt. -- Menü konfiguráció --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "A proxy le van tiltva. Kérjük, engedélyezze a konfigurációban."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "A proxy nem fut. Kérjük, először indítsa el a proxyt."
 
 msgid "Proxy not active. Unable to generate M3U file."
 msgstr "A proxy nem aktív. Nem sikerült létrehozni az M3U fájlt."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "A proxy nem válaszol ezután"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proxy újraindítása... Kérjük, várjon"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Proxy indítási időtúllépése (másodperc)"
 
 #, fuzzy
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "A proxy token sikeresen frissítve"
 "Vavoo csokrok sikeresen eltávolítva!\n"
 "\n"
 "(%s fájl törölve)"
 
 msgid "Ready"
-msgstr ""
+msgstr "Kész"
 
 msgid "Really close without saving settings?"
 msgstr "Tényleg bezárja a beállítások mentése nélkül?"
@@ -476,7 +476,7 @@ msgid "Reload Bouqet"
 msgstr "Bouqet újratöltése"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Újratölti a csokrokat és a szolgáltatási listát?"
 
 msgid "Remove"
 msgstr "Eltávolítás"
@@ -544,7 +544,7 @@ msgid "Space"
 msgstr "Tér"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Elkezdi most az EPG frissítést?"
 
 msgid "Stream ended. Too many connection issues."
 msgstr "A streamelés véget ért. Túl sok kapcsolódási probléma."
@@ -553,7 +553,7 @@ msgid "Technical Features:"
 msgstr "Műszaki jellemzők:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Ez frissíti a hitelesítési tokent."
 
 msgid "This will remove:"
 msgstr "Ez eltávolítja a következőket:"
@@ -582,13 +582,13 @@ msgid "Update interval (minutes):"
 msgstr "Frissítési időköz (perc):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG frissítése..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "A Vavoo EPG forrás nincs engedélyezve az EPGImportban. Kérjük, engedélyezze az EPGImport beállításainál."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "A Vavoo EPG forrás nem található. Kérjük, először exportáljon legalább egy csokrot."
 
 msgid "Vavoo Stream Live"
 msgstr "Vavoo Stream élőben"
@@ -600,25 +600,25 @@ msgid "Vavoo Stream Live Plugin"
 msgstr "Vavoo élő közvetítés bővítmény"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo csokrok sikeresen eltávolítva!"
 "Vavoo csokrok sikeresen eltávolítva!\n"
 "\n"
 "(%s fájl törölve)"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "A Vavoo már fut."
 
 msgid "Version:"
 msgstr "Verzió:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Várakozás a proxyra..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Üdvözöljük az EPG-támogatással rendelkező Vavoo Proxyban"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Indíthatja a menüből vagy a TEXT gomb megnyomásával."
 
 msgid "fixed time"
 msgstr "megbeszélt időpont"
@@ -630,32 +630,32 @@ msgid "lowercase"
 msgstr "kisbetűk"
 
 msgid "seconds"
-msgstr ""
+msgstr "másodpercig"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Proxy ({0})"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ A proxy rendben van"
 
 #, fuzzy
 msgid "✓ Restarted"
 msgstr "Újraindítás"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Hiba"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Proxy hiba"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ A proxy lejárt"
 
 msgid "✗ Proxy Offline"
 msgstr ""
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Az újraindítás sikertelen"
 
 #, fuzzy
 #~ msgid "Active or Disactive Ipv6."

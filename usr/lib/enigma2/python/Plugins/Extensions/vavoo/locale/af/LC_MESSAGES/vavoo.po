@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Volmag verval"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kanale)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s lêers is uitgevee)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Voeg ontbrekende velde by alle inskrywings"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Outomatiese token-verversing elke 9 minute"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Outomatiese Epg-generering met diensverwysing"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Outomatiese boeketgenerering"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Kategorie ruikers"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Maak die kaslêer skoon"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Kommersiële gebruik is streng verbode"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Gemeenskap: Linuxsat-support.com, Corvoboys.org Forum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Houer ruikers"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Landelike ruikers"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Slegs gratis inhoud"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafika: @oktus"
 
 msgid "- HTTP Live Streaming"
 msgstr ""
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Geïntegreerde proxy-stelsel"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Geen direkte bedienerhosting nie"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Herverdeling moet erkenning handhaaf"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Verwyder duplikaatinskrywings"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Diensverwysings: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Strooms van openbare bronne"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 formate"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Tegniese ondersteuning: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} duplikaatinskrywings is verwyder"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} inskrywings opgedateer"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Volmagstatus"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Volmag Onbekend"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktiewe outomatiese boeketopdatering"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Alle lande (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "'n Uitvoer na 'n ander land is reeds aan die gang. Wag asseblief."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Met 'n interval ure of vaste tyd"
 
 msgid "Author:"
-msgstr ""
+msgstr "Skrywer:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Dateer EPG outomaties op"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Aktiveer EPG-opdatering outomaties na bronskepping"
 
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Onderkant"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Boeket posisie in lys"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Boeketskeppingsfout: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Boeket gereed met {} kanale"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Ruikers herlaai geskeduleer."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Boekette is suksesvol herorganiseer!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Verander | OK=Wissel | INFO=IMDb | STOP=Verlaat"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Kasformaatoplossing voltooi:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Kas is reeds in die korrekte formaat. Geen veranderinge nodig nie."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselleer"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Kanselleer uitvoering?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Geval: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanale"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanale: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Gaan tans instaanbediener na …"
 
 msgid "Clear All"
-msgstr ""
+msgstr "Vee alles uit"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Opstelling suksesvol gestoor!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Stel hoofagtergrondbeeld op."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigureer op 'n vaste tyd"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Stel interval minute van nou af"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Stel diensverwysing op Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsole"
 
 msgid "Countries"
-msgstr ""
+msgstr "Lande"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Lande: %(gegenereer)d/%(totaal)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Land: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Skep EPG-bron vir EPGImport met Vavoo-programdata"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Krediete:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Verstek aansig"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Verstek aansig wanneer die inprop oopgemaak word"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Wil jy hierdie ruiker uitvoer?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Wil jy die kasformaat regmaak?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG-ooreenkomsdrempel (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG is gedeaktiveer. Aktiveer dit asseblief eers in Vavoo-instellings."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG-verwerking voltooi (geen passings nie)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "EPG-verwerking voltooi vir {} kanale"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG-opdatering voltooi"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG-opdatering het misluk"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG-opdatering het suksesvol begin"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Aktiveer Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Aktiveer of deaktiveer instaanbediener."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Voer teks in om te soek..."
 
 msgid "Error"
-msgstr ""
+msgstr "Fout"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Kon nie kas regmaak nie: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Kon nie data ontleed nie"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Kon nie EPG-opdatering begin nie: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Kon nie kanaal begin nie"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Fout: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Fout: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Verlaat"
 
 msgid "Export"
-msgstr ""
+msgstr "Uitvoer"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Uitvoer misluk: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Uitvoer het begin. Boeket sal binnekort beskikbaar wees."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Kon nie instaanbediener-token herlaai nie"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Kon nie instaanbediener herlaai nie:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Misluk: %(misluk)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Maak Cache reg"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Maak tans kasformaat reg..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Dwing instaanbediener herlaai?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Gevind: {} kanale"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Genereer .m3u-lêer vir:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Genereer .m3u-lêers (Ok vir Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Genereer .m3u-lêers en stoor op toestel %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Genereer .m3u-lêers en stoor op toestel %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Genereer .m3u-lêers vir ALLE %d lande?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Versteek/Wys"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Hoe gereeld om die EPG outomaties op te dateer (vereis EPGImport skeduleerder)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Belangrike notas:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Verhoog as instaanbediener lank neem as gevolg van VPN of stadige verbinding."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Sleutelbord"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Laaste kanaalopdatering: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Lisensie:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Lisensie: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Skakel in Hoofkieslys"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Laer = minder onderbreking maar meer verfris"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U-lêer suksesvol gegenereer!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U-generasie voltooi!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U-opwekkingsfout: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Minimum ooreenkoms vir bypassende kanale (hoër = strenger)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Filmdiensteverwysing"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Geen IMDb/TMDB-inprop gevind nie"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Geen internetverbinding bespeur nie. Gaan asseblief jou netwerk na."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Geen kanale gevind nie"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Geen kanale gevind vir: %s nie"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Geen kanale gevind in soektog nie!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Geen items beskikbaar nie"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Geen programinligting beskikbaar nie"
 
 msgid "No selection"
-msgstr ""
+msgstr "Geen keuse nie"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Geen geldige kanale vir: %s nie"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Nou %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Slegs een spesifieke land"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Probeer asseblief 'n ander kanaal."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Posisie van Vavoo-ruikers in die hooflys"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Druk die TEKS-knoppie om te tik, TERUG om uit te vee"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Volmag gedeaktiveer"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proxy geaktiveer"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Proxy Fout:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Volmag gedeaktiveer"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Volmag is gedeaktiveer. Stel asseblief eers Proxy Aan. -- Menu Config --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Volmag is gedeaktiveer. Aktiveer dit asseblief in die konfigurasie."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proxy loop nie. Begin asseblief eers die instaanbediener."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Volmag nie aktief nie. Kan nie M3U-lêer genereer nie."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Proxy reageer nie daarna nie"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proxy herbegin... Wag asseblief"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Gevolmagtigde opstart-uitteltyd (sekondes)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Volmagtoken is suksesvol herlaai"
 
 msgid "Ready"
-msgstr ""
+msgstr "Gereed"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Regtig toemaak sonder om instellings te stoor?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Aanbeveel: 5-8 minute"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Herlaai stroom (minute):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Herlaai stroom elke X minute (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Herlaai Bouqet"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Herlaai ruikers en dienslys?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Verwyder"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Verwyder ALLE Vavoo-ruikers?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Herbegin"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Herbegin tans …"
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "KIES JOU KEUSE"
 
 msgid "Save"
-msgstr ""
+msgstr "Stoor"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Gestoor in: %(pad)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Gestoor in: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Skedule tipe:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Geskeduleerde lys:"
 
 msgid "Search"
-msgstr ""
+msgstr "Soek"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Soek kanale:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Soek..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Soek:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Kies Agtergrond"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Kies M3U-uitvoermodus:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Kies land om M3U uit te voer:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Bediener vir speler gebruik"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Bediener vir speler."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Wys tans alle kanale: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Ruimte"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Begin EPG-opdatering nou?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Stroom het geëindig. Te veel verbindingskwessies."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Tegniese kenmerke:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Dit sal die stawingtoken verfris."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Dit sal verwyder:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Dit sal:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Tyd om opdatering te begin:"
 
 msgid "Top"
 msgstr ""
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Totale kanale: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "HOOFLETTERS"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Opdateringsinterval (ure)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Opdateringsinterval (minute):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Dateer tans EPG op …"
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG-bron is nie in EPGImport geaktiveer nie. Aktiveer dit asseblief in EPGImport-instellings."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG-bron nie gevind nie. Voer asseblief eers ten minste een ruiker uit."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo Stroom Regstreeks"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Inligting"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo-ruikers suksesvol verwyder!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo hardloop reeds."
 
 msgid "Version:"
-msgstr ""
+msgstr "Weergawe:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Wag tans vir instaanbediener …"
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Welkom by Vavoo Proxy met EPG-ondersteuning"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Jy kan dit vanaf die kieslys begin of deur die TEXT-knoppie te druk."
 
 msgid "fixed time"
-msgstr ""
+msgstr "vaste tyd"
 
 msgid "interval"
 msgstr ""
 
 msgid "lowercase"
-msgstr ""
+msgstr "kleinletters"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekondes"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Volmag ({0}s)"
 
 msgid "✓ Proxy OK"
 msgstr ""
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Herbegin"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Fout"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Proxy-fout"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Volmag het verval"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proxy vanlyn"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Herbegin het misluk"

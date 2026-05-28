@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 3.9\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! انتهاء صلاحية الوكيل"
 
 msgid "(%d channels)?"
 msgstr "(%d قناة)؟"
@@ -21,7 +21,7 @@ msgid "(%s files deleted)"
 msgstr "(%s ملف تم حذفها)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- إضافة الحقول المفقودة لجميع الإدخالات"
 
 msgid "- Auto token refresh every 9 minutes"
 msgstr "- تحديث تلقائي للرمز كل 9 دقائق"
@@ -36,7 +36,7 @@ msgid "- Category bouquets"
 msgstr "- باقات الفئات"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- تنظيف ملف ذاكرة التخزين المؤقت"
 
 msgid "- Commercial use is strictly prohibited"
 msgstr "- الاستخدام التجاري ممنوع منعا باتا"
@@ -69,7 +69,7 @@ msgid "- Redistribution must maintain attribution"
 msgstr "- يجب أن تحتفظ إعادة التوزيع بالإسناد"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- إزالة الإدخالات المكررة"
 
 msgid "- Service references: 4097, 5001, 5002"
 msgstr "- مراجع الخدمة: 4097, 5001, 5002"
@@ -84,16 +84,16 @@ msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr "- الدعم الفني: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- تمت إزالة {} إدخالات مكررة"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- تم تحديث {} الإدخالات"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "؟ حالة الوكيل"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "؟ الوكيل غير معروف"
 
 msgid "Active Automatic Bouquet Update"
 msgstr "تحديث الباقات التلقائي نشط"
@@ -117,7 +117,7 @@ msgid "Automatically trigger EPG update after source creation"
 msgstr "تشغيل تحديث EPG تلقائيا بعد إنشاء المصدر"
 
 msgid "Back"
-msgstr ""
+msgstr "خلف"
 
 msgid "Backspace"
 msgstr "مسح للخلف"
@@ -129,25 +129,25 @@ msgid "Bouquet Position in List"
 msgstr "موضع الباقة في القائمة"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "خطأ في إنشاء الباقة: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "الباقة جاهزة مع {} قناة"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "إعادة تحميل الباقات المجدولة."
 
 msgid "Bouquets reorganized successfully!"
 msgstr "تم إعادة تنظيم الباقات بنجاح!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH ± = التغيير | موافق=تبديل | معلومات=IMDb | توقف=خروج"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "اكتمل إصلاح تنسيق ذاكرة التخزين المؤقت:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "ذاكرة التخزين المؤقت بالتنسيق الصحيح بالفعل. لا حاجة للتغييرات."
 
 msgid "Cancel"
 msgstr "إلغاء"
@@ -159,7 +159,7 @@ msgid "Case: {}"
 msgstr "حالة الأحرف: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "القنوات"
 
 msgid "Channels: %d"
 msgstr "القنوات: %d"
@@ -213,19 +213,19 @@ msgid "Do you want to export this bouquet?"
 msgstr "هل تريد تصدير هذه الباقة؟"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "هل تريد إصلاح تنسيق ذاكرة التخزين المؤقت؟"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "عتبة تشابه دليل البرامج الإلكتروني (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
 msgstr "EPG معطل. الرجاء تفعيله في إعدادات Vavoo أولا."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "اكتملت معالجة دليل البرامج الإلكتروني (لا توجد تطابقات)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "اكتملت معالجة دليل البرامج الإلكتروني لـ {} قناة"
 
 msgid "EPG update completed"
 msgstr "اكتمل تحديث EPG"
@@ -246,13 +246,13 @@ msgid "Enter text to search..."
 msgstr "أدخل نصا للبحث..."
 
 msgid "Error"
-msgstr ""
+msgstr "خطأ"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "خطأ في إصلاح ذاكرة التخزين المؤقت: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "خطأ في تحليل البيانات"
 
 msgid "Error starting EPG update: {}"
 msgstr "خطأ في بدء تحديث EPG: {}"
@@ -267,13 +267,13 @@ msgid "Error: {}"
 msgstr "خطأ: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "مخرج"
 
 msgid "Export"
 msgstr "تصدير"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "فشل التصدير: {}"
 
 msgid "Export started. Bouquet will be available shortly."
 msgstr "بدأ التصدير. ستكون الباقة متاحة قريبا."
@@ -288,10 +288,10 @@ msgid "Failed: %(failed)d"
 msgstr "فشل: %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "إصلاح ذاكرة التخزين المؤقت"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "إصلاح تنسيق ذاكرة التخزين المؤقت..."
 
 msgid "Force proxy refresh?"
 msgstr "فرض تحديث الوكيل؟"
@@ -324,7 +324,7 @@ msgid "Important Notes:"
 msgstr "ملاحظات مهمة:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "تزيد إذا استغرق الوكيل وقتًا طويلاً بسبب VPN أو الاتصال البطيء."
 
 msgid "Keyboard"
 msgstr "لوحة المفاتيح"
@@ -354,13 +354,13 @@ msgid "M3U generation error: %s"
 msgstr "خطأ في إنشاء M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "الحد الأدنى من التشابه للقنوات المطابقة (أعلى = أكثر صرامة)."
 
 msgid "Movie Services Reference"
 msgstr "مرجع خدمات الأفلام"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "لم يتم العثور على البرنامج المساعد IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
 msgstr "لم يتم اكتشاف اتصال بالإنترنت. الرجاء فحص شبكتك."
@@ -375,13 +375,13 @@ msgid "No channels found in search!!!"
 msgstr "لم يتم العثور على قنوات في البحث!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "لا توجد عناصر متاحة"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "لا توجد معلومات البرنامج المتاحة"
 
 msgid "No selection"
-msgstr ""
+msgstr "لا يوجد اختيار"
 
 msgid "No valid channels for: %s"
 msgstr "لا توجد قنوات صالحة لـ: %s"
@@ -408,7 +408,7 @@ msgid "Proxy Enabled"
 msgstr "الوكيل مفعل"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "خطأ الوكيل:"
 
 msgid "Proxy disabled"
 msgstr "الوكيل معطل"
@@ -432,7 +432,7 @@ msgid "Proxy restarting... Please wait"
 msgstr "جاري إعادة تشغيل الوكيل... الرجاء الانتظار"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "مهلة بدء تشغيل الوكيل (بالثواني)"
 
 msgid "Proxy token refreshed successfully"
 msgstr "تم تحديث رمز الوكيل بنجاح"
@@ -456,10 +456,10 @@ msgid "Reload Bouqet"
 msgstr "إعادة تحميل الباقة"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "تحديث الباقات وقائمة الخدمات؟"
 
 msgid "Remove"
-msgstr ""
+msgstr "يزيل"
 
 msgid "Remove ALL Vavoo bouquets?"
 msgstr "إزالة جميع باقات Vavoo؟"
@@ -468,7 +468,7 @@ msgid "Restart"
 msgstr "إعادة تشغيل"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "جارٍ إعادة التشغيل..."
 
 msgid "SELECT YOUR CHOICE"
 msgstr "اختر ما تريد"
@@ -537,7 +537,7 @@ msgid "This will remove:"
 msgstr "سيؤدي هذا إلى إزالة:"
 
 msgid "This will:"
-msgstr ""
+msgstr "هذا سوف:"
 
 msgid "Time to start update:"
 msgstr "وقت بدء التحديث:"
@@ -588,7 +588,7 @@ msgid "Waiting for proxy..."
 msgstr "جاري انتظار الوكيل..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "مرحبًا بك في Vavoo Proxy الذي يدعم EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
 msgstr "يمكنك تشغيله من القائمة أو بالضغط على زر TEXT."
@@ -606,28 +606,28 @@ msgid "seconds"
 msgstr "ثواني"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ الوكيل ({0})"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ الوكيل موافق"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ إعادة التشغيل"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ خطأ"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ خطأ في الوكيل"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ انتهت صلاحية الوكيل"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ الوكيل غير متصل"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ فشلت عملية إعادة التشغيل"
 
 #~ msgid "Active or Disactive Ipv6."
 #~ msgstr "تفعيل أو إلغاء تفعيل Ipv6."

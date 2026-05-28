@@ -13,619 +13,619 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Prokura Eksvalidiĝo"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kanaloj)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s dosieroj forigitaj)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Aldonu mankantajn kampojn al ĉiuj enskriboj"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Aŭtomata ĵetono refreŝigas ĉiujn 9 minutojn"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Aŭtomata Epg-generacio kun Serva Referenco"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Aŭtomata bukeda generacio"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Kategorio bukedoj"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Purigu la kaŝmemordosieron"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Komerca uzo estas strikte malpermesita"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Komunumo: Linuxsat-support.com, Corvoboys.org Forumo"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Ujbukedoj"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Landaj bukedoj"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Nur senpaga enhavo"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafikaĵoj: @oktus"
 
 msgid "- HTTP Live Streaming"
 msgstr ""
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Integrita prokura sistemo"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Neniu rekta servila gastigado"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Redistribuo devas konservi atribuon"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Forigi duplikatajn enskribojn"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Servaj referencoj: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Fluoj el publikaj fontoj"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Formatoj TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Teknika subteno: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} duplikataj enskriboj forigitaj"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} enskriboj ĝisdatigitaj"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Prokura Statuso"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Prokura Nekonata"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktiva Aŭtomata Bukeda Ĝisdatigo"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Ĉiuj landoj (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Eksporto por alia lando jam okazas. Bonvolu atendi."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Je intervalo horoj aŭ fiksa tempo"
 
 msgid "Author:"
-msgstr ""
+msgstr "Aŭtoro:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Aŭtomate ĝisdatigi EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Aŭtomate ekfunkciigu EPG-ĝisdatigon post kreado de fonto"
 
 msgid "Back"
-msgstr ""
+msgstr "Reen"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Fundo"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Bukeda Pozicio en Listo"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Eraro pri kreado de bukedoj: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Bukedo preta kun {} kanaloj"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Bukedoj reŝargi planita."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Bukedoj sukcese reorganizitaj!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Ŝanĝi | OK=Baskuli | INFO=IMDb | STOP=Eliru"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Riparo de la formato de kaŝmemoro finiĝis:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Kaŝmemoro jam estas en ĝusta formato. Neniuj ŝanĝoj bezonataj."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Nuligi"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Ĉu nuligi ekzekuton?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Kazo: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanaloj"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanaloj: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Kontrolante prokurilon..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Forigi Ĉion"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Agordo konservita sukcese!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Agordi Ĉefan Fonan Bildon."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Agordu je fiksa tempo"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Agordu intervalajn minutojn de nun"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Agordi servon Referenco Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Konzolo"
 
 msgid "Countries"
-msgstr ""
+msgstr "Landoj"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Landoj: %(generita)d/%(totala)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Lando: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Kreu EPG-fonton por EPGImport kun Vavoo-programo-datumoj"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Kreditoj:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Defaŭlta Vido"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Defaŭlta vido dum malfermado de la kromaĵo"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Ĉu vi volas eksporti ĉi tiun bukedon?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Ĉu vi volas ripari la kaŝmemorformaton?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG Simileca sojlo (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG estas malŝaltita. Bonvolu unue ebligi ĝin en Vavoo-agordoj."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG-pretigo finiĝis (neniu kongruoj)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "EPG-pretigo finiĝis por {} kanaloj"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG-ĝisdatigo finiĝis"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG-ĝisdatigo malsukcesis"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG-ĝisdatigo komenciĝis sukcese"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Ebligu Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Ebligu aŭ malŝalti prokurilon."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Enigu tekston por serĉi..."
 
 msgid "Error"
-msgstr ""
+msgstr "Eraro"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Eraro ripari kaŝmemoron: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Eraro dum analizado de datumoj"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Eraro dum lanĉado de EPG-ĝisdatigo: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Eraro dum lanĉado de kanalo"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Eraro: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Eraro: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Eliro"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksporto"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Eksporto malsukcesis: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Eksporto komenciĝis. Bukedo estos disponebla baldaŭ."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Malsukcesis refreŝigi prokurilon"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Malsukcesis refreŝigi prokurilon:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Malsukcesis: %(fiaskis)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Ripari Kaŝmemoron"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Riparante kaŝmemorformaton..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Ĉu devigi prokurilon refreŝigi?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Trovita: {} kanaloj"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Generu .m3u-dosieron por:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Generu .m3u dosierojn (Bone por Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Generu .m3u dosierojn kaj konservu al aparato %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Ĉu krei .m3u dosierojn kaj konservi al aparato %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Ĉu generi .m3u dosierojn por ĈIUJ %d landoj?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Kaŝi/Montri"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Kiom ofte aŭtomate ĝisdatigi la EPG (postulas EPGImport-planilon)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Gravaj Notoj:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Pliigu se prokurilo daŭras longe pro VPN aŭ malrapida konekto."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Klavaro"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Lasta kanala ĝisdatigo: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Licenco:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Permesilo: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Ligo en Ĉefa Menuo"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Malsupra = malpli da interrompo sed pli da refreŝigoj"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U-dosiero generita sukcese!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U-generacio finiĝis!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U-generacia eraro: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Minimuma simileco por kongruaj kanaloj (pli alta = pli strikta)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Filmaj Servoj Referenco"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Neniu kromaĵo IMDb/TMDB trovita"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Neniu interreta konekto detektita. Bonvolu kontroli vian reton."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Neniuj kanaloj trovitaj"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Neniuj kanaloj trovitaj por: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Neniuj kanaloj trovitaj en serĉo!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Neniuj eroj haveblaj"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Neniuj programinformoj haveblaj"
 
 msgid "No selection"
-msgstr ""
+msgstr "Neniu elekto"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Neniuj validaj kanaloj por: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Nun %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Nur unu specifa lando"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Bonvolu provi alian kanalon."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Pozicio de Vavoo-bukedoj en la ĉefa listo"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Premu la butonon TEKSTO por tajpi, RETROSPACE por forigi"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Prokurilo Malŝaltita"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Prokurilo Ebligita"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Prokura Eraro:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Prokurilo malŝaltita"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Prokurilo estas malŝaltita. Bonvolu ŝalti prokurilon unue. -- Agordo de menuo --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Prokurilo estas malŝaltita. Bonvolu ebligi ĝin en la agordo."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Prokurilo ne funkcias. Bonvolu unue komenci la prokurilon."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Prokurilo ne aktiva. Ne eblas generi M3U-dosieron."
 
 msgid "Proxy not responding after"
 msgstr ""
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Prokurilo rekomenciĝas... Bonvolu atendi"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Prokura ektempotempo (sekundoj)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Prokura ĵetono refreŝiĝis sukcese"
 
 msgid "Ready"
-msgstr ""
+msgstr "Preta"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Ĉu vere fermi sen konservi agordojn?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Rekomendita: 5-8 minutoj"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Refreŝigi fluon (minutoj):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Refreŝigi fluon ĉiujn X minutojn (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Reŝargi Bouqet"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Ĉu reŝargi bukedojn kaj servan liston?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Forigi"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Ĉu forigi ĈIUJN Vavoo-bukedojn?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Rekomencu"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Rekomencante..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ELEKTU VIAN ELEKTON"
 
 msgid "Save"
-msgstr ""
+msgstr "Konservu"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Konservite en: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Konservite en: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Tipo de horaro:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Planita Listo:"
 
 msgid "Search"
-msgstr ""
+msgstr "Serĉu"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Serĉaj Kanaloj:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Serĉu..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Serĉu:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Elektu Fonon"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Elektu M3U-eksportreĝimon:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Elektu landon por eksporti M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Servilo por Ludanto Uzita"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Servilo por ludanto."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Montrante ĉiujn kanalojn: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Spaco"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Ĉu komenci EPG-ĝisdatigon nun?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Rojo finiĝis. Tro da konektoproblemoj."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Teknikaj Trajtoj:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Ĉi tio refreŝigos la aŭtentikigĵetonon."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Ĉi tio forigos:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Ĉi tio:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Tempo por komenci ĝisdatigon:"
 
 msgid "Top"
-msgstr ""
+msgstr "Supre"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Totalaj kanaloj: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "MAJUSKLOJ"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Ĝisdatigu intervalon (horoj)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Ĝisdatigu intervalon (minutoj):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Ĝisdatigante EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG-fonto ne estas ebligita en EPGImport. Bonvolu aktivigi ĝin en la agordoj de EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG-fonto ne trovita. Bonvolu eksporti almenaŭ unu bukedon unue."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Informoj"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo-bukedoj sukcese forigitaj!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo jam kuras."
 
 msgid "Version:"
-msgstr ""
+msgstr "Versio:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Atendante prokurilon..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Bonvenon al Vavoo Proxy kun EPG-subteno"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Vi povas komenci ĝin de la menuo aŭ premante la butonon TEKSTO."
 
 msgid "fixed time"
-msgstr ""
+msgstr "fiksita tempo"
 
 msgid "interval"
-msgstr ""
+msgstr "intervalo"
 
 msgid "lowercase"
-msgstr ""
+msgstr "minuskla"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekundoj"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Prokurilo ({0}j)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Prokuro OK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Rekomencita"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Eraro"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Prokura Eraro"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Prokurilo Eksvalidiĝis"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Prokura eksterrete"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Rekomenco Malsukcesis"

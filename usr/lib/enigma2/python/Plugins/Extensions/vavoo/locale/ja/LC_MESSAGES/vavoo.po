@@ -13,619 +13,619 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "！プロキシの有効期限が切れます"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d チャンネル)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s ファイルは削除されました)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- 不足しているフィールドをすべてのエントリに追加します"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- 9分ごとの自動トークン更新"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- サービスリファレンスによるEPG自動生成"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- 花束の自動生成"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- カテゴリブーケ"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- キャッシュファイルをクリーンアップする"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- 商用利用は固く禁止されています"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- コミュニティ: Linuxsat-support.com、Corvoboys.org フォーラム"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- コンテナブーケ"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- カントリーブーケ"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- 無料コンテンツのみ"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- グラフィック: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTPライブストリーミング"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- 統合プロキシ システム"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- 直接サーバーをホスティングしない"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- 再配布では帰属を維持する必要があります"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- 重複したエントリを削除する"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- サービス参照: 4097、5001、5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- パブリックソースからのストリーム"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8フォーマット"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- 技術サポート: Qu4k3、@KiddaC、@giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} 個の重複エントリが削除されました"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} エントリが更新されました"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "?プロキシステータス"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "?プロキシが不明"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "アクティブな自動花束更新"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "すべての国 (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "別の国への輸出はすでに進行中です。お待ちください。"
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "時間間隔または一定時間ごとに"
 
 msgid "Author:"
-msgstr ""
+msgstr "著者："
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "EPG の自動更新"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "ソース作成後に EPG 更新を自動的にトリガーする"
 
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 msgid "Backspace"
-msgstr ""
+msgstr "バックスペース"
 
 msgid "Bottom"
-msgstr ""
+msgstr "底"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "リスト内の花束の位置"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "花束作成エラー: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "{} チャネルで花束の準備ができました"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "ブーケのリロードがスケジュールされています。"
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "ブーケの再編成が成功しました！"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=変更 | OK=切り替え |情報=IMDb |停止=終了"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "キャッシュ形式の修正が完了しました:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "キャッシュはすでに正しい形式になっています。変更は必要ありません。"
 
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "実行をキャンセルしますか?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "場合： {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "チャンネル"
 
 msgid "Channels: %d"
 msgstr ""
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "プロキシを確認しています..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "すべてクリア"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "設定が正常に保存されました。"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "メインの背景画像を設定します。"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "決まった時間に設定する"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "今からの間隔を分単位で設定します"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "サービスの構成リファレンス Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "コンソール"
 
 msgid "Countries"
-msgstr ""
+msgstr "国"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "国: %(生成)d/%(合計)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "国: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Vavoo プログラム データを使用して EPGImport 用の EPG ソースを作成する"
 
 msgid "Credits:"
-msgstr ""
+msgstr "クレジット:"
 
 msgid "Default View"
-msgstr ""
+msgstr "デフォルトビュー"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "プラグインを開いたときのデフォルトのビュー"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "この花束をエクスポートしますか?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "キャッシュ形式を修正しますか?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG 類似性のしきい値 (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG が無効になっています。まず、Vavoo 設定で有効にしてください。"
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG 処理が完了しました (一致しません)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "{} チャンネルの EPG 処理が完了しました"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG更新完了"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG更新に失敗しました"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG 更新が正常に開始されました"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Vavoo EPG を有効にする"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "プロキシを有効または無効にします。"
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "検索するテキストを入力してください..."
 
 msgid "Error"
-msgstr ""
+msgstr "エラー"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "キャッシュ修正エラー: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "データ解析エラー"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "EPG 更新開始時のエラー: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "チャンネル開始エラー"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "エラー: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "エラー： {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Export"
-msgstr ""
+msgstr "輸出"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "エクスポートに失敗しました: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Export started.ブーケは近日入荷予定です。"
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "プロキシ トークンの更新に失敗しました"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "プロキシの更新に失敗しました:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "失敗: %(失敗)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "キャッシュを修正する"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "キャッシュ形式を修正しています..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "プロキシを強制的に更新しますか?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "見つかりました: {} チャンネル"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "以下の .m3u ファイルを生成します。"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr ".m3u ファイルを生成します (実行は OK)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr ".m3u ファイルを生成し、デバイス %s に保存します。"
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr ".m3u ファイルを生成してデバイス %s に保存しますか?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "%d か国すべての .m3u ファイルを生成しますか?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "非表示/表示"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "EPG を自動更新する頻度 (EPGImport スケジューラが必要)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "重要な注意事項:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "VPN や接続速度が遅いためにプロキシに時間がかかる場合は増加します。"
 
 msgid "Keyboard"
-msgstr ""
+msgstr "キーボード"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "最終チャンネル更新: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "ライセンス："
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "ライセンス: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "メインメニューのリンク"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "低い = 中断は少なくなりますが、リフレッシュが多くなります"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U ファイルが正常に生成されました。"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U世代完了！"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U 生成エラー: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "一致するチャネルの最小類似性 (高いほど厳密)。"
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "映画サービスのリファレンス"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB プラグインが見つかりません"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "インターネット接続が検出されませんでした。ネットワークを確認してください。"
 
 msgid "No channels found"
-msgstr ""
+msgstr "チャンネルが見つかりません"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "チャンネルが見つかりません: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "検索でチャンネルが見つかりませんでした。"
 
 msgid "No items available"
-msgstr ""
+msgstr "利用可能なアイテムはありません"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "番組情報がありません"
 
 msgid "No selection"
-msgstr ""
+msgstr "選択なし"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "有効なチャネルがありません: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "現在 %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "特定の国は 1 つだけ"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "別のチャンネルをお試しください。"
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "メインリストにおけるVavooブーケの位置"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "TEXT ボタンを押して入力し、BACKSPACE を押して削除します"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "プロキシが無効です"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "プロキシが有効です"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "プロキシエラー:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "プロキシが無効になっています"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "プロキシが無効になっています。最初にプロキシをオンに設定してください。 -- メニュー構成 --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "プロキシが無効になっています。設定で有効にしてください。"
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "プロキシが実行されていません。まずプロキシを開始してください。"
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "プロキシがアクティブではありません。 M3U ファイルを生成できません。"
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "プロキシがその後応答しません"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "プロキシを再起動しています...お待ちください"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "プロキシ起動タイムアウト (秒)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "プロキシ トークンが正常に更新されました"
 
 msgid "Ready"
-msgstr ""
+msgstr "準備ができて"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "本当に設定を保存せずに閉じますか?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "推奨: 5 ～ 8 分"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "ストリームの更新 (分):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "X 分ごとにストリームを更新 (1 ～ 15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "ブーケをリロードする"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "花束とサービスリストを再読み込みしますか?"
 
 msgid "Remove"
-msgstr ""
+msgstr "取り除く"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "すべての Vavoo ブーケを削除しますか?"
 
 msgid "Restart"
-msgstr ""
+msgstr "再起動"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "再起動中..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "選択してください"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "保存場所: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "保存場所: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "スケジュールの種類:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "スケジュール済みリスト:"
 
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "検索チャネル:"
 
 msgid "Search..."
-msgstr ""
+msgstr "検索..."
 
 msgid "Search:"
-msgstr ""
+msgstr "検索："
 
 msgid "Select Background"
-msgstr ""
+msgstr "背景の選択"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "M3U エクスポート モードを選択します。"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "M3U をエクスポートする国を選択してください:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "使用するプレーヤーのサーバー"
 
 msgid "Server for player."
-msgstr ""
+msgstr "プレイヤー用のサーバー。"
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "すべてのチャンネルを表示中: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "空間"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "今すぐ EPG アップデートを開始しますか?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "ストリームが終了しました。接続の問題が多すぎます。"
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "技術的特徴:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "これにより、認証トークンが更新されます。"
 
 msgid "This will remove:"
-msgstr ""
+msgstr "これにより以下が削除されます:"
 
 msgid "This will:"
-msgstr ""
+msgstr "これにより、次のことが行われます。"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "アップデートを開始する時間:"
 
 msgid "Top"
-msgstr ""
+msgstr "トップ"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "合計チャンネル数: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "大文字"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "更新間隔 (時間)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "更新間隔 (分):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG を更新中..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG ソースが EPGImport で有効になっていません。 EPGImport 設定で有効にしてください。"
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG ソースが見つかりません。最初に少なくとも 1 つの花束をエクスポートしてください。"
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo ストリーム ライブ"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo ストリーム ライブ - 情報"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Vavoo ストリーム ライブ プラグイン"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo の花束が正常に削除されました。"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo はすでに実行されています。"
 
 msgid "Version:"
-msgstr ""
+msgstr "バージョン:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "プロキシを待っています..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "EPG サポートを備えた Vavoo プロキシへようこそ"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "メニューから、またはTEXTボタンを押して開始できます。"
 
 msgid "fixed time"
-msgstr ""
+msgstr "固定時間"
 
 msgid "interval"
-msgstr ""
+msgstr "間隔"
 
 msgid "lowercase"
-msgstr ""
+msgstr "小文字"
 
 msgid "seconds"
-msgstr ""
+msgstr "秒"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ プロキシ ({0} 個)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ プロキシOK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ 再起動しました"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ エラー"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ プロキシエラー"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ プロキシの有効期限が切れています"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ プロキシオフライン"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ 再起動に失敗しました"

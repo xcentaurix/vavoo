@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 3.9\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "！代理到期"
 
 msgid "(%d channels)?"
 msgstr "(%d 个频道)？"
@@ -21,7 +21,7 @@ msgid "(%s files deleted)"
 msgstr "(%s 个文件已删除)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- 將缺少的欄位新增至所有條目中"
 
 msgid "- Auto token refresh every 9 minutes"
 msgstr "- 每9分钟自动刷新令牌"
@@ -36,7 +36,7 @@ msgid "- Category bouquets"
 msgstr "- 分类节目列表"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- 清理快取文件"
 
 msgid "- Commercial use is strictly prohibited"
 msgstr "- 严禁商业用途"
@@ -69,7 +69,7 @@ msgid "- Redistribution must maintain attribution"
 msgstr "- 重新分发必须保留署名"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- 刪除重複條目"
 
 msgid "- Service references: 4097, 5001, 5002"
 msgstr "- 服务参考: 4097, 5001, 5002"
@@ -84,16 +84,16 @@ msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr "- 技术支持: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- 刪除了 {} 個重複條目"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- 更新了 {} 個條目"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "？代理狀態"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "？代理未知"
 
 msgid "Active Automatic Bouquet Update"
 msgstr "激活自动节目列表更新"
@@ -144,13 +144,13 @@ msgid "Bouquets reorganized successfully!"
 msgstr "节目列表重新组织成功！"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=變化|確定=切換|訊息=IMDb |停止=退出"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "快取格式修復完成："
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "快取的格式已經正確。無需更改。"
 
 msgid "Cancel"
 msgstr "取消"
@@ -221,7 +221,7 @@ msgid "Do you want to fix the cache format?"
 msgstr "是否要导出此节目列表？"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG相似度閾值(%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
 msgstr "EPG 已禁用。请先在 Vavoo 设置中启用它。"
@@ -299,10 +299,10 @@ msgid "Failed: %(failed)d"
 msgstr "失败: %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "修復快取"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "修復快取格式..."
 
 msgid "Force proxy refresh?"
 msgstr "强制刷新代理？"
@@ -335,7 +335,7 @@ msgid "Important Notes:"
 msgstr "重要说明:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "如果代理程式由於 VPN 或連線速度慢而需要很長時間，則增加。"
 
 msgid "Keyboard"
 msgstr "键盘"
@@ -365,13 +365,13 @@ msgid "M3U generation error: %s"
 msgstr "M3U 生成错误: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "匹配通道的最小相似度（更高=更嚴格）。"
 
 msgid "Movie Services Reference"
 msgstr "电影服务参考"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "找不到 IMDb/TMDB 插件"
 
 msgid "No Internet connection detected. Please check your network."
 msgstr "未检测到互联网连接。请检查您的网络。"
@@ -386,13 +386,13 @@ msgid "No channels found in search!!!"
 msgstr "搜索中未找到频道！！！"
 
 msgid "No items available"
-msgstr ""
+msgstr "沒有可用的項目"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "沒有可用的節目信息"
 
 msgid "No selection"
-msgstr ""
+msgstr "沒有選擇"
 
 msgid "No valid channels for: %s"
 msgstr "没有有效的频道: %s"
@@ -419,7 +419,7 @@ msgid "Proxy Enabled"
 msgstr "代理已启用"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "代理錯誤："
 
 msgid "Proxy disabled"
 msgstr "代理已禁用"
@@ -443,7 +443,7 @@ msgid "Proxy restarting... Please wait"
 msgstr "代理正在重启... 请等待"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "代理啟動超時（秒）"
 
 msgid "Proxy token refreshed successfully"
 msgstr "代理令牌刷新成功"
@@ -467,7 +467,7 @@ msgid "Reload Bouqet"
 msgstr "重新加载节目列表"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "重新加載花束和服務清單？"
 
 msgid "Remove"
 msgstr "移除"
@@ -601,7 +601,7 @@ msgid "Waiting for proxy..."
 msgstr "正在等待代理..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "歡迎使用帶有 EPG 支援的 Vavoo Proxy"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
 msgstr "您可以从菜单启动或按 TEXT 按钮启动。"
@@ -619,30 +619,30 @@ msgid "seconds"
 msgstr "秒"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ 代理（{0}）"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ 代理確定"
 
 #, fuzzy
 msgid "✓ Restarted"
 msgstr "重启"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ 錯誤"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ 代理錯誤"
 
 #, fuzzy
 msgid "✗ Proxy Expired"
 msgstr "代理已启用"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ 代理離線"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ 重啟失敗"
 
 #~ msgid "Active or Disactive Ipv6."
 #~ msgstr "启用或禁用 IPv6。"

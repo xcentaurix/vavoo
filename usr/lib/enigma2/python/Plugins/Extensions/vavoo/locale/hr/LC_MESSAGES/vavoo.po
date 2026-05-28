@@ -13,598 +13,598 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Proxy ističe"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kanala)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s datoteka izbrisano)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Dodajte polja koja nedostaju svim unosima"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Automatsko osvježavanje tokena svakih 9 minuta"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Automatsko generiranje EPG-a s referencom usluge"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Automatsko stvaranje buketa"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Kategorija buketi"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Očistite datoteku predmemorije"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Komercijalna uporaba je strogo zabranjena"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Zajednica: Linuxsat-support.com, Corvoboys.org Forum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Posude za bukete"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Seoski buketi"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Samo besplatni sadržaj"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafika: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP prijenos uživo"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Integrirani proxy sustav"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Nema izravnog hostinga poslužitelja"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Preraspodjela mora održavati atribuciju"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Uklonite duple unose"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Reference servisa: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Streamovi iz javnih izvora"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Formati TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Tehnička podrška: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- Uklonjeno {} dvostrukih unosa"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} unosa ažurirano"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Proxy status"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Proxy nepoznat"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktivno automatsko ažuriranje buketa"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Sve zemlje (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Izvoz za drugu zemlju je već u tijeku. Molimo pričekajte."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "U intervalima sati ili fiksno vrijeme"
 
 msgid "Author:"
-msgstr ""
+msgstr "Autor:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Automatsko ažuriranje EPG-a"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Automatski pokreni ažuriranje EPG-a nakon stvaranja izvora"
 
 msgid "Back"
-msgstr ""
+msgstr "Nazad"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Dno"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Položaj buketa na popisu"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Pogreška pri stvaranju buketa: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Buket spreman s {} kanala"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Zakazano je ponovno učitavanje buketa."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Buketi uspješno reorganizirani!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Promjena | OK=Prebaci | INFO=IMDb | STOP=Izlaz"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Dovršen popravak formata predmemorije:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Predmemorija je već u ispravnom formatu. Nikakve promjene nisu potrebne."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Otkazati"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Otkazati izvršenje?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Veličina: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanali"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanali: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Provjera proxyja..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Obriši sve"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Konfiguracija je uspješno spremljena!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Konfigurirajte glavnu pozadinsku sliku."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigurirajte u određeno vrijeme"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Konfigurirajte interval minuta od sada"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Referenca konfiguracije usluge Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Konzola"
 
 msgid "Countries"
-msgstr ""
+msgstr "zemlje"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Zemlje: %(generirano)d/%(ukupno)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Država: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Stvorite EPG izvor za EPGImport s Vavoo programskim podacima"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Zasluge:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Zadani prikaz"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Zadani prikaz prilikom otvaranja dodatka"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Želite li izvesti ovaj buket?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Želite li popraviti format predmemorije?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Prag sličnosti EPG-a (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG je onemogućen. Prvo ga omogućite u Vavoo postavkama."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG obrada dovršena (nema rezultata)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "EPG obrada dovršena za {} kanala"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG ažuriranje dovršeno"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Ažuriranje EPG-a nije uspjelo"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "Ažuriranje EPG-a uspješno je započelo"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Omogući Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Omogući ili onemogući proxy."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Unesite tekst za pretraživanje..."
 
 msgid "Error"
-msgstr ""
+msgstr "Greška"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Pogreška ispravljanja predmemorije: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Pogreška analize podataka"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Pogreška pri pokretanju ažuriranja EPG-a: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Pogreška pri pokretanju kanala"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Greška: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Greška: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Izlaz"
 
 msgid "Export"
-msgstr ""
+msgstr "Izvoz"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Izvoz nije uspio: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Izvoz je započeo. Buket će biti dostupan uskoro."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Osvježavanje proxy tokena nije uspjelo"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Nije uspjelo osvježavanje proxyja:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Neuspješno: %(neuspješno)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Popravi predmemoriju"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Popravljanje formata predmemorije..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Prisilno osvježiti proxy?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Pronađeno: {} kanala"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Generiraj .m3u datoteku za:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Generirajte .m3u datoteke (U redu za Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Generirajte .m3u datoteke i spremite ih na uređaj %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Generirati .m3u datoteke i spremiti ih na uređaj %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Generirati .m3u datoteke za SVE %d zemlje?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Sakrij/prikaži"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Koliko često automatski ažurirati EPG (zahtijeva EPGImport planer)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Važne napomene:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Povećajte ako proxy traje dugo zbog VPN-a ili spore veze."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Tipkovnica"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Zadnje ažuriranje kanala: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Licenca:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Licenca: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Link u glavnom izborniku"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Niže = manje prekida, ali više osvježavanja"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U datoteka uspješno je generirana!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U generacija završena!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Pogreška generiranja M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Minimalna sličnost za podudarne kanale (viša = stroža)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Referenca filmskih usluga"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Nije pronađen dodatak za IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Internetska veza nije otkrivena. Provjerite svoju mrežu."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Nema pronađenih kanala"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Nema pronađenih kanala za: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "U pretrazi nisu pronađeni kanali!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Nema dostupnih stavki"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Nema dostupnih informacija o programu"
 
 msgid "No selection"
-msgstr ""
+msgstr "Bez odabira"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Nema valjanih kanala za: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Sada %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Samo jedna određena država"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Pokušajte s drugim kanalom."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Položaj Vavoo buketa na glavnoj listi"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Pritisnite gumb TEXT za tipkanje, BACKSPACE za brisanje"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proxy onemogućen"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proxy omogućen"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Pogreška proxyja:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Proxy onemogućen"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Proxy je onemogućen. Prvo uključite proxy. -- Konfiguracija izbornika --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Proxy je onemogućen. Omogućite ga u konfiguraciji."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proxy ne radi. Prvo pokrenite proxy."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Proxy nije aktivan. Nije moguće generirati M3U datoteku."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Proxy ne odgovara nakon"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proxy se ponovno pokreće... Pričekajte"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Istek pokretanja proxyja (sekunde)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Proxy token uspješno je osvježen"
 
 msgid "Ready"
-msgstr ""
+msgstr "Spreman"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Stvarno zatvoriti bez spremanja postavki?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Preporučeno: 5-8 minuta"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Osvježi stream (minute):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Osvježi stream svakih X minuta (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Ponovno učitaj buket"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Ponovno učitati bukete i popis usluga?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Ukloniti"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Ukloniti SVE Vavoo bukete?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Ponovno pokretanje"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Ponovno pokretanje..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ODABERITE SVOJ IZBOR"
 
 msgid "Save"
-msgstr ""
+msgstr "Uštedjeti"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Spremljeno u: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Spremljeno u: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Vrsta rasporeda:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Zakazani popis:"
 
 msgid "Search"
-msgstr ""
+msgstr "Pretraživanje"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Pretraži kanale:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Pretraživanje..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Pretraživanje:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Odaberite Pozadina"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Odaberite način izvoza M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Odaberite zemlju za izvoz M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Korišten poslužitelj za igrača"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Server za igrača."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Prikaz svih kanala: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Prostor"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Pokrenuti sada ažuriranje EPG-a?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Stream je završio. Previše problema s vezom."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Tehničke značajke:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Ovo će osvježiti autentifikacijski token."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Ovo će ukloniti:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Ovo će:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Vrijeme za početak ažuriranja:"
 
 msgid "Top"
-msgstr ""
+msgstr "Vrh"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Ukupno kanala: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "VELIKA SLOVA"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Interval ažuriranja (sati)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Interval ažuriranja (minute):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Ažuriranje EPG-a..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG izvor nije omogućen u EPGImportu. Omogućite ga u postavkama EPGImporta."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG izvor nije pronađen. Prvo izvezite barem jedan buket."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo Stream uživo"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream uživo - Informacije"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo buketi uspješno uklonjeni!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo već radi."
 
 msgid "Version:"
-msgstr ""
+msgstr "Verzija:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Čeka se proxy..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Dobrodošli u Vavoo Proxy s EPG podrškom"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Možete ga pokrenuti iz izbornika ili pritiskom na tipku TEKST."
 
 msgid "fixed time"
-msgstr ""
+msgstr "fiksno vrijeme"
 
 msgid "interval"
 msgstr ""
 
 msgid "lowercase"
-msgstr ""
+msgstr "mala slova"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekundi"
 
 msgid "✓ Proxy ({0}s)"
 msgstr ""
@@ -613,19 +613,19 @@ msgid "✓ Proxy OK"
 msgstr ""
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Ponovno pokrenuto"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Greška"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Pogreška proxyja"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Proxy je istekao"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proxy izvan mreže"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Ponovno pokretanje nije uspjelo"

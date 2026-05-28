@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! პროქსი იწურება"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d არხი)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s ფაილი წაშლილია)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- დაამატეთ დაკარგული ველები ყველა ჩანაწერს"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- ტოკენის ავტომატური განახლება ყოველ 9 წუთში"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- ავტომატური EPG გენერაცია სერვისის მითითებით"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- ბუკეტის ავტომატური გენერაცია"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- კატეგორიის თაიგულები"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- გაასუფთავეთ ქეში ფაილი"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- კომერციული გამოყენება კატეგორიულად აკრძალულია"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- საზოგადოება: Linuxsat-support.com, Corvoboys.org ფორუმი"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- კონტეინერის თაიგულები"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- ქვეყნის თაიგულები"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- მხოლოდ უფასო შინაარსი"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- გრაფიკა: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP პირდაპირი სტრიმინგი"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- ინტეგრირებული პროქსი სისტემა"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- არ არის პირდაპირი სერვერის ჰოსტინგი"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- გადანაწილებამ უნდა შეინარჩუნოს ატრიბუცია"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- წაშალეთ დუბლიკატი ჩანაწერები"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- სერვისის მითითებები: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- ნაკადები საჯარო წყაროებიდან"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 ფორმატები"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- ტექნიკური მხარდაჭერა: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- ამოღებულია {} დუბლიკატი ჩანაწერი"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- განახლებულია {} ჩანაწერი"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? პროქსის სტატუსი"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? პროქსი უცნობია"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "აქტიური ავტომატური ბუკეტის განახლება"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "ყველა ქვეყანა (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "სხვა ქვეყანაში ექსპორტი უკვე მიმდინარეობს. გთხოვთ დაელოდოთ."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "ინტერვალით საათებში ან ფიქსირებულ დროს"
 
 msgid "Author:"
-msgstr ""
+msgstr "ავტორი:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "ავტომატური განახლება EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "ავტომატური ჩართვა EPG განახლება წყაროს შექმნის შემდეგ"
 
 msgid "Back"
-msgstr ""
+msgstr "უკან"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "ქვედა"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "თაიგულის პოზიცია სიაში"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "ბუკეტის შექმნის შეცდომა: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "თაიგული მზადაა {} არხით"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "დაგეგმილია თაიგულების გადატვირთვა."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "თაიგულები წარმატებით განხორციელდა!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=შეცვლა | OK=გადართვა | INFO=IMDb | STOP=გასვლა"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "ქეშის ფორმატის შესწორება დასრულდა:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "ქეში უკვე სწორ ფორმატშია. ცვლილებები არ არის საჭირო."
 
 msgid "Cancel"
-msgstr ""
+msgstr "გაუქმება"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "გააუქმოს შესრულება?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "საქმე: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "არხები"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "არხები: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "პროქსის შემოწმება..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "ყველას გასუფთავება"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "კონფიგურაცია წარმატებით შენახულია!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "ძირითადი ფონის სურათის კონფიგურაცია."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "კონფიგურაცია ფიქსირებულ დროს"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "ინტერვალის წუთების კონფიგურაცია ამიერიდან"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "სერვისის კონფიგურაციის მითითება Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "კონსოლი"
 
 msgid "Countries"
-msgstr ""
+msgstr "ქვეყნები"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "ქვეყნები: %(გენერირებული)d/%(სულ)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "ქვეყანა: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "შექმენით EPG წყარო EPGImport-ისთვის Vavoo პროგრამის მონაცემებით"
 
 msgid "Credits:"
-msgstr ""
+msgstr "კრედიტები:"
 
 msgid "Default View"
-msgstr ""
+msgstr "ნაგულისხმევი ხედი"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "ნაგულისხმევი ხედი დანამატის გახსნისას"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "გსურთ ამ თაიგულის ექსპორტი?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "გსურთ ქეშის ფორმატის დაფიქსირება?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG მსგავსების ბარიერი (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG გამორთულია. გთხოვთ, ჩართოთ ის ჯერ Vavoo-ს პარამეტრებში."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG დამუშავება დასრულდა (შემთხვევა არ არის)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "EPG დამუშავება დასრულდა {} არხისთვის"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG განახლება დასრულდა"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG განახლება ვერ მოხერხდა"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG განახლება წარმატებით დაიწყო"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "ჩართეთ Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "პროქსის ჩართვა ან გამორთვა."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "შეიყვანეთ ტექსტი საძიებლად..."
 
 msgid "Error"
-msgstr ""
+msgstr "შეცდომა"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "ქეშის დაფიქსირების შეცდომა: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "შეცდომა მონაცემთა გაანალიზებისას"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "შეცდომა EPG განახლების დაწყებისას: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "შეცდომა არხის გაშვებისას"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "შეცდომა: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "შეცდომა: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "გასვლა"
 
 msgid "Export"
-msgstr ""
+msgstr "ექსპორტი"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "ექსპორტი ვერ მოხერხდა: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "ექსპორტი დაიწყო. თაიგული მალე იქნება."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "პროქსი ჟეტონის განახლება ვერ მოხერხდა"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "პროქსის განახლება ვერ მოხერხდა:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "ვერ მოხერხდა: %(ჩავარდა)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "ქეშის შესწორება"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "ქეშის ფორმატის დაფიქსირება..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "აიძულოთ პროქსის განახლება?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "ნაპოვნია: {} არხი"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "შექმენით .m3u ფაილი:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr ".m3u ფაილების გენერირება (Ok for Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "შექმენით .m3u ფაილები და შეინახეთ %s მოწყობილობაში."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "გსურთ .m3u ფაილების გენერირება და %s მოწყობილობაში შენახვა?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "გსურთ .m3u ფაილების გენერირება ყველა %d ქვეყნისთვის?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "დამალვა/ჩვენება"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "რამდენად ხშირად ხდება EPG-ის ავტომატური განახლება (საჭიროებს EPGImport განრიგს)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "მნიშვნელოვანი შენიშვნები:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "გაზარდეთ, თუ პროქსის დიდი დრო სჭირდება VPN ან ნელი კავშირის გამო."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "კლავიატურა"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "არხის ბოლო განახლება: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "ლიცენზია:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "ლიცენზია: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "ბმული მთავარ მენიუში"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "ქვედა = ნაკლები შეფერხება, მაგრამ მეტი განახლება"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U ფაილი წარმატებით გენერირებულია!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U თაობა დასრულდა!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U გენერირების შეცდომა: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "მინიმალური მსგავსება შესატყვისი არხებისთვის (უფრო მაღალი = მკაცრი)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "ფილმის სერვისების მითითება"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB დანამატი ვერ მოიძებნა"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "ინტერნეტ კავშირი არ არის აღმოჩენილი. გთხოვთ, შეამოწმოთ თქვენი ქსელი."
 
 msgid "No channels found"
-msgstr ""
+msgstr "არხები ვერ მოიძებნა"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "არხები ვერ მოიძებნა: %s-ისთვის"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "ძიებაში არხი ვერ მოიძებნა!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "არ არის ხელმისაწვდომი ნივთები"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "პროგრამის ინფორმაცია არ არის ხელმისაწვდომი"
 
 msgid "No selection"
-msgstr ""
+msgstr "არჩევანი არ არის"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "არ არის სწორი არხები: %s-ისთვის"
 
 msgid "Now %s"
-msgstr ""
+msgstr "ახლა %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "მხოლოდ ერთი კონკრეტული ქვეყანა"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "გთხოვთ სცადოთ სხვა არხი."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Vavoo-ს თაიგულების პოზიცია ძირითად სიაში"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "დააჭირეთ ღილაკს TEXT ჩასაწერად, BACKSPACE წასაშლელად"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "პროქსი გამორთულია"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "პროქსი ჩართულია"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "პროქსის შეცდომა:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "პროქსი გამორთულია"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "პროქსი გამორთულია. გთხოვთ, ჯერ დააყენოთ პროქსი. -- მენიუს კონფიგურაცია --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "პროქსი გამორთულია. გთხოვთ, ჩართოთ ის კონფიგურაციაში."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "პროქსი არ მუშაობს. გთხოვთ, ჯერ გაუშვით პროქსი."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "პროქსი არ არის აქტიური. M3U ფაილის გენერირება შეუძლებელია."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "პროქსი არ პასუხობს შემდეგ"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "პროქსი გადატვირთულია... გთხოვთ დაელოდოთ"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "პროქსის გაშვების ვადა (წამი)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "პროქსის ჟეტონი წარმატებით განახლდა"
 
 msgid "Ready"
-msgstr ""
+msgstr "მზადაა"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "ნამდვილად დაიხურება პარამეტრების შენახვის გარეშე?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "რეკომენდებულია: 5-8 წუთი"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "ნაკადის განახლება (წუთები):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "ნაკადის განახლება ყოველ X წუთში (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "გადატვირთეთ ბუკეტი"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "გადატვირთოთ თაიგულები და სერვისების სია?"
 
 msgid "Remove"
-msgstr ""
+msgstr "ამოღება"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "ამოიღოთ Vavoo-ს ყველა თაიგული?"
 
 msgid "Restart"
-msgstr ""
+msgstr "გადატვირთეთ"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "გადატვირთვა..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "აირჩიეთ თქვენი არჩევანი"
 
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "შენახულია: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "შენახულია: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "განრიგის ტიპი:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "დაგეგმილი სია:"
 
 msgid "Search"
-msgstr ""
+msgstr "ძიება"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "არხების ძიება:"
 
 msgid "Search..."
-msgstr ""
+msgstr "ძიება..."
 
 msgid "Search:"
-msgstr ""
+msgstr "ძიება:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "აირჩიეთ ფონი"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "აირჩიეთ M3U ექსპორტის რეჟიმი:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "აირჩიეთ ქვეყანა M3U ექსპორტისთვის:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "მეორადი მოთამაშის სერვერი"
 
 msgid "Server for player."
-msgstr ""
+msgstr "სერვერი მოთამაშისთვის."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "ნაჩვენებია ყველა არხი: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "სივრცე"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "დაიწყოს EPG განახლება ახლა?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "ნაკადი დასრულდა. ძალიან ბევრი კავშირის პრობლემა."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "ტექნიკური მახასიათებლები:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "ეს განაახლებს ავთენტიფიკაციის ჟეტონს."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "ეს ამოიღებს:"
 
 msgid "This will:"
-msgstr ""
+msgstr "ეს იქნება:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "განახლების დაწყების დრო:"
 
 msgid "Top"
-msgstr ""
+msgstr "ზედა"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "სულ არხები: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "ზედა"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "განახლების ინტერვალი (საათები)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "განახლების ინტერვალი (წუთები):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "მიმდინარეობს EPG-ის განახლება..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG წყარო არ არის ჩართული EPGImport-ში. გთხოვთ, ჩართოთ ის EPGImport პარამეტრებში."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG წყარო ვერ მოიძებნა. გთხოვთ, ჯერ ერთი თაიგული მაინც გაიტანოთ."
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - ინფორმაცია"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo-ს თაიგულები წარმატებით მოიხსნა!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo უკვე გაშვებულია."
 
 msgid "Version:"
-msgstr ""
+msgstr "ვერსია:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "პროქსის მოლოდინში..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "კეთილი იყოს თქვენი მობრძანება Vavoo Proxy-ში EPG მხარდაჭერით"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "მისი დაწყება შეგიძლიათ მენიუდან ან TEXT ღილაკზე დაჭერით."
 
 msgid "fixed time"
-msgstr ""
+msgstr "ფიქსირებული დრო"
 
 msgid "interval"
-msgstr ""
+msgstr "ინტერვალი"
 
 msgid "lowercase"
-msgstr ""
+msgstr "პატარა ასო"
 
 msgid "seconds"
-msgstr ""
+msgstr "წამი"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ პროქსი ({0}s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ პროქსი OK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ განახლდა"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ შეცდომა"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ პროქსის შეცდომა"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ პროქსის ვადა გაუვიდა"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ პროქსი ხაზგარეშე"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ გადატვირთვა ვერ მოხერხდა"

@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Վստահված անձը սպառվում է"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d ալիք):"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s ֆայլ ջնջված է)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Բոլոր գրառումներին ավելացրեք բացակայող դաշտերը"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Ավտոմատ նշանի թարմացում յուրաքանչյուր 9 րոպեն մեկ"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Ավտոմատ EPG արտադրություն՝ ծառայության տեղեկանքով"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Ավտոմատ ծաղկեփնջերի ստեղծում"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Կատեգորիայի ծաղկեփնջեր"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Մաքրել քեշի ֆայլը"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Կոմերցիոն օգտագործումը խստիվ արգելված է"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Համայնք՝ Linuxsat-support.com, Corvoboys.org ֆորում"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Տարաների ծաղկեփնջեր"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Գյուղական ծաղկեփնջեր"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Միայն անվճար բովանդակություն"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Գրաֆիկա՝ @oktus"
 
 msgid "- HTTP Live Streaming"
 msgstr ""
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Ինտեգրված վստահված անձի համակարգ"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Ուղղակի սերվերի հոստինգ չկա"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Վերաբաշխումը պետք է պահպանի վերագրումը"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Հեռացրեք կրկնօրինակ գրառումները"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Ծառայության տեղեկանքներ՝ 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Հոսքեր հանրային աղբյուրներից"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 ձևաչափեր"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Տեխնիկական աջակցություն՝ Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} կրկնօրինակ գրառումներ հեռացվեցին"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} գրառում թարմացվել է"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Վստահված անձի կարգավիճակը"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Անհայտ վստահված անձ"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Ակտիվ ավտոմատ ծաղկեփնջի թարմացում"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Բոլոր երկրները (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Այլ երկիր արտահանումն արդեն ընթացքի մեջ է։ Խնդրում ենք սպասել:"
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Ժամերի ընդմիջումով կամ ֆիքսված ժամանակով"
 
 msgid "Author:"
-msgstr ""
+msgstr "Հեղինակ:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "EPG-ի ավտոմատ թարմացում"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Աղբյուրի ստեղծումից հետո ավտոմատ կերպով միացնել EPG թարմացումը"
 
 msgid "Back"
-msgstr ""
+msgstr "Ետ"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Ստորին"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Ծաղկեփնջի դիրքը ցանկում"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Ծաղկեփնջի ստեղծման սխալ՝ {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Ծաղկեփունջը պատրաստ է {} ալիքներով"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Ծաղկեփնջերի վերաբեռնումը նախատեսված է:"
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Ծաղկեփնջերը հաջողությամբ վերակազմավորվեցին:"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Փոփոխություն | OK=Փոխարկել | INFO=IMDb | STOP=Ելք"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Քեշի ձևաչափի շտկումն ավարտված է՝"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Քեշն արդեն ճիշտ ձևաչափով է: Փոփոխությունների կարիք չկա:"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Չեղարկել"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Չեղարկե՞լ կատարումը:"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Գործ՝ {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Ալիքներ"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Ալիքներ՝ %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Ստուգվում է վստահված անձը..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Մաքրել բոլորը"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Կազմաձևը հաջողությամբ պահպանվեց:"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Կազմաձևեք հիմնական ֆոնային պատկերը:"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Կարգավորել ֆիքսված ժամանակում"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Կազմաձևեք ինտերվալ րոպեները այսուհետ"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Կարգավորել ծառայության տեղեկանք Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Վահանակ"
 
 msgid "Countries"
-msgstr ""
+msgstr "Երկրներ"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Երկրներ՝ %(գեներացված)d/%(ընդհանուր)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Երկիր՝ %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Ստեղծեք EPG աղբյուր EPGImport-ի համար Vavoo ծրագրի տվյալների հետ"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Վարկեր:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Կանխադրված դիտում"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Լռելյայն դիտում հավելվածը բացելիս"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Ցանկանու՞մ եք արտահանել այս ծաղկեփունջը:"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Ցանկանու՞մ եք շտկել քեշի ձևաչափը:"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG-ի նմանության շեմ (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG-ն անջատված է: Խնդրում ենք նախ միացնել այն Vavoo-ի կարգավորումներում:"
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG մշակումն ավարտված է (համընկնում չկա)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "EPG մշակումն ավարտված է {} ալիքների համար"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG թարմացումն ավարտված է"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG-ի թարմացումը ձախողվեց"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG-ի թարմացումը հաջողությամբ սկսվեց"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Միացնել Vavoo EPG-ն"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Միացնել կամ անջատել վստահված անձը:"
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Մուտքագրեք տեքստը որոնման համար..."
 
 msgid "Error"
-msgstr ""
+msgstr "Սխալ"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Քեշը շտկելու սխալ՝ {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Չհաջողվեց վերլուծել տվյալները"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "EPG թարմացումը սկսելիս սխալ՝ {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Չհաջողվեց սկսել ալիքը"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Սխալ՝ %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Սխալ՝ {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ելք"
 
 msgid "Export"
-msgstr ""
+msgstr "Արտահանում"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Չհաջողվեց արտահանել՝ {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Արտահանումը սկսվեց. Ծաղկեփունջը շուտով կլինի։"
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Չհաջողվեց թարմացնել վստահված անձի նշանը"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Չհաջողվեց թարմացնել պրոքսին."
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Չհաջողվեց՝ %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Ուղղել քեշը"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Քեշի ձևաչափի շտկում..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Պարտադրե՞լ պրոքսիի թարմացումը:"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Գտնվել է՝ {} ալիք"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Ստեղծեք .m3u ֆայլ՝"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Ստեղծեք .m3u ֆայլեր (Ok for Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Ստեղծեք .m3u ֆայլեր և պահեք %s սարքում:"
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Ստեղծե՞լ .m3u ֆայլեր և պահել %s սարքում:"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Ստեղծե՞լ .m3u ֆայլեր ԲՈԼՈՐ %d երկրների համար:"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Թաքցնել/Ցուցադրել"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Որքա՞ն հաճախ կարելի է ավտոմատ թարմացնել EPG-ը (պահանջվում է EPGImport ժամանակացույց)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Կարևոր նշումներ."
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Բարձրացրեք, եթե վստահված սերվերը երկար տևի VPN-ի կամ դանդաղ կապի պատճառով:"
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Ստեղնաշար"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Ալիքի վերջին թարմացումը՝ %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Լիցենզիա:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Լիցենզիա՝ CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Հղում հիմնական ընտրացանկում"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Ավելի ցածր = ավելի քիչ ընդհատում, բայց ավելի շատ թարմացումներ"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U ֆայլը հաջողությամբ ստեղծվեց:"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U սերունդն ավարտված է:"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U-ի ստեղծման սխալ՝ %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Համապատասխան ալիքների նվազագույն նմանություն (ավելի բարձր = ավելի խիստ):"
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Ֆիլմի ծառայությունների տեղեկանք"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB հավելված չի գտնվել"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Ինտերնետ կապ չի հայտնաբերվել: Խնդրում ենք ստուգել ձեր ցանցը:"
 
 msgid "No channels found"
-msgstr ""
+msgstr "Ալիքներ չեն գտնվել"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "%s-ի համար ալիքներ չեն գտնվել"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Որոնման մեջ ալիքներ չեն գտնվել!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Նյութեր չկան"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Ծրագրի մասին տեղեկություններ չկան"
 
 msgid "No selection"
-msgstr ""
+msgstr "Ընտրություն չկա"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "%s-ի համար վավեր ալիքներ չկան"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Այժմ %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Միայն մեկ կոնկրետ երկիր"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Խնդրում ենք փորձել մեկ այլ ալիք:"
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Vavoo ծաղկեփնջերի դիրքը հիմնական ցանկում"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Սեղմեք TEXT կոճակը՝ մուտքագրելու համար, BACKSPACE՝ ջնջելու համար"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Վստահված անձը անջատված է"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Վստահված անձը միացված է"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Վստահված անձի սխալ."
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Վստահված անձը անջատված է"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Պրոքսին անջատված է: Խնդրում ենք նախ միացնել վստահված անձին: -- Ցանկի կազմաձևում --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Պրոքսին անջատված է: Խնդրում ենք միացնել այն կոնֆիգուրացիայի մեջ:"
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proxy-ը չի աշխատում: Խնդրում ենք նախ սկսել վստահված անձը:"
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Պրոքսին ակտիվ չէ: Հնարավոր չէ ստեղծել M3U ֆայլ:"
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Վստահված անձը չի արձագանքում դրանից հետո"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proxy-ը վերագործարկվում է... Խնդրում ենք սպասել"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Պրոքսիի գործարկման ժամկետը (վայրկյան)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Proxy-ի նշանը հաջողությամբ թարմացվել է"
 
 msgid "Ready"
-msgstr ""
+msgstr "Պատրաստ"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Իսկապե՞ս փակել առանց կարգավորումները պահելու:"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Խորհուրդ է տրվում՝ 5-8 րոպե"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Թարմացնել հոսքը (րոպե)."
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Թարմացրեք հոսքը յուրաքանչյուր X րոպեն մեկ (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Վերբեռնեք Bouqet-ը"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Վերբեռնե՞լ ծաղկեփնջերը և ծառայությունների ցանկը:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Հեռացնել"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Հեռացնե՞լ Vavoo-ի ԲՈԼՈՐ ծաղկեփնջերը:"
 
 msgid "Restart"
-msgstr ""
+msgstr "Վերագործարկեք"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Վերագործարկում..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ԸՆՏՐԵՔ ՁԵՐ ԸՆՏՐՈՒԹՅՈՒՆԸ"
 
 msgid "Save"
-msgstr ""
+msgstr "Պահպանել"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Պահպանված է՝ %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Պահպանված է՝ %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Ժամանակացույցի տեսակը."
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Պլանավորված ցուցակ."
 
 msgid "Search"
-msgstr ""
+msgstr "Որոնում"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Որոնել ալիքներ."
 
 msgid "Search..."
-msgstr ""
+msgstr "Որոնել..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Որոնում:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Ընտրեք ֆոն"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Ընտրեք M3U արտահանման ռեժիմ."
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Ընտրեք երկիրը M3U արտահանելու համար."
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Օգտագործված սերվեր խաղացողի համար"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Սերվեր խաղացողի համար."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Ցուցադրվում են բոլոր ալիքները՝ {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Տիեզերք"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Սկսե՞լ EPG թարմացումը հիմա:"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Հեռարձակումն ավարտվեց։ Կապի հետ կապված չափազանց շատ խնդիրներ:"
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Տեխնիկական առանձնահատկություններ."
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Սա կթարմացնի նույնականացման նշանը:"
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Սա կհեռացնի՝"
 
 msgid "This will:"
-msgstr ""
+msgstr "Սա կլինի."
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Թարմացումը սկսելու ժամանակը."
 
 msgid "Top"
-msgstr ""
+msgstr "Վերև"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Ընդհանուր ալիքներ՝ %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "Մեծատառ"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Թարմացման ընդմիջում (ժամ)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Թարմացման ընդմիջում (րոպե)."
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG-ի թարմացում..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG աղբյուրը միացված չէ EPGImport-ում: Խնդրում ենք միացնել այն EPGImport կարգավորումներում:"
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG աղբյուրը չի գտնվել: Խնդրում ենք նախ արտահանել առնվազն մեկ ծաղկեփունջ:"
 
 msgid "Vavoo Stream Live"
 msgstr ""
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Տեղեկատվություն"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo-ի ծաղկեփնջերը հաջողությամբ հեռացվեցին:"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo-ն արդեն վազում է:"
 
 msgid "Version:"
-msgstr ""
+msgstr "Տարբերակ:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Սպասում է վստահված անձի..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Բարի գալուստ Vavoo Proxy՝ EPG աջակցությամբ"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Դուք կարող եք այն սկսել ցանկից կամ սեղմելով TEXT կոճակը:"
 
 msgid "fixed time"
-msgstr ""
+msgstr "ֆիքսված ժամանակ"
 
 msgid "interval"
-msgstr ""
+msgstr "ընդմիջում"
 
 msgid "lowercase"
-msgstr ""
+msgstr "փոքրատառ"
 
 msgid "seconds"
-msgstr ""
+msgstr "վայրկյան"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ վստահված անձ ({0}ներ)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ վստահված անձ OK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Վերագործարկվել է"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Սխալ"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ վստահված անձի սխալ"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Վստահված անձը ժամկետանց է"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Անցանց վստահված անձ"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Չհաջողվեց վերագործարկել"

@@ -60,7 +60,7 @@ msgid "- Graphics: @oktus"
 msgstr "- Grafica: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- Streaming live HTTP"
 
 msgid "- Integrated proxy system"
 msgstr "- Sistema proxy integrato"
@@ -75,7 +75,7 @@ msgid "- Remove duplicate entries"
 msgstr "- Rimuovere le voci duplicate"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Riferimenti di servizio: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
 msgstr "-- Flussi da fonti pubbliche"
@@ -189,7 +189,7 @@ msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
 msgstr "Impostare il Referenze per il Player. Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Consolle"
 
 msgid "Countries"
 msgstr "Paesi"
@@ -570,7 +570,7 @@ msgid "Vavoo EPG source not found. Please export at least one bouquet first."
 msgstr "Sorgente EPG Vavoo non trovata. Esportare prima almeno un bouquet."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo streaming in diretta"
 
 msgid "Vavoo Stream Live - Information"
 msgstr "Vavoo Stream Live - Informazioni"

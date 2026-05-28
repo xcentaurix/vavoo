@@ -13,619 +13,619 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Proxy hết hạn"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kênh)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s tập tin đã bị xóa)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Thêm các trường còn thiếu vào tất cả các mục"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Tự động làm mới mã thông báo cứ sau 9 phút"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Tạo Epg tự động với Tham chiếu dịch vụ"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Tạo bó hoa tự động"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Hạng mục bó hoa"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Dọn dẹp tập tin bộ nhớ đệm"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Nghiêm cấm sử dụng thương mại"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Cộng đồng: Linuxsat-support.com, Diễn đàn Corvoboys.org"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Bó hoa đựng"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Bó hoa đồng quê"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Chỉ nội dung miễn phí"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Đồ họa: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- Phát trực tiếp HTTP"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Hệ thống proxy tích hợp"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Không có máy chủ lưu trữ trực tiếp"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Việc phân phối lại phải duy trì sự ghi nhận"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Loại bỏ các mục trùng lặp"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Số liên lạc dịch vụ: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Luồng từ các nguồn công cộng"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Định dạng TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Hỗ trợ kỹ thuật: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- Đã xóa {} mục trùng lặp"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- Đã cập nhật {} mục"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Trạng thái ủy quyền"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Proxy không xác định"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Cập nhật bó hoa tự động đang hoạt động"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Tất cả các quốc gia (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Quá trình xuất khẩu sang một quốc gia khác đang được tiến hành. Vui lòng chờ."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Vào một khoảng thời gian hoặc thời gian cố định"
 
 msgid "Author:"
-msgstr ""
+msgstr "Tác giả:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Tự động cập nhật EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Tự động kích hoạt cập nhật EPG sau khi tạo nguồn"
 
 msgid "Back"
-msgstr ""
+msgstr "Mặt sau"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Phím lùi"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Đáy"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Vị trí bó hoa trong danh sách"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Lỗi tạo bó hoa: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Bó hoa đã sẵn sàng với {} kênh"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Bó hoa tải lại theo lịch trình."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Bó hoa được tổ chức lại thành công!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Thay đổi | OK=Chuyển đổi | THÔNG TIN=IMDb | DỪNG=Thoát"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Đã hoàn tất sửa lỗi định dạng bộ đệm:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Bộ nhớ đệm đã có định dạng đúng. Không cần thay đổi."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Hủy thực thi?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Trường hợp: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kênh"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kênh: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Đang kiểm tra proxy..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Xóa tất cả"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Đã lưu cấu hình thành công!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Định cấu hình hình nền chính."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Định cấu hình vào một thời điểm cố định"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Định cấu hình khoảng thời gian kể từ bây giờ"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Cấu hình dịch vụ Tham khảo Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Bảng điều khiển"
 
 msgid "Countries"
-msgstr ""
+msgstr "Quốc gia"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Quốc gia: %(được tạo)d/%(tổng cộng)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Quốc gia: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Tạo nguồn EPG cho EPGImport bằng dữ liệu chương trình Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Tín dụng:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Chế độ xem mặc định"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Chế độ xem mặc định khi mở plugin"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Bạn có muốn xuất bó hoa này không?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Bạn có muốn sửa định dạng bộ đệm không?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Ngưỡng tương tự EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG bị vô hiệu hóa. Vui lòng kích hoạt nó trong cài đặt Vavoo trước."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Quá trình xử lý EPG đã hoàn tất (không có kết quả trùng khớp)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Quá trình xử lý EPG đã hoàn tất cho {} kênh"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Cập nhật EPG đã hoàn tất"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Cập nhật EPG không thành công"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "Cập nhật EPG đã bắt đầu thành công"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Kích hoạt Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Kích hoạt hoặc vô hiệu hóa proxy."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Nhập văn bản để tìm kiếm..."
 
 msgid "Error"
-msgstr ""
+msgstr "Lỗi"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Lỗi sửa bộ đệm: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Lỗi phân tích dữ liệu"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Lỗi khi bắt đầu cập nhật EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Lỗi bắt đầu kênh"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Lỗi: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Lỗi: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ra"
 
 msgid "Export"
-msgstr ""
+msgstr "Xuất khẩu"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Xuất không thành công: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Xuất khẩu bắt đầu. Bó hoa sẽ sớm có mặt."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Không làm mới được mã thông báo proxy"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Không thể làm mới proxy:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Thất bại: %(thất bại)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Sửa bộ đệm"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Đang sửa định dạng bộ đệm..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Buộc làm mới proxy?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Đã tìm thấy: {} kênh"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Tạo tệp .m3u cho:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Tạo tệp .m3u (Ok cho Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Tạo tệp .m3u và lưu vào thiết bị %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Tạo tệp .m3u và lưu vào thiết bị %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Tạo tệp .m3u cho TẤT CẢ các quốc gia %d?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Ẩn/Hiển thị"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Tần suất tự động cập nhật EPG (yêu cầu bộ lập lịch EPGImport)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Lưu ý quan trọng:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Tăng nếu proxy mất nhiều thời gian do VPN hoặc kết nối chậm."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Bàn phím"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Cập nhật kênh cuối cùng: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Giấy phép:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Giấy phép: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Liên kết trong Menu chính"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Thấp hơn = ít bị gián đoạn hơn nhưng được làm mới nhiều hơn"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Tệp M3U được tạo thành công!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Thế hệ M3U đã hoàn thành!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Lỗi tạo M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Độ tương tự tối thiểu đối với các kênh phù hợp (cao hơn = chặt chẽ hơn)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Tham khảo dịch vụ phim"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Không tìm thấy plugin IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Không có kết nối Internet được phát hiện. Vui lòng kiểm tra mạng của bạn."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Không tìm thấy kênh nào"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Không tìm thấy kênh nào cho: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Không tìm thấy kênh nào trong tìm kiếm!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Không có mặt hàng nào"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Không có thông tin chương trình"
 
 msgid "No selection"
-msgstr ""
+msgstr "Không có lựa chọn"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Không có kênh hợp lệ cho: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Bây giờ %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Chỉ có một quốc gia cụ thể"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Vui lòng thử kênh khác."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Vị trí của bó hoa Vavoo trong danh sách chính"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Nhấn nút TEXT để gõ, BACKSPACE để xóa"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proxy bị vô hiệu hóa"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Đã bật proxy"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Lỗi ủy quyền:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Đã tắt proxy"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Proxy bị vô hiệu hóa. Vui lòng bật proxy trước. -- Cấu hình menu --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Proxy bị vô hiệu hóa. Vui lòng kích hoạt nó trong cấu hình."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proxy không chạy. Vui lòng khởi động proxy trước."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Proxy không hoạt động. Không thể tạo tệp M3U."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Proxy không phản hồi sau"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Đang khởi động lại proxy... Vui lòng đợi"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Thời gian chờ khởi động proxy (giây)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Mã thông báo proxy được làm mới thành công"
 
 msgid "Ready"
-msgstr ""
+msgstr "Sẵn sàng"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Thực sự đóng mà không lưu cài đặt?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Khuyến nghị: 5-8 phút"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Làm mới luồng (phút):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Làm mới luồng X phút một lần (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Tải lại bó hoa"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Tải lại bó hoa và danh sách dịch vụ?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Di dời"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Xóa TẤT CẢ bó hoa Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Khởi động lại"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Đang khởi động lại..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "CHỌN LỰA CHỌN CỦA BẠN"
 
 msgid "Save"
-msgstr ""
+msgstr "Cứu"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Đã lưu trong: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Đã lưu trong: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Loại lịch trình:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Danh sách dự kiến:"
 
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Tìm kiếm kênh:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Tìm kiếm..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Tìm kiếm:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Chọn nền"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Chọn chế độ xuất M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Chọn quốc gia xuất M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Máy chủ dành cho người chơi được sử dụng"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Máy chủ cho người chơi."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Hiển thị tất cả các kênh: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Không gian"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Bắt đầu cập nhật EPG ngay bây giờ?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Luồng đã kết thúc. Quá nhiều vấn đề kết nối."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Tính năng kỹ thuật:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Điều này sẽ làm mới mã thông báo xác thực."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Điều này sẽ loại bỏ:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Điều này sẽ:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Thời gian bắt đầu cập nhật:"
 
 msgid "Top"
-msgstr ""
+msgstr "Đứng đầu"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Tổng số kênh: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "CHỮ HOA"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Khoảng thời gian cập nhật (giờ)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Khoảng thời gian cập nhật (phút):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Đang cập nhật EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Nguồn Vavoo EPG không được bật trong EPGImport. Vui lòng kích hoạt nó trong cài đặt EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Không tìm thấy nguồn Vavoo EPG. Vui lòng xuất ít nhất một bó hoa trước."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo Stream trực tiếp"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Thông tin"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Plugin trực tiếp Vavoo Stream"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Bó hoa Vavoo đã được gỡ bỏ thành công!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo đã chạy."
 
 msgid "Version:"
-msgstr ""
+msgstr "Phiên bản:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Đang chờ proxy..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Chào mừng bạn đến với Vavoo Proxy với sự hỗ trợ EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Bạn có thể bắt đầu nó từ menu hoặc bằng cách nhấn nút TEXT."
 
 msgid "fixed time"
-msgstr ""
+msgstr "thời gian cố định"
 
 msgid "interval"
-msgstr ""
+msgstr "khoảng thời gian"
 
 msgid "lowercase"
-msgstr ""
+msgstr "chữ thường"
 
 msgid "seconds"
-msgstr ""
+msgstr "giây"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Proxy ({0})"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Proxy được rồi"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Đã khởi động lại"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Lỗi"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Lỗi proxy"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Proxy đã hết hạn"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proxy ngoại tuyến"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Khởi động lại không thành công"

@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Proksi Tamat Tempoh"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d saluran)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s fail dipadamkan)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Tambahkan medan yang hilang pada semua entri"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Muat semula token automatik setiap 9 minit"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Penjanaan Epg automatik dengan Rujukan Perkhidmatan"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Penjanaan sejambak automatik"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Kategori jambangan"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Bersihkan fail cache"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Penggunaan komersial adalah dilarang sama sekali"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Komuniti: Linuxsat-support.com, Corvoboys.org Forum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Sejambak bekas"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Bunga desa"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Kandungan percuma sahaja"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafik: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- Penstriman Langsung HTTP"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Sistem proksi bersepadu"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Tiada pengehosan pelayan langsung"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Pengagihan semula mesti mengekalkan atribusi"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Alih keluar entri pendua"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Rujukan perkhidmatan: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Strim daripada sumber awam"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Format TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Sokongan teknikal: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} entri pendua dialih keluar"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- entri {} dikemas kini"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Status Proksi"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Proksi Tidak Diketahui"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Kemas Kini Bouquet Automatik Aktif"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Semua negara (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Eksport ke negara lain sedang dijalankan. Sila tunggu."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Pada selang jam atau masa tetap"
 
 msgid "Author:"
-msgstr ""
+msgstr "Pengarang:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Autokemas kini EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Cetuskan kemas kini EPG secara automatik selepas penciptaan sumber"
 
 msgid "Back"
-msgstr ""
+msgstr "belakang"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Ruang belakang"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Bawah"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Kedudukan Bouquet dalam Senarai"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Ralat penciptaan sejambak: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Sejambak sedia dengan saluran {}."
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Bouquets dimuat semula dijadualkan."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Sejambak berjaya disusun semula!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Ubah | OK=Togol | INFO=IMDb | STOP=Keluar"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Pembetulan format cache selesai:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Cache sudah dalam format yang betul. Tiada perubahan diperlukan."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Batalkan pelaksanaan?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Kes: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Saluran"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Saluran: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Menyemak proksi..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Kosongkan Semua"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Konfigurasi berjaya disimpan!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Konfigurasi Imej Latar Belakang Utama."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigurasikan pada masa yang ditetapkan"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Konfigurasi selang minit dari sekarang"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurasi Rujukan perkhidmatan Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 msgid "Countries"
-msgstr ""
+msgstr "negara"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Negara: %(generated)d/%(total)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Negara: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Cipta sumber EPG untuk EPGImport dengan data program Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Kredit:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Paparan Lalai"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Paparan lalai apabila membuka pemalam"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Adakah anda mahu mengeksport sejambak ini?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Adakah anda mahu membetulkan format cache?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Ambang Kesamaan EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG dilumpuhkan. Sila dayakannya dalam tetapan Vavoo dahulu."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Pemprosesan EPG selesai (tiada padanan)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Pemprosesan EPG selesai untuk saluran {}."
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Kemas kini EPG selesai"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Kemas kini EPG gagal"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "Kemas kini EPG berjaya dimulakan"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Dayakan Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Dayakan atau lumpuhkan proksi."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Masukkan teks untuk mencari..."
 
 msgid "Error"
-msgstr ""
+msgstr "Ralat"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Ralat membetulkan cache: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Ralat menghuraikan data"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Ralat memulakan kemas kini EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Ralat memulakan saluran"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Ralat: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Ralat: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Keluar"
 
 msgid "Export"
-msgstr ""
+msgstr "Eksport"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Eksport gagal: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Eksport dimulakan. Bouquet akan tersedia tidak lama lagi."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Gagal memuat semula token proksi"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Gagal memuat semula proksi:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Gagal: %(gagal)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Betulkan Cache"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Membetulkan format cache..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Paksa muat semula proksi?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Ditemui: {} saluran"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Hasilkan fail .m3u untuk:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Hasilkan fail .m3u (Ok untuk Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Hasilkan fail .m3u dan simpan pada peranti %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Hasilkan fail .m3u dan simpan ke peranti %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Hasilkan fail .m3u untuk SEMUA %d negara?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Sembunyi/Tunjukkan"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Kekerapan untuk mengemas kini EPG secara automatik (memerlukan penjadual EPGImport)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Nota Penting:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Tingkatkan jika proksi mengambil masa yang lama kerana VPN atau sambungan perlahan."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "papan kekunci"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Kemas kini saluran terakhir: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Lesen:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Lesen: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Pautan dalam Menu Utama"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Lebih rendah = kurang gangguan tetapi lebih banyak menyegarkan"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Fail M3U berjaya dijana!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Penjanaan M3U selesai!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Ralat penjanaan M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Persamaan minimum untuk saluran yang sepadan (lebih tinggi = lebih ketat)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Rujukan Perkhidmatan Filem"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Tiada pemalam IMDb/TMDB ditemui"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Tiada sambungan Internet dikesan. Sila semak rangkaian anda."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Tiada saluran ditemui"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Tiada saluran ditemui untuk: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Tiada saluran ditemui dalam carian!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Tiada item tersedia"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Tiada maklumat program tersedia"
 
 msgid "No selection"
-msgstr ""
+msgstr "Tiada pilihan"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Tiada saluran yang sah untuk: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Sekarang %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Hanya satu negara tertentu"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Sila cuba saluran lain."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Kedudukan sejambak Vavoo dalam senarai utama"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Tekan butang TEKS untuk menaip, BACKSPACE untuk memadam"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proksi Dilumpuhkan"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proksi Didayakan"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Ralat Proksi:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Proksi dilumpuhkan"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Proksi dilumpuhkan. Sila Tetapkan Proksi Mula-mula. -- Konfigurasi Menu --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Proksi dilumpuhkan. Sila dayakannya dalam konfigurasi."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Proksi tidak berjalan. Sila mulakan proksi dahulu."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Proksi tidak aktif. Tidak dapat menjana fail M3U."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Proksi tidak bertindak balas selepas itu"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Proksi dimulakan semula... Sila tunggu"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Tamat masa permulaan proksi (saat)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Token proksi berjaya dimuat semula"
 
 msgid "Ready"
-msgstr ""
+msgstr "sedia"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Benar-benar tutup tanpa menyimpan tetapan?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Disyorkan: 5-8 minit"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Muat semula strim (minit):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Muat semula strim setiap X minit (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Muat semula Bouquet"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Muat semula sejambak dan senarai perkhidmatan?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Alih keluar"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Keluarkan SEMUA jambangan Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Mulakan semula"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Memulakan semula..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "PILIH PILIHAN ANDA"
 
 msgid "Save"
-msgstr ""
+msgstr "Jimat"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Disimpan dalam: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Disimpan dalam: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Jenis jadual:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Senarai Berjadual:"
 
 msgid "Search"
-msgstr ""
+msgstr "Cari"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Cari Saluran:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Cari..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Cari:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Pilih Latar Belakang"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Pilih mod eksport M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Pilih negara untuk mengeksport M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Pelayan untuk Pemain Digunakan"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Pelayan untuk pemain."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Menunjukkan semua saluran: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Angkasa"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Mulakan kemas kini EPG sekarang?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Strim tamat. Terlalu banyak masalah sambungan."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Ciri-ciri teknikal:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Ini akan menyegarkan semula token pengesahan."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Ini akan mengalih keluar:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Ini akan:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Masa untuk memulakan kemas kini:"
 
 msgid "Top"
-msgstr ""
+msgstr "Atas"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Jumlah saluran: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "HURUF BESAR"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Kemas kini selang (jam)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Selang kemas kini (minit):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Mengemas kini EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Sumber Vavoo EPG tidak didayakan dalam EPGImport. Sila dayakannya dalam tetapan EPGImport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Sumber Vavoo EPG tidak ditemui. Sila eksport sekurang-kurangnya sejambak dahulu."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo Stream Langsung"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live - Maklumat"
 
 msgid "Vavoo Stream Live Plugin"
 msgstr ""
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Sejambak Vavoo berjaya dikeluarkan!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo sudah berjalan."
 
 msgid "Version:"
-msgstr ""
+msgstr "Versi:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Menunggu proksi..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Selamat datang ke Vavoo Proxy dengan sokongan EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Anda boleh memulakannya dari menu atau dengan menekan butang TEKS."
 
 msgid "fixed time"
-msgstr ""
+msgstr "masa tetap"
 
 msgid "interval"
-msgstr ""
+msgstr "selang waktu"
 
 msgid "lowercase"
-msgstr ""
+msgstr "huruf kecil"
 
 msgid "seconds"
-msgstr ""
+msgstr "detik"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Proksi ({0}s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Proksi OK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Dimulakan semula"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Ralat"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Ralat Proksi"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Proksi Tamat Tempoh"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Proksi Luar Talian"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Gagal Mulakan Semula"

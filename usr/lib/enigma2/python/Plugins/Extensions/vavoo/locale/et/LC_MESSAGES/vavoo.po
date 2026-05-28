@@ -13,619 +13,619 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Puhverserver aegub"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kanalit)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s faili kustutatud)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Lisage kõikidele kirjetele puuduvad väljad"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- žetoonide automaatne värskendamine iga 9 minuti järel"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Automaatne Epg genereerimine teenuse viitega"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Automaatne kimpude genereerimine"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Kategooria kimbud"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Puhastage vahemälufail"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Kaubanduslik kasutamine on rangelt keelatud"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Kogukond: Linuxsat-support.com, Corvoboys.org foorum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- konteinerkimbud"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- maakimbud"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Ainult tasuta sisu"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Graafika: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP reaalajas voogesitus"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Integreeritud puhverserveri süsteem"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Serveri otsehostimine puudub"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Ümberjagamine peab säilitama omistamise"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Eemaldage topeltkirjed"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Teenuse viited: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- voogesitus avalikest allikatest"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 vormingud"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Tehniline tugi: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} topeltkirjet on eemaldatud"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} kirjet värskendati"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Puhverserveri olek"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Puhverserver Tundmatu"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktiivne automaatne kimpude värskendus"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Kõik riigid (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Eksport teise riiki juba käib. Palun oodake."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Tunni või kindla aja tagant"
 
 msgid "Author:"
-msgstr ""
+msgstr "Autor:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "EPG automaatne värskendamine"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Käivitage EPG värskendus automaatselt pärast allika loomist"
 
 msgid "Back"
-msgstr ""
+msgstr "Tagasi"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Tagasilükkeklahv"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Altpoolt"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Kimbu asukoht loendis"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Viga kimbu loomisel: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Kimp valmis {} kanaliga"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Kimpude uuesti laadimine on ajastatud."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Kimbud edukalt ümber korraldatud!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Muuda | OK=Lülita | INFO=IMDb | STOP=Välju"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Vahemälu vormingu parandamine on lõpetatud:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Vahemälu on juba õiges vormingus. Muudatusi pole vaja."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Tühista"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Kas tühistada täitmine?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Juhtum: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanalid"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanalid: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Puhverserveri kontrollimine..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Kustuta kõik"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Seadistuse salvestamine õnnestus!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Peamise taustapildi seadistamine."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Seadistage kindlal ajal"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Seadistage intervall minutid nüüdsest"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigureerige teenus Viide Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "konsool"
 
 msgid "Countries"
-msgstr ""
+msgstr "Riigid"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Riigid: %(genereeritud)d/%(kokku)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Riik: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Looge Vavoo programmi andmetega EPG allikas EPGImport jaoks"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Autorid:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Vaikevaade"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Vaikevaade pistikprogrammi avamisel"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Kas soovite selle kimbu eksportida?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Kas soovite vahemälu vormingut parandada?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG sarnasuse lävi (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG on keelatud. Palun lubage see esmalt Vavoo seadetes."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG töötlemine lõpetatud (vasteid pole)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "EPG töötlemine on lõpetatud {} kanali jaoks"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "EPG värskendus on lõpetatud"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG värskendamine ebaõnnestus"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "EPG värskendamine algas edukalt"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Luba Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Puhverserveri lubamine või keelamine."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Sisestage otsimiseks tekst..."
 
 msgid "Error"
-msgstr ""
+msgstr "Viga"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Viga vahemälu parandamisel: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Viga andmete sõelumisel"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Viga EPG värskenduse käivitamisel: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Viga kanali käivitamisel"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Viga: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Viga: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Välju"
 
 msgid "Export"
-msgstr ""
+msgstr "Ekspordi"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Eksport ebaõnnestus: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Eksport algas. Kimp on varsti saadaval."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Puhverserveri märgi värskendamine ebaõnnestus"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Puhverserveri värskendamine ebaõnnestus:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Ebaõnnestunud: %(ebaõnnestus)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Parandage vahemälu"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Vahemälu vormingu parandamine..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Kas sundida puhverserveri värskendamist?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Leitud: {} kanalit"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "M3u-faili loomine:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "M3u-failide genereerimine (Ok for Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Looge .m3u-failid ja salvestage need seadmesse %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Kas luua .m3u-failid ja salvestada need seadmesse %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Kas luua .m3u-failid KÕIGI %d riigi jaoks?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Peida/Kuva"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Kui sageli EPG-d automaatselt värskendada (vaja on EPGIimpordi ajakava)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Olulised märkused:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Suurendage, kui puhverserver võtab VPN-i või aeglase ühenduse tõttu kaua aega."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Klaviatuur"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Viimane kanali värskendus: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Litsents:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Litsents: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Link põhimenüüs"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Madalam = vähem katkestusi, kuid rohkem värskendusi"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U faili genereerimine õnnestus!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U põlvkond valmis!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U genereerimise viga: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Sobivate kanalite minimaalne sarnasus (kõrgem = rangem)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Filmiteenuste viide"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB pistikprogrammi ei leitud"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Interneti-ühendust ei tuvastatud. Kontrollige oma võrku."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Ühtegi kanalit ei leitud"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Ühtegi kanalit ei leitud: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Otsingus ei leitud ühtegi kanalit!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Ükski üksus pole saadaval"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Programmiteave pole saadaval"
 
 msgid "No selection"
-msgstr ""
+msgstr "Valikut pole"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Puuduvad kehtivad kanalid: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Nüüd %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Ainult üks konkreetne riik"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Proovige teist kanalit."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Vavoo kimpude asukoht põhinimekirjas"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Sisestamiseks vajutage nuppu TEXT, kustutamiseks TAGARUUMI"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Puhverserver on keelatud"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Puhverserver lubatud"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Puhverserveri viga:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Puhverserver on keelatud"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Puhverserver on keelatud. Seadke esmalt puhverserver sisse. -- Menüü konfiguratsioon --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Puhverserver on keelatud. Palun lubage see konfiguratsioonis."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Puhverserver ei tööta. Palun käivitage esmalt puhverserver."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Puhverserver pole aktiivne. M3U-faili ei saa luua."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Puhverserver ei vasta pärast seda"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Puhverserveri taaskäivitamine... Palun oodake"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Puhverserveri käivitamise ajalõpp (sekundites)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Puhverserveri märgi värskendamine õnnestus"
 
 msgid "Ready"
-msgstr ""
+msgstr "Valmis"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Kas tõesti sulgeda seadeid salvestamata?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Soovitatav: 5-8 minutit"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Värskenda voogu (minutites):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Värskenda voogu iga X minuti järel (1–15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Laadi kimp uuesti"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Kas laadida kimbud ja teenuste nimekiri uuesti?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eemalda"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Kas eemaldada KÕIK Vavoo kimbud?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Taaskäivitage"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Taaskäivitamine..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "VALI OMA VALIK"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvesta"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Salvestatud asukohta: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Salvestatud: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Ajakava tüüp:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Ajastatud loend:"
 
 msgid "Search"
-msgstr ""
+msgstr "Otsi"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Otsi kanaleid:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Otsi..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Otsi:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Valige Taust"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Valige M3U ekspordirežiim:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Valige riik M3U eksportimiseks:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Kasutatud server mängijale"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Server mängija jaoks."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Kuvatakse kõik kanalid: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Kosmos"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Kas alustada EPG värskendamist kohe?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Voog lõppes. Liiga palju ühenduse probleeme."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Tehnilised omadused:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "See värskendab autentimisluba."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "See eemaldab:"
 
 msgid "This will:"
-msgstr ""
+msgstr "See teeb järgmist:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Aeg värskendamise alustamiseks:"
 
 msgid "Top"
-msgstr ""
+msgstr "Üles"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Kanaleid kokku: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "SUURTÄHED"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Värskenduste intervall (tunnid)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Värskendusintervall (minutid):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG värskendamine..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG allikas pole rakenduses EPGImport lubatud. Palun lubage see EPGIimpordi seadetes."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG allikat ei leitud. Palun eksportige esmalt vähemalt üks kimp."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo otseülekanne"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live – teave"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Vavoo Streami reaalajas pistikprogramm"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo kimbud edukalt eemaldatud!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo juba jookseb."
 
 msgid "Version:"
-msgstr ""
+msgstr "Versioon:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Puhverserveri ootamine..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Tere tulemast EPG toega Vavoo puhverserverisse"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Saate selle käivitada menüüst või vajutades nuppu TEXT."
 
 msgid "fixed time"
-msgstr ""
+msgstr "fikseeritud aeg"
 
 msgid "interval"
-msgstr ""
+msgstr "intervall"
 
 msgid "lowercase"
-msgstr ""
+msgstr "väiketähtedega"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekundit"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Puhverserver ({0})"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Puhverserver on korras"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Taaskäivitatud"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Viga"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Puhverserveri viga"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Puhverserver on aegunud"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Puhverserver võrguühenduseta"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Taaskäivitamine ebaõnnestus"

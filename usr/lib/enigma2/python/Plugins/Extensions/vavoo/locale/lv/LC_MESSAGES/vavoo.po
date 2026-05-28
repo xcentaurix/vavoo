@@ -13,133 +13,133 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Starpniekservera derīguma termiņš beidzas"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d kanāli)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(%s faili izdzēsti)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Pievienojiet trūkstošos laukus visiem ierakstiem"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Automātiska marķiera atsvaidzināšana ik pēc 9 minūtēm"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Automātiska Epg ģenerēšana ar pakalpojuma atsauci"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Automātiska pušķu ģenerēšana"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Kategoriju pušķi"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Notīriet kešatmiņas failu"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Komerciāla lietošana ir stingri aizliegta"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Kopiena: Linuxsat-support.com, Corvoboys.org forums"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- konteineru pušķi"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Lauku pušķi"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Tikai bezmaksas saturs"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafika: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- HTTP tiešraides straumēšana"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Integrēta starpniekservera sistēma"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Nav tiešas servera mitināšanas"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Pārdalīšanai ir jāsaglabā attiecināšana"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Noņemiet dublētos ierakstus"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Servisa uzziņas: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Straumes no publiskiem avotiem"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- TS/M3U8 formāti"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Tehniskais atbalsts: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- Noņemti {} dublikāti"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} ieraksti atjaunināti"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Starpniekservera statuss"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Starpniekserveris nav zināms"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Aktīvā automātiskā pušķu atjaunināšana"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Visas valstis (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Eksports uz citu valsti jau notiek. Lūdzu, uzgaidiet."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Ar intervālu stundām vai noteiktu laiku"
 
 msgid "Author:"
-msgstr ""
+msgstr "Autors:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Automātiski atjaunināt EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Automātiski aktivizēt EPG atjaunināšanu pēc avota izveides"
 
 msgid "Back"
-msgstr ""
+msgstr "Atpakaļ"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Apakšā"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Pušķa pozīcija sarakstā"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Pušķa izveides kļūda: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Pušķis gatavs ar {} kanāliem"
 
 msgid "Bouquets reload scheduled."
 msgstr ""
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Pušķi veiksmīgi reorganizēti!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
 msgstr ""
@@ -148,28 +148,28 @@ msgid "Cache format fix completed:"
 msgstr ""
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Kešatmiņa jau ir pareizā formātā. Izmaiņas nav vajadzīgas."
 
 msgid "Cancel"
 msgstr ""
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Vai atcelt izpildi?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Lieta: {}"
 
 msgid "Channels"
 msgstr ""
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Kanāli: %d"
 
 msgid "Checking proxy..."
 msgstr ""
 
 msgid "Clear All"
-msgstr ""
+msgstr "Notīrīt visu"
 
 msgid "Configuration saved successfully!"
 msgstr ""
@@ -178,37 +178,37 @@ msgid "Configure Main Background Image."
 msgstr ""
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Konfigurējiet noteiktā laikā"
 
 msgid "Configure interval minutes from now"
 msgstr ""
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfigurēt pakalpojumu Atsauce Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
 msgstr ""
 
 msgid "Countries"
-msgstr ""
+msgstr "valstis"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Valstis: %(ģenerēts)d/%(kopā)d"
 
 msgid "Country: %s"
 msgstr ""
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Izveidojiet EPG avotu EPGImport, izmantojot Vavoo programmas datus"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Kredīti:"
 
 msgid "Default View"
 msgstr ""
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Noklusējuma skats, atverot spraudni"
 
 msgid "Do you want to export this bouquet?"
 msgstr ""
@@ -220,10 +220,10 @@ msgid "EPG Similarity Threshold (%)"
 msgstr ""
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG ir atspējota. Lūdzu, vispirms iespējojiet to Vavoo iestatījumos."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG apstrāde pabeigta (nav atbilstības)"
 
 msgid "EPG processing completed for {} channels"
 msgstr ""
@@ -232,13 +232,13 @@ msgid "EPG update completed"
 msgstr ""
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG atjaunināšana neizdevās"
 
 msgid "EPG update started successfully"
 msgstr ""
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Iespējot Vavoo EPG"
 
 msgid "Enable or disable proxy."
 msgstr ""
@@ -247,19 +247,19 @@ msgid "Enter text to search..."
 msgstr ""
 
 msgid "Error"
-msgstr ""
+msgstr "Kļūda"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Labojot kešatmiņu, radās kļūda: {}"
 
 msgid "Error parsing data"
 msgstr ""
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Kļūda, uzsākot EPG atjaunināšanu: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Kļūda, startējot kanālu"
 
 msgid "Error: %s"
 msgstr ""
@@ -268,7 +268,7 @@ msgid "Error: {}"
 msgstr ""
 
 msgid "Exit"
-msgstr ""
+msgstr "Iziet"
 
 msgid "Export"
 msgstr ""
@@ -283,349 +283,349 @@ msgid "Failed to refresh proxy token"
 msgstr ""
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Neizdevās atsvaidzināt starpniekserveri:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Neizdevās: %(neizdevās)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Labojiet kešatmiņu"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Notiek kešatmiņas formāta labošana..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Vai piespiedu kārtā atsvaidzināt starpniekserveri?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Atrasti: {} kanāli"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Ģenerēt .m3u failu:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr ".m3u failu ģenerēšana (Ok for Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Ģenerējiet .m3u failus un saglabājiet tos ierīcē %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Vai ģenerēt .m3u failus un saglabāt ierīcē %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Vai ģenerēt .m3u failus VISĀM %d valstīm?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Paslēpt/Rādīt"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Cik bieži EPG automātiski atjaunināt (nepieciešams EPGImport plānotājs)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Svarīgas piezīmes:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Palieliniet, ja starpniekserveris aizņem ilgu laiku VPN vai lēna savienojuma dēļ."
 
 msgid "Keyboard"
 msgstr ""
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Pēdējais kanāla atjauninājums: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Licence:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Licence: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Saite galvenajā izvēlnē"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Zemāks = mazāk pārtraukumu, bet vairāk atsvaidzināšanas"
 
 msgid "M3U file generated successfully!"
 msgstr ""
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "M3U paaudze pabeigta!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "M3U ģenerēšanas kļūda: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Minimālā līdzība atbilstošiem kanāliem (augstāka = stingrāka)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Filmu pakalpojumu uzziņa"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB spraudnis nav atrasts"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Nav atrasts interneta savienojums. Lūdzu, pārbaudiet savu tīklu."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Nav atrasts neviens kanāls"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Nav atrasts neviens kanāls priekš: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Meklējot nav atrasts neviens kanāls!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Nav pieejams neviens vienums"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Informācija par programmu nav pieejama"
 
 msgid "No selection"
-msgstr ""
+msgstr "Nav atlases"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Nav derīgu kanālu: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Tagad %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Tikai viena konkrēta valsts"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Lūdzu, izmēģiniet citu kanālu."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Vavoo pušķu pozīcija galvenajā sarakstā"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Lai rakstītu, nospiediet pogu TEKSTS, lai dzēstu, nospiediet taustiņu BACKSPACE"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Starpniekserveris ir atspējots"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Starpniekserveris ir iespējots"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Starpniekservera kļūda:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Starpniekserveris ir atspējots"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Starpniekserveris ir atspējots. Lūdzu, vispirms iestatiet starpniekserveri. -- Izvēlnes konfigurācija --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Starpniekserveris ir atspējots. Lūdzu, iespējojiet to konfigurācijā."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Starpniekserveris nedarbojas. Lūdzu, vispirms palaidiet starpniekserveri."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Starpniekserveris nav aktīvs. Nevar ģenerēt M3U failu."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Starpniekserveris nereaģē pēc tam"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Notiek starpniekservera restartēšana... Lūdzu, uzgaidiet"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Starpniekservera palaišanas taimauts (sekundēs)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Starpniekservera pilnvara ir veiksmīgi atsvaidzināta"
 
 msgid "Ready"
-msgstr ""
+msgstr "Gatavs"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Vai tiešām aizvērt, nesaglabājot iestatījumus?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Ieteicams: 5-8 minūtes"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Atsvaidzināt straumi (minūtēs):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Atsvaidzināt straumi ik pēc X minūtēm (1–15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Pārlādēt pušķi"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Vai atkārtoti ielādēt pušķus un pakalpojumu sarakstu?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Noņemt"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Vai noņemt VISUS Vavoo pušķus?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Restartēt"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Notiek restartēšana..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "IZVĒLIES SAVU IZVĒLI"
 
 msgid "Save"
-msgstr ""
+msgstr "Saglabāt"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Saglabāts: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Saglabāts: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Grafika veids:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Plānotais saraksts:"
 
 msgid "Search"
-msgstr ""
+msgstr "Meklēt"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Meklēt kanālus:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Meklēt..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Meklēt:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Atlasiet Fons"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Izvēlieties M3U eksporta režīmu:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Izvēlieties valsti M3U eksportēšanai:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Izmantots serveris atskaņotājam"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Serveris spēlētājam."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Tiek rādīti visi kanāli: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Kosmoss"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Vai sākt EPG atjaunināšanu tūlīt?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Straume beigusies. Pārāk daudz savienojuma problēmu."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Tehniskās īpašības:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Tas atsvaidzinās autentifikācijas pilnvaru."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Tas noņems:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Tas:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Laiks sākt atjaunināšanu:"
 
 msgid "Top"
-msgstr ""
+msgstr "Augšā"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Kopējais kanālu skaits: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "LIELAIS RAKSTS"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Atjaunināšanas intervāls (stundas)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Atjaunināšanas intervāls (minūtes):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Notiek EPG atjaunināšana..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Vavoo EPG avots nav iespējots programmā EPGImport. Lūdzu, iespējojiet to EPGImport iestatījumos."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Vavoo EPG avots nav atrasts. Lūdzu, vispirms eksportējiet vismaz vienu pušķi."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo straume tiešraidē"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Stream Live — informācija"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Vavoo Stream tiešraides spraudnis"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Vavoo pušķi veiksmīgi noņemti!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo jau darbojas."
 
 msgid "Version:"
-msgstr ""
+msgstr "Versija:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Gaida starpniekserveri..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Laipni lūdzam Vavoo Proxy ar EPG atbalstu"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "To var sākt no izvēlnes vai nospiežot pogu TEXT."
 
 msgid "fixed time"
-msgstr ""
+msgstr "fiksēts laiks"
 
 msgid "interval"
-msgstr ""
+msgstr "intervāls"
 
 msgid "lowercase"
-msgstr ""
+msgstr "mazie burti"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekundes"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Starpniekserveris ({0} s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Starpniekserveris ir kārtībā"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Restartēts"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Kļūda"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Starpniekservera kļūda"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Starpniekservera derīguma termiņš beidzies"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Starpniekserveris bezsaistē"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Restartēšana neizdevās"

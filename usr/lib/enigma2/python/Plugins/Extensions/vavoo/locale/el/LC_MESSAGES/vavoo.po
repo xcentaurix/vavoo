@@ -325,7 +325,7 @@ msgid "Important Notes:"
 msgstr "Σημαντικές σημειώσεις:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Αύξηση εάν ο διακομιστής μεσολάβησης διαρκεί πολύ λόγω VPN ή αργής σύνδεσης."
 
 msgid "Keyboard"
 msgstr "Πληκτρολόγιο"
@@ -433,7 +433,7 @@ msgid "Proxy restarting... Please wait"
 msgstr "Επανεκκίνηση proxy... Παρακαλώ περιμένετε"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Λήξη χρονικού ορίου εκκίνησης διακομιστή μεσολάβησης (δευτερόλεπτα)"
 
 msgid "Proxy token refreshed successfully"
 msgstr "Το token του proxy ανανεώθηκε με επιτυχία"

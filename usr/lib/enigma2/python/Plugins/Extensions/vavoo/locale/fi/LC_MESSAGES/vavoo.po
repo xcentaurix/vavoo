@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 3.9\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Välityspalvelin vanhenee"
 
 msgid "(%d channels)?"
 msgstr "(%d kanavaa)?"
@@ -21,7 +21,7 @@ msgid "(%s files deleted)"
 msgstr "(%s tiedostoa poistettu)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Lisää puuttuvat kentät kaikkiin merkintöihin"
 
 msgid "- Auto token refresh every 9 minutes"
 msgstr "- Automaattinen tokenin päivitys 9 minuutin välein"
@@ -36,7 +36,7 @@ msgid "- Category bouquets"
 msgstr "- Luokkaniput"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Puhdista välimuistitiedosto"
 
 msgid "- Commercial use is strictly prohibited"
 msgstr "- Kaupallinen käyttö ehdottomasti kielletty"
@@ -69,7 +69,7 @@ msgid "- Redistribution must maintain attribution"
 msgstr "- Uudelleenjaossa on säilytettävä tekijätiedot"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Poista päällekkäiset merkinnät"
 
 msgid "- Service references: 4097, 5001, 5002"
 msgstr "- Palveluviitteet: 4097, 5001, 5002"
@@ -84,16 +84,16 @@ msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
 msgstr "- Tekninen tuki: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} päällekkäistä merkintää poistettu"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} merkintää päivitetty"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Välityspalvelimen tila"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Välityspalvelin Tuntematon"
 
 msgid "Active Automatic Bouquet Update"
 msgstr "Aktiivinen automaattinen nippupäivitys"
@@ -132,22 +132,22 @@ msgid "Bouquet creation error: {}"
 msgstr "Nipun luontivirhe: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Kimppu valmis {} kanavalla"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Kimppujen uudelleenlataus ajoitettu."
 
 msgid "Bouquets reorganized successfully!"
 msgstr "Niput uudelleenjärjestetty onnistuneesti!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Muuta | OK=Vaihda | INFO=IMDb | STOP=Poistu"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Välimuistin muodon korjaus valmis:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Välimuisti on jo oikeassa muodossa. Muutoksia ei tarvita."
 
 msgid "Cancel"
 msgstr "Peruuta"
@@ -159,7 +159,7 @@ msgid "Case: {}"
 msgstr "Kirjainkoko: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Kanavat"
 
 msgid "Channels: %d"
 msgstr "Kanavat: %d"
@@ -213,16 +213,16 @@ msgid "Do you want to export this bouquet?"
 msgstr "Haluatko viedä tämän nipun?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Haluatko korjata välimuistin muodon?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "EPG:n samankaltaisuuden kynnys (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
 msgstr "EPG on poissa käytöstä. Ota se ensin käyttöön Vavoo-asetuksista."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "EPG-käsittely valmis (ei osumia)"
 
 msgid "EPG processing completed for {} channels"
 msgstr "EPG-käsittely valmistui {} kanavalle"
@@ -246,13 +246,13 @@ msgid "Enter text to search..."
 msgstr "Syötä teksti haettavaksi..."
 
 msgid "Error"
-msgstr ""
+msgstr "Virhe"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Virhe korjattaessa välimuistia: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Virhe jäsennettäessä tietoja"
 
 msgid "Error starting EPG update: {}"
 msgstr "Virhe käynnistettäessä EPG-päivitystä: {}"
@@ -288,10 +288,10 @@ msgid "Failed: %(failed)d"
 msgstr "Epäonnistui: %(failed)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Korjaa välimuisti"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Korjataan välimuistin muotoa..."
 
 msgid "Force proxy refresh?"
 msgstr "Pakotetaanko välityspalvelimen päivitys?"
@@ -324,7 +324,7 @@ msgid "Important Notes:"
 msgstr "Tärkeitä huomautuksia:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Lisää, jos välityspalvelin kestää kauan VPN:n tai hitaan yhteyden vuoksi."
 
 msgid "Keyboard"
 msgstr "Näppäimistö"
@@ -354,13 +354,13 @@ msgid "M3U generation error: %s"
 msgstr "M3U-luontivirhe: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Minimi samankaltaisuus vastaaville kanaville (suurempi = tiukempi)."
 
 msgid "Movie Services Reference"
 msgstr "Elokuvapalveluiden viite"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "IMDb/TMDB-laajennusta ei löytynyt"
 
 msgid "No Internet connection detected. Please check your network."
 msgstr "Internet-yhteyttä ei havaittu. Tarkista verkkosi."
@@ -375,13 +375,13 @@ msgid "No channels found in search!!!"
 msgstr "Kanavia ei löytynyt haussa!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Ei kohteita saatavilla"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Ohjelmatietoja ei ole saatavilla"
 
 msgid "No selection"
-msgstr ""
+msgstr "Ei valintaa"
 
 msgid "No valid channels for: %s"
 msgstr "Ei kelvollisia kanavia kohteelle: %s"
@@ -408,7 +408,7 @@ msgid "Proxy Enabled"
 msgstr "Välityspalvelin käytössä"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Välityspalvelimen virhe:"
 
 msgid "Proxy disabled"
 msgstr "Välityspalvelin poissa käytöstä"
@@ -432,7 +432,7 @@ msgid "Proxy restarting... Please wait"
 msgstr "Välityspalvelin käynnistetään uudelleen... Odota"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Välityspalvelimen käynnistyksen aikakatkaisu (sekuntia)"
 
 msgid "Proxy token refreshed successfully"
 msgstr "Välityspalvelimen token päivitetty onnistuneesti"
@@ -456,7 +456,7 @@ msgid "Reload Bouqet"
 msgstr "Lataa nippu uudelleen"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Ladataanko kukkakimput ja palveluluettelo uudelleen?"
 
 msgid "Remove"
 msgstr "Poista"
@@ -468,7 +468,7 @@ msgid "Restart"
 msgstr "Käynnistä uudelleen"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Käynnistetään uudelleen..."
 
 msgid "SELECT YOUR CHOICE"
 msgstr "VALITSE VAIHTOEHTO"
@@ -537,7 +537,7 @@ msgid "This will remove:"
 msgstr "Tämä poistaa:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Tämä:"
 
 msgid "Time to start update:"
 msgstr "Aika aloittaa päivitys:"
@@ -588,7 +588,7 @@ msgid "Waiting for proxy..."
 msgstr "Odotetaan välityspalvelinta..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Tervetuloa Vavoo Proxyyn EPG-tuella"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
 msgstr "Voit käynnistää sen valikosta tai painamalla TEXT-painiketta."
@@ -606,28 +606,28 @@ msgid "seconds"
 msgstr "sekuntia"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Välityspalvelin ({0} s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Välityspalvelin OK"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Käynnistetty uudelleen"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Virhe"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Välityspalvelinvirhe"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Välityspalvelin vanhentunut"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Välityspalvelin offline-tilassa"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Uudelleenkäynnistys epäonnistui"
 
 #~ msgid "Active or Disactive Ipv6."
 #~ msgstr "Ota Ipv6 käyttöön tai pois käytöstä."

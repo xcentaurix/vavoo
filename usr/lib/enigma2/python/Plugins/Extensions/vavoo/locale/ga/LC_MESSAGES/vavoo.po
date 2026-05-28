@@ -13,619 +13,619 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Seachfhreastalaí ag dul in éag"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(%d cainéal)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(scriosadh %s comhad)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Cuir réimsí atá in easnamh le gach iontráil"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Athnuachan comhartha uathoibríoch gach 9 nóiméad"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Giniúint Uathoibríoch Epg le Tagairt Seirbhíse"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Giniúint bouquet uathoibríoch"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Bouquets catagóir"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Glan suas an comhad taisce"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Tá cosc ​​dian ar úsáid tráchtála"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Pobal: Linuxsat-support.com, Fóram Corvoboys.org"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- bouquets Coimeádán"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Bouquets tíre"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Ábhar saor in aisce amháin"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Grafaicí: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- Sruthú Beo HTTP"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Córas seachfhreastalaí comhtháite"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Gan óstáil freastalaí díreach"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Ní mór don athdháileadh sannadh a choinneáil"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Bain iontrálacha dúblacha"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Tagairtí seirbhíse: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Sruthanna ó fhoinsí poiblí"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- formáidí TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Tacaíocht theicniúil: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} iontrálacha dúblacha bainte"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} iontráil nuashonraithe"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Stádas Seachfhreastalaí"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Seachfhreastalaí Anaithnid"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Nuashonrú Gníomhach Bouquet Uathoibríoch"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Gach tír (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Tá onnmhairiú do thír eile ar siúl cheana féin. Fan le do thoil."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Ag eatramh uaireanta nó am socraithe"
 
 msgid "Author:"
-msgstr ""
+msgstr "Údar:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Uath-nuashonrú EPG"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Cuir tús le nuashonrú EPG go huathoibríoch tar éis cruthú na foinse"
 
 msgid "Back"
-msgstr ""
+msgstr "Ar ais"
 
 msgid "Backspace"
-msgstr ""
+msgstr "Cúlspás"
 
 msgid "Bottom"
-msgstr ""
+msgstr "Bun"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Bouquet Post sa Liosta"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Earráid le cruthú bouquet: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Bouquet réidh le {} cainéil"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Bouquets athlódáil sceidealta."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Bouquets atheagrú go rathúil!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Athraigh | OK=Scoránaigh | INFO=IMDb | STOP=Scoir"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Ceartúchán formáide taisce críochnaithe:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Tá an taisce san fhormáid cheart cheana féin. Níl gá le hathruithe."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cealaigh"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Cealaigh an fhorghníomhú?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Cás: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Cainéil"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Cainéil: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Seachfhreastalaí á sheiceáil..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Glan Uile"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Sábháladh an chumraíocht!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Cumraigh Príomhíomhá Chúlra."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Cumraigh ag am socraithe"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Cumraigh nóiméad eatramh as seo amach"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Cumraigh an tseirbhís Tagairt Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
-msgstr ""
+msgstr "Consól"
 
 msgid "Countries"
-msgstr ""
+msgstr "Tíortha"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Tíortha: %(ghinte)d/%(total)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Tír: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Cruthaigh foinse EPG do EPGImport le sonraí cláir Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Creidmheasanna:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Amharc Réamhshocraithe"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Amharc réamhshocraithe agus an breiseán á oscailt"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Ar mhaith leat an bouquet seo a easpórtáil?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Ar mhaith leat formáid an taisce a dheisiú?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Tairseach Cosúlachta EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "Tá EPG díchumasaithe. Cumasaigh é i socruithe Vavoo ar dtús."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Próiseáil EPG críochnaithe (gan aon mheaitseáil)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Cuireadh próiseáil EPG i gcrích do {} chainéil"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Nuashonrú EPG críochnaithe"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Theip ar nuashonrú EPG"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "D'éirigh le nuashonrú EPG"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Cumasaigh Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Cumasaigh nó díchumasaigh seachfhreastalaí."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Cuir isteach téacs chun cuardach a dhéanamh..."
 
 msgid "Error"
-msgstr ""
+msgstr "Earráid"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Earráid agus an taisce á dheisiú: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Earráid agus sonraí á bparsáil"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Earráid agus nuashonrú EPG á thosú: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Earráid agus an cainéal á thosú"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Earráid: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Earráid: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Scoir"
 
 msgid "Export"
-msgstr ""
+msgstr "Easpórtáil"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Theip ar easpórtáil: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Thosaigh easpórtáil. Beidh bouquet ar fáil go luath."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Theip ar chomhartha seachfhreastalaí a athnuachan"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Theip ar an seachfhreastalaí a athnuachan:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Theip ar: %(theip)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Deisigh Taisce"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Formáid taisce á réiteach..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "An bhfuil fonn ort athnuachan seachfhreastalaí a dhéanamh?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Aimsíodh: {} cainéal"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Gin comhad .m3u le haghaidh:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Gin comhaid .m3u (Ok for Exec)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Gin comhaid .m3u agus sábháil ar ghléas %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Gin comhaid .m3u agus sábháil ar ghléas %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Gin comhaid .m3u do GACH tír %d?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Folaigh/Taispeáin"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Cé chomh minic is féidir an EPG a nuashonrú go huathoibríoch (tá sceidealóir EPGImport ag teastáil)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Nótaí Tábhachtacha:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Méadú má thógann seachfhreastalaí fada mar gheall ar VPN nó nasc mall."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Méarchlár"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Nuashonrú cainéal is déanaí: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Ceadúnas:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Ceadúnas: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Nasc sa Phríomh-Roghchlár"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Níos ísle = níos lú briseadh ach níos mó athnuachana"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Comhad M3U ginte go rathúil!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Giniúint M3U críochnaithe!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Earráid giniúna M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Cosúlacht íosta maidir le bealaí meaitseála (níos airde = níos déine)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Tagairt Seirbhísí Scannán"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Níor aimsíodh breiseán IMDb/TMDB"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Níor aimsíodh aon nasc Idirlín. Seiceáil do líonra le do thoil."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Níor aimsíodh aon chainéil"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Níor aimsíodh cainéil le haghaidh: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Níor aimsíodh aon chainéil sa chuardach!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Níl aon earraí ar fáil"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Níl eolas cláir ar fáil"
 
 msgid "No selection"
-msgstr ""
+msgstr "Gan rogha"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Níl aon chainéil bhailí le haghaidh: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Anois %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Tír ar leith amháin"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Bain triail as cainéal eile."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Seasamh bouquets Vavoo ar an liosta is mó"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Brúigh an cnaipe TEXT chun clóscríobh, BACKSPACE le scriosadh"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Seachfhreastalaí faoi Mhíchumas"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Seachfhreastalaí Cumasaithe"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Earráid Seachfhreastalaí:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Díchumasaíodh seachfhreastalaí"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Tá seachfhreastalaí díchumasaithe. Socraigh Seachfhreastalaí ar dtús. -- Cumraíocht Roghchláir --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Tá seachfhreastalaí díchumasaithe. Cumasaigh sa chumraíocht é le do thoil."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Níl seachfhreastalaí ag rith. Cuir tús leis an seachfhreastalaí ar dtús."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Níl an seachfhreastalaí gníomhach. Ní féidir an comhad M3U a ghiniúint."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Seachfhreastalaí gan freagairt tar éis"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Seachfhreastalaí á atosú... Fan le do thoil"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Teorainn ama tosaithe seachfhreastalaí (soicindí)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "D'éirigh le hathnuachan an tseachfhreastalaí"
 
 msgid "Ready"
-msgstr ""
+msgstr "Réidh"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Dún i ndáiríre gan socruithe a shábháil?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Molta: 5-8 nóiméad"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Sruth a athnuachan (nóiméid):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Athnuaigh sruth gach X nóiméad (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Athlódáil Bouqet"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Athlódáil bouquets agus liosta seirbhíse?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Bain"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Bain GACH bouquets Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Atosaigh"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Á atosú..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "ROGHNAIGH DO ROGHA"
 
 msgid "Save"
-msgstr ""
+msgstr "Sábháil"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Sábháilte i: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Sábháilte i: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Cineál sceidil:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Liosta Sceidealta:"
 
 msgid "Search"
-msgstr ""
+msgstr "Cuardach"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Cuardach Cainéil:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Cuardach..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Cuardach:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Roghnaigh Cúlra"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Roghnaigh mód easpórtála M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Roghnaigh tír chun M3U a easpórtáil:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Freastalaí don Imreoir Úsáidte"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Freastalaí le haghaidh imreoir."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Gach cainéal á thaispeáint: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Spás"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Tosaigh nuashonrú EPG anois?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Sruth dar críoch. An iomarca saincheisteanna ceangail."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Gnéithe Teicniúla:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Déanfaidh sé seo an comhartha fíordheimhnithe a athnuachan."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Bainfidh sé seo:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Déanfaidh sé seo:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Tá sé in am chun nuashonrú a thosú:"
 
 msgid "Top"
-msgstr ""
+msgstr "Barr"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Iomlán na gcainéal: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "UACHTARACH"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Eatramh nuashonraithe (uaireanta)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Eatramh nuashonraithe (nóiméid):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "EPG á nuashonrú..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Níl foinse Vavoo EPG cumasaithe in EPGImport. Cumasaigh é i socruithe EPGIimport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Foinse Vavoo EPG gan aimsiú. Easpórtáil bouquet amháin ar a laghad ar dtús."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo Sruth Beo"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Sruth Beo - Faisnéise"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Breiseán Beo Sruth Vavoo"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Baintear bouquets vavoo go rathúil!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Tá Vavoo ag rith cheana féin."
 
 msgid "Version:"
-msgstr ""
+msgstr "Leagan:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Ag feitheamh le seachfhreastalaí..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Fáilte go Vavoo Proxy le tacaíocht EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Is féidir leat é a thosú ón roghchlár nó trí an cnaipe TEXT a bhrú."
 
 msgid "fixed time"
-msgstr ""
+msgstr "am seasta"
 
 msgid "interval"
-msgstr ""
+msgstr "eatramh"
 
 msgid "lowercase"
-msgstr ""
+msgstr "cás íochtair"
 
 msgid "seconds"
-msgstr ""
+msgstr "soicind"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Seachfhreastalaí ({0}s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Seachfhreastalaí ceart go leor"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Atosaithe"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Earráid"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Earráid seachfhreastalaí"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Seachfhreastalaí in éag"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Seachfhreastalaí As Líne"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Theip ar an atosú"

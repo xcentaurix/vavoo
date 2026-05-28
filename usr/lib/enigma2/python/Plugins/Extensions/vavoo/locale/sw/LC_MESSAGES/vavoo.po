@@ -12,619 +12,619 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "! Proxy Expiring"
-msgstr ""
+msgstr "! Muda wa Wakala Unaisha"
 
 msgid "(%d channels)?"
-msgstr ""
+msgstr "(vituo %d)?"
 
 msgid "(%s files deleted)"
-msgstr ""
+msgstr "(faili %s zimefutwa)"
 
 msgid "- Add missing fields to all entries"
-msgstr ""
+msgstr "- Ongeza sehemu zinazokosekana kwa maingizo yote"
 
 msgid "- Auto token refresh every 9 minutes"
-msgstr ""
+msgstr "- Sasisha ishara otomatiki kila dakika 9"
 
 msgid "- Automatic Epg generation with Service Reference"
-msgstr ""
+msgstr "- Uzalishaji wa Epg otomatiki na Rejeleo la Huduma"
 
 msgid "- Automatic bouquet generation"
-msgstr ""
+msgstr "- Kizazi cha bouque kiotomatiki"
 
 msgid "- Category bouquets"
-msgstr ""
+msgstr "- Jamii bouquets"
 
 msgid "- Clean up the cache file"
-msgstr ""
+msgstr "- Safisha faili ya kache"
 
 msgid "- Commercial use is strictly prohibited"
-msgstr ""
+msgstr "- Matumizi ya kibiashara ni marufuku kabisa"
 
 msgid "- Community: Linuxsat-support.com, Corvoboys.org Forum"
-msgstr ""
+msgstr "- Jumuiya: Linuxsat-support.com, Corvoboys.org Forum"
 
 msgid "- Container bouquets"
-msgstr ""
+msgstr "- Bouquets ya chombo"
 
 msgid "- Country bouquets"
-msgstr ""
+msgstr "- Bouquets ya nchi"
 
 msgid "- Free content only"
-msgstr ""
+msgstr "- Maudhui ya bure pekee"
 
 msgid "- Graphics: @oktus"
-msgstr ""
+msgstr "- Michoro: @oktus"
 
 msgid "- HTTP Live Streaming"
-msgstr ""
+msgstr "- Utiririshaji wa moja kwa moja wa HTTP"
 
 msgid "- Integrated proxy system"
-msgstr ""
+msgstr "- Mfumo wa wakala uliojumuishwa"
 
 msgid "- No direct server hosting"
-msgstr ""
+msgstr "- Hakuna mwenyeji wa seva moja kwa moja"
 
 msgid "- Redistribution must maintain attribution"
-msgstr ""
+msgstr "- Ugawaji upya lazima udumishe sifa"
 
 msgid "- Remove duplicate entries"
-msgstr ""
+msgstr "- Ondoa nakala rudufu"
 
 msgid "- Service references: 4097, 5001, 5002"
-msgstr ""
+msgstr "- Marejeleo ya huduma: 4097, 5001, 5002"
 
 msgid "- Streams from public sources"
-msgstr ""
+msgstr "- Mito kutoka kwa vyanzo vya umma"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- miundo ya TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Usaidizi wa kiufundi: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
-msgstr ""
+msgstr "- {} nakala rudufu zimeondolewa"
 
 msgid "- {} entries updated"
-msgstr ""
+msgstr "- {} maingizo yalisasishwa"
 
 msgid "? Proxy Status"
-msgstr ""
+msgstr "? Hali ya Wakala"
 
 msgid "? Proxy Unknown"
-msgstr ""
+msgstr "? Wakala Haijulikani"
 
 msgid "Active Automatic Bouquet Update"
-msgstr ""
+msgstr "Sasisho la Bouque ya Kiotomatiki inayotumika"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Nchi zote (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
-msgstr ""
+msgstr "Uhamishaji wa nchi nyingine tayari unaendelea. Tafadhali subiri."
 
 msgid "At an interval hours or fixed time"
-msgstr ""
+msgstr "Kwa saa za muda au wakati uliowekwa"
 
 msgid "Author:"
-msgstr ""
+msgstr "Mwandishi:"
 
 msgid "Auto-update EPG"
-msgstr ""
+msgstr "Sasisha EPG kiotomatiki"
 
 msgid "Automatically trigger EPG update after source creation"
-msgstr ""
+msgstr "Anzisha sasisho la EPG kiotomatiki baada ya kuunda chanzo"
 
 msgid "Back"
-msgstr ""
+msgstr "Nyuma"
 
 msgid "Backspace"
 msgstr ""
 
 msgid "Bottom"
-msgstr ""
+msgstr "Chini"
 
 msgid "Bouquet Position in List"
-msgstr ""
+msgstr "Nafasi ya Bouquet katika Orodha"
 
 msgid "Bouquet creation error: {}"
-msgstr ""
+msgstr "Hitilafu ya kuunda shada: {}"
 
 msgid "Bouquet ready with {} channels"
-msgstr ""
+msgstr "Bouquet tayari kwa njia {}"
 
 msgid "Bouquets reload scheduled."
-msgstr ""
+msgstr "Upakiaji upya wa bouquets umepangwa."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Maua yamepangwa upya kwa mafanikio!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Badilisha | SAWA=Geuza | MAELEZO=IMDB | SIMAMA=Toka"
 
 msgid "Cache format fix completed:"
-msgstr ""
+msgstr "Urekebishaji wa umbizo la akiba umekamilika:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Akiba tayari iko katika umbizo sahihi. Hakuna mabadiliko yanayohitajika."
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ghairi"
 
 msgid "Cancel execution?"
-msgstr ""
+msgstr "Ungependa kughairi utekelezaji?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Kesi: {}"
 
 msgid "Channels"
-msgstr ""
+msgstr "Vituo"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "Vituo: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Inakagua proksi..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Futa Zote"
 
 msgid "Configuration saved successfully!"
-msgstr ""
+msgstr "Mipangilio imehifadhiwa!"
 
 msgid "Configure Main Background Image."
-msgstr ""
+msgstr "Sanidi Picha Kuu ya Mandharinyuma."
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "Sanidi kwa wakati uliowekwa"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Sanidi dakika za muda kutoka sasa"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Sanidi Marejeleo ya huduma Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
 msgstr ""
 
 msgid "Countries"
-msgstr ""
+msgstr "Nchi"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Nchi: %(zinazozalishwa)d/%(jumla)d"
 
 msgid "Country: %s"
-msgstr ""
+msgstr "Nchi: %s"
 
 msgid "Create EPG source for EPGImport with Vavoo program data"
-msgstr ""
+msgstr "Unda chanzo cha EPG cha EPGIMport ukitumia data ya mpango wa Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Mikopo:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Mwonekano Chaguomsingi"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Mwonekano chaguo-msingi wakati wa kufungua programu-jalizi"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Je, ungependa kusafirisha shada hili?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Je, ungependa kurekebisha umbizo la akiba?"
 
 msgid "EPG Similarity Threshold (%)"
-msgstr ""
+msgstr "Kiwango cha Kufanana cha EPG (%)"
 
 msgid "EPG is disabled. Please enable it in Vavoo settings first."
-msgstr ""
+msgstr "EPG imezimwa. Tafadhali iwashe katika mipangilio ya Vavoo kwanza."
 
 msgid "EPG processing completed (no matches)"
-msgstr ""
+msgstr "Uchakataji wa EPG umekamilika (hakuna mechi)"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "Uchakataji wa EPG umekamilika kwa vituo {}"
 
 msgid "EPG update completed"
-msgstr ""
+msgstr "Usasisho wa EPG umekamilika"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "Usasishaji wa EPG umeshindwa"
 
 msgid "EPG update started successfully"
-msgstr ""
+msgstr "Usasishaji wa EPG umeanza kwa mafanikio"
 
 msgid "Enable Vavoo EPG"
-msgstr ""
+msgstr "Washa Vavoo EPG"
 
 msgid "Enable or disable proxy."
-msgstr ""
+msgstr "Washa au zima proksi."
 
 msgid "Enter text to search..."
-msgstr ""
+msgstr "Weka maandishi ili kutafuta..."
 
 msgid "Error"
-msgstr ""
+msgstr "Hitilafu"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "Hitilafu ya kurekebisha akiba: {}"
 
 msgid "Error parsing data"
-msgstr ""
+msgstr "Hitilafu katika kuchanganua data"
 
 msgid "Error starting EPG update: {}"
-msgstr ""
+msgstr "Hitilafu katika kuanzisha sasisho la EPG: {}"
 
 msgid "Error starting channel"
-msgstr ""
+msgstr "Hitilafu ya kuanzisha kituo"
 
 msgid "Error: %s"
-msgstr ""
+msgstr "Hitilafu: %s"
 
 msgid "Error: {}"
-msgstr ""
+msgstr "Hitilafu: {}"
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "Export"
-msgstr ""
+msgstr "Hamisha"
 
 msgid "Export failed: {}"
-msgstr ""
+msgstr "Imeshindwa kutuma: {}"
 
 msgid "Export started. Bouquet will be available shortly."
-msgstr ""
+msgstr "Uhamishaji umeanza. Bouquet itapatikana hivi karibuni."
 
 msgid "Failed to refresh proxy token"
-msgstr ""
+msgstr "Imeshindwa kuonyesha upya tokeni ya seva mbadala"
 
 msgid "Failed to refresh proxy:"
-msgstr ""
+msgstr "Imeshindwa kuonyesha upya seva mbadala:"
 
 msgid "Failed: %(failed)d"
-msgstr ""
+msgstr "Imeshindwa: %(imeshindwa)d"
 
 msgid "Fix Cache"
-msgstr ""
+msgstr "Rekebisha Cache"
 
 msgid "Fixing cache format..."
-msgstr ""
+msgstr "Inarekebisha umbizo la akiba..."
 
 msgid "Force proxy refresh?"
-msgstr ""
+msgstr "Unataka kulazimisha kuonyesha upya seva mbadala?"
 
 msgid "Found: {} channels"
-msgstr ""
+msgstr "Imepatikana: vituo {}"
 
 msgid "Generate .m3u file for:"
-msgstr ""
+msgstr "Tengeneza faili ya .m3u ya:"
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "Tengeneza faili za .m3u (Sawa kwa Utekelezaji)"
 
 msgid "Generate .m3u files and save to device %s."
-msgstr ""
+msgstr "Tengeneza faili za .m3u na uhifadhi kwenye kifaa %s."
 
 msgid "Generate .m3u files and save to device %s?"
-msgstr ""
+msgstr "Je, ungependa kuzalisha faili za .m3u na uhifadhi kwenye kifaa %s?"
 
 msgid "Generate .m3u files for ALL %d countries?"
-msgstr ""
+msgstr "Je, ungependa kuzalisha faili za .m3u kwa nchi %d ZOTE?"
 
 msgid "Hide/Show"
-msgstr ""
+msgstr "Ficha/Onyesha"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Ni mara ngapi kusasisha EPG kiotomatiki (inahitaji kipanga ratiba cha EPGI)"
 
 msgid "Important Notes:"
-msgstr ""
+msgstr "Vidokezo Muhimu:"
 
 msgid "Increase if proxy takes long due to VPN or slow connection."
-msgstr ""
+msgstr "Ongeza ikiwa proksi inachukua muda mrefu kwa sababu ya VPN au muunganisho wa polepole."
 
 msgid "Keyboard"
-msgstr ""
+msgstr "Kibodi"
 
 msgid "Last channel update: %s"
-msgstr ""
+msgstr "Sasisho la mwisho la kituo: %s"
 
 msgid "License:"
-msgstr ""
+msgstr "Leseni:"
 
 msgid "License: CC BY-NC-SA 4.0"
-msgstr ""
+msgstr "Leseni: CC BY-NC-SA 4.0"
 
 msgid "Link in Main Menu"
-msgstr ""
+msgstr "Unganisha kwenye Menyu kuu"
 
 msgid "Lower = less interruption but more refreshes"
-msgstr ""
+msgstr "Chini = usumbufu kidogo lakini viburudisho zaidi"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "Faili ya M3U imezalishwa kwa ufanisi!"
 
 msgid "M3U generation completed!"
-msgstr ""
+msgstr "Kizazi cha M3U kimekamilika!"
 
 msgid "M3U generation error: %s"
-msgstr ""
+msgstr "Hitilafu ya kutengeneza M3U: %s"
 
 msgid "Minimum similarity for matching channels (higher = stricter)."
-msgstr ""
+msgstr "Kiwango cha chini cha kufanana kwa chaneli zinazolingana (juu = kali)."
 
 msgid "Movie Services Reference"
-msgstr ""
+msgstr "Rejea ya Huduma za Filamu"
 
 msgid "No IMDb/TMDB plugin found"
-msgstr ""
+msgstr "Hakuna programu-jalizi ya IMDb/TMDB iliyopatikana"
 
 msgid "No Internet connection detected. Please check your network."
-msgstr ""
+msgstr "Hakuna muunganisho wa Mtandao uliogunduliwa. Tafadhali angalia mtandao wako."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Hakuna vituo vilivyopatikana"
 
 msgid "No channels found for: %s"
-msgstr ""
+msgstr "Hakuna vituo vilivyopatikana vya: %s"
 
 msgid "No channels found in search!!!"
-msgstr ""
+msgstr "Hakuna vituo vilivyopatikana katika utafutaji!!!"
 
 msgid "No items available"
-msgstr ""
+msgstr "Hakuna vipengee vinavyopatikana"
 
 msgid "No programme info available"
-msgstr ""
+msgstr "Hakuna maelezo ya programu yanayopatikana"
 
 msgid "No selection"
-msgstr ""
+msgstr "Hakuna uteuzi"
 
 msgid "No valid channels for: %s"
-msgstr ""
+msgstr "Hakuna chaneli halali za: %s"
 
 msgid "Now %s"
-msgstr ""
+msgstr "Sasa %s"
 
 msgid "Only one specific country"
-msgstr ""
+msgstr "Nchi moja tu maalum"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Tafadhali jaribu kituo kingine."
 
 msgid "Position of Vavoo bouquets in the main list"
-msgstr ""
+msgstr "Nafasi ya bouquets ya Vavoo katika orodha kuu"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "Bonyeza kitufe cha TEXT kuandika, BACKSPACE ili kufuta"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Wakala Amezimwa"
 
 msgid "Proxy Enabled"
-msgstr ""
+msgstr "Proksi Imewashwa"
 
 msgid "Proxy Error:"
-msgstr ""
+msgstr "Hitilafu ya Wakala:"
 
 msgid "Proxy disabled"
-msgstr ""
+msgstr "Seva mbadala imezimwa"
 
 msgid "Proxy is disabled. Please Set Proxy On first. -- Menu Config --"
-msgstr ""
+msgstr "Seva mbadala imezimwa. Tafadhali Washa Wakala kwanza. -- Usanidi wa Menyu --"
 
 msgid "Proxy is disabled. Please enable it in the configuration."
-msgstr ""
+msgstr "Seva mbadala imezimwa. Tafadhali iwashe katika usanidi."
 
 msgid "Proxy is not running. Please start the proxy first."
-msgstr ""
+msgstr "Seva mbadala haifanyi kazi. Tafadhali anza seva mbadala kwanza."
 
 msgid "Proxy not active. Unable to generate M3U file."
-msgstr ""
+msgstr "Seva mbadala haitumiki. Haiwezi kutengeneza faili ya M3U."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Wakala hajibu baada ya"
 
 msgid "Proxy restarting... Please wait"
-msgstr ""
+msgstr "Seva inawasha tena... Tafadhali subiri"
 
 msgid "Proxy startup timeout (seconds)"
-msgstr ""
+msgstr "Muda wa kuanza kwa seva mbadala (sekunde)"
 
 msgid "Proxy token refreshed successfully"
-msgstr ""
+msgstr "Tokeni ya seva mbadala imeonyeshwa upya"
 
 msgid "Ready"
-msgstr ""
+msgstr "Tayari"
 
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Je, ungependa kufunga bila kuhifadhi mipangilio?"
 
 msgid "Recommended: 5-8 minutes"
-msgstr ""
+msgstr "Inapendekezwa: dakika 5-8"
 
 msgid "Refresh stream (minutes):"
-msgstr ""
+msgstr "Onyesha upya mtiririko (dakika):"
 
 msgid "Refresh stream every X minutes (1-15)"
-msgstr ""
+msgstr "Onyesha upya mtiririko kila dakika X (1-15)"
 
 msgid "Reload Bouqet"
-msgstr ""
+msgstr "Pakia upya Bouqet"
 
 msgid "Reload bouquets and service list?"
-msgstr ""
+msgstr "Pakia upya bouquets na orodha ya huduma?"
 
 msgid "Remove"
-msgstr ""
+msgstr "Ondoa"
 
 msgid "Remove ALL Vavoo bouquets?"
-msgstr ""
+msgstr "Ungependa kuondoa shada ZOTE za Vavoo?"
 
 msgid "Restart"
-msgstr ""
+msgstr "Anzisha upya"
 
 msgid "Restarting..."
-msgstr ""
+msgstr "Inaanza upya..."
 
 msgid "SELECT YOUR CHOICE"
-msgstr ""
+msgstr "CHAGUA UCHAGUZI WAKO"
 
 msgid "Save"
-msgstr ""
+msgstr "Hifadhi"
 
 msgid "Saved in: %(path)s"
-msgstr ""
+msgstr "Imehifadhiwa katika: %(path)s"
 
 msgid "Saved in: %s"
-msgstr ""
+msgstr "Imehifadhiwa katika: %s"
 
 msgid "Schedule type:"
-msgstr ""
+msgstr "Aina ya ratiba:"
 
 msgid "Scheduled List:"
-msgstr ""
+msgstr "Orodha Iliyoratibiwa:"
 
 msgid "Search"
-msgstr ""
+msgstr "Tafuta"
 
 msgid "Search Channels:"
-msgstr ""
+msgstr "Tafuta Vituo:"
 
 msgid "Search..."
-msgstr ""
+msgstr "Tafuta..."
 
 msgid "Search:"
-msgstr ""
+msgstr "Tafuta:"
 
 msgid "Select Background"
-msgstr ""
+msgstr "Chagua Mandharinyuma"
 
 msgid "Select M3U export mode:"
-msgstr ""
+msgstr "Chagua hali ya uhamishaji ya M3U:"
 
 msgid "Select country to export M3U:"
-msgstr ""
+msgstr "Chagua nchi ya kuhamisha M3U:"
 
 msgid "Server for Player Used"
-msgstr ""
+msgstr "Seva ya Mchezaji Inayotumika"
 
 msgid "Server for player."
-msgstr ""
+msgstr "Seva kwa mchezaji."
 
 msgid "Showing all channels: {}"
-msgstr ""
+msgstr "Inaonyesha vituo vyote: {}"
 
 msgid "Space"
-msgstr ""
+msgstr "Nafasi"
 
 msgid "Start EPG update now?"
-msgstr ""
+msgstr "Ungependa kuanza kusasisha EPG sasa?"
 
 msgid "Stream ended. Too many connection issues."
-msgstr ""
+msgstr "Mtiririko umeisha. Matatizo mengi sana ya muunganisho."
 
 msgid "Technical Features:"
-msgstr ""
+msgstr "Vipengele vya Kiufundi:"
 
 msgid "This will refresh the authentication token."
-msgstr ""
+msgstr "Hii itaonyesha upya tokeni ya uthibitishaji."
 
 msgid "This will remove:"
-msgstr ""
+msgstr "Hii itaondoa:"
 
 msgid "This will:"
-msgstr ""
+msgstr "Hii itakuwa:"
 
 msgid "Time to start update:"
-msgstr ""
+msgstr "Wakati wa kuanza sasisho:"
 
 msgid "Top"
-msgstr ""
+msgstr "Juu"
 
 msgid "Total channels: %(total_channels)d"
-msgstr ""
+msgstr "Jumla ya vituo: %(total_channels)d"
 
 msgid "UPPERCASE"
-msgstr ""
+msgstr "KUBWA"
 
 msgid "Update interval (hours)"
-msgstr ""
+msgstr "Sasisha muda (saa)"
 
 msgid "Update interval (minutes):"
-msgstr ""
+msgstr "Sasisha muda (dakika):"
 
 msgid "Updating EPG..."
-msgstr ""
+msgstr "Inasasisha EPG..."
 
 msgid "Vavoo EPG source is not enabled in EPGImport. Please enable it in EPGImport settings."
-msgstr ""
+msgstr "Chanzo cha Vavoo EPG hakijawezeshwa katika EPGIMport. Tafadhali iwashe katika mipangilio ya EPGIMport."
 
 msgid "Vavoo EPG source not found. Please export at least one bouquet first."
-msgstr ""
+msgstr "Chanzo cha Vavoo EPG hakijapatikana. Tafadhali hamisha angalau shada moja kwanza."
 
 msgid "Vavoo Stream Live"
-msgstr ""
+msgstr "Vavoo Tiririsha Moja kwa Moja"
 
 msgid "Vavoo Stream Live - Information"
-msgstr ""
+msgstr "Vavoo Tiririsha Moja kwa Moja - Taarifa"
 
 msgid "Vavoo Stream Live Plugin"
-msgstr ""
+msgstr "Programu-jalizi ya Vavoo Tiririsha Moja kwa Moja"
 
 msgid "Vavoo bouquets removed successfully!"
-msgstr ""
+msgstr "Bouquets za Vavoo zimeondolewa kwa mafanikio!"
 
 msgid "Vavoo is already running."
-msgstr ""
+msgstr "Vavoo tayari inaendeshwa."
 
 msgid "Version:"
-msgstr ""
+msgstr "Toleo:"
 
 msgid "Waiting for proxy..."
-msgstr ""
+msgstr "Inasubiri proksi..."
 
 msgid "Welcome to Vavoo Proxy with EPG support"
-msgstr ""
+msgstr "Karibu kwa Wakala wa Vavoo kwa usaidizi wa EPG"
 
 msgid "You can start it from the menu or by pressing the TEXT button."
-msgstr ""
+msgstr "Unaweza kuianzisha kutoka kwa menyu au kwa kubonyeza kitufe cha TEXT."
 
 msgid "fixed time"
-msgstr ""
+msgstr "muda uliowekwa"
 
 msgid "interval"
-msgstr ""
+msgstr "muda"
 
 msgid "lowercase"
-msgstr ""
+msgstr "herufi ndogo"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekunde"
 
 msgid "✓ Proxy ({0}s)"
-msgstr ""
+msgstr "✓ Wakala ({0}s)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Wakala sawa"
 
 msgid "✓ Restarted"
-msgstr ""
+msgstr "✓ Imeanzishwa upya"
 
 msgid "✗ Error"
-msgstr ""
+msgstr "✗ Hitilafu"
 
 msgid "✗ Proxy Error"
-msgstr ""
+msgstr "✗ Hitilafu ya Wakala"
 
 msgid "✗ Proxy Expired"
-msgstr ""
+msgstr "✗ Wakala Umeisha Muda"
 
 msgid "✗ Proxy Offline"
-msgstr ""
+msgstr "✗ Wakala Nje ya Mtandao"
 
 msgid "✗ Restart Failed"
-msgstr ""
+msgstr "✗ Imeshindwa Kuanzisha upya"
