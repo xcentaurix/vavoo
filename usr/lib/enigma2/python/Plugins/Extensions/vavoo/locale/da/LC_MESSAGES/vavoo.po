@@ -346,7 +346,7 @@ msgid "Lower = less interruption but more refreshes"
 msgstr "Lavere = mindre afbrydelse, men mere genopfrisker"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U-fil blev genereret med succes!"
 
 msgid "M3U generation completed!"
 msgstr "M3U generation færdig!"

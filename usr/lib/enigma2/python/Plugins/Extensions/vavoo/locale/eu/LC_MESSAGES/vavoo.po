@@ -108,7 +108,7 @@ msgid "At an interval hours or fixed time"
 msgstr "Ordu tarte batean edo ordu finko batean"
 
 msgid "Author:"
-msgstr ""
+msgstr "Egilea:"
 
 msgid "Auto-update EPG"
 msgstr "EPG automatikoki eguneratu"
@@ -138,16 +138,16 @@ msgid "Bouquets reload scheduled."
 msgstr "Sortak birkargatu dira."
 
 msgid "Bouquets reorganized successfully!"
-msgstr ""
+msgstr "Sortak ongi berrantolatu dira!"
 
 msgid "CH±=Change | OK=Toggle | INFO=IMDb | STOP=Exit"
-msgstr ""
+msgstr "CH±=Aldatu | Ados=Aktibatu | INFO=IMDb | STOP=Irten"
 
 msgid "Cache format fix completed:"
 msgstr "Cache formatuaren konponketa osatu da:"
 
 msgid "Cache is already in correct format. No changes needed."
-msgstr ""
+msgstr "Cachea formatu egokian dago jada. Ez da aldaketarik behar."
 
 msgid "Cancel"
 msgstr "Utzi"
@@ -156,7 +156,7 @@ msgid "Cancel execution?"
 msgstr "Exekuzioa bertan behera utzi?"
 
 msgid "Case: {}"
-msgstr ""
+msgstr "Kasua: {}"
 
 msgid "Channels"
 msgstr "Kanalak"
@@ -165,10 +165,10 @@ msgid "Channels: %d"
 msgstr "Kanalak: %d"
 
 msgid "Checking proxy..."
-msgstr ""
+msgstr "Proxya egiaztatzen..."
 
 msgid "Clear All"
-msgstr ""
+msgstr "Garbitu guztiak"
 
 msgid "Configuration saved successfully!"
 msgstr "Konfigurazioa behar bezala gorde da!"
@@ -180,10 +180,10 @@ msgid "Configure at a fixed time"
 msgstr "Konfiguratu ordutegi finko batean"
 
 msgid "Configure interval minutes from now"
-msgstr ""
+msgstr "Konfiguratu hemendik minutuko tartea"
 
 msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
-msgstr ""
+msgstr "Konfiguratu zerbitzua Erreferentzia Iptv-Gstreamer-Exteplayer3"
 
 msgid "Console"
 msgstr "Kontsola"
@@ -192,7 +192,7 @@ msgid "Countries"
 msgstr "Herrialdeak"
 
 msgid "Countries: %(generated)d/%(total)d"
-msgstr ""
+msgstr "Herrialdeak: %(sortutako)d/%(guztira)d"
 
 msgid "Country: %s"
 msgstr "Herrialdea: %s"
@@ -201,19 +201,19 @@ msgid "Create EPG source for EPGImport with Vavoo program data"
 msgstr "Sortu EPG iturburua EPGImport-erako Vavoo programaren datuekin"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Kredituak:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Ikuspegi lehenetsia"
 
 msgid "Default view when opening the plugin"
-msgstr ""
+msgstr "Ikuspegi lehenetsia plugina irekitzean"
 
 msgid "Do you want to export this bouquet?"
-msgstr ""
+msgstr "Sorta hau esportatu nahi duzu?"
 
 msgid "Do you want to fix the cache format?"
-msgstr ""
+msgstr "Cache formatua konpondu nahi duzu?"
 
 msgid "EPG Similarity Threshold (%)"
 msgstr "EPG antzekotasun atalasea (%)"
@@ -231,7 +231,7 @@ msgid "EPG update completed"
 msgstr "EPG eguneratzea osatu da"
 
 msgid "EPG update failed"
-msgstr ""
+msgstr "EPG eguneratzeak huts egin du"
 
 msgid "EPG update started successfully"
 msgstr "EPG eguneratzea behar bezala hasi da"
@@ -366,7 +366,7 @@ msgid "No Internet connection detected. Please check your network."
 msgstr "Ez da Interneteko konexiorik hauteman. Mesedez, egiaztatu zure sarea."
 
 msgid "No channels found"
-msgstr ""
+msgstr "Ez da kanalik aurkitu"
 
 msgid "No channels found for: %s"
 msgstr "Ez da kanalik aurkitu: %s"

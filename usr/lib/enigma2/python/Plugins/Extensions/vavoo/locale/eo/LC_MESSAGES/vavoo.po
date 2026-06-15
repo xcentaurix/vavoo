@@ -427,7 +427,7 @@ msgid "Proxy not active. Unable to generate M3U file."
 msgstr "Prokurilo ne aktiva. Ne eblas generi M3U-dosieron."
 
 msgid "Proxy not responding after"
-msgstr ""
+msgstr "Prokurilo ne respondas poste"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Prokurilo rekomenciĝas... Bonvolu atendi"

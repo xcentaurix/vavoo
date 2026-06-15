@@ -78,10 +78,10 @@ msgid "- Streams from public sources"
 msgstr "- Ҷараёнҳо аз манбаъҳои ҷамъиятӣ"
 
 msgid "- TS/M3U8 formats"
-msgstr ""
+msgstr "- Форматҳои TS/M3U8"
 
 msgid "- Technical support: Qu4k3, @KiddaC, @giorbak"
-msgstr ""
+msgstr "- Дастгирии техникӣ: Qu4k3, @KiddaC, @giorbak"
 
 msgid "- {} duplicate entries removed"
 msgstr "- {} сабтҳои такрорӣ хориҷ карда шуданд"

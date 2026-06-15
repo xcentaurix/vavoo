@@ -610,7 +610,7 @@ msgid "✓ Proxy ({0}s)"
 msgstr "✓ Proxy ({0}er)"
 
 msgid "✓ Proxy OK"
-msgstr ""
+msgstr "✓ Fullmakt OK"
 
 msgid "✓ Restarted"
 msgstr "✓ Startet på nytt"

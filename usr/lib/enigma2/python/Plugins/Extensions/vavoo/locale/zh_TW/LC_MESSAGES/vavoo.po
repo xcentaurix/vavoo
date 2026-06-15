@@ -177,7 +177,7 @@ msgid "Configure Main Background Image."
 msgstr "配置主背景影像。"
 
 msgid "Configure at a fixed time"
-msgstr ""
+msgstr "固定時間配置"
 
 msgid "Configure interval minutes from now"
 msgstr "從現在開始配置間隔分鐘數"
@@ -225,7 +225,7 @@ msgid "EPG processing completed (no matches)"
 msgstr "EPG 處理完成（無匹配項）"
 
 msgid "EPG processing completed for {} channels"
-msgstr ""
+msgstr "{} 個頻道的 EPG 處理已完成"
 
 msgid "EPG update completed"
 msgstr "EPG更新完成"
@@ -249,7 +249,7 @@ msgid "Error"
 msgstr "錯誤"
 
 msgid "Error fixing cache: {}"
-msgstr ""
+msgstr "修復快取時出錯：{}"
 
 msgid "Error parsing data"
 msgstr "解析資料時發生錯誤"
@@ -303,7 +303,7 @@ msgid "Generate .m3u file for:"
 msgstr "產生 .m3u 檔："
 
 msgid "Generate .m3u files (Ok for Exec)"
-msgstr ""
+msgstr "產生 .m3u 檔案（適用於 Exec）"
 
 msgid "Generate .m3u files and save to device %s."
 msgstr "產生 .m3u 檔案並儲存到裝置 %s。"
@@ -345,7 +345,7 @@ msgid "Lower = less interruption but more refreshes"
 msgstr "較低=中斷較少但刷新較多"
 
 msgid "M3U file generated successfully!"
-msgstr ""
+msgstr "M3U檔案生成成功！"
 
 msgid "M3U generation completed!"
 msgstr "M3U一代完成！"
@@ -513,7 +513,7 @@ msgid "Server for Player Used"
 msgstr "玩家使用的伺服器"
 
 msgid "Server for player."
-msgstr ""
+msgstr "玩家的伺服器。"
 
 msgid "Showing all channels: {}"
 msgstr "顯示所有頻道：{}"

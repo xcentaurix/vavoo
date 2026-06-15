@@ -99,7 +99,7 @@ msgid "Active Automatic Bouquet Update"
 msgstr "Aktibong Awtomatikong Bouquet Update"
 
 msgid "All countries (%d)"
-msgstr ""
+msgstr "Lahat ng bansa (%d)"
 
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Ang pag-export para sa ibang bansa ay isinasagawa na. Mangyaring maghintay."
@@ -201,10 +201,10 @@ msgid "Create EPG source for EPGImport with Vavoo program data"
 msgstr "Gumawa ng EPG source para sa EPGImport gamit ang data ng programa ng Vavoo"
 
 msgid "Credits:"
-msgstr ""
+msgstr "Mga kredito:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Default na View"
 
 msgid "Default view when opening the plugin"
 msgstr "Default na view kapag binubuksan ang plugin"

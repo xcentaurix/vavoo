@@ -205,7 +205,7 @@ msgid "Credits:"
 msgstr "Credite:"
 
 msgid "Default View"
-msgstr ""
+msgstr "Vizualizare implicită"
 
 msgid "Default view when opening the plugin"
 msgstr "Vizualizare implicită la deschiderea pluginului"

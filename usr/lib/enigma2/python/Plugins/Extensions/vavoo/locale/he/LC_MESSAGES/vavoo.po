@@ -400,7 +400,7 @@ msgid "Position of Vavoo bouquets in the main list"
 msgstr "מיקום זרי Vavoo ברשימה הראשית"
 
 msgid "Press TEXT button to type, BACKSPACE to delete"
-msgstr ""
+msgstr "לחץ על לחצן TEXT כדי להקליד, BACKSPACE כדי למחוק"
 
 msgid "Proxy Disabled"
 msgstr "פרוקסי מושבת"

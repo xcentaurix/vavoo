@@ -403,7 +403,7 @@ msgid "Press TEXT button to type, BACKSPACE to delete"
 msgstr "Tryck på TEXT-knappen för att skriva, BACKSTEG för att radera"
 
 msgid "Proxy Disabled"
-msgstr ""
+msgstr "Proxy inaktiverad"
 
 msgid "Proxy Enabled"
 msgstr "Proxy aktiverad"

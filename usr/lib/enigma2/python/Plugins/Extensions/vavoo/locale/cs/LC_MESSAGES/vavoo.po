@@ -410,7 +410,7 @@ msgid "Only one specific country"
 msgstr "Pouze jedna konkrétní země"
 
 msgid "Please try another channel."
-msgstr ""
+msgstr "Zkuste prosím jiný kanál."
 
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Pozice kytic Vavoo v hlavním seznamu"

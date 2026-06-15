@@ -318,7 +318,7 @@ msgid "Hide/Show"
 msgstr "Ferbergje / sjen litte"
 
 msgid "How often to auto-update the EPG (requires EPGImport scheduler)"
-msgstr ""
+msgstr "Hoe faak de EPG automatysk bywurkje (fereasket EPGImport-skemader)"
 
 msgid "Important Notes:"
 msgstr "Wichtige notysjes:"

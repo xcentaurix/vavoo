@@ -163,7 +163,7 @@ msgid "Channels"
 msgstr "チャンネル"
 
 msgid "Channels: %d"
-msgstr ""
+msgstr "チャンネル: %d"
 
 msgid "Checking proxy..."
 msgstr "プロキシを確認しています..."
