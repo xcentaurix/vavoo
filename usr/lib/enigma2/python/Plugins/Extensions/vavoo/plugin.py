@@ -1244,7 +1244,9 @@ class vavoo_config(Screen, ConfigListScreen):
             return False
 
         except Exception as e:
-            print("[M3U Export][check_and_start_proxy] Proxy error: %s" % str(e))
+            print(
+                "[M3U Export][check_and_start_proxy] Proxy error: %s" %
+                str(e))
             return False
 
     def get_countries_from_proxy(self):
@@ -1986,7 +1988,9 @@ class MainVavoo(Screen):
             self._update_proxy_status_display()
             # self.update_proxy_status_display()
         except Exception as e:
-            print("[MainVavoo][_check_and_update_proxy_status] Error in proxy monitor: " + str(e))
+            print(
+                "[MainVavoo][_check_and_update_proxy_status] Error in proxy monitor: " +
+                str(e))
             self['proxy_status'].setText(_("✗ Proxy Error"))
 
     def update_proxy_status(self):

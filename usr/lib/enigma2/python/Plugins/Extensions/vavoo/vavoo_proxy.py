@@ -1298,7 +1298,8 @@ class VavooHTTPHandler(BaseHTTPRequestHandler):
             else:
                 self.send_response(code)
         except (BrokenPipeError, ConnectionResetError):
-            print("[DEBUG][VAVOO_PROXY][safe_send_response] Client disconnected during response - ignoring")
+            print(
+                "[DEBUG][VAVOO_PROXY][safe_send_response] Client disconnected during response - ignoring")
             return False
         return True
 
@@ -1341,7 +1342,9 @@ class VavooHTTPHandler(BaseHTTPRequestHandler):
                         channel_id)
 
                 except Exception as e:
-                    print("[DEBUG][VAVOO_PROXY][do_GET] Error in /vavoo handler: " + str(e))
+                    print(
+                        "[DEBUG][VAVOO_PROXY][do_GET] Error in /vavoo handler: " +
+                        str(e))
                     self.send_error(500, "Internal proxy error")
 
             elif parsed_path.path == '/stream':
