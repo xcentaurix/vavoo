@@ -1,15 +1,46 @@
 <h1 align="center">🎬 Vavoo Stream Live</h1>
 
-[![Version](https://img.shields.io/badge/Version-1.73-blue.svg)](https://github.com/Belfagor2005/vavoo)
-[![Enigma2](https://img.shields.io/badge/Enigma2-Plugin-ff6600.svg)](https://www.enigma2.net)
-[![Python](https://img.shields.io/badge/Python-2.7%2F3.x-yellow.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Python package](https://github.com/Belfagor2005/vavoo/actions/workflows/pylint.yml/badge.svg)](https://github.com/Belfagor2005/vavoo/actions/workflows/pylint.yml)
-[![Ruff Status](https://github.com/Belfagor2005/vavoo/actions/workflows/ruff.yml/badge.svg)](https://github.com/Belfagor2005/vavoo/actions/workflows/ruff.yml)
+<p align="center">
+  <a href="https://github.com/Belfagor2005/vavoo">
+    <img src="https://img.shields.io/badge/Version-1.73-blue.svg" alt="Version">
+  </a>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)](https://github.com/Belfagor2005)
-[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://ko-fi.com/lululla)
-[![Donate](https://img.shields.io/badge/_-Donate-green.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://paypal.me/belfagor2005)
+  <a href="https://www.enigma2.net">
+    <img src="https://img.shields.io/badge/Enigma2-Plugin-ff6600.svg" alt="Enigma2">
+  </a>
+
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-2.7%2F3.x-yellow.svg" alt="Python">
+  </a>
+
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg" alt="License">
+  </a>
+
+  <a href="https://github.com/Belfagor2005/vavoo/actions/workflows/pylint.yml">
+    <img src="https://github.com/Belfagor2005/vavoo/actions/workflows/pylint.yml/badge.svg" alt="Pylint">
+  </a>
+
+  <a href="https://github.com/Belfagor2005/vavoo/actions/workflows/ruff.yml">
+    <img src="https://github.com/Belfagor2005/vavoo/actions/workflows/ruff.yml/badge.svg" alt="Ruff Status">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Belfagor2005">
+    <img src="https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet" alt="Visitors">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/lululla">
+    <img src="https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="Ko-fi">
+  </a>
+
+  <a href="https://paypal.me/belfagor2005">
+    <img src="https://img.shields.io/badge/_-Donate-green.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="PayPal">
+  </a>
+</p>
 
 ## 📌 Overview
 Vavoo Stream Live Plugin is an Enigma2 extension that provides access to thousands of live TV channels from multiple countries. It features a built-in local proxy for improved reliability, automatic bouquet updates, EPG integration, real-time notifications, satellite priority matching, and seamless integration with your Enigma2 receiver.
