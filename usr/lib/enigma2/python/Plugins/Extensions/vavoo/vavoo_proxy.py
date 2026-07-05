@@ -436,7 +436,7 @@ TOKEN_ADDON_SIG = 600  # 10 minutes - TOKEN EXPIRES EVERY 10 MINUTES!
 TOKEN_REFRESH_AGE = 480
 GEOIP_URL = "https://www.vavoo.tv/geoip"
 PING_URL = "https://www.vavoo.tv/api/app/ping"
-PING_URL2 = "https://www.lokke.app/api/app/ping"
+PING_URL2 = "https://www.vypn.net/api/app/ping"
 PID_FILE = "/tmp/vavoo_proxy.pid"
 BOOTING_FILE = "/tmp/vavoo_proxy_booting"
 
@@ -907,8 +907,7 @@ class VavooProxy:
                     "Accept-Language": self.current_language,
                 }
 
-                # Usa PING_URL2 (vavoo.tv) prima, poi lokke.app
-                # PING_URL2 = vavoo.tv, PING_URL = lokke.app
+                # Try PING_URL (vavoo.tv) first, then PING_URL2 (vypn.net)
                 urls = [PING_URL, PING_URL2]
                 sig = None
                 for url in urls:
