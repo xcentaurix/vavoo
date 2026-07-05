@@ -1479,9 +1479,9 @@ class startVavoo(Screen):
         (86, "EPG sync ready ..."),
         (100, "Proxy online  \u2713"),
     ]
-    TOTAL_MS = 2400   # total animation duration in ms
+    TOTAL_MS = 1200   # total animation duration in ms
     TICK_MS = 30     # timer interval in ms
-    HOLD_MS = 700    # pause at 100 % before closing
+    HOLD_MS = 250    # pause at 100 % before closing
 
     def __init__(self, session):
 
@@ -2185,13 +2185,17 @@ class MainVavoo(Screen):
         self.cat_list = []
         self.items_tmp = []
 
-        # If proxy is not ready yet, schedule a retry after 1 second
+        # If proxy is not ready yet, schedule a quick retry
         if not is_proxy_ready(timeout=0.5):
-            print("[MainVavoo] Proxy not ready, will retry in 1s")
+            print("[MainVavoo] Proxy not ready, will retry shortly")
             if not hasattr(self, '_country_retry_timer'):
                 self._country_retry_timer = eTimer()
-                self._country_retry_timer.callback.append(self.cat)
-            self._country_retry_timer.start(1000, True)
+                try:
+                    self._country_retry_timer.callback.append(self.cat)
+                except Exception:
+                    # Fallback in case the callback attribute does not exist
+                    self._country_retry_timer.timeout.connect(self.cat)
+            self._country_retry_timer.start(500, True)
             return
 
         try:

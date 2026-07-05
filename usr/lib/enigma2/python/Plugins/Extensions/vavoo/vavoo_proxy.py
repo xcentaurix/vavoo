@@ -459,9 +459,32 @@ HEADERS = {
 }
 
 
+# Ceiling on how long a "booting" marker is trusted. A crash, power loss,
+# or plugin/box restart during boot can leave this file behind forever;
+# without a staleness check every later start would think a boot is
+# permanently in progress. Kept well above a normal catalog load (usually
+# well under a minute) so it never interferes with a real, slow boot.
+MAX_BOOT_AGE = 180
+
+
 def is_proxy_booting():
-    """Check if another proxy instance is currently starting up."""
-    return os.path.exists(BOOTING_FILE)
+    """Check if another proxy instance is currently starting up.
+
+    Treats the marker as stale (and removes it) if it is older than
+    MAX_BOOT_AGE seconds, so a leftover file from a crashed process can't
+    make every future start think a boot is still running.
+    """
+    if not os.path.exists(BOOTING_FILE):
+        return False
+    try:
+        age = time.time() - os.path.getmtime(BOOTING_FILE)
+    except OSError:
+        return False
+    if age > MAX_BOOT_AGE:
+        print("[PROXY] Stale booting marker ({}s old), removing".format(int(age)))
+        remove_booting_file()
+        return False
+    return True
 
 
 def write_booting_file():
@@ -1876,17 +1899,23 @@ def run_proxy_in_background(startup_timeout=30):
 
     global _starting
 
-    # Wait for another booting instance up to startup_timeout seconds
+    # Wait (briefly) for another booting instance. This can run on the
+    # caller's own thread - including the Enigma2 UI/reactor thread in some
+    # call paths - so it is deliberately capped well below startup_timeout
+    # (which may be configured up to 300s) to avoid freezing the UI.
+    # Callers already poll for actual readiness asynchronously afterwards.
     if is_proxy_booting():
+        wait_seconds = min(startup_timeout, 10)
         print("[Proxy] Another proxy is booting, waiting up to {} seconds...".format(
-            startup_timeout))
-        max_attempts = startup_timeout * 2
+            wait_seconds))
+        max_attempts = int(wait_seconds * 2)
         for attempt in range(max_attempts):
             if not is_proxy_booting() and is_proxy_port_listening():
                 print("[Proxy] Proxy boot completed, instance is running")
                 return True
             select.select([], [], [], 0.5)
-        print("[Proxy] Boot still present after timeout, attempting start anyway")
+        print("[Proxy] Boot still in progress after short wait, returning (caller will poll readiness)")
+        return True
 
     # Final check: if already active and listening, exit
     if is_proxy_running() and is_proxy_port_listening():

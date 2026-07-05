@@ -1093,12 +1093,22 @@ def getserviceinfo(service_ref):
 # FLAG DOWNLOAD FUNCTIONS
 # ============================================================================
 def initialize_cache_with_local_flags():
-    """Copy all local flags from skin/cowntry/ to cache directory"""
+    """Copy all local flags from skin/cowntry/ to cache directory.
+
+    Skips the copy if a previous run in this boot session already
+    populated the (tmpfs) cache dir, since FLAG_CACHE_DIR contents only
+    disappear on reboot and the source files never change without one.
+    """
     local_dir = join(PLUGIN_PATH, 'skin/cowntry')
     cache_dir = FLAG_CACHE_DIR
 
     if not exists(local_dir):
         print("Local flags directory not found: %s" % local_dir)
+        return 0
+
+    marker = join(cache_dir, '.flags_initialized')
+    if exists(marker):
+        print("Flag cache already initialized, skipping copy")
         return 0
 
     # Python 2 compatible directory creation
@@ -1128,6 +1138,11 @@ def initialize_cache_with_local_flags():
                 print("Error copying %s: %s" % (filename, e))
 
     print("Initialized cache with %d local flags" % copied)
+    try:
+        with open(marker, 'wb') as f:
+            f.write(b'1')
+    except Exception:
+        pass
     return copied
 
 
