@@ -29,7 +29,7 @@ STATS_SERVER_URL = "https://script.google.com/macros/s/AKfycbz2xuo6WrL9JpVK_YMKD
 SESSION_ID_FILE = "/tmp/vavoo_session_id"
 STATS_DISABLE_FILE = "/etc/enigma2/disable_vavoo_stats"
 
-_HTTP_TIMEOUT = 8
+_HTTP_TIMEOUT = 20
 
 
 def _http_post(url, payload):
@@ -170,7 +170,7 @@ class AnonymousStats:
             "date": time.strftime("%Y-%m-%d %H:%M:%S")
         }
         print("[Stats] Sending heartbeat...")
-        # _http_post blocks for up to _HTTP_TIMEOUT (8s) on a slow/unreachable
+        # _http_post blocks for up to _HTTP_TIMEOUT on a slow/unreachable
         # server. The first call runs synchronously from start_heartbeat()
         # (called from MainVavoo.__init__ on the UI/reactor thread), and
         # later calls run from this same eTimer callback every 5 minutes -
