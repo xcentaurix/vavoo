@@ -1004,7 +1004,10 @@ def ReloadBouquets(delay=500):
             pass
         # Fallback: eTimer
         timer = eTimer()
-        timer.callback.append(do_reload)
+        try:
+            timer.callback.append(do_reload)
+        except AttributeError:
+            timer.timeout.connect(do_reload)
         timer.start(delay, True)
     else:
         # Background thread: safe to sleep
