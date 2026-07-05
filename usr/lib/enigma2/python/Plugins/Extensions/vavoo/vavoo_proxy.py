@@ -437,13 +437,13 @@ TOKEN_REFRESH_AGE = 480
 GEOIP_URL = "https://www.vavoo.tv/geoip"
 PING_URL = "https://www.vavoo.tv/api/app/ping"
 PING_URL2 = "https://www.vypn.net/api/app/ping"
-# Real VYPN app identity (from APK metadata: package net.vypn.app,
-# versionName 1.4.1, versionCode 100830000). The APK signing certificate
-# hash used below is still the old app.lokke.main one - it wasn't
-# available - so the signature check server-side may still fail.
+# Real VYPN app identity, pulled from its APK: package net.vypn.app,
+# versionName 1.4.1, versionCode 100830000, and the APK signing
+# certificate's SHA-256 fingerprint (StampCertSha256, hex-encoded).
 VYPN_PACKAGE = "net.vypn.app"
 VYPN_VERSION = "1.4.1"
 VYPN_VERSION_CODE = "100830000"
+VYPN_CERT_SHA256 = "3257d599a49d2c961a471ca9843f59d341a405884583fc087df4237b733bbd6d"
 PID_FILE = "/tmp/vavoo_proxy.pid"
 BOOTING_FILE = "/tmp/vavoo_proxy_booting"
 
@@ -875,7 +875,7 @@ class VavooProxy:
                             "version": VYPN_VERSION,
                             "buildId": VYPN_VERSION_CODE,
                             "engine": "hbc85",
-                            "signatures": ["6e8a975e3cbf07d5de823a760d4c2547f86c1403105020adee5de67ac510999e"],
+                            "signatures": [VYPN_CERT_SHA256],
                             "installer": "com.android.vending"},
                         "version": {
                             "package": VYPN_PACKAGE,
