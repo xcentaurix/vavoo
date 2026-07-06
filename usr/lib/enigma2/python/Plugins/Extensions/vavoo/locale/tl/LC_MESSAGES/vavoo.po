@@ -188,6 +188,9 @@ msgstr "I-configure ang Reference ng serbisyo Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr ""
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Nagpapatuloy, nagsi-sync pa rin ang proxy..."
+
 msgid "Countries"
 msgstr "Mga bansa"
 
@@ -427,6 +430,9 @@ msgstr "Hindi aktibo ang proxy. Hindi makabuo ng M3U file."
 
 msgid "Proxy not responding after"
 msgstr "Hindi tumugon ang proxy pagkatapos"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy online - {} mga channel ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Nagre-restart ang proxy... Mangyaring maghintay"

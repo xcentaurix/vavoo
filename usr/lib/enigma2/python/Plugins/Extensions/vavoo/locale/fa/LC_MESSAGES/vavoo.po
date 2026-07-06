@@ -188,6 +188,9 @@ msgstr "پیکربندی سرویس مرجع Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "کنسول"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "در حال ادامه، پراکسی همچنان در حال همگام سازی است..."
+
 msgid "Countries"
 msgstr "کشورها"
 
@@ -427,6 +430,9 @@ msgstr "پروکسی فعال نیست امکان تولید فایل M3U وجو
 
 msgid "Proxy not responding after"
 msgstr "پراکسی بعد از پاسخ دادن"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "پروکسی آنلاین - {} کانال ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "پراکسی در حال راه اندازی مجدد... لطفاً صبر کنید"

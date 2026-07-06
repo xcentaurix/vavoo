@@ -189,6 +189,9 @@ msgstr "Даведка па канфігурацыі службы Iptv-Gstreamer
 msgid "Console"
 msgstr "Кансоль"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Працягваецца, проксі яшчэ сінхранізуецца..."
+
 msgid "Countries"
 msgstr "краіны"
 
@@ -428,6 +431,9 @@ msgstr "Проксі не актыўны. Немагчыма стварыць ф
 
 msgid "Proxy not responding after"
 msgstr "Проксі не адказвае пасля"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Проксі онлайн - {} каналаў ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Перазапуск проксі... Пачакайце"

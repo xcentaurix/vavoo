@@ -189,6 +189,9 @@ msgstr "Konfigūruoti paslaugą Nuoroda Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "konsolė"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Tęsiama, tarpinis serveris vis dar sinchronizuojamas..."
+
 msgid "Countries"
 msgstr "Šalys"
 
@@ -428,6 +431,9 @@ msgstr "Tarpinis serveris neaktyvus. Nepavyko sugeneruoti M3U failo."
 
 msgid "Proxy not responding after"
 msgstr "Įgaliotasis serveris neatsako po to"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Tarpinis serveris prisijungęs – {} kanalai ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Tarpinis serveris paleistas iš naujo... Palaukite"

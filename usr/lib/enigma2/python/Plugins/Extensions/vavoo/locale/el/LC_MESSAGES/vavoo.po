@@ -189,6 +189,9 @@ msgstr "Ρύθμιση αναφοράς υπηρεσιών Iptv-Gstreamer-Extepl
 msgid "Console"
 msgstr "Κονσόλα"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Συνέχεια, ο διακομιστής μεσολάβησης εξακολουθεί να συγχρονίζεται..."
+
 msgid "Countries"
 msgstr "Χώρες"
 
@@ -428,6 +431,9 @@ msgstr "Ο proxy δεν είναι ενεργός. Αδυναμία δημιου
 
 msgid "Proxy not responding after"
 msgstr "Ο proxy δεν ανταποκρίνεται μετά από"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Διακομιστής μεσολάβησης στο διαδίκτυο - {} κανάλια ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Επανεκκίνηση proxy... Παρακαλώ περιμένετε"

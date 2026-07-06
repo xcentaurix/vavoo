@@ -189,6 +189,9 @@ msgstr "Конфигуришите услугу Референце Иптв-Гс
 msgid "Console"
 msgstr "Конзола"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Наставља се, прокси се и даље синхронизује..."
+
 msgid "Countries"
 msgstr "Земље"
 
@@ -428,6 +431,9 @@ msgstr "Прокси није активан. Није могуће генери
 
 msgid "Proxy not responding after"
 msgstr "Прокси не одговара после"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Прокси онлајн - {} канала ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Прокси се поново покреће... Молимо сачекајте"

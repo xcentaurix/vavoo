@@ -188,6 +188,9 @@ msgstr "Konfigurasi Rujukan perkhidmatan Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konsol"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Meneruskan, proksi masih menyegerak..."
+
 msgid "Countries"
 msgstr "negara"
 
@@ -427,6 +430,9 @@ msgstr "Proksi tidak aktif. Tidak dapat menjana fail M3U."
 
 msgid "Proxy not responding after"
 msgstr "Proksi tidak bertindak balas selepas itu"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proksi dalam talian - {} saluran ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proksi dimulakan semula... Sila tunggu"

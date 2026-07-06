@@ -188,6 +188,9 @@ msgstr "Stel diensverwysing op Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konsole"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Gaan voort, instaanbediener sinkroniseer steeds …"
+
 msgid "Countries"
 msgstr "Lande"
 
@@ -427,6 +430,9 @@ msgstr "Volmag nie aktief nie. Kan nie M3U-lêer genereer nie."
 
 msgid "Proxy not responding after"
 msgstr "Proxy reageer nie daarna nie"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Volmag aanlyn - {} kanale ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy herbegin... Wag asseblief"

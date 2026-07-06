@@ -188,6 +188,9 @@ msgstr "Sanidi Marejeleo ya huduma Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr ""
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Inaendelea, proksi bado inasawazisha..."
+
 msgid "Countries"
 msgstr "Nchi"
 
@@ -427,6 +430,9 @@ msgstr "Seva mbadala haitumiki. Haiwezi kutengeneza faili ya M3U."
 
 msgid "Proxy not responding after"
 msgstr "Wakala hajibu baada ya"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Wakala mtandaoni - {} njia ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Seva inawasha tena... Tafadhali subiri"

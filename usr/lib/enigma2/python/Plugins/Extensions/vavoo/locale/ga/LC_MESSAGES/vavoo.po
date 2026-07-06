@@ -189,6 +189,9 @@ msgstr "Cumraigh an tseirbhís Tagairt Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Consól"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Ag leanúint ar aghaidh, seachfhreastalaí fós á shioncronú..."
+
 msgid "Countries"
 msgstr "Tíortha"
 
@@ -428,6 +431,9 @@ msgstr "Níl an seachfhreastalaí gníomhach. Ní féidir an comhad M3U a ghini�
 
 msgid "Proxy not responding after"
 msgstr "Seachfhreastalaí gan freagairt tar éis"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Seachfhreastalaí ar líne - {} cainéil ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Seachfhreastalaí á atosú... Fan le do thoil"

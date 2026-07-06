@@ -188,6 +188,9 @@ msgstr "Танзими хидмати Reference Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Консол"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Идома дорад, прокси синхронизатсия карда мешавад..."
+
 msgid "Countries"
 msgstr "Кишварҳо"
 
@@ -427,6 +430,9 @@ msgstr "Прокси фаъол нест. Файли M3U тавлид карда
 
 msgid "Proxy not responding after"
 msgstr "Прокси пас аз он ҷавоб намедиҳад"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Прокси онлайн - {} канал ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Прокси бозоғоз карда мешавад... Лутфан интизор шавед"

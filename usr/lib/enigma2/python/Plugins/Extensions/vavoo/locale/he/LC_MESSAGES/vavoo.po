@@ -189,6 +189,9 @@ msgstr "הגדר את שירות הפניה Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "לְנַחֵם"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "ממשיך, פרוקסי עדיין מסתנכרן..."
+
 msgid "Countries"
 msgstr "מדינות"
 
@@ -428,6 +431,9 @@ msgstr "פרוקסי לא פעיל. לא ניתן ליצור קובץ M3U."
 
 msgid "Proxy not responding after"
 msgstr "פרוקסי לא מגיב לאחר מכן"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "פרוקסי מקוון - {} ערוצים ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "פרוקסי מופעל מחדש... אנא המתן"

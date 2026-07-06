@@ -188,6 +188,9 @@ msgstr "Dèan rèiteachadh air an t-seirbheis Iomradh Iptv-Gstreamer-Exteplayer3
 msgid "Console"
 msgstr ""
 
+msgid "Continuing, proxy still syncing..."
+msgstr "A’ leantainn, neach-ionaid fhathast a’ sioncronachadh..."
+
 msgid "Countries"
 msgstr "Dùthchannan"
 
@@ -427,6 +430,9 @@ msgstr "Chan eil progsaidh gnìomhach. Cha ghabh am faidhle M3U a ghineadh."
 
 msgid "Proxy not responding after"
 msgstr "Chan eil neach-ionaid a’ freagairt às deidh sin"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Progsaidh air-loidhne - {} seanalan ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Progsaidh ag ath-thòiseachadh... Fuirich ort"

@@ -189,6 +189,9 @@ msgstr "Service configureren Referentie Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Troosten"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Doorgaand, proxy synchroniseert nog steeds..."
+
 msgid "Countries"
 msgstr "Landen"
 
@@ -428,6 +431,9 @@ msgstr "Proxy niet actief. Kan M3U-bestand niet genereren."
 
 msgid "Proxy not responding after"
 msgstr "Proxy reageert niet meer"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy online - {} kanalen ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy wordt opnieuw opgestart... Een ogenblik geduld"

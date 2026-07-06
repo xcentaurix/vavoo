@@ -188,6 +188,9 @@ msgstr "Iptv-Gstreamer-Exteplayer3 ma'lumotnoma xizmatini sozlang"
 msgid "Console"
 msgstr "Konsol"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Davom etilmoqda, proksi-server hamon sinxronlanmoqda..."
+
 msgid "Countries"
 msgstr "Mamlakatlar"
 
@@ -427,6 +430,9 @@ msgstr "Proksi faol emas. M3U faylini yaratib bo'lmadi."
 
 msgid "Proxy not responding after"
 msgstr "Proksi keyin javob bermayapti"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Onlayn proksi - {} kanal ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proksi qayta ishga tushmoqda... Iltimos, kuting"

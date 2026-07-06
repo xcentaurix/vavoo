@@ -188,6 +188,9 @@ msgstr "ဝန်ဆောင်မှုအကိုးအကား Iptv-Gstrea
 msgid "Console"
 msgstr "ဖြေသိမ့်"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "ဆက်နေသည်၊ ပရောက်စီကို စင့်ခ်လုပ်နေဆဲ..."
+
 msgid "Countries"
 msgstr "နိုင်ငံတွေ"
 
@@ -427,6 +430,9 @@ msgstr "ပရောက်စီသည် အသက်မဝင်ပါ။ M3U 
 
 msgid "Proxy not responding after"
 msgstr "Proxy သည် နောက်ပိုင်းတွင် အကြောင်းပြန်ခြင်းမရှိပါ။"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "ပရောက်စီအွန်လိုင်း - {} ချန်နယ် ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "ပရောက်စီကို ပြန်လည်စတင်နေသည်... ကျေးဇူးပြု၍ ခဏစောင့်ပါ။"

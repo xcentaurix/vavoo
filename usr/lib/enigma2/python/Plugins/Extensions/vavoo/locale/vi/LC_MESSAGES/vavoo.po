@@ -189,6 +189,9 @@ msgstr "Cấu hình dịch vụ Tham khảo Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Bảng điều khiển"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Tiếp tục, proxy vẫn đang đồng bộ hóa..."
+
 msgid "Countries"
 msgstr "Quốc gia"
 
@@ -428,6 +431,9 @@ msgstr "Proxy không hoạt động. Không thể tạo tệp M3U."
 
 msgid "Proxy not responding after"
 msgstr "Proxy không phản hồi sau"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy trực tuyến - {} kênh ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Đang khởi động lại proxy... Vui lòng đợi"

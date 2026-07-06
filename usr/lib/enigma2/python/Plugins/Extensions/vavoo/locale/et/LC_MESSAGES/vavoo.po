@@ -189,6 +189,9 @@ msgstr "Konfigureerige teenus Viide Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "konsool"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Jätkub, puhverserver sünkroonitakse endiselt..."
+
 msgid "Countries"
 msgstr "Riigid"
 
@@ -428,6 +431,9 @@ msgstr "Puhverserver pole aktiivne. M3U-faili ei saa luua."
 
 msgid "Proxy not responding after"
 msgstr "Puhverserver ei vasta pärast seda"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Puhverserver võrgus – {} kanalit ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Puhverserveri taaskäivitamine... Palun oodake"

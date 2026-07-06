@@ -188,6 +188,9 @@ msgstr "تكوين مرجع الخدمة Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "وحدة التحكم"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "جارٍ المتابعة، لا تزال مزامنة الوكيل جارية..."
+
 msgid "Countries"
 msgstr "الدول"
 
@@ -427,6 +430,9 @@ msgstr "الوكيل غير نشط. غير قادر على إنشاء ملف M3U
 
 msgid "Proxy not responding after"
 msgstr "الوكيل لا يستجيب بعد"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "الوكيل عبر الإنترنت - {} القنوات ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "جاري إعادة تشغيل الوكيل... الرجاء الانتظار"

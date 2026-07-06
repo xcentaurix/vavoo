@@ -188,6 +188,9 @@ msgstr "ସେବା ସନ୍ଦର୍ଭ Iptv-Gstreamer-Exteplayer3 କୁ ବ
 msgid "Console"
 msgstr "କନସୋଲ୍"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "ଜାରି, ପ୍ରକ୍ସି ତଥାପି ସିଙ୍କ୍ କରୁଛି ..."
+
 msgid "Countries"
 msgstr "ଦେଶଗୁଡିକ |"
 
@@ -427,6 +430,9 @@ msgstr "ପ୍ରକ୍ସି ସକ୍ରିୟ ନୁହେଁ | M3U ଫାଇ
 
 msgid "Proxy not responding after"
 msgstr "ପ୍ରକ୍ସି ପରେ ପ୍ରତିକ୍ରିୟା କରୁନାହିଁ |"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "ପ୍ରକ୍ସି ଅନ୍ଲାଇନ୍ - {} ଚ୍ୟାନେଲ ✓ |"
 
 msgid "Proxy restarting... Please wait"
 msgstr "ପ୍ରକ୍ସି ପୁନ art ଆରମ୍ଭ ... ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ |"

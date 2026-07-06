@@ -196,6 +196,9 @@ msgstr "Konfigurácia služby Referencia Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konzola"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Pokračuje sa, server proxy sa stále synchronizuje..."
+
 msgid "Countries"
 msgstr "Krajiny"
 
@@ -443,6 +446,9 @@ msgstr "Proxy nie je aktívny. Nepodarilo sa vygenerovať súbor M3U."
 msgid "Proxy not responding after"
 msgstr "Proxy potom neodpovedá"
 
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy online – {} kanálov ✓"
+
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy sa reštartuje... Čakajte prosím"
 
@@ -452,7 +458,7 @@ msgstr "Časový limit spustenia servera proxy (v sekundách)"
 #, fuzzy
 msgid "Proxy token refreshed successfully"
 msgstr "Proxy token bol úspešne obnovený"
-"Kytice Vavoo boli úspešne odstránené!\n"
+"Proxy token bol úspešne obnovenýKytice Vavoo boli úspešne odstránené!\n"
 "(Odstránených súborov: %s)"
 
 msgid "Ready"
@@ -600,7 +606,7 @@ msgstr "Doplnok Vavoo Stream Live"
 
 msgid "Vavoo bouquets removed successfully!"
 msgstr "Vavoo kytice boli úspešne odstránené!"
-"Kytice Vavoo boli úspešne odstránené!\n"
+"Vavoo kytice boli úspešne odstránené!Kytice Vavoo boli úspešne odstránené!\n"
 "(Odstránených súborov: %s)"
 
 msgid "Vavoo is already running."

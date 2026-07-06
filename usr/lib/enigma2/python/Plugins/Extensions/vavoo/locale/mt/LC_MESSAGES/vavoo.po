@@ -188,6 +188,9 @@ msgstr "Ikkonfigura s-servizz Referenza Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr ""
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Tkompli, proxy għadu qed jissinkronizza..."
+
 msgid "Countries"
 msgstr "Pajjiżi"
 
@@ -427,6 +430,9 @@ msgstr "Prokura mhux attiva. Ma tistax tiġġenera fajl M3U."
 
 msgid "Proxy not responding after"
 msgstr "Prokura ma tirrispondix wara"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Prokura onlajn - {} kanali ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy jerġa' jibda... Jekk jogħġbok stenna"

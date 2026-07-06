@@ -198,6 +198,9 @@ msgstr "Konfiguro referencën e shërbimit Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr ""
 
+msgid "Continuing, proxy still syncing..."
+msgstr ""
+
 msgid "Countries"
 msgstr ""
 
@@ -437,6 +440,9 @@ msgstr ""
 
 msgid "Proxy not responding after"
 msgstr ""
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy online - {} channels ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr ""

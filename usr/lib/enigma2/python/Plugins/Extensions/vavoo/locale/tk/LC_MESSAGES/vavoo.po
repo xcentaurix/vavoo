@@ -188,6 +188,9 @@ msgstr "Hyzmat sazlamasy Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konsol"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Dowam edýär, proksi henizem sinhronlaýar ..."
+
 msgid "Countries"
 msgstr "Countriesurtlar"
 
@@ -427,6 +430,9 @@ msgstr "Proksi işjeň däl. M3U faýly döredip bolmaýar."
 
 msgid "Proxy not responding after"
 msgstr "Proksi soň jogap berenok"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proksi onlaýn - {} kanallar ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proksi täzeden başlaýar ... Garaşmagyňyzy haýyş edýäris"

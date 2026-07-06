@@ -188,6 +188,9 @@ msgstr "Määritä palveluviite Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konsoli"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Jatkuu, välityspalvelinta synkronoidaan edelleen..."
+
 msgid "Countries"
 msgstr "Maat"
 
@@ -427,6 +430,9 @@ msgstr "Välityspalvelin ei ole aktiivinen. M3U-tiedostoa ei voida luoda."
 
 msgid "Proxy not responding after"
 msgstr "Välityspalvelin ei vastaa jälkeen"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Välityspalvelin verkossa - {} kanavaa ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Välityspalvelin käynnistetään uudelleen... Odota"

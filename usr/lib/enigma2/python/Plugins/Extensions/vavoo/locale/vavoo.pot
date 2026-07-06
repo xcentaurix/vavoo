@@ -10,6 +10,7 @@
 
 
 
+
 msgid "! Proxy Expiring"
 msgstr ""
 
@@ -185,6 +186,9 @@ msgid "Configure service Reference Iptv-Gstreamer-Exteplayer3"
 msgstr ""
 
 msgid "Console"
+msgstr ""
+
+msgid "Continuing, proxy still syncing..."
 msgstr ""
 
 msgid "Countries"
@@ -425,6 +429,9 @@ msgid "Proxy not active. Unable to generate M3U file."
 msgstr ""
 
 msgid "Proxy not responding after"
+msgstr ""
+
+msgid "Proxy online - {} channels  ✓"
 msgstr ""
 
 msgid "Proxy restarting... Please wait"

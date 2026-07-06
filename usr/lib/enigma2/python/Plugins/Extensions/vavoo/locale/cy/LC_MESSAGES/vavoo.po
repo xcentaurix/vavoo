@@ -188,6 +188,9 @@ msgstr "Ffurfweddu gwasanaeth Cyfeirnod Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Consol"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Yn parhau, dirprwy yn dal i gysoni..."
+
 msgid "Countries"
 msgstr "Gwledydd"
 
@@ -427,6 +430,9 @@ msgstr "Dirprwy ddim yn weithredol. Methu cynhyrchu ffeil M3U."
 
 msgid "Proxy not responding after"
 msgstr "Dirprwy ddim yn ymateb ar ôl"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Dirprwy ar-lein - {} sianeli ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Dirprwy yn ailgychwyn... Arhoswch"

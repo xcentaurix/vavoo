@@ -203,6 +203,9 @@ msgstr "Configurar servicio Referencia Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Consola"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Continuando, el proxy aún se sincroniza..."
+
 msgid "Countries"
 msgstr "Países"
 
@@ -451,6 +454,9 @@ msgstr "Proxy no activo. No se puede generar archivo M3U."
 
 msgid "Proxy not responding after"
 msgstr "El proxy no responde después de"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy en línea - {} canales ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Reiniciando proxy... Por favor espera"

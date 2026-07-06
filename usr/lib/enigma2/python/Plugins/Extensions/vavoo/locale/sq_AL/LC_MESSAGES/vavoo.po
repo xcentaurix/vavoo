@@ -188,6 +188,9 @@ msgstr "Konfiguro referencën e shërbimit Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konsol"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Po vazhdon, përfaqësuesi po sinkronizohet ende..."
+
 msgid "Countries"
 msgstr "shtetet"
 
@@ -427,6 +430,9 @@ msgstr "Proxy jo aktiv. Skedari M3U nuk mund të gjenerohet."
 
 msgid "Proxy not responding after"
 msgstr "Përfaqësuesi nuk përgjigjet më pas"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy në linjë - {} kanale ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy po riniset... Ju lutemi prisni"

@@ -188,6 +188,9 @@ msgstr "Servîsa karûbarê mîheng bikin Çavkanî Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konsolê"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Berdewam dike, proxy hîn jî hevdem dike..."
+
 msgid "Countries"
 msgstr "Welatên"
 
@@ -427,6 +430,9 @@ msgstr "Proxy ne çalak e. Nekarî pelê M3U çêbike."
 
 msgid "Proxy not responding after"
 msgstr "Proxy piştî bersivê nade"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy serhêl - {} kanal ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy ji nû ve dest pê dike... Ji kerema xwe li bendê bin"

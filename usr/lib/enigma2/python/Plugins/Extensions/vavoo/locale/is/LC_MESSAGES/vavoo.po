@@ -188,6 +188,9 @@ msgstr "Stilla þjónustu Tilvísun Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Stjórnborð"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Heldur áfram, proxy er enn að samstilla..."
+
 msgid "Countries"
 msgstr "Lönd"
 
@@ -427,6 +430,9 @@ msgstr "Umboð ekki virkt. Ekki tókst að búa til M3U skrá."
 
 msgid "Proxy not responding after"
 msgstr "Umboðsmaður svarar ekki á eftir"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Umboð á netinu - {} rásir ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy endurræsir... Vinsamlegast bíddu"

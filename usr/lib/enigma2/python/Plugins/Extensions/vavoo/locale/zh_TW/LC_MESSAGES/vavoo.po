@@ -188,6 +188,9 @@ msgstr "配置服務參考 Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "安慰"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "繼續，代理仍在同步..."
+
 msgid "Countries"
 msgstr "國家"
 
@@ -427,6 +430,9 @@ msgstr "代理未啟動。無法產生 M3U 檔案。"
 
 msgid "Proxy not responding after"
 msgstr "之後代理沒有回應"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "線上代理 - {} 個頻道 ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "代理正在重新啟動...請稍候"

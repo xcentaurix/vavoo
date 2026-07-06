@@ -188,6 +188,9 @@ msgstr "Կարգավորել ծառայության տեղեկանք Iptv-Gstrea
 msgid "Console"
 msgstr "Վահանակ"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Շարունակվում է, պրոքսին դեռ համաժամացվում է..."
+
 msgid "Countries"
 msgstr "Երկրներ"
 
@@ -427,6 +430,9 @@ msgstr "Պրոքսին ակտիվ չէ: Հնարավոր չէ ստեղծել M3U
 
 msgid "Proxy not responding after"
 msgstr "Վստահված անձը չի արձագանքում դրանից հետո"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Առցանց վստահված անձ - {} ալիք ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy-ը վերագործարկվում է... Խնդրում ենք սպասել"

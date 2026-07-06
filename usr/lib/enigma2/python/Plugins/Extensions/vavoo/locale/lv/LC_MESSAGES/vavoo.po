@@ -189,6 +189,9 @@ msgstr "Konfigurēt pakalpojumu Atsauce Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konsole"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Turpinās, starpniekserveris joprojām tiek sinhronizēts..."
+
 msgid "Countries"
 msgstr "valstis"
 
@@ -428,6 +431,9 @@ msgstr "Starpniekserveris nav aktīvs. Nevar ģenerēt M3U failu."
 
 msgid "Proxy not responding after"
 msgstr "Starpniekserveris nereaģē pēc tam"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Starpniekserveris tiešsaistē — {} kanāli ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Notiek starpniekservera restartēšana... Lūdzu, uzgaidiet"

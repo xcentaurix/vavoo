@@ -196,6 +196,9 @@ msgstr "Szolgáltatás konfigurálása Referencia Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Konzol"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Folytatás, a proxy továbbra is szinkronizál..."
+
 msgid "Countries"
 msgstr "Országok"
 
@@ -443,6 +446,9 @@ msgstr "A proxy nem aktív. Nem sikerült létrehozni az M3U fájlt."
 msgid "Proxy not responding after"
 msgstr "A proxy nem válaszol ezután"
 
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy online – {} csatorna ✓"
+
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy újraindítása... Kérjük, várjon"
 
@@ -452,7 +458,7 @@ msgstr "Proxy indítási időtúllépése (másodperc)"
 #, fuzzy
 msgid "Proxy token refreshed successfully"
 msgstr "A proxy token sikeresen frissítve"
-"Vavoo csokrok sikeresen eltávolítva!\n"
+"A proxy token sikeresen frissítveVavoo csokrok sikeresen eltávolítva!\n"
 "\n"
 "(%s fájl törölve)"
 
@@ -601,7 +607,7 @@ msgstr "Vavoo élő közvetítés bővítmény"
 
 msgid "Vavoo bouquets removed successfully!"
 msgstr "Vavoo csokrok sikeresen eltávolítva!"
-"Vavoo csokrok sikeresen eltávolítva!\n"
+"Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!\n"
 "\n"
 "(%s fájl törölve)"
 

@@ -196,6 +196,9 @@ msgstr "Konfigurace služby Reference Iptv-Gstreamer-Exteplayer3"
 msgid "Console"
 msgstr "Utěšit"
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Pokračuje se, server proxy se stále synchronizuje..."
+
 msgid "Countries"
 msgstr "země"
 
@@ -444,6 +447,9 @@ msgstr "Proxy není aktivní. Nelze vygenerovat soubor M3U."
 
 msgid "Proxy not responding after"
 msgstr "Proxy neodpovídá po"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Proxy online – {} kanálů ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Proxy se restartuje... Prosím čekejte"

@@ -188,6 +188,9 @@ msgstr "Iptv-Gstreamer-Exteplayer3 шилтемесин конфигурация
 msgid "Console"
 msgstr ""
 
+msgid "Continuing, proxy still syncing..."
+msgstr "Улантууда, прокси дагы эле шайкештирилүүдө..."
+
 msgid "Countries"
 msgstr "Өлкөлөр"
 
@@ -427,6 +430,9 @@ msgstr "Прокси активдүү эмес. M3U файлын түзүү мү
 
 msgid "Proxy not responding after"
 msgstr "Прокси кийин жооп бербейт"
+
+msgid "Proxy online - {} channels  ✓"
+msgstr "Прокси онлайн - {} канал ✓"
 
 msgid "Proxy restarting... Please wait"
 msgstr "Прокси кайра иштетилүүдө... Күтө туруңуз"
