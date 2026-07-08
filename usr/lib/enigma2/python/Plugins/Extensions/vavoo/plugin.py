@@ -4292,95 +4292,84 @@ class Playstream2(
         self.startStream()
 
     def doEofInternal(self, playing):
-        """Handle end of file (stream ended)"""
+        """Handle end of file (stream ended).
+
+        InfoBarSeek (a base class of this screen) independently listens
+        for iPlayableService.evEOF and calls this as its own extension
+        hook - and __evEOF() below is ALSO explicitly wired to that same
+        raw event. Both fire for a single real EOF, so the actual
+        counting/restart logic lives in _handleEofEvent(), which
+        debounces near-simultaneous calls so one real EOF is only
+        counted once.
+        """
         print('[Playstream2] doEofInternal, playing:', playing)
         if self.execing and playing:
-            # Clean memory
-            vUtils.MemClean()
-
-            # Check if this is a real EOF or temporary issue
-            current_time = time.time()
-
-            # Add EOF counter to prevent loops
-            if not hasattr(self, 'eof_count'):
-                self.eof_count = 0
-                self.last_eof_time = 0
-
-            # Check time between EOFs
-            time_since_last_eof = current_time - self.last_eof_time
-            self.last_eof_time = current_time
-
-            if time_since_last_eof < 10:  # Less than 10 seconds between EOFs
-                self.eof_count += 1
-                print(
-                    "[Playstream2] Frequent EOF #" +
-                    str(self.eof_count) +
-                    ", time: " +
-                    "%.1f" % time_since_last_eof +
-                    "s"
-                )
-            else:
-                self.eof_count = 1
-
-            # Restart based on EOF frequency
-            if self.eof_count <= 3:  # Allow up to 3 quick retries
-                delay = 2 + (self.eof_count * 2)  # 2, 4, 6 seconds
-                print(
-                    "[Playstream2] Restarting stream in " +
-                    str(delay) +
-                    " seconds (EOF #" +
-                    str(self.eof_count) +
-                    ")"
-                )
-                self.restartStreamDelayed(delay * 1000)
-            else:
-                print("[Playstream2] Too many EOFs, stopping auto-restart")
-                error_msg = _("Stream ended. Too many connection issues.") + \
-                    "\n" + _("Please try another channel.")
-                self.session.open(
-                    MessageBox,
-                    error_msg,
-                    MessageBox.TYPE_ERROR,
-                    timeout=5
-                )
+            self._handleEofEvent("doEofInternal")
 
     def __evEOF(self):
-        """Event: End of file reached"""
+        """Event: End of file reached (see doEofInternal for why this
+        duplicates that hook)."""
         print('[Playstream2] __evEOF')
         self.end = True
-        vUtils.MemClean()
+        self._handleEofEvent("__evEOF")
 
-        # Use same logic as doEofInternal
+    def _handleEofEvent(self, source):
+        """Shared EOF bookkeeping/restart logic for doEofInternal() and
+        __evEOF(), which both fire for the same underlying event."""
+        vUtils.MemClean()
         current_time = time.time()
+
         if not hasattr(self, 'eof_count'):
             self.eof_count = 0
             self.last_eof_time = 0
 
         time_since_last_eof = current_time - self.last_eof_time
+
+        # doEofInternal() and __evEOF() both fire for the same real EOF,
+        # typically within the same event-loop tick - a gap this short
+        # means this is the other handler for the event just processed,
+        # not a second, genuinely separate EOF.
+        if 0 < time_since_last_eof < 1.5:
+            print(
+                "[Playstream2] Ignoring duplicate EOF signal from " +
+                source)
+            return
+
         self.last_eof_time = current_time
 
-        if time_since_last_eof < 10:
+        if time_since_last_eof < 10:  # Less than 10 seconds between EOFs
             self.eof_count += 1
             print(
-                "[Playstream2] __evEOF #" +
+                "[Playstream2] Frequent EOF #" +
                 str(self.eof_count) +
-                ", time: " +
+                " (" + source + "), time: " +
                 "%.1f" % time_since_last_eof +
                 "s"
             )
         else:
             self.eof_count = 1
 
-        if self.eof_count <= 3:
-            delay = 2 + (self.eof_count * 2)
+        # Restart based on EOF frequency
+        if self.eof_count <= 3:  # Allow up to 3 quick retries
+            delay = 2 + (self.eof_count * 2)  # 2, 4, 6 seconds
             print(
-                "[Playstream2] Restarting from __evEOF in {} seconds".format(
-                    delay
-                )
+                "[Playstream2] Restarting stream in " +
+                str(delay) +
+                " seconds (EOF #" +
+                str(self.eof_count) +
+                ")"
             )
             self.restartStreamDelayed(delay * 1000)
         else:
-            print("[Playstream2] Too many EOFs in __evEOF")
+            print("[Playstream2] Too many EOFs, stopping auto-restart")
+            error_msg = _("Stream ended. Too many connection issues.") + \
+                "\n" + _("Please try another channel.")
+            self.session.open(
+                MessageBox,
+                error_msg,
+                MessageBox.TYPE_ERROR,
+                timeout=5
+            )
 
     def __serviceStarted(self):
         """Service started playing"""
