@@ -1729,6 +1729,10 @@ class VavooEPGMatcher:
         self.similarity_threshold = similarity_threshold
         # (clean_name, original_name, service_ref)
         self.rytec_entries = []
+        # Same entries grouped by country code (from the id's suffix, e.g.
+        # "Rai1.it" -> "it"), so matching against a specific country
+        # doesn't have to linearly scan every other country's entries too.
+        self.rytec_by_country = {}
         self.rytec_by_id = {}           # (original_id, service_ref)
         self.rytec_names = {}
         self.cache = load_cache()       # persistent cache
@@ -1804,11 +1808,12 @@ class VavooEPGMatcher:
 
                 # clean_name = self._clean_name(channel_name)
                 clean_name = self._clean_name_for_similarity(channel_name)
-                self.rytec_entries.append(
-                    (clean_name, channel_name, original_id, service_ref))
-                self.rytec_names[original_id] = clean_name
-
-                # NEW: store the cleaned name associated with the ID
+                entry = (clean_name, channel_name, original_id, service_ref)
+                self.rytec_entries.append(entry)
+                entry_country = original_id.split(
+                    '.')[-1] if '.' in original_id else ""
+                self.rytec_by_country.setdefault(
+                    entry_country, []).append(entry)
                 self.rytec_names[original_id] = clean_name
 
             print("[VavooEPGMatcher] Loaded {} Rytec channels".format(
@@ -1949,23 +1954,26 @@ class VavooEPGMatcher:
 
         candidates = []
 
+        # Restrict the scan to the requested country's entries up front
+        # (pre-grouped in rytec_by_country at load time) instead of
+        # walking every entry for every country and discarding most of
+        # them - this is the hot loop of EPG matching, run once per
+        # channel against what can be thousands of Rytec entries.
+        if not country_code:
+            entries_to_scan = self.rytec_entries
+        elif country_code == "bk":
+            balkan_codes = [
+                "ba", "hr", "rs", "si", "me", "mk", "al", "bg", "ro"]
+            entries_to_scan = [
+                entry
+                for code in balkan_codes
+                for entry in self.rytec_by_country.get(code, [])
+            ]
+        else:
+            entries_to_scan = self.rytec_by_country.get(country_code, [])
+
         # Pass 1: search all matches by similarity (ignore priority for now)
-        for clean_entry, orig_name, rytec_id, service_ref in self.rytec_entries:
-            entry_country = rytec_id.split('.')[-1] if '.' in rytec_id else ""
-
-            # --- FILTER BY COUNTRY (including the Balkans) ---
-            if country_code:
-                if country_code == "bk":
-                    # List of Balkan countries (extend if necessary)
-                    balkan_codes = [
-                        "ba", "hr", "rs", "si", "me", "mk", "al", "bg", "ro"]
-                    if entry_country not in balkan_codes:
-                        continue
-                else:
-                    if entry_country != country_code:
-                        continue
-            # If country_code is None, we do not filter by country
-
+        for clean_entry, orig_name, rytec_id, service_ref in entries_to_scan:
             # Calculate base similarity
             score = calculate_similarity(clean_input, clean_entry)
             if score < self.similarity_threshold:
