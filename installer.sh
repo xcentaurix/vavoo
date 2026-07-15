@@ -1,9 +1,9 @@
 #!/bin/bash
 
-version='1.76'
-changelog="- Fixed streams showing a 'download VYPN' screen instead of playing
-- Faster, more reliable plugin startup (fixed UI freezes and proxy restart loops)
-- Other stability fixes (anonymous stats, timers)"
+version='1.77'
+changelog="- Added auto update in-app, with a themed popup and changelog
+- Enigma2 GUI now restarts automatically after an update
+- General stability and reliability fixes"
 echo "$changelog"
 TMPPATH=/tmp/vavoo-install
 FILEPATH=/tmp/vavoo-main.tar.gz
@@ -171,7 +171,7 @@ cat <<EOF
 #                developed by LULULLA                   #
 #               https://corvoboys.org                   #
 #########################################################
-#           your Device will RESTART Now                #
+#         Enigma2 GUI will RESTART now (box stays on)   #
 #########################################################
 ^^^^^^^^^^Debug information:
 BOX MODEL: $box_type
@@ -181,5 +181,12 @@ IMAGE NAME: ${distro_value:-Unknown}
 IMAGE VERSION: ${distro_version:-Unknown}
 PLUGIN VERSION: $version
 EOF
+
+# Restart just the Enigma2 GUI process (not the whole box) so the newly
+# installed plugin files are picked up. Enigma2 is supervised on every
+# image (sysvinit, systemd, or a custom wrapper) and gets automatically
+# respawned once killed - no separate "start" command needed.
+sleep 3
+killall -9 enigma2 2>/dev/null
 
 exit 0

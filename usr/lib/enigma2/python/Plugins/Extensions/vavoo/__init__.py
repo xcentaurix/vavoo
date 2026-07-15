@@ -5,7 +5,7 @@ __author__ = "Lululla"
 __email__ = "ekekaz@gmail.com"
 __copyright__ = 'Copyright (c) 2024 Lululla'
 __license__ = "CC BY-NC-SA 4.0"
-__version__ = "1.76"
+__version__ = "1.77"
 
 from Components.Language import language
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
@@ -34,6 +34,7 @@ PROXY_SHUTDOWN_URL = PROXY_BASE_URL + "/shutdown"
 
 HOST_MAIN = 'https://raw.githubusercontent.com/Belfagor2005/vavoo/main'
 HOST_GIT = "https://raw.githubusercontent.com/Belfagor2005"
+INSTALLER_URL = HOST_MAIN + "/installer.sh"
 FLAG_CACHE_DIR = "/tmp/vavoo_flags"
 LOG_FILE = "/tmp/vavoo.log"
 PRIMARY_BASE_URL = "https://vavoo.to"

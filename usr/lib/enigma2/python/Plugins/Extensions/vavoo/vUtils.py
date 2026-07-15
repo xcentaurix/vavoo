@@ -21,7 +21,7 @@ from os import listdir, makedirs, remove, system, unlink, rename
 from os.path import basename, exists, getmtime, getsize, isfile, join, splitext
 from enigma import eTimer
 from random import choice
-from re import IGNORECASE, compile, findall, search, sub
+from re import DOTALL, IGNORECASE, compile, findall, search, sub
 from shutil import copy2
 from sys import maxsize
 from six import iteritems, unichr
@@ -44,7 +44,8 @@ from . import (
     CACHE_FILE,
     UNMATCHED_FILE,
     HOST_MAIN,
-    ALIAS_FILE
+    ALIAS_FILE,
+    INSTALLER_URL
 )
 """
 #########################################################
@@ -923,6 +924,61 @@ def fetch_vec_list():
         return None
 
 
+def _version_tuple(version_str):
+    """Turn '1.9' / '1.10' into comparable (1, 9) / (1, 10) tuples -
+    plain string comparison would wrongly say '1.9' > '1.10'."""
+    parts = []
+    for chunk in sub(r'[^0-9.]', '', version_str or '').split('.'):
+        try:
+            parts.append(int(chunk))
+        except ValueError:
+            parts.append(0)
+    return tuple(parts) if parts else (0,)
+
+
+def is_remote_version_newer(local_version, remote_version):
+    """True if remote_version is numerically greater than local_version."""
+    return _version_tuple(remote_version) > _version_tuple(local_version)
+
+
+def check_remote_installer_version():
+    """Fetch installer.sh from GitHub and pull out its version and
+    changelog. Returns (version, changelog, raw_content), any/all of
+    which are None on failure.
+
+    installer.sh is expected to contain lines shaped like:
+        version='1.76'
+        changelog="- line one
+        - line two"
+
+    raw_content is returned too so callers that want to actually run the
+    installer don't need a second fetch.
+    """
+    try:
+        content = getUrl(INSTALLER_URL, timeout=10, retries=2)
+        if not content:
+            print("[Update] Could not fetch installer.sh")
+            return None, None, None
+        content = ensure_str(content, errors='ignore')
+
+        version_match = search(r"version\s*=\s*['\"]([^'\"]+)['\"]", content)
+        if not version_match:
+            print("[Update] Could not find version= in installer.sh")
+            return None, None, None
+        remote_version = version_match.group(1).strip()
+
+        changelog_match = search(
+            r'changelog\s*=\s*"(.*?)"', content, IGNORECASE | DOTALL)
+        changelog = changelog_match.group(
+            1).strip() if changelog_match else ""
+
+        return remote_version, changelog, content
+
+    except Exception as e:
+        print("[Update] Error checking installer.sh version: {}".format(e))
+        return None, None, None
+
+
 def remove_parentheses(text):
     """Remove parentheses and their content from text"""
     return sub(
@@ -1729,6 +1785,10 @@ class VavooEPGMatcher:
         self.similarity_threshold = similarity_threshold
         # (clean_name, original_name, service_ref)
         self.rytec_entries = []
+        # Same entries grouped by country code (from the id's suffix, e.g.
+        # "Rai1.it" -> "it"), so matching against a specific country
+        # doesn't have to linearly scan every other country's entries too.
+        self.rytec_by_country = {}
         self.rytec_by_id = {}           # (original_id, service_ref)
         self.rytec_names = {}
         self.cache = load_cache()       # persistent cache
@@ -1804,11 +1864,12 @@ class VavooEPGMatcher:
 
                 # clean_name = self._clean_name(channel_name)
                 clean_name = self._clean_name_for_similarity(channel_name)
-                self.rytec_entries.append(
-                    (clean_name, channel_name, original_id, service_ref))
-                self.rytec_names[original_id] = clean_name
-
-                # NEW: store the cleaned name associated with the ID
+                entry = (clean_name, channel_name, original_id, service_ref)
+                self.rytec_entries.append(entry)
+                entry_country = original_id.split(
+                    '.')[-1] if '.' in original_id else ""
+                self.rytec_by_country.setdefault(
+                    entry_country, []).append(entry)
                 self.rytec_names[original_id] = clean_name
 
             print("[VavooEPGMatcher] Loaded {} Rytec channels".format(
@@ -1851,15 +1912,20 @@ class VavooEPGMatcher:
 
     def _build_normalized_index(self):
         self.normalized_index = {}
-        for key, value in self.cache.items():
-            if '_' in key:
-                name_part = key.rsplit('_', 1)[0]
-                country_part = key.rsplit('_', 1)[1]
-            else:
-                name_part = key
-                country_part = ''
-            norm_key = self._normalize_key(name_part, country_part)
-            self.normalized_index[norm_key] = key
+        for key in self.cache:
+            self._index_cache_key(key)
+
+    def _index_cache_key(self, key):
+        """Add/update a single cache key in normalized_index without
+        rescanning the whole cache - see find_match(), which calls this
+        once per matched channel and would otherwise turn a bulk export
+        into an O(n^2) scan as the cache grows over time."""
+        if '_' in key:
+            name_part, country_part = key.rsplit('_', 1)
+        else:
+            name_part, country_part = key, ''
+        norm_key = self._normalize_key(name_part, country_part)
+        self.normalized_index[norm_key] = key
 
     def _get_signal_priority(self, service_ref, country_code=None):
         """
@@ -1944,28 +2010,26 @@ class VavooEPGMatcher:
 
         candidates = []
 
+        # Restrict the scan to the requested country's entries up front
+        # (pre-grouped in rytec_by_country at load time) instead of
+        # walking every entry for every country and discarding most of
+        # them - this is the hot loop of EPG matching, run once per
+        # channel against what can be thousands of Rytec entries.
+        if not country_code:
+            entries_to_scan = self.rytec_entries
+        elif country_code == "bk":
+            balkan_codes = [
+                "ba", "hr", "rs", "si", "me", "mk", "al", "bg", "ro"]
+            entries_to_scan = [
+                entry
+                for code in balkan_codes
+                for entry in self.rytec_by_country.get(code, [])
+            ]
+        else:
+            entries_to_scan = self.rytec_by_country.get(country_code, [])
+
         # Pass 1: search all matches by similarity (ignore priority for now)
-        for clean_entry, orig_name, rytec_id, service_ref in self.rytec_entries:
-            entry_country = rytec_id.split('.')[-1] if '.' in rytec_id else ""
-
-            # --- FILTER BY COUNTRY (including the Balkans) ---
-            if country_code:
-                if country_code == "bk":
-                    # List of Balkan countries (extend if necessary)
-                    balkan_codes = [
-                        "ba", "hr", "rs", "si", "me", "mk", "al", "bg", "ro"]
-                    if entry_country not in balkan_codes:
-                        continue
-                else:
-                    if entry_country != country_code:
-                        continue
-            # If country_code is None, we do not filter by country
-
-            # Calculate base similarity
-            score = calculate_similarity(clean_input, clean_entry)
-            if score < self.similarity_threshold:
-                continue
-
+        for clean_entry, orig_name, rytec_id, service_ref in entries_to_scan:
             # Calculate base similarity
             score = calculate_similarity(clean_input, clean_entry)
             if score < self.similarity_threshold:
@@ -2107,8 +2171,13 @@ class VavooEPGMatcher:
             new_entry = cached.copy()
             new_entry['name'] = channel_name   # original name
             self.cache[search_key] = new_entry
-            self._build_normalized_index()
-            save_cache(self.cache)
+            self._index_cache_key(search_key)
+            # Deferred to save_cache() (called once per batch by callers,
+            # e.g. after a whole bouquet export) instead of writing the
+            # full cache file here - this branch fires per matched
+            # channel, and a full rewrite per channel turns a bulk export
+            # into many redundant whole-file writes as the cache grows.
+            self.new_matches[search_key] = new_entry
             return cached.get('id'), cached.get('sref')
 
         # 3. Live matching
@@ -2158,7 +2227,12 @@ class VavooEPGMatcher:
                     if existing_entry.get('matched', True) is not False:
                         existing_entry['matched'] = False
                         self.cache[search_key] = existing_entry
-                        self._build_normalized_index()
+                        self._index_cache_key(search_key)
+                        # Not deferred to new_matches/save_cache(): that
+                        # method always writes matched=True, which would
+                        # be wrong here. This branch is rare (only when a
+                        # previously-matched channel stops live-matching),
+                        # so an eager write is an acceptable tradeoff.
                         save_cache(self.cache)
                     return existing_entry.get('id'), existing_sref
             # Otherwise, no match and no valid sref
