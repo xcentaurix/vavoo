@@ -763,10 +763,11 @@ class vavoo_config(Screen, ConfigListScreen):
         if isfile('/var/lib/dpkg/status'):
             skin = skin.replace('.xml', '_cvs.xml')
         with codecs.open(skin, "r", encoding="utf-8") as f:
-            self.skin = f.read()
+            self.skin = apply_selected_background(f.read())
         self.setup_title = ('Vavoo Config')
 
         self.old_proxy_enabled = cfg.proxy_enabled.value
+        self.old_back = cfg.back.value
 
         self.list = []
         self.onChangedEntry = []
@@ -1473,12 +1474,25 @@ class vavoo_config(Screen, ConfigListScreen):
                 print("Config reload error (safe mode): " + str(e))
                 self._safe_config_reload()
 
+            back_changed = self.old_back != cfg.back.value
             bakk = str(cfg.back.getValue()) + '.png'
             add_skin_back(bakk)
 
+            message = _("Configuration saved successfully!")
+            if back_changed:
+                # apply_selected_background() makes freshly-opened screens
+                # point at the actual selected file, avoiding Enigma2's
+                # pixmap cache entirely - but the MainVavoo screen
+                # currently open behind this config screen was already
+                # loaded before this change, so it still needs to be
+                # closed and reopened once to pick up the new skin text.
+                message += "\n\n" + \
+                    _("Exit and reopen the plugin to see the new background.")
+                self.old_back = cfg.back.value
+
             self.session.open(
                 MessageBox,
-                _("Configuration saved successfully!"),
+                message,
                 MessageBox.TYPE_INFO,
                 timeout=5
             )
@@ -1830,7 +1844,7 @@ class MainVavoo(Screen):
         if isfile('/var/lib/dpkg/status'):
             skin = skin.replace('.xml', '_cvs.xml')
         with codecs.open(skin, "r", encoding="utf-8") as f:
-            self.skin = f.read()
+            self.skin = apply_selected_background(f.read())
 
         if is_stats_enabled():
             record_anonymous_startup()
@@ -3050,7 +3064,7 @@ class vavoo(Screen):
         """Load the skin file."""
         skin = join(skin_path, 'defaultListScreen.xml')
         with codecs.open(skin, "r", encoding="utf-8") as f:
-            self.skin = f.read()
+            self.skin = apply_selected_background(f.read())
 
     def _initialize_labels(self):
         """Initialize the labels on the screen."""
@@ -5344,6 +5358,29 @@ def add_skin_back(bakk):
         cmd = 'cp -f ' + str(baknew) + ' ' + BackPath + '/default.png'
         os_system(cmd)
         os_system('sync')
+
+
+def apply_selected_background(skin_text):
+    """Point a skin's hardcoded default.png background reference at the
+    actually-selected background file instead.
+
+    add_skin_back() copies the selected image's content onto default.png
+    on disk, but Enigma2 caches pixmaps by file path - re-showing a
+    skin that references that same "default.png" path just returns the
+    previously-cached bitmap (e.g. selecting "oktus" still visually
+    shows "kiddac") until the whole GUI process restarts and re-reads
+    it fresh. Referencing the real, distinctly-named file instead (e.g.
+    "oktus.png") means a newly-selected background is a cache miss and
+    gets loaded fresh immediately, no restart needed.
+    """
+    try:
+        selected = join(BackPath, str(cfg.back.value) + '.png')
+        if isfile(selected):
+            default_path = join(BackPath, 'default.png')
+            skin_text = skin_text.replace(default_path, selected)
+    except Exception as e:
+        print("[Background] Error applying selected background: " + str(e))
+    return skin_text
 
 
 def add_skin_font():
