@@ -318,6 +318,14 @@ proxy_thread = None
 search_ok = False
 tmlast = None
 
+# Per-country parsed EPG document + channel->programme index, shared
+# across Playstream2 instances (module-level, not per-instance) so
+# switching channels or reopening the player doesn't re-fetch/re-parse/
+# re-index the same country's EPG document within the TTL window - see
+# Playstream2.get_current_epg().
+_epg_xml_cache = {}      # country_code -> (timestamp, root, channel_index)
+_epg_result_cache = {}   # "epg_<name>_<country>" -> (timestamp, result_str)
+
 # Auto-update check state, shared between startVavoo (kicks off the
 # background check) and MainVavoo (shows the popup once, after the main
 # menu is open). See _start_update_check() /
@@ -4770,8 +4778,8 @@ class Playstream2(
             cache_key = "epg_{}_{}".format(clean_name, self.country_code)
 
             # Check if we have cached result (5 minutes TTL)
-            if hasattr(self, '_epg_cache') and cache_key in self._epg_cache:
-                cached_time, cached_result = self._epg_cache[cache_key]
+            if cache_key in _epg_result_cache:
+                cached_time, cached_result = _epg_result_cache[cache_key]
                 if time.time() - cached_time < 300:  # 5 minutes
                     elapsed = time.time() - start_time
                     if elapsed > 0.05:
@@ -4779,10 +4787,6 @@ class Playstream2(
                             "[EPG] Cache HIT for {} (took {:.3f}s)".format(
                                 clean_name, elapsed))
                     return cached_result
-
-            # Initialize cache dict if needed
-            if not hasattr(self, '_epg_cache'):
-                self._epg_cache = {}
 
             # Get matcher (singleton, already loaded)
             matcher = get_epg_matcher()
@@ -4800,21 +4804,20 @@ class Playstream2(
 
             if not rytec_id:
                 result = "EPG not available (ID not found)"
-                self._epg_cache[cache_key] = (time.time(), result)
+                _epg_result_cache[cache_key] = (time.time(), result)
                 return result
 
             # The whole country's EPG document (all channels, potentially
-            # hundreds of <programme> entries) is what's slow to fetch and
-            # parse - not the per-channel lookup. Reuse a recently parsed
-            # copy across channels in the same country instead of
-            # re-downloading and re-parsing it on every single channel
-            # view, which is what made switching channels feel slow.
-            if not hasattr(self, '_epg_xml_cache'):
-                self._epg_xml_cache = {}
-
-            xml_cached = self._epg_xml_cache.get(self.country_code)
+            # thousands of <programme> entries across all channels/days)
+            # is what's slow to fetch, parse, and scan - not any single
+            # channel's lookup. Reuse a recently parsed copy, and a
+            # channel->programmes index built alongside it, across
+            # channels in the same country instead of re-downloading,
+            # re-parsing, and re-scanning the whole thing from scratch on
+            # every single channel view.
+            xml_cached = _epg_xml_cache.get(self.country_code)
             if xml_cached and (time.time() - xml_cached[0] < 300):
-                root = xml_cached[1]
+                root, channel_index = xml_cached[1], xml_cached[2]
             else:
                 # Build EPG URL
                 epg_url = "http://{}:{}/epg/{}.xml".format(
@@ -4833,7 +4836,7 @@ class Playstream2(
 
                 if not xml_data:
                     result = "EPG not available"
-                    self._epg_cache[cache_key] = (time.time(), result)
+                    _epg_result_cache[cache_key] = (time.time(), result)
                     return result
 
                 try:
@@ -4841,29 +4844,38 @@ class Playstream2(
                 except Exception as e:
                     print("[EPG] XML parsing error: {}".format(e))
                     result = "EPG parsing error"
-                    self._epg_cache[cache_key] = (time.time(), result)
+                    _epg_result_cache[cache_key] = (time.time(), result)
                     return result
 
-                self._epg_xml_cache[self.country_code] = (time.time(), root)
+                # Index once per document: channel id (dots stripped, to
+                # match id_match()'s old comparison) -> its own programme
+                # entries, so a single channel's lookup only ever scans
+                # that channel's handful of entries instead of every
+                # <programme> in the whole country.
+                index_start = time.time()
+                channel_index = {}
+                for prog in root.findall('programme'):
+                    prog_channel = prog.get('channel')
+                    if not prog_channel:
+                        continue
+                    channel_index.setdefault(
+                        prog_channel.replace('.', ''), []).append(prog)
+                index_time = time.time() - index_start
+                if index_time > 0.1:
+                    print("[EPG] Slow index build: {:.3f}s ({} channels)".format(
+                        index_time, len(channel_index)))
 
-            # Parse XML
+                _epg_xml_cache[self.country_code] = (
+                    time.time(), root, channel_index)
+
+            # Find current programme
             parse_start = time.time()
             try:
                 now = time.time()
-
-                def id_match(epg_id, rid):
-                    # Simple ID matching without regex
-                    return epg_id.replace('.', '') == rid.replace('.', '')
-
                 current_prog = None
+                rid_key = rytec_id.replace('.', '')
 
-                # Optimize: break early when found
-                for prog in root.findall('programme'):
-                    prog_channel = prog.get('channel')
-                    if not prog_channel or not id_match(
-                            prog_channel, rytec_id):
-                        continue
-
+                for prog in channel_index.get(rid_key, []):
                     start_str = prog.get('start')
                     stop_str = prog.get('stop')
                     if not start_str or not stop_str:
@@ -4915,13 +4927,13 @@ class Playstream2(
                     result = "No programme found"
 
                 # Cache the result
-                self._epg_cache[cache_key] = (time.time(), result)
+                _epg_result_cache[cache_key] = (time.time(), result)
                 return result
 
             except Exception as e:
                 print("[EPG] Programme matching error: {}".format(e))
                 result = "EPG parsing error"
-                self._epg_cache[cache_key] = (time.time(), result)
+                _epg_result_cache[cache_key] = (time.time(), result)
                 return result
 
         except Exception as e:
