@@ -4,7 +4,7 @@ version='1.80'
 changelog="- Fixed notifications not being thread-safe, which could crash background exports/EPG processing
 - Fixed bouquet export background thread touching Enigma2 UI objects unsafely
 - Fixed country flags beyond the first 8 never appearing in the main menu
-- Added the missing \"Send Anonymous Statistics\" config option
+- Added the missing Send Anonymous Statistics config option
 - Fixed several proxy reliability bugs (cache eviction, HTTP 451 handling)
 - Fixed search screen button hint showing the wrong key
 - Removed dead/unused code
