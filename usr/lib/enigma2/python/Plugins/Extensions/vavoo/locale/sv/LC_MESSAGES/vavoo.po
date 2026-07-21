@@ -102,6 +102,9 @@ msgstr "Alla länder (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "En export till ett annat land pågår redan. Vänta."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Endast anonym start/hjärtslagsping (sessions-id, version, tidsstämpel - inga personliga uppgifter). Inaktivera för att välja bort."
+
 msgid "At an interval hours or fixed time"
 msgstr "Med ett intervall timmar eller fast tid"
 
@@ -418,7 +421,8 @@ msgstr "Försök med en annan kanal."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Placering av Vavoo-buketter i huvudlistan"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Tryck på TEXT-knappen för att skriva, BACKSTEG för att radera"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "Välj M3U exportläge:"
 
 msgid "Select country to export M3U:"
 msgstr "Välj land att exportera M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Skicka anonym statistik"
 
 msgid "Server for Player Used"
 msgstr "Server för spelare som används"

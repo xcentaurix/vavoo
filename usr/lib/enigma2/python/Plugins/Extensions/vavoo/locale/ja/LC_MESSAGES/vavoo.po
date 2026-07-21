@@ -102,6 +102,9 @@ msgstr "すべての国 (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "別の国への輸出はすでに進行中です。お待ちください。"
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "匿名の起動/ハートビート ping のみ (セッション ID、バージョン、タイムスタンプ - 個人データなし)。オプトアウトを無効にします。"
+
 msgid "At an interval hours or fixed time"
 msgstr "時間間隔または一定時間ごとに"
 
@@ -418,7 +421,8 @@ msgstr "別のチャンネルをお試しください。"
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "メインリストにおけるVavooブーケの位置"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "TEXT ボタンを押して入力し、BACKSPACE を押して削除します"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "M3U エクスポート モードを選択します。"
 
 msgid "Select country to export M3U:"
 msgstr "M3U をエクスポートする国を選択してください:"
+
+msgid "Send Anonymous Statistics"
+msgstr "匿名の統計情報を送信する"
 
 msgid "Server for Player Used"
 msgstr "使用するプレーヤーのサーバー"

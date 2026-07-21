@@ -101,6 +101,9 @@ msgstr "Herrialde guztiak (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "An export for another country is already in progress. Mesedez, itxaron."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Abiarazte/taupadaren ping anonimoa soilik (saioaren IDa, bertsioa, denbora-zigilua - ez dago datu pertsonalik). Desgaitu uzteko."
+
 msgid "At an interval hours or fixed time"
 msgstr "Ordu tarte batean edo ordu finko batean"
 
@@ -417,7 +420,8 @@ msgstr "Mesedez, saiatu beste kanal bat."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Vavoo sorten posizioa zerrenda nagusian"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Sakatu TEXT botoia idazteko, BACKSPACE ezabatzeko"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Hautatu M3U esportazio modua:"
 
 msgid "Select country to export M3U:"
 msgstr "Hautatu M3U esportatzeko herrialdea:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Bidali Estatistika Anonimoak"
 
 msgid "Server for Player Used"
 msgstr "Erabilitako jokalarientzako zerbitzaria"

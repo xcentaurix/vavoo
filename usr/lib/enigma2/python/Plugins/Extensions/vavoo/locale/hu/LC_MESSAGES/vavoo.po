@@ -103,6 +103,9 @@ msgstr "Minden ország (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Egy másik országba irányuló export már folyamatban van. Kérjük, várjon."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Csak névtelen indítási/heartbeat ping (munkamenetazonosító, verzió, időbélyeg – személyes adatok nélkül). A leiratkozás letiltása."
+
 #, fuzzy
 msgid "At an interval hours or fixed time"
 msgstr "Órák időközönként vagy meghatározott időpontban"
@@ -432,7 +435,8 @@ msgstr "Kérlek, próbálj meg egy másik csatornát."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "A Vavoo csokrok helye a fő listában"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Nyomja meg a TEXT gombot a gépeléshez, a BACKSPACE gombot a törléshez"
 
 msgid "Proxy Disabled"
@@ -474,7 +478,7 @@ msgstr "Proxy indítási időtúllépése (másodperc)"
 #, fuzzy
 msgid "Proxy token refreshed successfully"
 msgstr "A proxy token sikeresen frissítve"
-"A proxy token sikeresen frissítveA proxy token sikeresen frissítveA proxy token sikeresen frissítveA proxy token sikeresen frissítveVavoo csokrok sikeresen eltávolítva!\n"
+"A proxy token sikeresen frissítveA proxy token sikeresen frissítveA proxy token sikeresen frissítveA proxy token sikeresen frissítveA proxy token sikeresen frissítveVavoo csokrok sikeresen eltávolítva!\n"
 "\n"
 "(%s fájl törölve)"
 
@@ -549,6 +553,9 @@ msgstr "Válassza ki az M3U exportálási módot:"
 
 msgid "Select country to export M3U:"
 msgstr "Válasszon országot az M3U exportálásához:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Névtelen statisztikák küldése"
 
 msgid "Server for Player Used"
 msgstr "Használt szerver a lejátszóhoz"
@@ -632,7 +639,7 @@ msgstr "Vavoo élő közvetítés bővítmény"
 
 msgid "Vavoo bouquets removed successfully!"
 msgstr "Vavoo csokrok sikeresen eltávolítva!"
-"Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!\n"
+"Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!Vavoo csokrok sikeresen eltávolítva!\n"
 "\n"
 "(%s fájl törölve)"
 

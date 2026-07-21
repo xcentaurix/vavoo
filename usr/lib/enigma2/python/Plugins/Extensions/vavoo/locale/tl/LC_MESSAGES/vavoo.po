@@ -101,6 +101,9 @@ msgstr "Lahat ng bansa (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Ang pag-export para sa ibang bansa ay isinasagawa na. Mangyaring maghintay."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Anonymous na startup/heartbeat ping lang (session id, bersyon, timestamp - walang personal na data). Huwag paganahin upang mag-opt out."
+
 msgid "At an interval hours or fixed time"
 msgstr "Sa pagitan ng mga oras o nakapirming oras"
 
@@ -417,7 +420,8 @@ msgstr "Mangyaring sumubok ng ibang channel."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Posisyon ng mga bouquet ng Vavoo sa pangunahing listahan"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Pindutin ang TEXT button para mag-type, BACKSPACE para tanggalin"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Piliin ang M3U export mode:"
 
 msgid "Select country to export M3U:"
 msgstr "Pumili ng bansa upang i-export ang M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Magpadala ng Anonymous Statistics"
 
 msgid "Server for Player Used"
 msgstr "Server para sa Player na Ginamit"

@@ -101,6 +101,9 @@ msgstr "ทุกประเทศ (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "กำลังดำเนินการส่งออกไปยังประเทศอื่นอยู่แล้ว โปรดรอ."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "การเริ่มต้นโดยไม่เปิดเผยตัวตน/heartbeat ping เท่านั้น (รหัสเซสชัน เวอร์ชัน การประทับเวลา - ไม่มีข้อมูลส่วนบุคคล) ปิดใช้งานเพื่อเลือกไม่รับ"
+
 msgid "At an interval hours or fixed time"
 msgstr "ตามช่วงเวลาหรือเวลาที่กำหนด"
 
@@ -417,7 +420,8 @@ msgstr "โปรดลองช่องอื่น"
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "ตำแหน่งของช่อดอกไม้วาวูในรายการหลัก"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "กดปุ่ม TEXT เพื่อพิมพ์ BACKSPACE เพื่อลบ"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "เลือกโหมดการส่งออก M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "เลือกประเทศที่จะส่งออก M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "ส่งสถิติที่ไม่ระบุชื่อ"
 
 msgid "Server for Player Used"
 msgstr "เซิร์ฟเวอร์สำหรับผู้เล่นที่ใช้"

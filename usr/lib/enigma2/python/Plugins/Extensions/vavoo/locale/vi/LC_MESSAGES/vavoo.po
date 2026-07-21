@@ -102,6 +102,9 @@ msgstr "Tất cả các quốc gia (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Quá trình xuất khẩu sang một quốc gia khác đang được tiến hành. Vui lòng chờ."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Chỉ ping khởi động/nhịp tim ẩn danh (id phiên, phiên bản, dấu thời gian - không có dữ liệu cá nhân). Tắt để chọn không tham gia."
+
 msgid "At an interval hours or fixed time"
 msgstr "Vào một khoảng thời gian hoặc thời gian cố định"
 
@@ -418,7 +421,8 @@ msgstr "Vui lòng thử kênh khác."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Vị trí của bó hoa Vavoo trong danh sách chính"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Nhấn nút TEXT để gõ, BACKSPACE để xóa"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "Chọn chế độ xuất M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Chọn quốc gia xuất M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Gửi số liệu thống kê ẩn danh"
 
 msgid "Server for Player Used"
 msgstr "Máy chủ dành cho người chơi được sử dụng"

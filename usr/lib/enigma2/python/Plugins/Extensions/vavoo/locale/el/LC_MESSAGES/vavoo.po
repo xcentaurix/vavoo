@@ -102,6 +102,9 @@ msgstr "Όλες οι χώρες (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Η εξαγωγή για άλλη χώρα βρίσκεται ήδη σε εξέλιξη. Παρακαλώ περιμένετε."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Μόνο ανώνυμος ping εκκίνησης/χτύπου καρδιάς (αναγνωριστικό περιόδου σύνδεσης, έκδοση, χρονική σήμανση - χωρίς προσωπικά δεδομένα). Απενεργοποιήστε για να εξαιρεθείτε."
+
 msgid "At an interval hours or fixed time"
 msgstr "Σε χρονικό διάστημα ωρών ή σε σταθερή ώρα"
 
@@ -418,7 +421,8 @@ msgstr "Παρακαλώ δοκιμάστε άλλο κανάλι."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Θέση των μπουκέτων Vavoo στην κύρια λίστα"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Πατήστε το κουμπί TEXT για πληκτρολόγηση, BACKSPACE για διαγραφή"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "Επιλέξτε λειτουργία εξαγωγής M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Επιλέξτε χώρα για εξαγωγή M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Αποστολή Ανώνυμων Στατιστικών"
 
 msgid "Server for Player Used"
 msgstr "Διακομιστής για αναπαραγωγή"

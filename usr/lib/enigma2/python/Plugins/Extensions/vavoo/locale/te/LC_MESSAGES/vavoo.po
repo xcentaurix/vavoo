@@ -101,6 +101,9 @@ msgstr "అన్ని దేశాలు (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "మరొక దేశానికి ఎగుమతి ఇప్పటికే పురోగతిలో ఉంది. దయచేసి వేచి ఉండండి."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "అనామక స్టార్టప్/హార్ట్‌బీట్ పింగ్ మాత్రమే (సెషన్ ఐడి, వెర్షన్, టైమ్‌స్టాంప్ - వ్యక్తిగత డేటా లేదు). నిలిపివేయడానికి నిలిపివేయండి."
+
 msgid "At an interval hours or fixed time"
 msgstr "విరామం గంటలు లేదా నిర్ణీత సమయంలో"
 
@@ -417,7 +420,8 @@ msgstr "దయచేసి మరొక ఛానెల్‌ని ప్రయ
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "ప్రధాన జాబితాలో Vavoo బొకేట్స్ స్థానం"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "టైప్ చేయడానికి TEXT బటన్‌ను, తొలగించడానికి BACKSPACEని నొక్కండి"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "M3U ఎగుమతి మోడ్‌ని ఎంచుకోండి
 
 msgid "Select country to export M3U:"
 msgstr "M3Uని ఎగుమతి చేయడానికి దేశాన్ని ఎంచుకోండి:"
+
+msgid "Send Anonymous Statistics"
+msgstr "అనామక గణాంకాలను పంపండి"
 
 msgid "Server for Player Used"
 msgstr "ప్లేయర్ కోసం సర్వర్ ఉపయోగించబడింది"

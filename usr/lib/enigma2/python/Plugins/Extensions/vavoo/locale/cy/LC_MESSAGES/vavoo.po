@@ -101,6 +101,9 @@ msgstr "Pob gwlad (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Mae allforio ar gyfer gwlad arall eisoes ar y gweill. Arhoswch os gwelwch yn dda."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Cychwyn dienw/ping curiad calon yn unig (ID sesiwn, fersiwn, stamp amser - dim data personol). Analluogi optio allan."
+
 msgid "At an interval hours or fixed time"
 msgstr "Ar adegau egwyl neu amser penodol"
 
@@ -417,7 +420,8 @@ msgstr "Rhowch gynnig ar sianel arall."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Safle tuswau Vavoo yn y brif restr"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Pwyswch y botwm TESTUN i deipio, BACKSPACE i ddileu"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Dewiswch fodd allforio M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Dewiswch wlad i allforio M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Anfon Ystadegau Dienw"
 
 msgid "Server for Player Used"
 msgstr "Gweinydd ar gyfer Chwaraewr a Ddefnyddir"

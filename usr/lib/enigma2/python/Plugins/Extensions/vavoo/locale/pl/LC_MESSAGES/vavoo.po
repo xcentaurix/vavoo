@@ -107,6 +107,9 @@ msgstr "Wszystkie kraje (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Eksport dla innego kraju jest już w toku. Proszę czekać."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Tylko anonimowy ping uruchamiania/bicia serca (identyfikator sesji, wersja, sygnatura czasowa – brak danych osobowych). Wyłącz, aby zrezygnować."
+
 msgid "At an interval hours or fixed time"
 msgstr "W interwale godzinowym lub o stałej porze"
 
@@ -434,7 +437,8 @@ msgstr "Spróbuj innego kanału."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Pozycja pakietów Vavoo na liście głównej"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Naciśnij przycisk TEXT aby pisać, BACKSPACE aby usunąć"
 
 msgid "Proxy Disabled"
@@ -545,6 +549,9 @@ msgstr "Wybierz tryb eksportu M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Wybierz kraj do eksportu M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Wyślij anonimowe statystyki"
 
 msgid "Server for Player Used"
 msgstr "Serwer dla używanego odtwarzacza"

@@ -102,6 +102,9 @@ msgstr "Toate țările (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Un export pentru o altă țară este deja în curs. Va rugam asteptati."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Numai ping anonim la pornire/bătăi inimii (ID sesiune, versiune, marca temporală - fără date personale). Dezactivați pentru a renunța."
+
 msgid "At an interval hours or fixed time"
 msgstr "La un interval ore sau oră fixă"
 
@@ -418,7 +421,8 @@ msgstr "Vă rugăm să încercați un alt canal."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Poziția buchetelor Vavoo în lista principală"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Apăsați butonul TEXT pentru a tasta, BACKSPACE pentru a șterge"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "Selectați modul de export M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Selectați țara pentru a exporta M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Trimiteți statistici anonime"
 
 msgid "Server for Player Used"
 msgstr "Server pentru jucător folosit"

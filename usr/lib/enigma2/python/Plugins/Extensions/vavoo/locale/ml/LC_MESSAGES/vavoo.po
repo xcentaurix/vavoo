@@ -101,6 +101,9 @@ msgstr "എല്ലാ രാജ്യങ്ങളും (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "മറ്റൊരു രാജ്യത്തേക്കുള്ള കയറ്റുമതി ഇതിനകം പുരോഗമിക്കുകയാണ്. കാത്തിരിക്കൂ."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "അജ്ഞാത സ്റ്റാർട്ടപ്പ്/ഹൃദയമിടിപ്പ് പിംഗ് മാത്രം (സെഷൻ ഐഡി, പതിപ്പ്, ടൈംസ്റ്റാമ്പ് - വ്യക്തിഗത ഡാറ്റ ഇല്ല). ഒഴിവാക്കുന്നതിന് പ്രവർത്തനരഹിതമാക്കുക."
+
 msgid "At an interval hours or fixed time"
 msgstr "ഒരു ഇടവേള സമയത്തിൽ അല്ലെങ്കിൽ നിശ്ചിത സമയത്തിൽ"
 
@@ -417,7 +420,8 @@ msgstr "ദയവായി മറ്റൊരു ചാനൽ ശ്രമിക
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "പ്രധാന പട്ടികയിൽ വാവോ പൂച്ചെണ്ടുകളുടെ സ്ഥാനം"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "ടൈപ്പ് ചെയ്യാൻ TEXT ബട്ടണും ഇല്ലാതാക്കാൻ BACKSPACE ബട്ടണും അമർത്തുക"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "M3U കയറ്റുമതി മോഡ് തിരഞ്ഞെടു
 
 msgid "Select country to export M3U:"
 msgstr "M3U കയറ്റുമതി ചെയ്യാൻ രാജ്യം തിരഞ്ഞെടുക്കുക:"
+
+msgid "Send Anonymous Statistics"
+msgstr "അജ്ഞാത സ്ഥിതിവിവരക്കണക്കുകൾ അയയ്ക്കുക"
 
 msgid "Server for Player Used"
 msgstr "ഉപയോഗിച്ച കളിക്കാരനുള്ള സെർവർ"

@@ -101,6 +101,9 @@ msgstr "Countrieshli ýurtlar (% d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Başga bir ýurt üçin eksport eýýäm dowam edýär. Garaşmagyňyzy haýyş edýäris."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Anonim başlangyç / ýürek urgusy (diňe sessiýa ID, wersiýa, wagt belligi - şahsy maglumatlar ýok). Çykmagy öçüriň."
+
 msgid "At an interval hours or fixed time"
 msgstr "Aralyk sagatlarda ýa-da kesgitlenen wagtda"
 
@@ -417,7 +420,8 @@ msgstr "Başga bir kanal synap görmegiňizi haýyş edýäris."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "“Vavoo” buketleriniň esasy sanawdaky orny"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Typeazmak üçin TEXT düwmesini basyň, Öçürmek üçin BACKSPACE"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "M3U eksport tertibini saýlaň:"
 
 msgid "Select country to export M3U:"
 msgstr "M3U eksport etmek üçin ýurt saýlaň:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Anonim statistika iberiň"
 
 msgid "Server for Player Used"
 msgstr "Ulanylan pleýer üçin serwer"

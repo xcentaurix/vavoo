@@ -102,6 +102,9 @@ msgstr "Kõik riigid (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Eksport teise riiki juba käib. Palun oodake."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Ainult anonüümne käivitamine/südamelöögi ping (seansi ID, versioon, ajatempel – isikuandmed puuduvad). Loobumiseks keelake."
+
 msgid "At an interval hours or fixed time"
 msgstr "Tunni või kindla aja tagant"
 
@@ -418,7 +421,8 @@ msgstr "Proovige teist kanalit."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Vavoo kimpude asukoht põhinimekirjas"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Sisestamiseks vajutage nuppu TEXT, kustutamiseks TAGARUUMI"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "Valige M3U ekspordirežiim:"
 
 msgid "Select country to export M3U:"
 msgstr "Valige riik M3U eksportimiseks:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Saada anonüümne statistika"
 
 msgid "Server for Player Used"
 msgstr "Kasutatud server mängijale"

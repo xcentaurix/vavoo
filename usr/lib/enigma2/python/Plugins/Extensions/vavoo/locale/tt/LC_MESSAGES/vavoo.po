@@ -101,6 +101,9 @@ msgstr "Барлык илләр (% d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Башка ил өчен экспорт дәвам итә. Зинһар, көтегез."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Аноним стартап / йөрәк тибеше (сессия идентификаторы, версия, вакыт маркасы - шәхси мәгълүматлар юк). Баш тартуны туктат."
+
 msgid "At an interval hours or fixed time"
 msgstr "Интервал сәгатьләрдә яки билгеләнгән вакытта"
 
@@ -417,7 +420,8 @@ msgstr "Зинһар, бүтән каналны карагыз."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Төп исемлектә Vavoo букетларының позициясе"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Язу өчен TEXT төймәсенә басыгыз, бетерү өчен КЕРЕК"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "M3U экспорт режимын сайлагыз:"
 
 msgid "Select country to export M3U:"
 msgstr "M3U экспортлау өчен илне сайлагыз:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Аноним статистика җибәрегез"
 
 msgid "Server for Player Used"
 msgstr "Плеер өчен сервер"

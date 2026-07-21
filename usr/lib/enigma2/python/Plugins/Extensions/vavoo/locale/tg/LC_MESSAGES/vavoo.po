@@ -101,6 +101,9 @@ msgstr "Ҳама кишварҳо (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Содирот ба кишвари дигар аллакай идома дорад. Илтимос истед."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Танҳо пинги беном оғозёбӣ/набзи дил (id-и сессия, версия, тамғаи вақт - ҳеҷ маълумоти шахсӣ). Барои даст кашиданро хомӯш кунед."
+
 msgid "At an interval hours or fixed time"
 msgstr "Дар фосилаи соат ё вақти муайян"
 
@@ -417,7 +420,8 @@ msgstr "Лутфан канали дигарро санҷед."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Мавқеи гулдастаҳои Vavoo дар рӯйхати асосӣ"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Барои навиштан тугмаи TEXT-ро, барои нест кардани BACKSPACE -ро пахш кунед"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Ҳолати содироти M3U-ро интихоб кунед:"
 
 msgid "Select country to export M3U:"
 msgstr "Кишвареро барои содироти M3U интихоб кунед:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Омори беном фиристед"
 
 msgid "Server for Player Used"
 msgstr "Сервер барои плеери истифодашуда"

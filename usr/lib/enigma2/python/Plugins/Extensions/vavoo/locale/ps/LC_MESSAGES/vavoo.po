@@ -101,6 +101,9 @@ msgstr "ټول هیوادونه (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "د بل هیواد لپاره صادرات لا دمخه د پرمختګ په حال کې دي. مهرباني وکړئ انتظار وکړئ."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "یوازې نامعلوم پیل / د زړه ضربان پینګ (د سیشن ID، نسخه، مهال ویش - هیڅ شخصي معلومات نشته). د انتخاب کولو لپاره غیر فعال کړئ."
+
 msgid "At an interval hours or fixed time"
 msgstr "په وقفه ساعتونو یا ټاکلي وخت کې"
 
@@ -417,7 +420,8 @@ msgstr "مهرباني وکړئ بل چینل هڅه وکړئ."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "په اصلي لیست کې د واو ګلدانو موقعیت"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "د ټایپ کولو لپاره د متن تڼۍ فشار کړئ، د حذف کولو لپاره BACKSPACE"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "د M3U صادراتو حالت غوره کړئ:"
 
 msgid "Select country to export M3U:"
 msgstr "د M3U صادرولو لپاره هیواد غوره کړئ:"
+
+msgid "Send Anonymous Statistics"
+msgstr "بې نومه احصایې واستوئ"
 
 msgid "Server for Player Used"
 msgstr "د کارول شوي لوبغاړي لپاره سرور"

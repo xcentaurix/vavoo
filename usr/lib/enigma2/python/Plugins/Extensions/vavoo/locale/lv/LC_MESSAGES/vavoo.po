@@ -102,6 +102,9 @@ msgstr "Visas valstis (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Eksports uz citu valsti jau notiek. Lūdzu, uzgaidiet."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Tikai anonīms startēšanas/heartbeat ping (sesijas ID, versija, laikspiedols — nav personas datu). Atspējot, lai atteiktos."
+
 msgid "At an interval hours or fixed time"
 msgstr "Ar intervālu stundām vai noteiktu laiku"
 
@@ -418,7 +421,8 @@ msgstr "Lūdzu, izmēģiniet citu kanālu."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Vavoo pušķu pozīcija galvenajā sarakstā"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Lai rakstītu, nospiediet pogu TEKSTS, lai dzēstu, nospiediet taustiņu BACKSPACE"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "Izvēlieties M3U eksporta režīmu:"
 
 msgid "Select country to export M3U:"
 msgstr "Izvēlieties valsti M3U eksportēšanai:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Nosūtiet anonīmu statistiku"
 
 msgid "Server for Player Used"
 msgstr "Izmantots serveris atskaņotājam"

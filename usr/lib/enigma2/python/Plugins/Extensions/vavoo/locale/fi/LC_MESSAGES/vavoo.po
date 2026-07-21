@@ -101,6 +101,9 @@ msgstr "Kaikki maat (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Toisen maan vienti on jo käynnissä. Odota."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Vain nimetön käynnistys/heartbeat ping (istunnon tunnus, versio, aikaleima - ei henkilökohtaisia ​​tietoja). Poista käytöstä poistaminen käytöstä."
+
 msgid "At an interval hours or fixed time"
 msgstr "Aikavälillä tunneittain tai kiinteänä aikana"
 
@@ -417,7 +420,8 @@ msgstr "Yritä toista kanavaa."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Vavoo-nippujen sijainti päähakemistossa"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Paina TEXT-painiketta kirjoittaaksesi, BACKSPACE poistaaksesi"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Valitse M3U-vientitila:"
 
 msgid "Select country to export M3U:"
 msgstr "Valitse maa M3U:ta varten:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Lähetä nimettömät tilastot"
 
 msgid "Server for Player Used"
 msgstr "Palvelin soittimelle"

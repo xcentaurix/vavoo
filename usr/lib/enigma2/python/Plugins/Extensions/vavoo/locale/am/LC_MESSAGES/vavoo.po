@@ -101,6 +101,9 @@ msgstr "ሁሉም አገሮች (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "ወደ ሌላ ሀገር መላክ አስቀድሞ በሂደት ላይ ነው። እባክህ ጠብቅ።"
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "ስም የለሽ ጅምር/የልብ ምት ፒንግ ብቻ (የክፍለ ጊዜ መታወቂያ፣ ስሪት፣ የጊዜ ማህተም - ምንም የግል ውሂብ የለም)። መርጦ ለመውጣት አሰናክል።"
+
 msgid "At an interval hours or fixed time"
 msgstr "በየተወሰነ ሰዓት ወይም የተወሰነ ጊዜ"
 
@@ -417,7 +420,8 @@ msgstr "እባክህ ሌላ ቻናል ሞክር።"
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "በዋናው ዝርዝር ውስጥ የቫቮ እቅፍ አበባዎች አቀማመጥ"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "ለመተየብ የTEXT ቁልፍን ተጫን፣ ለመሰረዝ BACKSPACE"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "የM3U ወደ ውጭ መላኪያ ሁነታን ይምረጡ፡-"
 
 msgid "Select country to export M3U:"
 msgstr "M3U ወደ ውጭ የሚላኩበትን አገር ይምረጡ፡-"
+
+msgid "Send Anonymous Statistics"
+msgstr "ስም-አልባ ስታትስቲክስ ላክ"
 
 msgid "Server for Player Used"
 msgstr "ያገለገለ የተጫዋች አገልጋይ"

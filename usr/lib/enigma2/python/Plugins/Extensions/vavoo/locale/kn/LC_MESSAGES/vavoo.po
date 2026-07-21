@@ -101,6 +101,9 @@ msgstr "ಎಲ್ಲಾ ದೇಶಗಳು (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "ಮತ್ತೊಂದು ದೇಶಕ್ಕೆ ರಫ್ತು ಈಗಾಗಲೇ ಪ್ರಗತಿಯಲ್ಲಿದೆ. ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "ಅನಾಮಧೇಯ ಪ್ರಾರಂಭ/ಹೃದಯಾಘಾತ ಪಿಂಗ್ ಮಾತ್ರ (ಸೆಷನ್ ಐಡಿ, ಆವೃತ್ತಿ, ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್ - ವೈಯಕ್ತಿಕ ಡೇಟಾ ಇಲ್ಲ). ಆಯ್ಕೆಯಿಂದ ಹೊರಗುಳಿಯಲು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ."
+
 msgid "At an interval hours or fixed time"
 msgstr "ಮಧ್ಯಂತರ ಗಂಟೆಗಳು ಅಥವಾ ನಿಗದಿತ ಸಮಯದಲ್ಲಿ"
 
@@ -417,7 +420,8 @@ msgstr "ದಯವಿಟ್ಟು ಇನ್ನೊಂದು ಚಾನಲ್ ಪ್
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "ಮುಖ್ಯ ಪಟ್ಟಿಯಲ್ಲಿ ವಾವೂ ಹೂಗುಚ್ಛಗಳ ಸ್ಥಾನ"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "ಟೈಪ್ ಮಾಡಲು TEXT ಬಟನ್, ಅಳಿಸಲು BACKSPACE ಒತ್ತಿರಿ"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "M3U ರಫ್ತು ಮೋಡ್ ಆಯ್ಕೆಮಾಡಿ:"
 
 msgid "Select country to export M3U:"
 msgstr "M3U ರಫ್ತು ಮಾಡಲು ದೇಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ:"
+
+msgid "Send Anonymous Statistics"
+msgstr "ಅನಾಮಧೇಯ ಅಂಕಿಅಂಶಗಳನ್ನು ಕಳುಹಿಸಿ"
 
 msgid "Server for Player Used"
 msgstr "ಪ್ಲೇಯರ್‌ಗಾಗಿ ಸರ್ವರ್ ಬಳಸಲಾಗಿದೆ"

@@ -101,6 +101,9 @@ msgstr "אַלע לענדער (%ד)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "אַן עקספּאָרט פֿאַר אן אנדער לאַנד איז שוין אין פּראָגרעס. ביטע וואַרטן."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "אַנאָנימע באַנוצערס סטאַרטאַפּ / כאַרטביט פּינג בלויז (סעסיע שייַן, ווערסיע, טימעסטאַמפּ - קיין פערזענלעכע דאַטן). דיסייבאַל צו אַפּט אויס."
+
 msgid "At an interval hours or fixed time"
 msgstr "אין אַ ינטערוואַל שעה אָדער פאַרפעסטיקט צייט"
 
@@ -417,7 +420,8 @@ msgstr "ביטע פּרובירן אן אנדער קאַנאַל."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "שטעלע פון ​​וואַוואָ באָוקייז אין די הויפּט רשימה"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "דרוק טעקסט קנעפּל צו דרוקן, BACKSPACE צו ויסמעקן"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "אויסקלייַבן M3U אַרויספירן מאָדע:"
 
 msgid "Select country to export M3U:"
 msgstr "אויסקלייַבן לאַנד צו אַרויספירן M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "שיקן אַנאָנימע באַנוצערס סטאַטיסטיק"
 
 msgid "Server for Player Used"
 msgstr "סערווירער פֿאַר שפּילער געוויינט"

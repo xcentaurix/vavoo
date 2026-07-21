@@ -101,6 +101,9 @@ msgstr "所有國家（%d）"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "向另一個國家的出口已經在進行中。請稍等。"
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "僅匿名啟動/心跳 ping（會話 ID、版本、時間戳記 - 無個人資料）。禁用選擇退出。"
+
 msgid "At an interval hours or fixed time"
 msgstr "每隔幾小時或固定時間"
 
@@ -417,7 +420,8 @@ msgstr "請嘗試其他頻道。"
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Vavoo 花束在主列表中的位置"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "按 EXT 按鈕輸入，按 BACKSPACE 刪除"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "選擇M3U導出模式："
 
 msgid "Select country to export M3U:"
 msgstr "選擇導出 M3U 的國家："
+
+msgid "Send Anonymous Statistics"
+msgstr "發送匿名統計數據"
 
 msgid "Server for Player Used"
 msgstr "玩家使用的伺服器"

@@ -101,6 +101,9 @@ msgstr "Semua negara (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Eksport ke negara lain sedang dijalankan. Sila tunggu."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Ping permulaan/degupan jantung tanpa nama sahaja (id sesi, versi, cap masa - tiada data peribadi). Lumpuhkan untuk menarik diri."
+
 msgid "At an interval hours or fixed time"
 msgstr "Pada selang jam atau masa tetap"
 
@@ -417,7 +420,8 @@ msgstr "Sila cuba saluran lain."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Kedudukan sejambak Vavoo dalam senarai utama"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Tekan butang TEKS untuk menaip, BACKSPACE untuk memadam"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Pilih mod eksport M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Pilih negara untuk mengeksport M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Hantar Statistik Tanpa Nama"
 
 msgid "Server for Player Used"
 msgstr "Pelayan untuk Pemain Digunakan"

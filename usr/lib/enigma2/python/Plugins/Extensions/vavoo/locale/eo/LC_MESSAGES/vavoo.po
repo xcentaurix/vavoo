@@ -102,6 +102,9 @@ msgstr "Ĉiuj landoj (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Eksporto por alia lando jam okazas. Bonvolu atendi."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Anonima starto/korbato-pingo nur (sesio-identigilo, versio, tempomarko - neniuj personaj datumoj). Malebligu elekti ekstere."
+
 msgid "At an interval hours or fixed time"
 msgstr "Je intervalo horoj aŭ fiksa tempo"
 
@@ -418,7 +421,8 @@ msgstr "Bonvolu provi alian kanalon."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Pozicio de Vavoo-bukedoj en la ĉefa listo"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Premu la butonon TEKSTO por tajpi, RETROSPACE por forigi"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "Elektu M3U-eksportreĝimon:"
 
 msgid "Select country to export M3U:"
 msgstr "Elektu landon por eksporti M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Sendu Anonimajn Statistikojn"
 
 msgid "Server for Player Used"
 msgstr "Servilo por Ludanto Uzita"

@@ -101,6 +101,9 @@ msgstr "A h-uile dùthaich (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Tha às-mhalairt airson dùthaich eile a’ dol air adhart mu thràth. Feuch an fuirich thu."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Ping tòiseachaidh gun urra / buille cridhe a-mhàin (ID seisean, dreach, stampa-ama - gun dàta pearsanta). Cuir à comas tarraing a-mach."
+
 msgid "At an interval hours or fixed time"
 msgstr "Aig amannan eadar-ama no ùine stèidhichte"
 
@@ -417,7 +420,8 @@ msgstr "Feuch sianal eile."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Suidheachadh bouquets Vavoo anns a’ phrìomh liosta"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Brùth putan TEXT gus a thaidhpeadh, BACKSPACE airson cuir às"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Tagh modh às-mhalairt M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Tagh dùthaich airson M3U às-mhalairt:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Cuir Staitistigean Anonymous"
 
 msgid "Server for Player Used"
 msgstr "Am frithealaiche airson cluicheadair air a chleachdadh"

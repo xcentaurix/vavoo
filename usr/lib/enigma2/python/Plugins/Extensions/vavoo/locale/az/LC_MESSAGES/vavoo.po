@@ -101,6 +101,9 @@ msgstr "Bütün ölkələr (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Başqa ölkəyə ixrac artıq davam edir. Zəhmət olmasa gözləyin."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Yalnız anonim başlanğıc/ürək döyüntüsü pingi (sessiya id, versiya, vaxt damğası - şəxsi məlumat yoxdur). İmtina etmək üçün deaktiv edin."
+
 msgid "At an interval hours or fixed time"
 msgstr "Saat aralığında və ya müəyyən vaxtda"
 
@@ -417,7 +420,8 @@ msgstr "Zəhmət olmasa başqa kanalı yoxlayın."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Əsas siyahıda Vavoo buketlərinin yeri"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Yazmaq üçün TEXT düyməsini, silmək üçün BACKSPACE düyməsini basın"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "M3U ixrac rejimini seçin:"
 
 msgid "Select country to export M3U:"
 msgstr "M3U ixrac etmək üçün ölkə seçin:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Anonim Statistikanı Göndərin"
 
 msgid "Server for Player Used"
 msgstr "İstifadə olunan oyunçu üçün server"

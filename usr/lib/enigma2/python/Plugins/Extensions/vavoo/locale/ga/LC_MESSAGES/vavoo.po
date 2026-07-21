@@ -102,6 +102,9 @@ msgstr "Gach tír (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Tá onnmhairiú do thír eile ar siúl cheana féin. Fan le do thoil."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Tús gan ainm/ping buille croí amháin (aitheantas seisiúin, leagan, stampa ama - gan sonraí pearsanta). Díchumasaigh rogha an diúltaithe."
+
 msgid "At an interval hours or fixed time"
 msgstr "Ag eatramh uaireanta nó am socraithe"
 
@@ -418,7 +421,8 @@ msgstr "Bain triail as cainéal eile."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Seasamh bouquets Vavoo ar an liosta is mó"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Brúigh an cnaipe TEXT chun clóscríobh, BACKSPACE le scriosadh"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "Roghnaigh mód easpórtála M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Roghnaigh tír chun M3U a easpórtáil:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Seol Staitisticí Gan Ainm"
 
 msgid "Server for Player Used"
 msgstr "Freastalaí don Imreoir Úsáidte"

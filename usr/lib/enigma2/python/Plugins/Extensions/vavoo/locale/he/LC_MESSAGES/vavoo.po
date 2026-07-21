@@ -102,6 +102,9 @@ msgstr "כל המדינות (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "ייצוא למדינה אחרת כבר מתבצע. אנא המתן."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "סטארט-אפ אנונימי/פינג קצב לב בלבד (מזהה הפעלה, גרסה, חותמת זמן - ללא נתונים אישיים). השבת כדי לבטל את הסכמתך."
+
 msgid "At an interval hours or fixed time"
 msgstr "במרווח שעות או זמן קבוע"
 
@@ -418,7 +421,8 @@ msgstr "אנא נסה ערוץ אחר."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "מיקום זרי Vavoo ברשימה הראשית"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "לחץ על לחצן TEXT כדי להקליד, BACKSPACE כדי למחוק"
 
 msgid "Proxy Disabled"
@@ -528,6 +532,9 @@ msgstr "בחר מצב ייצוא M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "בחר מדינה לייצא M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "שלח סטטיסטיקה אנונימית"
 
 msgid "Server for Player Used"
 msgstr "שרת עבור שחקן בשימוש"

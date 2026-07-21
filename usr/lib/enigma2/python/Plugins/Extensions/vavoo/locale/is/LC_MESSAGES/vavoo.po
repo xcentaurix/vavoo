@@ -101,6 +101,9 @@ msgstr "Öll lönd (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Útflutningur til annars lands er þegar í gangi. Vinsamlegast bíddu."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Nafnlaus gangsetning/hjartsláttarping eingöngu (lotuauðkenni, útgáfa, tímastimpill - engin persónuleg gögn). Slökktu til að afþakka."
+
 msgid "At an interval hours or fixed time"
 msgstr "Á klukkutíma millibili eða föstum tíma"
 
@@ -417,7 +420,8 @@ msgstr "Vinsamlegast reyndu aðra rás."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Staða Vavoo kransa á aðallistanum"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Ýttu á TEXT hnappinn til að slá inn, BACKSPACE til að eyða"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Veldu M3U útflutningsham:"
 
 msgid "Select country to export M3U:"
 msgstr "Veldu land til að flytja út M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Sendu nafnlausa tölfræði"
 
 msgid "Server for Player Used"
 msgstr "Miðlari fyrir spilara notaður"

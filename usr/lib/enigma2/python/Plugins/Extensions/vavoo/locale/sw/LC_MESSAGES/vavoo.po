@@ -101,6 +101,9 @@ msgstr "Nchi zote (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Uhamishaji wa nchi nyingine tayari unaendelea. Tafadhali subiri."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Ping ya kuanza/mapigo ya moyo pekee (kitambulisho cha kipindi, toleo, muhuri wa muda - hakuna data ya kibinafsi). Zima ili kuchagua kutoka."
+
 msgid "At an interval hours or fixed time"
 msgstr "Kwa saa za muda au wakati uliowekwa"
 
@@ -417,7 +420,8 @@ msgstr "Tafadhali jaribu kituo kingine."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Nafasi ya bouquets ya Vavoo katika orodha kuu"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Bonyeza kitufe cha TEXT kuandika, BACKSPACE ili kufuta"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Chagua hali ya uhamishaji ya M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Chagua nchi ya kuhamisha M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Tuma Takwimu Isiyojulikana"
 
 msgid "Server for Player Used"
 msgstr "Seva ya Mchezaji Inayotumika"

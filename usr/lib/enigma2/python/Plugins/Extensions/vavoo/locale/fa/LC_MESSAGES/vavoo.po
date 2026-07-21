@@ -101,6 +101,9 @@ msgstr "همه کشورها (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "صادرات برای کشوری دیگر در حال انجام است. لطفا صبر کنید."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "فقط پینگ راه‌اندازی/ضربان قلب ناشناس (شناسه جلسه، نسخه، مهر زمانی - بدون اطلاعات شخصی). برای انصراف غیرفعال کنید."
+
 msgid "At an interval hours or fixed time"
 msgstr "در یک ساعت فاصله یا زمان ثابت"
 
@@ -417,7 +420,8 @@ msgstr "لطفا کانال دیگری را امتحان کنید."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "جایگاه دسته گل های Vavoo در لیست اصلی"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "دکمه TEXT را برای تایپ، BACKSPACE را برای حذف فشار دهید"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "حالت صادرات M3U را انتخاب کنید:"
 
 msgid "Select country to export M3U:"
 msgstr "انتخاب کشور برای صادرات M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "ارسال آمار ناشناس"
 
 msgid "Server for Player Used"
 msgstr "سرور برای پلیر استفاده شده است"

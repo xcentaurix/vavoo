@@ -101,6 +101,9 @@ msgstr "Alle lannen (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "In eksport foar in oar lân is al oan 'e gong. Wachtsje asjebleaft."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Anonyme opstart / hertslach ping allinich (sesje-id, ferzje, tiidstempel - gjin persoanlike gegevens). Utskeakelje om út te skeakeljen."
+
 msgid "At an interval hours or fixed time"
 msgstr "Op in ynterval oeren of fêste tiid"
 
@@ -417,7 +420,8 @@ msgstr "Besykje in oar kanaal."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Posysje fan Vavoo-boeketten yn 'e haadlist"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Druk op TEXT knop om te typen, BACKSPACE om te wiskjen"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Selektearje M3U eksportmodus:"
 
 msgid "Select country to export M3U:"
 msgstr "Selektearje lân om M3U te eksportearjen:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Stjoer Anonymous Statistics"
 
 msgid "Server for Player Used"
 msgstr "Tsjinner foar spiler brûkt"

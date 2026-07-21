@@ -101,6 +101,9 @@ msgstr "Il-pajjiżi kollha (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Diġà għaddejja esportazzjoni għal pajjiż ieħor. Jekk jogħġbok stenna."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Ping tal-istartjar/taħbit tal-qalb anonimu biss (id tas-sessjoni, verżjoni, timestamp - l-ebda data personali). Iddiżattiva biex tagħżel barra."
+
 msgid "At an interval hours or fixed time"
 msgstr "F'intervall sigħat jew ħin fiss"
 
@@ -417,7 +420,8 @@ msgstr "Jekk jogħġbok ipprova kanal ieħor."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Pożizzjoni tal-bukketti Vavoo fil-lista prinċipali"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Agħfas il-buttuna TEXT biex ittajpja, BACKSPACE biex tħassar"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Agħżel il-mod ta' esportazzjoni M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Agħżel pajjiż biex tesporta M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Ibgħat Statistika Anonima"
 
 msgid "Server for Player Used"
 msgstr "Server għall-Plejer Użat"

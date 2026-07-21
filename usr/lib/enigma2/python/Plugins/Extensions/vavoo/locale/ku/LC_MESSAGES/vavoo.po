@@ -101,6 +101,9 @@ msgstr "Hemû welat (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Jixwe hinardekirinek ji bo welatek din di pêş de ye. Ji kerema xwe bisekinin."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Tenê ping destpêkirina/lêdana dil a anonîm (nasnameya danişînê, guherto, mohra demjimêr - daneyên kesane tune). Ji bo veqetandinê neçalak bike."
+
 msgid "At an interval hours or fixed time"
 msgstr "Di navberek demjimêr an demek diyarkirî de"
 
@@ -417,7 +420,8 @@ msgstr "Ji kerema xwe kanalek din biceribîne."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Cihê bûkên Vavoo di navnîşa sereke de"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Bişkojka TEXT-ê ji bo nivîsandinê, BACKSPACE ji bo jêbirinê bikirtînin"
 
 msgid "Proxy Disabled"
@@ -527,6 +531,9 @@ msgstr "Moda hinartina M3U hilbijêrin:"
 
 msgid "Select country to export M3U:"
 msgstr "Ji bo hinardekirina M3U welatek hilbijêrin:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Statîstîkên Anonîm bişînin"
 
 msgid "Server for Player Used"
 msgstr "Server ji bo Lîstikvanê Bikaranîn"

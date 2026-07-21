@@ -103,6 +103,9 @@ msgstr "Všetky krajiny (%d)"
 msgid "An export for another country is already in progress. Please wait."
 msgstr "Export do inej krajiny už prebieha. Čakajte prosím."
 
+msgid "Anonymous startup/heartbeat ping only (session id, version, timestamp - no personal data). Disable to opt out."
+msgstr "Iba anonymný ping pri spustení/srdci (identifikátor relácie, verzia, časová pečiatka – žiadne osobné údaje). Deaktiváciou sa odhlásite."
+
 #, fuzzy
 msgid "At an interval hours or fixed time"
 msgstr "V intervale hodín alebo v pevne stanovenom čase"
@@ -432,7 +435,8 @@ msgstr "Skúste iný kanál."
 msgid "Position of Vavoo bouquets in the main list"
 msgstr "Pozícia kytíc Vavoo v hlavnom zozname"
 
-msgid "Press TEXT button to type, BACKSPACE to delete"
+#, fuzzy
+msgid "Press GREEN to type, YELLOW to delete"
 msgstr "Stlačte tlačidlo TEXT pre písanie, BACKSPACE pre vymazanie"
 
 msgid "Proxy Disabled"
@@ -474,7 +478,7 @@ msgstr "Časový limit spustenia servera proxy (v sekundách)"
 #, fuzzy
 msgid "Proxy token refreshed successfully"
 msgstr "Proxy token bol úspešne obnovený"
-"Proxy token bol úspešne obnovenýProxy token bol úspešne obnovenýProxy token bol úspešne obnovenýProxy token bol úspešne obnovenýKytice Vavoo boli úspešne odstránené!\n"
+"Proxy token bol úspešne obnovenýProxy token bol úspešne obnovenýProxy token bol úspešne obnovenýProxy token bol úspešne obnovenýProxy token bol úspešne obnovenýKytice Vavoo boli úspešne odstránené!\n"
 "(Odstránených súborov: %s)"
 
 msgid "Ready"
@@ -548,6 +552,9 @@ msgstr "Vyberte režim exportu M3U:"
 
 msgid "Select country to export M3U:"
 msgstr "Vyberte krajinu, do ktorej chcete exportovať M3U:"
+
+msgid "Send Anonymous Statistics"
+msgstr "Odoslať anonymné štatistiky"
 
 msgid "Server for Player Used"
 msgstr "Používaný server pre prehrávač"
@@ -631,7 +638,7 @@ msgstr "Doplnok Vavoo Stream Live"
 
 msgid "Vavoo bouquets removed successfully!"
 msgstr "Vavoo kytice boli úspešne odstránené!"
-"Vavoo kytice boli úspešne odstránené!Vavoo kytice boli úspešne odstránené!Vavoo kytice boli úspešne odstránené!Vavoo kytice boli úspešne odstránené!Kytice Vavoo boli úspešne odstránené!\n"
+"Vavoo kytice boli úspešne odstránené!Vavoo kytice boli úspešne odstránené!Vavoo kytice boli úspešne odstránené!Vavoo kytice boli úspešne odstránené!Vavoo kytice boli úspešne odstránené!Kytice Vavoo boli úspešne odstránené!\n"
 "(Odstránených súborov: %s)"
 
 msgid "Vavoo is already running."
